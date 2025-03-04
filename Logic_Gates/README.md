@@ -16,9 +16,13 @@ Each folder contains:
 
 | Gate | Link |
 |--|--|
-| AND Gate | [AND Gate Folder](./AND_gate) |
-| NOT Gate | [NOT Gate Folder](./NOT_gate) |
-| NAND Gate | [NAND Gate Folder](./NAND_gate) |
+| AND Gate | [AND Gate Folder](./AND_Gate) |
+| OR Gate | [OR Gate Folder](./OR_Gate) |
+| NOT Gate | [NOT Gate Folder](./NOT_Gate) |
+| NAND Gate | [NAND Gate Folder](./NAND_Gate) |
+| NOR Gate | [NOR Gate Folder](./NOR_Gate) |
+| NOT Gate | [NOT Gate Folder](./NOT_Gate) |
+
 
 ---
 
