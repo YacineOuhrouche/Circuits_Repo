@@ -53,21 +53,5 @@ This is a snapshot of the NOT gate running in a simulation (LTspice / Falstad):
 ![Screenshot 2025-03-04 141140](https://github.com/user-attachments/assets/e563507f-c887-49b1-a646-82019f96dadb)
 ---
 
-## 🔗 Learn More
-
-- [NOT Gate Explained - All About Circuits](https://www.allaboutcircuits.com/textbook/digital/chpt-3/inverter/)
-- [Transistor Logic Gates - SparkFun](https://learn.sparkfun.com/tutorials/transistors/applications)
-
----
-
-
-## 📥 Want to Try It?
-
-You can recreate this in:
-
-- **Falstad** (Online simulator) - [https://www.falstad.com/circuit/](https://www.falstad.com/circuit/)
-- **LTspice** (Download from Analog Devices) - [https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
-
----
 
 
