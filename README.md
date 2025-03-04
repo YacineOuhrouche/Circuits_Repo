@@ -11,7 +11,7 @@ Welcome to my **Circuits** repository! This collection showcases the hands-on ci
 
 ## 📂 Circuit Categories
 
-### 🔗 Transistor Logic Circuits
+### 🔗 Transistor Logic Gates
 
 | Circuit | Description | Link |
 |---|---|---|
@@ -19,10 +19,19 @@ Welcome to my **Circuits** repository! This collection showcases the hands-on ci
 | OR Gate | Basic transistor-based OR gate. | [View Circuit](/Logic_Gates/OR_Gate/) |
 | NOT Gate | Inverter using single transistor. | [View Circuit](/Logic_Gates/NOT_Gate/) |
 
+
+
 ---
+
+### 🔗 Transistor  Circuits
+
+| Circuit | Description | Link |
+|---|---|---|
+| LED Flasher | Basic transistor-based AND gate using BJTs. | [View Circuit](/Logic_Gates/AND_Gate/) |
 
 ### 🔗 CMOS Logic Circuits
 
+---
 | Circuit | Description | Link |
 |---|---|---|
 | CMOS Inverter | Complementary NMOS-PMOS inverter. | [View Circuit](./CMOS_Circuits/CMOS_Inverter/) |
