@@ -41,7 +41,7 @@ Welcome to my **Circuits** repository! This collection showcases the hands-on ci
 
 ### 📚 Why This Repository?
 
-This repo serves as both a **personal archive** of my projects.
+This repo serves as a **personal archive** of my projects.
 
 ---
 
@@ -56,7 +56,7 @@ This repo serves as both a **personal archive** of my projects.
 
 ### ⚡ About Me
 
-I’m Yacine Ouhrouche, an **Electrical Engineering student** passionate about **circuit design, embedded systems, and hardware development**. Connect with me on:
+I’m Yacine Ouhrouche, an **Electrical Engineering student** passionate about **circuit design, embedded systems, and hardware development**. 
 
 
 ---
