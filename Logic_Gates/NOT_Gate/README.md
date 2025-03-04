@@ -49,8 +49,8 @@ This is how you can wire it up on a breadboard (with a resistor, transistor, and
 
 This is a snapshot of the NOT gate running in a simulation (LTspice / Falstad):
 
-![NOT Gate Simulation](NOT_gate_simulation.png)
 
+![Screenshot 2025-03-04 141140](https://github.com/user-attachments/assets/e563507f-c887-49b1-a646-82019f96dadb)
 ---
 
 ## 🔗 Learn More
