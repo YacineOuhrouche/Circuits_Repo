@@ -42,20 +42,5 @@ This is a snapshot of the LED Flasher working in a simulation:
 ---
 
 
-## 🔗 Learn More
-
-- [Astable Multivibrator - All About Circuits](https://www.allaboutcircuits.com/textbook/semiconductors/chpt-7/astable-multivibrator/)
-- [Transistor Oscillator Circuits - SparkFun](https://learn.sparkfun.com/tutorials/transistor-oscillators)
-
----
-
-## 📥 Want to Try It?
-
-You can recreate this in:
-
-- **Falstad** (Online simulator) - [https://www.falstad.com/circuit/](https://www.falstad.com/circuit/)
-- **LTspice** (Download from Analog Devices) - [https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
-
----
 
 
