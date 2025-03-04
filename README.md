@@ -68,13 +68,6 @@ This repo serves as a **personal archive** of my projects.
 
 ---
 
-### 🌐 External Links & References
-
-- [CMOS Logic Basics - All About Circuits](https://www.allaboutcircuits.com/textbook/digital/chpt-3/cmos-logic/)
-- [Transistor Logic Gates Explained](https://www.electronics-tutorials.ws/logic/logic_3.html)
-- [LTspice Tutorials](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
-
----
 
 
 ### ⚡ About Me
