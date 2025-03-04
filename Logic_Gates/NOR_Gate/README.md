@@ -43,13 +43,7 @@ This is how you can wire the NOR gate using two transistors, resistors, and an L
 
 ---
 
-## 🖥️ Simulation Screenshot
 
-This is a snapshot of the NOR gate running in a simulation (LTspice / Falstad):
-
-![Screenshot 2025-03-04 130444](https://github.com/user-attachments/assets/3ca2d0c4-d06a-435c-a026-c01e35682de7)
-
----
 
 ## 🔗 Learn More
 
