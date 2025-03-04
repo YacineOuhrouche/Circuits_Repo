@@ -11,25 +11,27 @@ Welcome to my **Circuits** repository! This collection showcases the hands-on ci
 
 ## 📂 Circuit Categories
 
-### 🔗 Transistor Logic Gates
+### 🔗 BJTs Logic Gates
 
-| Circuit | Description | Link |
-|---|---|---|
-| AND Gate | Basic transistor-based AND gate using BJTs. | [View Circuit](/Logic_Gates/AND_Gate/) |
-| OR Gate | Basic transistor-based OR gate. | [View Circuit](/Logic_Gates/OR_Gate/) |
-| NOT Gate | Inverter using single transistor. | [View Circuit](/Logic_Gates/NOT_Gate/) |
+| Circuit |  Link |
+|---|---|
+| AND Gate | [AND Gate Folder](Logic_Gates/AND_Gate) |
+| OR Gate | [OR Gate Folder](Logic_Gates/OR_Gate) |
+| NOT Gate | [NOT Gate Folder](Logic_Gates/NOT_Gate) |
+| NAND Gate | [NAND Gate Folder](Logic_Gates/NAND_Gate) |
+| NOR Gate | [NOR Gate Folder](Logic_Gates/NOR_Gate) |
 
 
 
 ---
 
-### 🔗 Transistor  Circuits
+### 🔗 Transistor(BJTs)  Circuits
 
 | Circuit | Description | Link |
 |---|---|---|
 | LED Flasher | Basic transistor-based AND gate using BJTs. | [View Circuit](/Logic_Circuits/LED_Flasher/) |
 
-### 🔗 CMOS Logic Circuits
+### 🔗 CMOS Logic Gates
 
 ---
 | Circuit | Description | Link |
@@ -39,6 +41,8 @@ Welcome to my **Circuits** repository! This collection showcases the hands-on ci
 | Ring Oscillator | 5-stage CMOS inverter ring oscillator. | [View Circuit](./CMOS_Circuits/CMOS_Ring_Oscillator/) |
 
 ---
+
+### 🔗 CMOS Logic Circuit
 
 ### 💾 Simulation Tools Used
 
