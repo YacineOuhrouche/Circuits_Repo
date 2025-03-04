@@ -15,9 +15,9 @@ Welcome to my **Circuits** repository! This collection showcases the hands-on ci
 
 | Circuit | Description | Link |
 |---|---|---|
-| AND Gate | Basic transistor-based AND gate using BJTs. | [View Circuit](./Logic_Gates/AND_Gate/) |
-| OR Gate | Basic transistor-based OR gate. | [View Circuit](./Logic_Gates/OR_Gate/) |
-| NOT Gate | Inverter using single transistor. | [View Circuit](./Logic_Gates/NOT_Gate/) |
+| AND Gate | Basic transistor-based AND gate using BJTs. | [View Circuit](Circuits/Logic_Gates/AND_Gate/) |
+| OR Gate | Basic transistor-based OR gate. | [View Circuit](Circuits/Logic_Gates/OR_Gate/) |
+| NOT Gate | Inverter using single transistor. | [View Circuit](Circuits/Logic_Gates/NOT_Gate/) |
 
 ---
 
