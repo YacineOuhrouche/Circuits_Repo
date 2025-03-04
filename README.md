@@ -25,7 +25,7 @@ Welcome to my **Circuits** repository! This collection showcases the hands-on ci
 
 ---
 
-### 🔗 Transistor(BJTs)  Circuits
+### 🔗 Transistor Circuits (BJTs)
 
 | Circuit | Description | Link |
 |---|---|---|
@@ -42,7 +42,17 @@ Welcome to my **Circuits** repository! This collection showcases the hands-on ci
 
 ---
 
-### 🔗 CMOS Logic Circuit
+### 🔗 CMOS Circuits
+
+---
+| Circuit | Description | Link |
+|---|---|---|
+| CMOS Inverter | Complementary NMOS-PMOS inverter. | [View Circuit](./CMOS_Circuits/CMOS_Inverter/) |
+| CMOS NAND Gate | 2-input NAND gate using CMOS. | [View Circuit](./CMOS_Circuits/CMOS_NAND/) |
+| Ring Oscillator | 5-stage CMOS inverter ring oscillator. | [View Circuit](./CMOS_Circuits/CMOS_Ring_Oscillator/) |
+
+---
+
 
 ### 💾 Simulation Tools Used
 
