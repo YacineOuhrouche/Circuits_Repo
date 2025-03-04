@@ -11,7 +11,7 @@ Welcome to my **Circuits** repository! This collection showcases the hands-on ci
 
 ## 📂 Circuit Categories
 
-### 🔗 BJTs Logic Gates
+### 🔗 Logic Gates Circuit (BJTs)
 
 | Circuit |  Link |
 |---|---|
