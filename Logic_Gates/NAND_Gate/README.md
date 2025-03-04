@@ -45,9 +45,9 @@ This is how you can wire the NAND gate using two transistors, resistors, and an 
 
 ## 🖥️ Simulation Screenshot
 
-This is a snapshot of the NAND gate running in a simulation (LTspice / Falstad):
+This is a snapshot of the NAND gate running in a simulation ( Falstad) when the two buttons are open:
 
-![NAND Gate Simulation](NAND_gate_simulation.png)
+![Screenshot 2025-03-04 135920](https://github.com/user-attachments/assets/efd6f3a8-6ffa-4bfe-a3a9-db5350822f02)
 
 ---
 
@@ -57,6 +57,7 @@ This is a snapshot of the NAND gate running in a simulation (LTspice / Falstad):
 - [Transistor Logic Gates - SparkFun](https://learn.sparkfun.com/tutorials/transistors/applications)
 
 ---
+
 
 ## 📥 Want to Try It?
 
