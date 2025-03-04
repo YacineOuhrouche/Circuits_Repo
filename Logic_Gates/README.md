@@ -21,7 +21,7 @@ Each folder contains:
 | NOT Gate | [NOT Gate Folder](./NOT_Gate) |
 | NAND Gate | [NAND Gate Folder](./NAND_Gate) |
 | NOR Gate | [NOR Gate Folder](./NOR_Gate) |
-| NOT Gate | [NOT Gate Folder](./NOT_Gate) |
+
 
 
 ---
