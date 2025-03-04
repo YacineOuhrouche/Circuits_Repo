@@ -48,9 +48,10 @@ Here’s a simple breadboard implementation using two NPN transistors, resistors
 
 ## 🖥️ Simulation Screenshot
 
-This is a snapshot of the AND gate running in a simulation (LTspice / Falstad):
+This is a snapshot of the AND gate running in a simulation ( Falstad) when the two switch are closed:
 
-![AND Gate Simulation](AND_gate_simulation.png)
+
+![Screenshot 2025-03-04 135443](https://github.com/user-attachments/assets/a04d5115-22c2-4b6d-8629-701c99ab900b)
 
 ---
 
