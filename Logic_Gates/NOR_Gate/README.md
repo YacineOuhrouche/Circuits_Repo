@@ -38,7 +38,8 @@ Here’s the transistor-level schematic for the NOR gate:(still forgot two butto
 
 This is how you can wire the NOR gate using two transistors, resistors, and an LED:
 
-![Screenshot 2025-03-04 130444](https://github.com/user-attachments/assets/3ca2d0c4-d06a-435c-a026-c01e35682de7)
+
+![Screenshot 2025-03-04 131829](https://github.com/user-attachments/assets/80aed538-bf2c-4306-9643-20962582ae19)
 
 ---
 
