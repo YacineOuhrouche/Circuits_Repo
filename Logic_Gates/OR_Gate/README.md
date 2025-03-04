@@ -39,14 +39,15 @@ Here’s the transistor-level schematic for the OR gate:(I forgot two button bes
 
 This is how you can wire the OR gate using two transistors, resistors, and an LED:
 
-![OR Gate Breadboard](OR_gate_breadboard.png)
+![Screenshot 2025-03-04 124326](https://github.com/user-attachments/assets/413a49ea-912d-4b92-91ce-a829e0db4b1c)
 
 ---
 
 ## 🖥️ Simulation Screenshot
 
 This is a snapshot of the OR gate running in a simulation ( Falstad):
-![Screenshot 2025-03-04 124326](https://github.com/user-attachments/assets/413a49ea-912d-4b92-91ce-a829e0db4b1c)
+
+![Screenshot 2025-03-04 141812](https://github.com/user-attachments/assets/14b6b010-8acb-4f6c-b79e-340f633157ab)
 
 
 
@@ -67,5 +68,5 @@ You can recreate this in:
 - **LTspice** (Download from Analog Devices) - [https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
 
 ---
-✅ Ready to commit directly to the repository.
+
 
