@@ -37,9 +37,10 @@ This is how the circuit could looks on a breadboard with components:
 
 This is a snapshot of the LED Flasher working in a simulation:
 
-![LED Flasher Simulation](LED_Flasher_simulation.png)
+![Screenshot 2025-03-04 143926](https://github.com/user-attachments/assets/5e9cb8ef-9d3b-40c6-b3c0-6255fde00452)
 
 ---
+
 
 ## 🔗 Learn More
 
