@@ -32,6 +32,7 @@ This AND gate uses **two NPN transistors** in **series**:
 ## 📐 Schematic
 
 This is the transistor-level schematic for the AND gate:
+(I forgot to put two switch to the left of the two transistor)
 
 ![Screenshot 2025-03-04 114217](https://github.com/user-attachments/assets/8ae69a7d-05b8-4112-bbf2-9583f47bd5d7)
 
