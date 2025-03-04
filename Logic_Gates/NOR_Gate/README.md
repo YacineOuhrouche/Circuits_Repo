@@ -45,19 +45,4 @@ This is how you can wire the NOR gate using two transistors, resistors, and an L
 
 
 
-## 🔗 Learn More
-
-- [NOR Gate - All About Circuits](https://www.allaboutcircuits.com/textbook/digital/chpt-3/nor-gate/)
-- [Transistor Logic Gates - SparkFun](https://learn.sparkfun.com/tutorials/transistors/applications)
-
----
-
-## 📥 Want to Try It?
-
-You can recreate this in:
-
-- **Falstad** (Online simulator) - [https://www.falstad.com/circuit/](https://www.falstad.com/circuit/)
-- **LTspice** (Download from Analog Devices) - [https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
-
----
 
