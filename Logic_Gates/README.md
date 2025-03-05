@@ -38,10 +38,4 @@ Each folder contains:
 
 Transistors are the core building blocks of logic gates in hardware. Understanding these basic gates is essential for anyone working with electronics, embedded systems, or digital design.
 
----
-
-## Learn More
-
-- [Transistors as Switches (SparkFun)](https://learn.sparkfun.com/tutorials/transistors)
-- [Logic Gates Explained (All About Circuits)](https://www.allaboutcircuits.com/technical-articles/using-transistors-to-create-logic-gates/)
 
