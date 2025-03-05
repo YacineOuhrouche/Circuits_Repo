@@ -29,7 +29,7 @@ Welcome to my **Circuits** repository! This collection showcases the hands-on ci
 
 | Circuit | Description | Link |
 |---|---|---|
-| LED Flasher | Basic transistor-based AND gate using BJTs. | [View Circuit](/Logic_Circuits/LED_Flasher/) |
+| LED Flasher | Alternating flashing LED using BJTs | [View Circuit](/Logic_Circuits/LED_Flasher/) |
 
 ### 🔗 CMOS Logic Gates
 
