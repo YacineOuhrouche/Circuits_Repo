@@ -4,8 +4,9 @@ Welcome to my **Circuits** repository! This collection showcases the hands-on ci
 
 ✅ Circuit Schematic (PNG/PDF)  
 ✅ Simulation Files (LTspice, falstad)
+
 ✅ Explanation (How It Works)  
-✅ External References (Datasheets)  
+
 
 ---
 
