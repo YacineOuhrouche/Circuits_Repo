@@ -1,82 +1,75 @@
-# Circuits Collection
+# ⚡ Circuits Collection
 
-Welcome to my **Circuits** repository! This collection showcases the hands-on circuits I’ve designed and simulated during my studies in **Electrical Engineering** and **Digital Logic Design**. Each folder contains:
+Welcome to my **Circuits** repository!  
+
+This collection showcases circuits I’ve designed, simulated, and documented during my studies in **Electrical Engineering** and **Digital Logic Design**. Each folder includes:
 
 ✅ Circuit Schematic (PNG/PDF)  
-✅ Simulation Files (LTspice, falstad)
-
+✅ Simulation Files (LTspice, Falstad, Proteus)  
 ✅ Explanation (How It Works)  
-
 
 ---
 
 ## 📂 Circuit Categories
 
-### 🔗 Logic Gates Circuit (BJTs)
+### 🔗 1. Logic Gates Circuits (BJTs)
 
-| Circuit |  Link |
+| Circuit | Link |
 |---|---|
-| AND Gate | [AND Gate Folder](Logic_Gates/AND_Gate) |
-| OR Gate | [OR Gate Folder](Logic_Gates/OR_Gate) |
-| NOT Gate | [NOT Gate Folder](Logic_Gates/NOT_Gate) |
-| NAND Gate | [NAND Gate Folder](Logic_Gates/NAND_Gate) |
-| NOR Gate | [NOR Gate Folder](Logic_Gates/NOR_Gate) |
-
-
+| AND Gate | [AND Gate Folder](./Logic_Gates/AND_Gate/) |
+| OR Gate | [OR Gate Folder](./Logic_Gates/OR_Gate/) |
+| NOT Gate | [NOT Gate Folder](./Logic_Gates/NOT_Gate/) |
+| NAND Gate | [NAND Gate Folder](./Logic_Gates/NAND_Gate/) |
+| NOR Gate | [NOR Gate Folder](./Logic_Gates/NOR_Gate/) |
 
 ---
 
-### 🔗 Transistor Circuits (BJTs)
+### 🔗 2. Transistor Circuits (BJTs)
 
 | Circuit | Description | Link |
 |---|---|---|
-| LED Flasher | Alternating flashing LED using BJTs | [View Circuit](/Logic_Circuits/LED_Flasher/) |
-
-### 🔗 CMOS Logic Gates
+| LED Flasher | Alternating flashing LEDs using BJTs | [View Circuit](./Logic_Circuits/LED_Flasher/) |
 
 ---
+
+### 🔗 3. CMOS Logic Gates
+
 | Circuit | Description | Link |
 |---|---|---|
-| CMOS Inverter | Complementary NMOS-PMOS inverter. | [View Circuit](./CMOS_Circuits/CMOS_Inverter/) |
-| CMOS NAND Gate | 2-input NAND gate using CMOS. | [View Circuit](./CMOS_Circuits/CMOS_NAND/) |
-| Ring Oscillator | 5-stage CMOS inverter ring oscillator. | [View Circuit](./CMOS_Circuits/CMOS_Ring_Oscillator/) |
+| CMOS Inverter | Complementary NMOS-PMOS inverter | [View Circuit](./CMOS_Circuits/CMOS_Inverter/) |
+| CMOS NAND Gate | 2-input NAND gate using CMOS | [View Circuit](./CMOS_Circuits/CMOS_NAND/) |
+| Ring Oscillator | 5-stage CMOS inverter ring oscillator | [View Circuit](./CMOS_Circuits/CMOS_Ring_Oscillator/) |
 
 ---
 
-### 🔗 CMOS Circuits
+## 💾 Simulation Tools Used
 
----
-| Circuit | Description | Link |
-|---|---|---|
-| CMOS Inverter | Complementary NMOS-PMOS inverter. | [View Circuit](./CMOS_Circuits/CMOS_Inverter/) |
-| CMOS NAND Gate | 2-input NAND gate using CMOS. | [View Circuit](./CMOS_Circuits/CMOS_NAND/) |
-| Ring Oscillator | 5-stage CMOS inverter ring oscillator. | [View Circuit](./CMOS_Circuits/CMOS_Ring_Oscillator/) |
+These circuits were simulated and tested using:
 
----
-
-
-### 💾 Simulation Tools Used
-
-- LTspice
-- Proteus
-- falstad
+- [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
+- [Proteus](https://www.labcenter.com/)
+- [Falstad Circuit Simulator](https://www.falstad.com/circuit/)
 
 ---
 
-### 📚 Why This Repository?
+## 📚 Purpose of this Repository
 
-This repo serves as a **personal archive** of my projects.
+This repository serves as:
 
----
-
-
-
-### ⚡ About Me
-
-I’m Yacine Ouhrouche, an **Electrical Engineering student** passionate about **circuit design, embedded systems, and hardware development**. 
-
+- My **personal archive** to track my progress.  
+- A **reference collection** to revisit for future projects.  
+- A **learning resource** for others exploring digital logic and analog circuits.
 
 ---
 
+## 👨‍💻 About Me
 
+Hi there! I’m **Yacine Ouhrouche**, an **Electrical Engineering student** passionate about:
+
+- ✨ Circuit Design  
+- 🖥️ Embedded Systems  
+- 🛠️ Hardware Development  
+
+
+---
 
