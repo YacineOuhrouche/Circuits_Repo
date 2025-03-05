@@ -1,41 +1,54 @@
+# CMOS NOT Gate Using PMOS & NMOS Transistors
 
-# Logic Circuits Using Transistors
+## 📝 What It Does
 
-Welcome to the **CMOS Logic Circuits** repository! 🎉  
-This folder showcases how basic logic gates (AND, OR, NOT, NAND) can be **built using transistors** (MOSFETs).
+A **CMOS NOT gate** (inverter) outputs the **opposite** of the input. It uses complementary MOS transistors — a **PMOS** and an **NMOS** — to perform this operation efficiently.
 
-Each folder contains:
-
-✅ A short explanation of what the gate does  
-✅ A link to more information  
-✅  A schematic image
+- Input `HIGH` (1) gives output `LOW` (0)
+- Input `LOW` (0) gives output `HIGH` (1)
 
 ---
 
-## Quick Links to Each Gate
+## 📊 Truth Table
 
-| Gate | Link |
+| Input (A) | Output (Y) |
 |--|--|
-| AND Gate | [AND Gate Folder](./CMOS_AND_Gate) |
-| OR Gate | [OR Gate Folder](./CMOS_OR_Gate) |
-| NOT Gate | [NOT Gate Folder](./CMOS_NOT_Gate) |
-| NAND Gate | [NAND Gate Folder](./CMOS_NAND_Gate) |
-| NOR Gate | [NOR Gate Folder](./CMOS_NOR_Gate) |
+| 0 | 1 |
+| 1 | 0 |
+
+---
+
+## ⚙️ How It Works with CMOS Transistors
+
+This NOT gate uses a **PMOS** transistor (connected to VDD) and an **NMOS** transistor (connected to GND).
+
+- When **A = 0**, PMOS turns **ON** and pulls the output to **VDD** (high).
+- When **A = 1**, NMOS turns **ON** and pulls the output to **GND** (low).
+
+This complementary action achieves reliable switching with low power consumption — a hallmark of **CMOS logic**.
+
+---
+
+## 📐 Schematic
+
+This is the transistor-level schematic for the CMOS NOT gate:
+![Screenshot 2025-03-05 131455](https://github.com/user-attachments/assets/0a8121fa-43b3-4ee1-a744-04c0ffab792c)
 
 
 
 ---
 
-## 🛠️  Tools Used
 
-- **LTspice** (for schematics and SPICE simulations)
-- **Falstad Circuit Simulator** (for browser-based quick testing)
-  
+## 🖥️ Simulation Screenshot
+
+This is the simulation waveform captured in LTspice (or Falstad):
+![Screenshot 2025-03-05 131907](https://github.com/user-attachments/assets/4fc263e8-95bc-4523-9879-857b3a14d775)
+
+
 
 ---
 
-## Why Transistors?
 
-Transistors are the core building blocks of logic gates in hardware. Understanding these basic gates is essential for anyone working with electronics, embedded systems, or digital design.
+
 
 
