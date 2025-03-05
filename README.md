@@ -2,7 +2,11 @@
 # ⚡ Circuits Collection
 
 ![Electrical Engineering](https://img.shields.io/badge/Electrical%20Engineering-Projects-blue?style=for-the-badge)  
-📡 Welcome to my **Circuits Collection** repository! This is where I document circuits I’ve designed and simulated throughout my **Electrical Engineering** and **Digital Logic Design** journey. Each folder contains:
+📡 Welcome to my **Circuits Collection** repository!
+
+This is where I document circuits I’ve designed and simulated throughout my **Electrical Engineering** and **Digital Logic Design** journey.
+
+Each folder contains:
 
 ✅ Circuit Schematic (PNG/PDF)  
 ✅ Simulation Files (LTspice, Falstad, Proteus)  
