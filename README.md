@@ -55,6 +55,16 @@ Each folder contains:
 
 ---
 
+### 🔗 5. Hardware Desccriptive Language (HDL) Section
+
+| Circuit | Description | Link |
+|---|---|---|
+| Traffic Light Controller |Traffic Light Intersection | [View Circuit](./Logic_Circuits/LED_Flasher/) |
+| 4-Bit ALU |Capable of perfoming  arithmetic and logic | [View Circuit](./Logic_Circuits/LED_Flasher/) |
+| 4-Bit Register |Storing a 4-bit binary value | [View Circuit](./Logic_Circuits/LED_Flasher/) |
+
+---
+
 ## 💾 Simulation Tools Used
 
 These circuits were simulated and tested using:
