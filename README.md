@@ -38,11 +38,11 @@ Each folder contains:
 
 ### 🔗 3. CMOS Logic Gates
 
-| Circuit | Description | Link |
-|---|---|---|
-| CMOS Inverter | Complementary NMOS-PMOS inverter | [View Circuit](./CMOS_Circuits/CMOS_Inverter/) |
-| CMOS NAND Gate | 2-input NAND gate using CMOS | [View Circuit](./CMOS_Circuits/CMOS_NAND/) |
-| Ring Oscillator | 5-stage CMOS inverter ring oscillator | [View Circuit](./CMOS_Circuits/CMOS_Ring_Oscillator/) |
+| Circuit |  Link |
+|---|---|
+| CMOS Inverter | [View Circuit](./CMOS_Circuits/CMOS_Inverter/) |
+| CMOS NAND Gate | [View Circuit](./CMOS_Circuits/CMOS_NAND/) |
+| CMOS AND Gate | | [View Circuit](./CMOS_Circuits/CMOS_Ring_Oscillator/) |
 
 ---
 
