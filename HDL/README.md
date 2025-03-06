@@ -18,7 +18,7 @@ Each folder contains:
 |--|--|--|
 | 🚦 Traffic Light Controller | FSM-based traffic signal system for a 4-way intersection | [Traffic Light Controller Folder](./Traffic_light_controller) |
 | 🔢 4-bit ALU | Performs arithmetic and logic operations on two 4-bit operands | [4-bit ALU Folder](./4_Bit_ALU) |
-| 📦 4-bit Register | A simple 4-bit data register with load and reset control | [4-bit Register Folder](./4_bit_register) |
+| 📦 4-bit Register | A simple 4-bit data register with load and reset control | [4-bit Register Folder](./4_Bit_register) |
 
 ---
 
@@ -68,7 +68,7 @@ Implements a **4-bit register** capable of storing and holding data.
 - Flip-flop behavior using always blocks
 - State retention between clock cycles
 
-👉 [Explore the Code](./4_bit_register)
+👉 [Explore the Code](./4_Bit_register)
 
 ---
 
