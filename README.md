@@ -17,11 +17,12 @@ Each folder contains:
 ## 📂 Circuit Categories
 
 
-### 🔗 1. Transistor Circuits (BJTs)
+### 🔗 1.  Circuits
 
 | Circuit | Description | Link |
 |---|---|---|
 | LED Flasher | Alternating flashing LEDs using BJTs | [View Circuit](./Logic_Circuits/LED_Flasher/) |
+| Rectifier | AC-DC | [View Circuit](./Logic_Circuits/LED_Flasher/) |
 
 ---
 
