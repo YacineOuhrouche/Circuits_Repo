@@ -1,7 +1,7 @@
-# 🔌 Transistor(BJTs) Circuits
+# 🔌 Circuits
 
-Welcome to the **Transistor Circuits** repository! 🎉  
-This collection demonstrates how to build **basic analog circuits** using **transistors (BJTs)**. Each project focuses on different types of circuits, showcasing fundamental electronic concepts.
+Welcome to the **Circuits** repository! 🎉  
+This collection demonstrates how to build **basic analog circuits** using **transistors (BJTs) and Diodes**. Each project focuses on different types of circuits, showcasing fundamental electronic concepts.
 
 Each folder contains:
 
@@ -16,8 +16,7 @@ Each folder contains:
 | Circuit | Description | Link |
 |--|--|--|
 | 💡 LED Flasher | A simple alternating **LED flasher** circuit using a transistor | [LED Flasher Folder](./LED_Flasher) |
-| 📡 Transistor Amplifier | A basic **transistor amplifier** for audio or signal amplification | [Transistor Amplifier Folder](./transistor_amplifier) |
-| 🕰️ Oscillator | A **basic oscillator** circuit to generate square waves | [Oscillator Folder](./oscillator) |
+| 📡 Rectifier |AC-DC | [Transistor Amplifier Folder](./Rectifier) |
 
 ---
 
@@ -37,7 +36,7 @@ The frequency of the blinking is controlled by the resistors and capacitors in t
 
 ---
 
-### 📡 Transistor Amplifier
+### 📡 Rectifier
 **What It Does:**  
 This project demonstrates a **transistor amplifier**, which amplifies weak signals (like audio signals) into a stronger, usable output. The circuit uses a **NPN transistor** in a common-emitter configuration.
 
@@ -50,18 +49,6 @@ This project demonstrates a **transistor amplifier**, which amplifies weak signa
 
 ---
 
-### 🕰️ Oscillator
-**What It Does:**  
-This project implements a basic **oscillator circuit** using a **transistor** to generate square wave signals. The oscillator's frequency is determined by resistors and capacitors.
-
-**Core Concepts:**  
-- **Feedback loop** for oscillation
-- **RC timing circuits**
-- **Transistor as a switch**
-
-👉 [Explore the Code & Schematic](./oscillator)
-
----
 
 ## 🛠️ Tools Used
 
