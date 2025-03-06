@@ -44,11 +44,11 @@ Here’s the transistor-level schematic for the CMOS OR gate:
 
 ## 🖥️ Simulation Results
 
-This is the **simulation waveform** from ** Falstad**, showing correct OR behavior: (It doesn`t seems like it but the LED is off there)
+This is the **simulation ** from ** Falstad**, showing correct OR behavior: (It doesn`t seems like it but the LED is off there)
 ![Screenshot 2025-03-06 112136](https://github.com/user-attachments/assets/d050fe3b-9a1f-48d4-a9c4-16f0ec4eb1e8)
 
 
 ---
 
-## 📂 Folder Structure
+
 
