@@ -7,7 +7,7 @@ Each folder contains:
 
 ✅ A brief explanation of the circuit's functionality  
 ✅ A schematic image  
-✅ The circuit simulation or breadboard setup 
+
 
 ---
 
@@ -37,7 +37,7 @@ The latch is built using **CMOS inverters** (constructed with **PMOS** and **NMO
 - **PMOS and NMOS transistors**  
 - **Low power consumption and efficient switching**
 
-👉 [Explore the Code & Schematic](./SR_Latch)
+👉 [Explore the Schematic](./SR_Latch)
 
 ---
 
