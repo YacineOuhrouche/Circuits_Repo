@@ -41,10 +41,8 @@ Each folder contains:
 | Circuit |  Link |
 |---|---|
 | CMOS Inverter | [View Circuit](./CMOS_Logic_Gates/CMOS_NOT_Gate/) |
-| CMOS NAND Gate | [View Circuit](./CMOS_Logic_Gates/CMOS_NAND_Gate/) |
-| CMOS AND Gate | | [View Circuit](./CMOS_Logic_Gates/CMOS_AND_Gate/) |
-| CMOS OR Gate | | [View Circuit](./CMOS_Logic_Gates/CMOS_OR_Gate/) |
-| CMOS NOR Gate | | [View Circuit](./CMOS_Logic_Gates/CMOS_NOR_Gate/) |
+| CMOS NOR Gate | [View Circuit](./CMOS_Logic_Gates/CMOS_NOR_Gate/) |
+
 
 ---
 
