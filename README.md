@@ -22,7 +22,7 @@ Each folder contains:
 | Circuit | Description | Link |
 |---|---|---|
 | LED Flasher | Alternating flashing LEDs using BJTs | [View Circuit](./BJT_Circuits/LED_Flasher/) |
-| Rectifier | AC-DC | [View Circuit](./BJT_Circuits/Rectifier/) |
+| Rectifier | AC-DC | [View Folder](./BJT_Circuits/Rectifier/) |
 
 ---
 
