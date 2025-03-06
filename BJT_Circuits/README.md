@@ -79,7 +79,3 @@ Transistors are the building blocks of modern electronics. They enable us to con
 
 
 
-## 📜 License
-This project is released under the **MIT License**, so feel free to use, modify, and share!
-
----
