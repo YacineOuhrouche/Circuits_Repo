@@ -32,7 +32,7 @@ The frequency of the blinking is controlled by the resistors and capacitors in t
 - **Transistor switching**
 - **Timing circuits**
 
-👉 [Explore the Code & Schematic](./LED_Flasher)
+👉 [Explore the  Schematic](./LED_Flasher)
 
 ---
 
@@ -45,7 +45,7 @@ This project demonstrates a **transistor amplifier**, which amplifies weak signa
 - **Biasing of transistor** for proper operation
 - **Resistor-capacitor network** for filtering and amplification
 
-👉 [Explore the Code & Schematic](./transistor_amplifier)
+👉 [Explore the  Schematic](./transistor_amplifier)
 
 ---
 
