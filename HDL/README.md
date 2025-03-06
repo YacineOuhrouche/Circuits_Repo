@@ -82,7 +82,7 @@ Implements a **4-bit register** capable of storing and holding data.
 
 Verilog is a **hardware description language** that lets us describe the behavior of **digital hardware** using code. It bridges the gap between **logic design** and **physical circuits**, enabling simulation, testing, and synthesis onto real hardware (like FPGAs).
 
-Whether you're learning digital design or preparing for hardware development careers, these projects provide essential hands-on practice.
+
 
 ---
 
