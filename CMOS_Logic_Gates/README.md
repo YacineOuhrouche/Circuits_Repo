@@ -16,11 +16,11 @@ Each folder contains:
 
 | Gate | Link |
 |--|--|
-| AND Gate | [AND Gate Folder](./CMOS_AND_Gate) |
-| OR Gate | [OR Gate Folder](./CMOS_OR_Gate) |
 | NOT Gate | [NOT Gate Folder](./CMOS_NOT_Gate) |
 | NAND Gate | [NAND Gate Folder](./CMOS_NAND_Gate) |
 | NOR Gate | [NOR Gate Folder](./CMOS_NOR_Gate) |
+| AND Gate | [AND Gate Folder](./CMOS_AND_Gate) |
+| OR Gate | [OR Gate Folder](./CMOS_OR_Gate) |
 
 
 
