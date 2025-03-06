@@ -17,7 +17,7 @@ Each folder contains:
 | Project | Description | Link |
 |--|--|--|
 | 🚦 Traffic Light Controller | FSM-based traffic signal system for a 4-way intersection | [Traffic Light Controller Folder](./Traffic_light_controller) |
-| 🔢 4-bit ALU | Performs arithmetic and logic operations on two 4-bit operands | [4-bit ALU Folder](./4_bit_ALU) |
+| 🔢 4-bit ALU | Performs arithmetic and logic operations on two 4-bit operands | [4-bit ALU Folder](./4_Bit_ALU) |
 | 📦 4-bit Register | A simple 4-bit data register with load and reset control | [4-bit Register Folder](./4_bit_register) |
 
 ---
@@ -50,7 +50,7 @@ Implements a basic **Arithmetic Logic Unit (ALU)** supporting 8 operations on tw
 - Bitwise and arithmetic operations
 - Status flags (Zero, Carry)
 
-👉 [Explore the Code](./4_bit_ALU)
+👉 [Explore the Code](./4_Bit_ALU)
 
 ---
 
