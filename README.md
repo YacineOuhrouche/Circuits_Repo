@@ -29,7 +29,7 @@ Each folder contains:
 
 | Circuit | Description | Link |
 |---|---|---|
-| SRAM | Alternating flashing LEDs using BJTs | [View Circuit](./Logic_Circuits/LED_Flasher/) |
+| SR Latch| Alternating flashing LEDs using BJTs | [View Circuit](./CMOS_Circuits/SR_Latch/) |
 
 ---
 
