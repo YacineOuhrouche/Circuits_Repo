@@ -44,7 +44,7 @@ This is the transistor-level schematic for the CMOS AND gate:
 
 ## 🖥️ Simulation Results
 
-This is the simulation waveform from ** Falstad**, showing the correct AND behavior:
+This is the simulation from ** Falstad**, showing the correct AND behavior:
 ![Screenshot 2025-03-06 105849](https://github.com/user-attachments/assets/fe15dde8-0798-443f-9a05-25662569e24d)
 
 
