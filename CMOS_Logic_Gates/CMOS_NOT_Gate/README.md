@@ -41,7 +41,7 @@ This is the transistor-level schematic for the CMOS NOT gate:
 
 ## 🖥️ Simulation Screenshot
 
-This is the simulation waveform captured in LTspice (or Falstad):
+This is the simulation waveform captured in  Falstad:
 ![Screenshot 2025-03-05 131907](https://github.com/user-attachments/assets/4fc263e8-95bc-4523-9879-857b3a14d775)
 
 
