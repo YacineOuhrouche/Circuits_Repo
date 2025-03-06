@@ -16,7 +16,24 @@ Each folder contains:
 
 ## 📂 Circuit Categories
 
-### 🔗 1. Logic Gates Circuits (BJTs)
+
+### 🔗 1. Transistor Circuits (BJTs)
+
+| Circuit | Description | Link |
+|---|---|---|
+| LED Flasher | Alternating flashing LEDs using BJTs | [View Circuit](./Logic_Circuits/LED_Flasher/) |
+
+---
+
+### 🔗 2. CMOS Circuits 
+
+| Circuit | Description | Link |
+|---|---|---|
+| SRAM | Alternating flashing LEDs using BJTs | [View Circuit](./Logic_Circuits/LED_Flasher/) |
+
+---
+
+### 🔗 3. Logic Gates Circuits (BJTs)
 
 | Circuit | Link |
 |---|---|
@@ -27,16 +44,7 @@ Each folder contains:
 | NOR Gate | [NOR Gate Folder](./Logic_Gates/NOR_Gate/) |
 
 ---
-
-### 🔗 2. Transistor Circuits (BJTs)
-
-| Circuit | Description | Link |
-|---|---|---|
-| LED Flasher | Alternating flashing LEDs using BJTs | [View Circuit](./Logic_Circuits/LED_Flasher/) |
-
----
-
-### 🔗 3. CMOS Logic Gates
+### 🔗 4. CMOS Logic Gates
 
 | Circuit |  Link |
 |---|---|
@@ -48,14 +56,6 @@ Each folder contains:
 
 ---
 
-
-### 🔗 4. CMOS Circuits 
-
-| Circuit | Description | Link |
-|---|---|---|
-| SRAM | Alternating flashing LEDs using BJTs | [View Circuit](./Logic_Circuits/LED_Flasher/) |
-
----
 
 ### 🔗 5. Hardware Desccriptive Language (HDL) Section
 
