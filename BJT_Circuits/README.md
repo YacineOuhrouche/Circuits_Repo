@@ -16,7 +16,7 @@ Each folder contains:
 | Circuit | Description | Link |
 |--|--|--|
 | 💡 LED Flasher | A simple alternating **LED flasher** circuit using a transistor | [LED Flasher Folder](./LED_Flasher) |
-| 📡 Rectifier |AC-DC | [Transistor Amplifier Folder](./Rectifier) |
+| 📡 Rectifier |AC-DC | [Rectifier Folder](./Rectifier) |
 
 ---
 
@@ -45,7 +45,7 @@ This project demonstrates a **transistor amplifier**, which amplifies weak signa
 - **Biasing of transistor** for proper operation
 - **Resistor-capacitor network** for filtering and amplification
 
-👉 [Explore the  Schematic](./transistor_amplifier)
+👉 [Explore the  Schematic](./Rectifier)
 
 ---
 
