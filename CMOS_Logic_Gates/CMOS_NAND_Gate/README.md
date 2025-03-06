@@ -51,7 +51,7 @@ This is how the **NAND gate can be wired up on a breadboard**:
 
 ## 🖥️ Simulation Results
 
-This is the simulation waveform from ** Falstad**, showing the correct NAND behavior:
+This is the simulation  from ** Falstad**, showing the correct NAND behavior:
 ![Screenshot 2025-03-06 103236](https://github.com/user-attachments/assets/7c5506e7-0230-472b-b66f-a26b719475de)
 
 
