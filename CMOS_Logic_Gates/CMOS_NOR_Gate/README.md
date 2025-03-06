@@ -50,7 +50,7 @@ This shows the **actual wiring on a breadboard**:
 
 ## 🖥️ Simulation Results
 
-This is the simulation waveform from **LTspice / Falstad**, showing how the output responds to different input combinations:
+This is the simulation waveform from **Falstad**, showing how the output responds to different input combinations:
 
 ![Screenshot 2025-03-06 095745](https://github.com/user-attachments/assets/c308160b-d424-4e7b-a00b-fdbef9e2c084)
 
