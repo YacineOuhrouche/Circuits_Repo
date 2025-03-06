@@ -29,7 +29,7 @@ Each folder contains:
 
 | Circuit | Description | Link |
 |---|---|---|
-| SR Latch| Alternating flashing LEDs using BJTs | [View Circuit](./CMOS_Circuits/SR_Latch/) |
+| SR Latch| A basic CMOS SR Latch using PMOS and NMOS transistors to store a binary state	 | [View Circuit](./CMOS_Circuits/SR_Latch/) |
 
 ---
 
