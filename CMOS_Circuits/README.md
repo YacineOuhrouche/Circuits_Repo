@@ -15,7 +15,7 @@ Each folder contains:
 
 | Circuit | Description | Link |
 |--|--|--|
-| 🔒 CMOS SR Latch | A basic **CMOS SR Latch** using **PMOS** and **NMOS** transistors to store a binary state | [CMOS SR Latch Folder](./CMOS_SR_Latch) |
+| 🔒 CMOS SR Latch | A basic **CMOS SR Latch** using **PMOS** and **NMOS** transistors to store a binary state | [CMOS SR Latch Folder](./SR_Latch) |
 
 ---
 
@@ -37,7 +37,7 @@ The latch is built using **CMOS inverters** (constructed with **PMOS** and **NMO
 - **PMOS and NMOS transistors**  
 - **Low power consumption and efficient switching**
 
-👉 [Explore the Code & Schematic](./CMOS_SR_Latch)
+👉 [Explore the Code & Schematic](./SR_Latch)
 
 ---
 
