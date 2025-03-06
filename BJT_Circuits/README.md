@@ -15,7 +15,7 @@ Each folder contains:
 
 | Circuit | Description | Link |
 |--|--|--|
-| 💡 LED Flasher | A simple alternating **LED flasher** circuit using a transistor | [LED Flasher Folder](./led_flasher) |
+| 💡 LED Flasher | A simple alternating **LED flasher** circuit using a transistor | [LED Flasher Folder](./LED_Flasher) |
 | 📡 Transistor Amplifier | A basic **transistor amplifier** for audio or signal amplification | [Transistor Amplifier Folder](./transistor_amplifier) |
 | 🕰️ Oscillator | A **basic oscillator** circuit to generate square waves | [Oscillator Folder](./oscillator) |
 
@@ -33,7 +33,7 @@ The frequency of the blinking is controlled by the resistors and capacitors in t
 - **Transistor switching**
 - **Timing circuits**
 
-👉 [Explore the Code & Schematic](./led_flasher)
+👉 [Explore the Code & Schematic](./LED_Flasher)
 
 ---
 
