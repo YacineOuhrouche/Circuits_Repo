@@ -10,7 +10,7 @@ This repository showcases various **rectifier circuits** designed and tested thr
 Each rectifier has its own folder containing:
 
 ✅ Explanation of the rectifier type and its operation  
-✅ Circuit schematic (drawn using LTspice or other tools)  
+✅ Circuit schematic 
 ✅ Simulation files and results  
 ✅ Breadboard implementation images and notes
 
@@ -36,10 +36,10 @@ Each rectifier has its own folder containing:
 - Simple but inefficient.
 
 **What You’ll Find in the Folder:**  
-✅ Schematic (LTspice or hand-drawn)  
-✅ Simulation (AC input vs DC output waveform)  
+✅ Schematic  
+✅ Simulation 
 ✅ Breadboard image  
-✅ Explanation (theory, peak voltage, ripple)
+✅ Explanation 
 
 👉 [Explore the Half-Wave Rectifier](./Half_Wave_Rectifier)
 
@@ -51,12 +51,6 @@ Each rectifier has its own folder containing:
 - Uses a center-tapped transformer and **two diodes** to rectify **both halves** of AC.
 - More efficient than half-wave.
 
-**What You’ll Find in the Folder:**  
-✅ Schematic (LTspice or hand-drawn)  
-✅ Simulation (AC input vs DC output waveform)  
-✅ Breadboard image  
-✅ Explanation (voltage calculations, diode operation)
-
 👉 [Explore the Full-Wave Rectifier](./Full_Wave_Rectifier)
 
 ---
@@ -66,12 +60,6 @@ Each rectifier has its own folder containing:
 **What It Does:**  
 - Uses **4 diodes** in a bridge configuration to rectify both AC halves.
 - No center-tap needed — simple and practical.
-
-**What You’ll Find in the Folder:**  
-✅ Schematic (LTspice or hand-drawn)  
-✅ Simulation (AC input vs DC output waveform)  
-✅ Breadboard image  
-✅ Explanation (peak output, diode voltage drops, ripple)
 
 👉 [Explore the Bridge Rectifier](./Bridge_Rectifier)
 
