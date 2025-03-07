@@ -28,40 +28,29 @@ They do this **without requiring any external power source**, relying only on th
 ### 1️⃣ Low Pass Filter (LPF)
 - **Function:** Allows low frequencies, blocks high frequencies.
 - **Components:** Resistor + Capacitor
-- **Cutoff Frequency:**  
-\[
-f_c = \frac{1}{2 \pi RC}
-\]
+- 
+👉 [Explore the Low Pass filter](./LP_Filter)
 
 ---
 
 ### 2️⃣ High Pass Filter (HPF)
 - **Function:** Allows high frequencies, blocks low frequencies.
 - **Components:** Resistor + Capacitor
-- **Cutoff Frequency:**  
-\[
-f_c = \frac{1}{2 \pi RC}
-\]
-
+- 
+👉 [Explore the High Pass Filter](./HPF)
 ---
 
 ### 3️⃣ Band Pass Filter (BPF)
 - **Function:** Passes a narrow range of frequencies.
 - **Components:** Resistor + Inductor + Capacitor (RLC)
-- **Resonant Frequency:**  
-\[
-f_0 = \frac{1}{2 \pi \sqrt{LC}}
-\]
-
+- 
+👉 [Explore the Band Pass Filter](./BPF)
 ---
 
 ### 4️⃣ Band Stop Filter (BSF)
 - **Function:** Blocks a narrow range of frequencies.
 - **Components:** Resistor + Inductor + Capacitor (RLC)
-- **Notch Frequency:**  
-\[
-f_0 = \frac{1}{2 \pi \sqrt{LC}}
-\]
-
+- 
+👉 [Explore the Band Stop Filter](./BSF)
 ---
 
