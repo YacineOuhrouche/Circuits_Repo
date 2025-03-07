@@ -38,16 +38,6 @@ This is a **passive RC low pass filter**, built using just:
 
 ---
 
-## 📊 Simulation Results
-
-### Frequency Response (Bode Plot)
-The filter’s **gain decreases** as frequency increases. 
-
-### Simulation Image:
-
-![Screenshot 2025-03-07 152748](https://github.com/user-attachments/assets/1da50ca1-f357-4923-8469-9c74fe8e45e7)
-
----
 
 
 ## 💻 Applications
@@ -56,14 +46,5 @@ The filter’s **gain decreases** as frequency increases.
 - Sensor Signal Conditioning (smoothing noisy analog readings)
 - Power Supplies (filtering ripple noise)
 
----
-
-## 🧰 Tools Used
-
-- **Falstad Circuit Simulator** for quick testing  
-- **Oscilloscope** to view real-world output  
-
-
----
 
 
