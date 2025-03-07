@@ -40,6 +40,7 @@ This shows the **AC input waveform** (yellow) and the resulting **pulsating DC o
 ## 🔧 Breadboard Implementation
 
 Here’s the actual **breadboard setup** of the Half-Wave Rectifier.
+![Screenshot 2025-03-07 141927](https://github.com/user-attachments/assets/eb0ebc10-7f7a-487c-b53e-e4df010ec0c5)
 
 
 **Real-World Notes:**
