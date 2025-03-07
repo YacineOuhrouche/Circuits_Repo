@@ -47,6 +47,7 @@ Here’s a simulation view **Falstad** showing how the AC waveform gets rectifie
 ### Breadboard Setup
 Here’s the actual breadboard setup showing the circuit built with diodes, capacitor, and wiring:
 
+![Screenshot 2025-03-07 142540](https://github.com/user-attachments/assets/f2dcc11f-ee13-4935-a60b-54a4d50e5f2e)
 
 
 ---
@@ -64,7 +65,7 @@ Here’s the actual breadboard setup showing the circuit built with diodes, capa
 
 ## 📚 Tools Used
 
-- **LTspice** for schematic drawing and simulation
+
 - **Falstad Circuit Simulator** for quick online testing
 - **Breadboard** for real-world implementation
 
