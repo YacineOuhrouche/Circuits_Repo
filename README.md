@@ -86,7 +86,7 @@ This repository serves as:
 
 🚀 My personal archive to track progress and build experience.  
 📖 A reference library for future academic or personal projects.  
-🤝 A learning resource for fellow students, hobbyists, and anyone interested in **circuit design**.
+
 
 ---
 
