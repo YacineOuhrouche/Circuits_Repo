@@ -17,7 +17,7 @@ Each folder contains:
 |--|--|--|
 | 💡 LED Flasher | A simple alternating **LED flasher** circuit using transistors | [LED Flasher Folder](./LED_Flasher) |
 | ⚡ Rectifier | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
-| 🔎 Filter | A simple **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filter) |
+| 🔎 Filter | A simple **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters) |
 
 ---
 
@@ -60,7 +60,7 @@ This filter circuit is designed to pass certain frequencies while blocking other
 - **Signal attenuation**
 - **RC or LC filters**
 
-👉 [Explore the Schematic](./Filter)
+👉 [Explore the Schematic](./Filters)
 
 ---
 
