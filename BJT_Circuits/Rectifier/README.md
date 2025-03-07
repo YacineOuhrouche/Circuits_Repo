@@ -38,16 +38,6 @@ Each rectifier has its own folder containing:
 
 ---
 
-### 🔹 Full-Wave Rectifier (Center Tap)
-
-**What It Does:**  
-- Uses a center-tapped transformer and **two diodes** to rectify **both halves** of AC.
-- More efficient than half-wave.
-
-👉 [Explore the Full-Wave Rectifier](./Full_Wave_Rectifier)
-
----
-
 ### 🔹 Bridge Rectifier
 
 **What It Does:**  
