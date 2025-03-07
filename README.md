@@ -4,7 +4,7 @@
 ![Electrical Engineering](https://img.shields.io/badge/Electrical%20Engineering-Projects-blue?style=for-the-badge)  
 📡 Welcome to my **Circuits Collection** repository!
 
-This is where I document circuits I’ve designed and simulated throughout my **Electrical Engineering** and **Digital Logic Design** journey.
+This is where I document circuits I’ve designed and simulated throughout my **Electrical Engineering**  journey.
 
 Each folder contains:
 
@@ -17,13 +17,13 @@ Each folder contains:
 ## 📂 Circuit Categories
 
 
-### 🔗 1.  Circuits
+### 🔗 1.  Analog Circuits
 
 | Circuit | Description | Link |
 |---|---|---|
 | LED Flasher | Alternating flashing LEDs using BJTs | [View Circuit](./BJT_Circuits/LED_Flasher/) |
 | Rectifier | AC-DC | [View Folder](./BJT_Circuits/Rectifier/) |
-| Filter | AC-DC | [View Folder](./BJT_Circuits/Rectifier/) |
+
 
 ---
 
