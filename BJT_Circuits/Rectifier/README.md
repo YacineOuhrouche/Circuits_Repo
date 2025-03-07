@@ -35,12 +35,6 @@ Each rectifier has its own folder containing:
 - Allows only **one half-cycle** (positive or negative) of AC to pass, blocking the other half.
 - Simple but inefficient.
 
-**What You’ll Find in the Folder:**  
-✅ Schematic  
-✅ Simulation 
-✅ Breadboard image  
-✅ Explanation 
-
 👉 [Explore the Half-Wave Rectifier](./Half_Wave_Rectifier)
 
 ---
