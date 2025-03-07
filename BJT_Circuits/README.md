@@ -1,7 +1,7 @@
 # 🔌 Analog Circuits
 
 Welcome to the **Analog Circuits** repository! 🎉  
-This collection demonstrates how to build **basic analog circuits** using components like **diodes, resistors, capacitors, and transistors**. Each project highlights fundamental concepts in analog electronics.
+This collection demonstrates how to build **basic analog circuits** using components like **diodes, resistors, capacitors, and transistors**. Analog circuits are those where signals vary continuously and are used to process a wide range of information, such as sound, light, temperature, and other real-world phenomena. Unlike digital circuits, which deal with binary values (0s and 1s), analog circuits deal with continuous signal variations, making them crucial for real-world applications.
 
 Each folder contains:
 
@@ -17,8 +17,10 @@ Each folder contains:
 |--|--|--|
 | 💡 LED Flasher | A simple alternating **LED flasher** circuit using transistors | [LED Flasher Folder](./LED_Flasher) |
 | ⚡ Rectifier | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
+| 🔎 Filter | A simple **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filter) |
 
 ---
+
 
 ## 📐 Circuit Overviews
 
@@ -49,18 +51,25 @@ This project demonstrates a **Half-Wave Rectifier** circuit, which converts **AC
 
 ---
 
+### 🔎 Filter
+**What It Does:**  
+This filter circuit is designed to pass certain frequencies while blocking others, typically used in audio and signal processing applications. It demonstrates how passive components such as resistors and capacitors can create low-pass, high-pass, or band-pass filters.
+
+**Core Concepts:**  
+- **Frequency response**
+- **Signal attenuation**
+- **RC or LC filters**
+
+👉 [Explore the Schematic](./Filter)
+
+---
+
 ## 🛠️ Tools Used
 
 - **LTspice** for schematic drawing and simulation
 - **Falstad Circuit Simulator** for quick online testing
 - **Breadboard** for real-world implementation
 
-
----
-
-## Why Diodes?
-
-Diodes are essential in rectifiers because they only allow current to flow in **one direction**. This property makes them perfect for converting **AC (Alternating Current)** into **DC (Direct Current)**. Rectifier circuits are found in nearly every power supply, from phone chargers to industrial equipment.
 
 ---
 
