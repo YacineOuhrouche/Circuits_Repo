@@ -21,7 +21,6 @@ Each rectifier has its own folder containing:
 | Rectifier Type                | Description                                                                                      | Folder Link                                   |
 |----------------|----------------------------------------------------------------------------------------------------|----------------------------------------------------|
 | ➕ Half-Wave Rectifier        | Converts **AC** to **pulsating DC** using a single diode                       | [Half-Wave Rectifier](./Half_Wave_Rectifier)        |
-| ➕ Full-Wave Rectifier        | Converts **AC** to **pulsating DC** using center-tap transformer and 2 diodes  | [Full-Wave Rectifier](./Full_Wave_Rectifier)        |
 | ➕ Bridge Rectifier           | Converts **AC** to **pulsating DC** using 4 diodes in bridge configuration     | [Bridge Rectifier](./Bridge_Rectifier)               |
 
 
