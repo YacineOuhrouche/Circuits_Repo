@@ -17,9 +17,9 @@ They do this **without requiring any external power source**, relying only on th
 | Filter Type | Description | Link |
 |--|--|--|
 | 🎚️ Low Pass Filter | Passes low frequencies, blocks high frequencies | [Low Pass Filter](./LP_Filter/) |
-| 🎚️ High Pass Filter | Passes high frequencies, blocks low frequencies | [High Pass Filter](./HP_Filter/) |
-| 🎚️ Band Pass Filter | Passes only a specific band of frequencies | [Band Pass Filter](./BP_Filter/) |
-| 🎚️ Band Stop Filter | Blocks a specific band of frequencies | [Band Stop Filter](./BS_Filter/) |
+| 🎚️ High Pass Filter | Passes high frequencies, blocks low frequencies | [High Pass Filter](./HPF/) |
+| 🎚️ Band Pass Filter | Passes only a specific band of frequencies | [Band Pass Filter](./BPF/) |
+| 🎚️ Band Stop Filter | Blocks a specific band of frequencies | [Band Stop Filter](./BSF/) |
 
 ---
 
