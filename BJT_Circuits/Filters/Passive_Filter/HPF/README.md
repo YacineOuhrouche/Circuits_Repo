@@ -21,8 +21,6 @@ The High Pass Filter is often used to:
 
 ---
 
-
-
 ## 📐 Schematic Diagram
 
 ### Image:
@@ -48,6 +46,19 @@ A **Bode plot** is a graph used to visualize how a circuit's gain (output signal
 
 ---
 
+## 📏 Cutoff Frequency
+
+The **cutoff frequency** of the high pass filter is a critical parameter that determines the point at which the filter starts to attenuate lower frequencies. It is calculated using the formula:
+
+\[
+f_c = \frac{1}{2\pi RC}
+\]
+
+
+Above this frequency, the signal passes through with minimal attenuation, and below this frequency, the signal is increasingly attenuated.
+
+---
+
 ## 💻 Applications
 
 - Audio Processing (removing low-frequency hum)
@@ -60,5 +71,3 @@ A **Bode plot** is a graph used to visualize how a circuit's gain (output signal
 
 - **Falstad Circuit Simulator** for quick testing  
 - **Oscilloscope** to view real-world output  
-
----
