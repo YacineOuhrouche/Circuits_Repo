@@ -30,29 +30,6 @@ Filters are **essential in audio, RF communication, power supplies, and biomedic
 
 ---
 
-## 🔗 Quick Access to Filter Types
-
-### Passive Filters
-
-| Filter | Function | Link |
-|--|--|--|
-| Low Pass Filter | Passes low frequencies, blocks high frequencies | [Passive LPF](./Passive_Filter/LP_Filter/) |
-| High Pass Filter | Passes high frequencies, blocks low frequencies | [Passive HPF](./Passive_Filter/HPF/) |
-| Band Pass Filter | Passes only a specific band | [Passive BPF](./Passive_Filter/BPF/) |
-| Band Stop Filter | Blocks only a specific band | [Passive BSF](./Passive_Filter/BSF/) |
-
----
-
-### Active Filters
-
-| Filter | Function | Link |
-|--|--|--|
-| Low Pass Filter | Passes low frequencies, blocks high frequencies | [Active LPF](./Active_Filter/LPF/) |
-| High Pass Filter | Passes high frequencies, blocks low frequencies | [Active HPF](./Active_Filter/HPF/) |
-| Band Pass Filter | Passes only a specific band | [Active BPF](./Active_Filter/BPF/) |
-| Band Stop Filter | Blocks only a specific band | [Active BSF](./Active_Filter/BSF/) |
-
----
 
 ## 🧰 Key Differences: Passive vs Active Filters
 
