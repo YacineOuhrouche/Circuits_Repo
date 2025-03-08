@@ -30,6 +30,30 @@ This is a **passive RC low pass filter**, built using just:
 
 ---
 
+
+## 🌍 Cutoff Frequency Calculation
+
+The cutoff frequency of a **passive RC Low Pass Filter** is given by:
+
+
+    F_c= 1 / (2 *pi * R * C)
+
+## 📊 What is a Bode Plot?
+
+A **Bode plot** is a graph used to visualize how a circuit's gain (output signal strength) varies with frequency. It has two key components:
+
+### 📈 Magnitude Plot (dB Gain vs. Frequency)
+- Shows how much a signal is **amplified or attenuated** at different frequencies.
+- **Low frequencies** remain unaffected (**0 dB gain**).
+- **High frequencies** are attenuated (**negative dB gain**).
+
+### 🔄 Phase Plot (Phase Shift vs. Frequency)
+- Shows how the signal's **phase changes** as frequency increases.
+- At **low frequencies**, phase shift is **minimal**.
+- At the **cutoff frequency**, the phase shift is **-45°**.
+- At **high frequencies**, the phase shift approaches **-90°**.
+
+
 ## 📐 Schematic Diagram
 
 
