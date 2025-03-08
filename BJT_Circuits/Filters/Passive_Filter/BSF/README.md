@@ -46,6 +46,26 @@ A **Bode plot** is a graph used to visualize how a circuit's gain (output signal
 
 ---
 
+## 📏 Cutoff Frequencies
+
+A **Band Stop Filter** has two important cutoff frequencies:
+
+1. **Lower Cutoff Frequency** (\(f_L\)): This is the frequency below which the filter starts attenuating the signal. Frequencies lower than \(f_L\) pass through the filter with minimal attenuation.
+
+2. **Upper Cutoff Frequency** (\(f_H\)): This is the frequency above which the filter starts attenuating the signal. Frequencies higher than \(f_H\) pass through the filter with minimal attenuation.
+
+The **notch frequency** (\(f_0\)) represents the central frequency that is most attenuated (the "notch" point), and it is usually located in the middle of the stopband. The notch frequency is given by:
+
+\[
+f_0 = \sqrt{f_L \cdot f_H}
+\]
+
+Where:
+- \(f_L\) is the lower cutoff frequency.
+- \(f_H\) is the upper cutoff frequency.
+
+---
+
 ## 💻 Applications
 
 - **Power Systems** (removing 50Hz or 60Hz hum)  
@@ -58,5 +78,3 @@ A **Bode plot** is a graph used to visualize how a circuit's gain (output signal
 
 - **Falstad Circuit Simulator** for quick testing  
 - **Oscilloscope** to view real-world output  
-
----
