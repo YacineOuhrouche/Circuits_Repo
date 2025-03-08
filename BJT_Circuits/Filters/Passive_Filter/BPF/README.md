@@ -21,8 +21,6 @@ The Band Pass Filter is often used to:
 
 ---
 
-
-
 ## 📐 Schematic Diagram
 
 ### Image:
@@ -49,6 +47,32 @@ A **Bode plot** is a graph used to visualize how a circuit's gain (output signal
 
 ---
 
+## 📏 Cutoff Frequencies
+
+A **Band Pass Filter** has two important cutoff frequencies:
+
+1. **Lower Cutoff Frequency** (\(f_L\)): This is the frequency below which the filter attenuates the signal. Frequencies lower than \(f_L\) are blocked.
+
+2. **Upper Cutoff Frequency** (\(f_H\)): This is the frequency above which the filter attenuates the signal. Frequencies higher than \(f_H\) are blocked.
+
+The **bandwidth** of the filter is the difference between the upper and lower cutoff frequencies:
+
+\[
+\text{Bandwidth} = f_H - f_L
+\]
+
+The center frequency (\(f_c\)) of the filter, which is where the maximum signal passes through with no attenuation, is given by the formula:
+
+\[
+f_c = \sqrt{f_L \cdot f_H}
+\]
+
+Where:
+- \(f_L\) is the lower cutoff frequency.
+- \(f_H\) is the upper cutoff frequency.
+
+---
+
 ## 💻 Applications
 
 - **Wireless Communication** (isolating specific frequency bands)  
@@ -61,5 +85,3 @@ A **Bode plot** is a graph used to visualize how a circuit's gain (output signal
 
 - **Falstad Circuit Simulator** for quick testing  
 - **Oscilloscope** to view real-world output  
-
----
