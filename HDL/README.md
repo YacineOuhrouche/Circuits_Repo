@@ -16,7 +16,7 @@ Each folder contains:
 
 | Project | Description | Link |
 |--|--|--|
-| 🚦 Traffic Light Controller | FSM-based traffic signal system for a 4-way intersection | [Traffic Light Controller Folder](./Traffic_light_controller) |
+| 🚦 Traffic Light Controller | FSM-based traffic signal system for a 4-way intersection | [Traffic Light Controller Folder](./Traffic_Light_Controller) |
 | 🔢 4-bit ALU | Performs arithmetic and logic operations on two 4-bit operands | [4-bit ALU Folder](./4_Bit_ALU) |
 | 📦 4-bit Register | A simple 4-bit data register with load and reset control | [4-bit Register Folder](./4_Bit_register) |
 
@@ -34,7 +34,7 @@ The lights cycle through red, yellow, and green for both directions.
 - Clock-driven state transitions
 - Timing logic in Verilog
 
-👉 [Explore the Code](./Traffic_light_controller)
+👉 [Explore the Code](./Traffic_Light_Controller)
 
 ---
 
