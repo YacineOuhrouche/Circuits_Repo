@@ -24,6 +24,7 @@ Each folder contains:
 | LED Flasher | Alternating flashing LEDs using BJTs | [View Circuit](./BJT_Circuits/LED_Flasher/) |
 | Rectifier | AC-DC | [View Folder](./BJT_Circuits/Rectifier/) |
 | Filters | Filtering signals | [View Folder](./BJT_Circuits/Filters/) |
+| Current Mirror| The current in one half of the circuit to control the current flow in the other half | [View Folder](./BJT_Circuits/Current_mirror/) |
 
 
 ---
