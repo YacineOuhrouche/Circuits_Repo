@@ -64,7 +64,7 @@ Each folder contains:
 
 | Circuit | Description | Link |
 |---|---|---|
-| Traffic Light Controller |Traffic Light Intersection | [View Circuit](./HDL/Traffic_light_controller/) |
+| Traffic Light Controller |Traffic Light Intersection | [View Circuit](./HDL/Traffic_Light_Controller/) |
 | 4-Bit ALU |Capable of perfoming  arithmetic and logic | [View Circuit](./HDL/4_Bit_ALU/) |
 | 4-Bit Register |Storing a 4-bit binary value | [View Circuit](./HDL/4_bit_register/) |
 
