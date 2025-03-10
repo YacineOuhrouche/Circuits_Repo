@@ -58,7 +58,7 @@ This filter circuit is designed to pass certain frequencies while blocking other
 **Core Concepts:**  
 - **Frequency response**
 - **Signal attenuation**
-- **RC or LC filters**
+- **RC  filters**
 
 👉 [Explore the Schematic](./Filters)
 
