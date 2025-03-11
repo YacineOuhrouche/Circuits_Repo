@@ -23,9 +23,9 @@ A BJT current mirror consists of **two identical transistors (Q1 & Q2)**. The fi
 
 ![Screenshot 2025-03-10 113857](https://github.com/user-attachments/assets/d3b6eb78-95c3-4efe-af77-bef31f228eaf)
 
-*Q1 and Q2 are identical NPN transistors, such as BC547 or 2N3904.*
+*Q1 and Q2 are identical NPN transistors
 
----
+
 
 ---
 
