@@ -143,13 +143,16 @@ Clipper circuits can be classified based on the placement of the diode and addit
 
 📷 **Schematic Diagram:**
 
-![Screenshot 2025-03-14 134436](https://github.com/user-attachments/assets/005766cd-0bb0-4658-aae3-779802424ae8)
+![Screenshot 2025-03-14 140817](https://github.com/user-attachments/assets/549c97db-c8b7-44e7-9453-33d80b18cba9)
+
+
 
 
 
 🛠 **Simulation:**
 
-![Screenshot 2025-03-14 134446](https://github.com/user-attachments/assets/b3f85d36-55b8-4bcd-b482-2019628732ea)
+![Screenshot 2025-03-14 140828](https://github.com/user-attachments/assets/f89a6097-1e8c-42ee-81e0-da86148b7402)
+
 
 
 
