@@ -39,15 +39,21 @@ Clipper circuits can be classified based on the placement of the diode and addit
 
 
 ### 🔹 2. Series Negative Clipper
-📷 **Schematic Diagram:**
-
-
 
 🔹 **How It Works:**
 - Works **opposite** to the positive clipper.
 - The **negative** half of the input waveform is **clipped off**.
 - The diode is **reverse biased** during the **positive cycle**, allowing it to pass.
 - The diode **conducts** during the **negative cycle**, blocking the negative signal.
+
+📷 **Schematic Diagram:**
+
+![Screenshot 2025-03-14 124009](https://github.com/user-attachments/assets/2dd0cb28-b544-419e-bcc5-28deecda3d0f)
+
+🛠 **Simulation:**
+
+![Screenshot 2025-03-14 124025](https://github.com/user-attachments/assets/d0ea0b43-9127-46bb-95bb-c89f8aee3c0c)
+
 
 ---
 
