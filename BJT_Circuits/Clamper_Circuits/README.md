@@ -14,13 +14,20 @@ Clamper circuits can be categorized into different types based on the polarity o
 ---
 
 ## 📌 Positive Clamper Circuit
-📷 **Schematic Diagram:**
 
 🔹 **How It Works:**
 - The **diode** is placed in **parallel** with the output and conducts during the **negative half-cycle**.
 - During this time, the **capacitor** charges to the peak value of the AC signal.
 - During the **positive half-cycle**, the capacitor shifts the waveform **upward**, ensuring that the entire waveform moves **above** the zero reference level.
 
+  📷 **Schematic Diagram:**
+  
+![Screenshot 2025-03-14 141631](https://github.com/user-attachments/assets/3b721c84-44d9-4152-9890-c1f3b589f6c0)
+
+
+🛠 **Simulation:**
+
+![Screenshot 2025-03-14 141708](https://github.com/user-attachments/assets/02a92459-2a88-4c05-bfa8-0d26fdc72747)
 
 
 ## 📌 Negative Clamper Circuit
