@@ -76,7 +76,6 @@ Clipper circuits can be classified based on the placement of the diode and addit
 
 
 ### 🔹 4. Parallel Negative Clipper
-📷 **Schematic Diagram:**
 
 
 
@@ -85,6 +84,16 @@ Clipper circuits can be classified based on the placement of the diode and addit
 - The **negative** portion of the waveform is clipped.
 - The diode is **reverse biased** during the **positive cycle**, allowing the signal to pass.
 - The diode conducts during the **negative cycle**, shorting it.
+
+📷 **Schematic Diagram:**
+
+![Screenshot 2025-03-14 125543](https://github.com/user-attachments/assets/58e373cd-5423-4073-98ef-271fe1163278)
+
+
+🛠 **Simulation:**
+
+![Screenshot 2025-03-14 125605](https://github.com/user-attachments/assets/e2019a23-fea3-407a-9544-9fc3ca6f8955)
+
 
 ---
 
