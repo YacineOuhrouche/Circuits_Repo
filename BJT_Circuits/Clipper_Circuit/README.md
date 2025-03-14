@@ -59,13 +59,21 @@ Clipper circuits can be classified based on the placement of the diode and addit
 
 ## 📌 Parallel Clipper Circuits
 ### 🔹 3. Parallel Positive Clipper
-📷 **Schematic Diagram:**
-
 
 🔹 **How It Works:**
 - The diode is **in parallel** with the output load.
 - During the **positive half-cycle**, the diode conducts and acts as a **short circuit**, clipping the signal.
 - During the **negative half-cycle**, the diode is **reverse biased** and does not interfere.
+
+📷 **Schematic Diagram:**
+
+![Screenshot 2025-03-14 124819](https://github.com/user-attachments/assets/652045b6-9c80-4ff7-a410-2b5ce3024de8)
+
+🛠 **Simulation:**
+
+![Screenshot 2025-03-14 124826](https://github.com/user-attachments/assets/b97cdc56-9e02-4c8a-9d8b-a250f33368c4)
+
+
 
 ### 🔹 4. Parallel Negative Clipper
 📷 **Schematic Diagram:**
