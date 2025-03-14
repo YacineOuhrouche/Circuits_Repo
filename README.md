@@ -25,7 +25,7 @@ Each folder contains:
 | Rectifier | AC-DC | [View Folder](./BJT_Circuits/Rectifier/) |
 | Filters | Filtering signals | [View Folder](./BJT_Circuits/Filters/) |
 | Current Mirror| The current in one half of the circuit to control the current flow in the other half | [View Folder](./BJT_Circuits/Current_mirror/) |
-| Clipper Circuit | Filtering signals | [View Folder](./BJT_Circuits/Clipper_Circuit/) |
+| Clipper Circuit | "clip" portions of an AC signal without distorting the remaining waveform | [View Folder](./BJT_Circuits/Clipper_Circuit/) |
 | Clamper Circuit| The current in one half of the circuit to control the current flow in the other half | [View Folder](./BJT_Circuits/Clamper_Circuits/) |
 
 
