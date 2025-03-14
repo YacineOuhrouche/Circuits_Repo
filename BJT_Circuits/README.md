@@ -19,8 +19,8 @@ Each folder contains:
 | ⚡ Rectifier | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
 | 🔎 Filter | A simple **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters) |
 | 🔄 Current Mirror | A **BJT-based current mirror** for stable current replication | [Current Mirror Folder](./Current_mirror) |
-| ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper) |
-| 🔼 Clamper Circuit | A circuit that **shifts** the voltage level without changing its shape | [Clamper Folder](./Clamper) |
+| ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper_Circuit) |
+| 🔼 Clamper Circuit | A circuit that **shifts** the voltage level without changing its shape | [Clamper Folder](./Clamper_Circuits) |
 
 ---
 
@@ -93,7 +93,7 @@ The **Clipper Circuit** is used to **clip** voltage above or below a certain lev
 - **Voltage limiting**
 - **Signal conditioning**
 
-👉 [Explore the Schematic](./Clipper)
+👉 [Explore the Schematic](./Clipper_Circuit)
 
 ---
 
@@ -106,7 +106,7 @@ A **Clamper Circuit** shifts the DC level of a signal without distorting its wav
 - **Capacitor and diode interaction**
 - **Waveform preservation**
 
-👉 [Explore the Schematic](./Clamper)
+👉 [Explore the Schematic](./Clamper_Circuits)
 
 ---
 
