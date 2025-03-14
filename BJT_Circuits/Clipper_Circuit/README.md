@@ -134,6 +134,26 @@ Clipper circuits can be classified based on the placement of the diode and addit
 
 ---
 
+## 📌 Dual Diode Clipper Circuits
+## 📘  Voltage Limiter
+
+=
+🔹 **How It Works:**
+- A **dual-diode clipper** uses two diodes to clip both the positive and negative portions of an AC signal, effectively creating a **voltage limiter**. The output voltage is constrained within a defined threshold, protecting components from excessive voltage levels.
+
+📷 **Schematic Diagram:**
+
+![Screenshot 2025-03-14 134436](https://github.com/user-attachments/assets/005766cd-0bb0-4658-aae3-779802424ae8)
+
+
+
+🛠 **Simulation:**
+
+![Screenshot 2025-03-14 134446](https://github.com/user-attachments/assets/b3f85d36-55b8-4bcd-b482-2019628732ea)
+
+
+
+
 
 ## 📌 Applications of Clipper Circuits
 ✅ **Wave shaping** in electronics circuits.
