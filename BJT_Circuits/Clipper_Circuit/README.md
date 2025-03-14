@@ -17,7 +17,7 @@ Clipper circuits can be classified based on the placement of the diode and addit
    - Negative Biased Clipper
 4. **Combination Clippers**
    - Dual-Diode Clippers
-   - Transistor Clippers
+ 
 
 ---
 
@@ -99,35 +99,41 @@ Clipper circuits can be classified based on the placement of the diode and addit
 
 ## 📌 Biased Clipper Circuits
 ### 🔹 5. Positive Biased Clipper
-📷 **Schematic Diagram:**
-
-
 
 🔹 **How It Works:**
 - A **DC bias voltage** is added in series with the diode.
 - Only signals **above a certain voltage** get clipped.
 
-### 🔹 6. Negative Biased Clipper
 📷 **Schematic Diagram:**
+
+![Screenshot 2025-03-14 132344](https://github.com/user-attachments/assets/ee3a42a8-cea8-4a26-8401-15bf4e4b1805)
+
+
+🛠 **Simulation:**
+
+
+![Screenshot 2025-03-14 132357](https://github.com/user-attachments/assets/4438c421-5083-4646-b762-ce2c20f0c153)
+
+
+### 🔹 6. Negative Biased Clipper
+
 
 =
 🔹 **How It Works:**
 - Similar to the **positive biased** clipper but clips the **negative portion**.
-
----
-
-## 📌 Transistor Clippers
-Apart from **diode-based** clippers, **transistors** can also be used for precise clipping.
-
 📷 **Schematic Diagram:**
 
+![Screenshot 2025-03-14 132736](https://github.com/user-attachments/assets/75ed331a-7aa8-4e22-bce6-925efc0e0448)
 
 
-🔹 **How It Works:**
-- Uses **BJT or MOSFET transistors** to regulate the signal.
-- Can achieve **more precise clipping**.
+🛠 **Simulation:**
+
+![Screenshot 2025-03-14 132741](https://github.com/user-attachments/assets/2ff1f676-6238-448f-b476-3048a4c204bb)
+
+
 
 ---
+
 
 ## 📌 Applications of Clipper Circuits
 ✅ **Wave shaping** in electronics circuits.
@@ -146,7 +152,7 @@ Apart from **diode-based** clippers, **transistors** can also be used for precis
 | **Parallel Positive Clipper** | Clips the **positive** portion of the waveform |
 | **Parallel Negative Clipper** | Clips the **negative** portion of the waveform |
 | **Biased Clippers** | Clips at **specific voltage levels** |
-| **Transistor Clippers** | More **precise** clipping with transistors |
+| **Dual Diode Clippers** | More **precise** clipping  |
 
 ---
 
