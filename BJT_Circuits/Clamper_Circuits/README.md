@@ -8,8 +8,8 @@ Clamper circuits can be categorized into different types based on the polarity o
 
 1. **Positive Clamper**
 2. **Negative Clamper**
-3. **Biased Clamper** (With a DC bias voltage)
-4. **Combination Clampers**
+3. **Biased Clamper** 
+
 
 ---
 
