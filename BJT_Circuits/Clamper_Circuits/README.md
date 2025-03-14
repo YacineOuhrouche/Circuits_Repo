@@ -31,12 +31,19 @@ Clamper circuits can be categorized into different types based on the polarity o
 
 
 ## 📌 Negative Clamper Circuit
-📷 **Schematic Diagram:**
-
 
 🔹 **How It Works:**
 - The **diode is reversed**, so it **conducts during the positive half-cycle**.
 - The **capacitor charges** to the peak voltage and shifts the entire waveform **downward**, keeping the waveform below the zero reference.
+
+  📷 **Schematic Diagram:**
+  
+  ![Screenshot 2025-03-14 142140](https://github.com/user-attachments/assets/acf2074d-8f21-4526-95bc-49c29893e707)
+
+
+🛠 **Simulation:**
+
+![Screenshot 2025-03-14 142200](https://github.com/user-attachments/assets/0e3020d5-ec78-491a-85e8-366ff64d295e)
 
 ---
 
