@@ -23,16 +23,20 @@ Clipper circuits can be classified based on the placement of the diode and addit
 
 ## 📌 Series Clipper Circuits
 ### 🔹 1. Series Positive Clipper
-📷 **Schematic Diagram:**
-
-
 
 🔹 **How It Works:**
 - The diode is connected in **series** with the load.
 - During the **positive half-cycle**, the diode is **forward biased** and conducts, allowing the signal to pass.
 - During the **negative half-cycle**, the diode is **reverse biased**, and the voltage is clipped.
+  
+📷 **Schematic Diagram:**
+
+![Screenshot 2025-03-14 123712](https://github.com/user-attachments/assets/b589cff3-30eb-4cbd-aa97-275c5d808729)
 
 🛠 **Simulation:**
+
+![Screenshot 2025-03-14 123722](https://github.com/user-attachments/assets/c0e35f0e-4f00-4df5-8274-42c33b1559a9)
+
 
 ### 🔹 2. Series Negative Clipper
 📷 **Schematic Diagram:**
