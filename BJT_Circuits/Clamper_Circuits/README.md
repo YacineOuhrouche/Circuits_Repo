@@ -48,16 +48,24 @@ Clamper circuits can be categorized into different types based on the polarity o
 ---
 
 ## 📌 Biased Clamper Circuit
-📷 **Schematic Diagram:**
-
-
 
 🔹 **How It Works:**
 - A **DC bias voltage** is added in series with the **diode**.
 - This allows us to shift the waveform to a **specific DC level**.
 - Used in **TV receivers** and **oscilloscopes** to adjust signal positioning.
 
+  📷 **Schematic Diagram:**
+  
+  ![Screenshot 2025-03-14 142952](https://github.com/user-attachments/assets/b895a0ef-279e-4b06-9b55-48c56a4dada7)
+
+
+🛠 **Simulation:**
+
+![Screenshot 2025-03-14 143000](https://github.com/user-attachments/assets/32e7d8ef-dc84-44cd-ab6e-dfe32e5bde89)
+
+**There is also the Positive clamper with Negative Bias, the Negative clamper with Positive and Negative bias.
 ---
+
 
 ## 📌 Applications of Clamper Circuits
 ✅ **Waveform Shifting** – Moves signal up or down in voltage.
