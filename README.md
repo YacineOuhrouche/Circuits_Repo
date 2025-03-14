@@ -64,7 +64,7 @@ Each folder contains:
 ---
 
 
-### 🔗 5. Hardware Desccriptive Language (HDL) Section
+### 🔗 5. Hardware Descriptive Language (HDL) Section
 
 | Circuit | Description | Link |
 |---|---|---|
