@@ -98,7 +98,7 @@ Clipper circuits can be classified based on the placement of the diode and addit
 ---
 
 ## 📌 Biased Clipper Circuits
-### 🔹 5. Positive Biased Clipper
+### 🔹 5. Series Positive  Clipper with positive bias
 
 🔹 **How It Works:**
 - A **DC bias voltage** is added in series with the diode.
@@ -115,7 +115,7 @@ Clipper circuits can be classified based on the placement of the diode and addit
 ![Screenshot 2025-03-14 132357](https://github.com/user-attachments/assets/4438c421-5083-4646-b762-ce2c20f0c153)
 
 
-### 🔹 6. Negative Biased Clipper
+### 🔹 6. Serie Negative Clipper with Negative bias
 
 
 =
@@ -131,7 +131,7 @@ Clipper circuits can be classified based on the placement of the diode and addit
 ![Screenshot 2025-03-14 132741](https://github.com/user-attachments/assets/2ff1f676-6238-448f-b476-3048a4c204bb)
 
 
-
+*** There is also the positive clipper with negative bias and the Negative clipper with positive bias
 ---
 
 ## 📌 Dual Diode Clipper Circuits
