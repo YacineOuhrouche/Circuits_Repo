@@ -19,6 +19,8 @@ Each folder contains:
 | ⚡ Rectifier | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
 | 🔎 Filter | A simple **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters) |
 | 🔄 Current Mirror | A **BJT-based current mirror** for stable current replication | [Current Mirror Folder](./Current_mirror) |
+| ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper) |
+| 🔼 Clamper Circuit | A circuit that **shifts** the voltage level without changing its shape | [Clamper Folder](./Clamper) |
 
 ---
 
@@ -58,7 +60,7 @@ This filter circuit is designed to pass certain frequencies while blocking other
 **Core Concepts:**  
 - **Frequency response**
 - **Signal attenuation**
-- **RC  filters**
+- **RC filters**
 
 👉 [Explore the Schematic](./Filters)
 
@@ -78,10 +80,33 @@ The **Current Mirror** is a fundamental analog circuit used to replicate a refer
 - **Transistor matching**
 - **Active current sources**  
 
-**Circuit Schematic:**  
-
-
 👉 [Explore the Schematic](./Current_mirror)
+
+---
+
+### ✂️ Clipper Circuit
+**What It Does:**  
+The **Clipper Circuit** is used to **clip** voltage above or below a certain level using diodes. It is commonly used for wave shaping, voltage limiting, and signal conditioning.
+
+**Core Concepts:**  
+- **Diode clamping action**
+- **Voltage limiting**
+- **Signal conditioning**
+
+👉 [Explore the Schematic](./Clipper)
+
+---
+
+### 🔼 Clamper Circuit
+**What It Does:**  
+A **Clamper Circuit** shifts the DC level of a signal without distorting its waveform. It’s used in applications like signal processing and TV receiver circuits.
+
+**Core Concepts:**  
+- **DC level shifting**
+- **Capacitor and diode interaction**
+- **Waveform preservation**
+
+👉 [Explore the Schematic](./Clamper)
 
 ---
 
@@ -92,5 +117,3 @@ The **Current Mirror** is a fundamental analog circuit used to replicate a refer
 - **Breadboard** for real-world implementation  
 
 ---
-
-
