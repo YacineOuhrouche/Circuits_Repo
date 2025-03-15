@@ -78,5 +78,4 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 ## 💡 Conclusion
 Small-signal amplifiers are crucial in electronics for amplifying weak signals without distortion. Understanding their working principles helps in designing efficient analog circuits.
 
-This repository provides a practical guide to small-signal amplifiers using **NPN BJTs** with simulations and schematics.
 
