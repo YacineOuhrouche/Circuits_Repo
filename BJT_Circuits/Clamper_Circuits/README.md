@@ -27,7 +27,7 @@ Clamper circuits can be categorized into different types based on the polarity o
 
 🛠 **Simulation:**
 
-![Screenshot 2025-03-15 145625](https://github.com/user-attachments/assets/0d78c28d-262b-48ab-b6bf-cdc60f3af407)
+![Screenshot 2025-03-15 150151](https://github.com/user-attachments/assets/24593786-dc83-4bf6-988b-62adb5218fe5)
 
 
 
