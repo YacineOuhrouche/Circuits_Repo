@@ -27,6 +27,7 @@ Each folder contains:
 | Current Mirror| The current in one half of the circuit to control the current flow in the other half | [View Folder](./BJT_Circuits/Current_mirror/) |
 | Clipper Circuit | "clip" portions of an AC signal without distorting the remaining waveform | [View Folder](./BJT_Circuits/Clipper_Circuit/) |
 | Clamper Circuit| Add or subtract a DC voltage to an AC signal | [View Folder](./BJT_Circuits/Clamper_Circuits/) |
+| Small Signal Amplifier | Amplifies weak signals using **BJTs** | [Small Signal Amplifier Folder](.BJT_Circuits/Small_Signal_Amplifier) |
 
 
 
