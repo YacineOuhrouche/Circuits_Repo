@@ -33,7 +33,12 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 ### 📷 Schematic Diagram
 
+![Screenshot 2025-03-15 143407](https://github.com/user-attachments/assets/f402c8be-ce1f-4dcb-9baf-73af8304d364)
+
 ### 🛠 Simulation Result
+
+![Screenshot 2025-03-15 143419](https://github.com/user-attachments/assets/2fb35035-b8ab-46ed-b778-2dba7034d4ec)
+
 ---
 
 ## 2️⃣ Common-Collector (CC) Amplifier (Emitter Follower)
