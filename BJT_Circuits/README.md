@@ -21,6 +21,7 @@ Each folder contains:
 | 🔄 Current Mirror | A **BJT-based current mirror** for stable current replication | [Current Mirror Folder](./Current_mirror) |
 | ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper_Circuit) |
 | 🔼 Clamper Circuit | A circuit that **shifts** the voltage level without changing its shape | [Clamper Folder](./Clamper_Circuits) |
+| 📢 Small Signal Amplifier | Amplifies weak signals using **BJTs** | [Small Signal Amplifier Folder](./Small_Signal_Amplifier) |
 
 ---
 
@@ -107,6 +108,24 @@ A **Clamper Circuit** shifts the DC level of a signal without distorting its wav
 - **Waveform preservation**
 
 👉 [Explore the Schematic](./Clamper_Circuits)
+
+---
+
+### 📢 Small Signal Amplifier
+**What It Does:**  
+A **Small Signal Amplifier** is used to amplify weak signals, typically in the millivolt range, while maintaining signal integrity. It is a fundamental circuit in audio processing and sensor applications.
+
+**Types of Small Signal Amplifiers:**  
+- **Common Emitter Amplifier** – Provides voltage gain with phase inversion.
+- **Common Collector (Emitter Follower)** – Provides current gain with no phase inversion.
+- **Common Base Amplifier** – Offers high-frequency performance with voltage gain but no current gain.
+
+**Core Concepts:**  
+- **Voltage gain and current gain**
+- **Biasing and stabilization**
+- **Frequency response**
+
+👉 [Explore the Schematic](./Small_Signal_Amplifier)
 
 ---
 
