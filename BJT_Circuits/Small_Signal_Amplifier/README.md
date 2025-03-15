@@ -24,9 +24,8 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 ### 📷 Schematic Diagram
 
-
 ### 🛠 Simulation Result
-📷 **CE Amplifier Output:**
+
 
 
 ---
@@ -41,7 +40,7 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 
 ### 🛠 Simulation Result
-📷 **CC Amplifier Output:**
+
 
 ---
 
@@ -55,7 +54,7 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 
 ### 🛠 Simulation Result
-📷 **CB Amplifier Output:**
+
 
 ---
 
