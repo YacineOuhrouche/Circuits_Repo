@@ -27,7 +27,8 @@ Clamper circuits can be categorized into different types based on the polarity o
 
 🛠 **Simulation:**
 
-![Screenshot 2025-03-14 141708](https://github.com/user-attachments/assets/02a92459-2a88-4c05-bfa8-0d26fdc72747)
+![Screenshot 2025-03-15 145625](https://github.com/user-attachments/assets/0d78c28d-262b-48ab-b6bf-cdc60f3af407)
+
 
 
 ## 📌 Negative Clamper Circuit
