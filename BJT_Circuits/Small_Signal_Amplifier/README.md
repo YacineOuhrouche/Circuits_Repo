@@ -16,25 +16,38 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 ---
 
-## 📌 1. Common-Emitter (CE) Amplifier
-### 🔹 How It Works
-- The **CE amplifier** provides high voltage gain and is widely used in signal amplification.
-- The input is applied to the **base**, and the output is taken from the **collector**.
-- The signal is **inverted** at the output.
+
+## 1️⃣ Common-Emitter (CE) Amplifier
+
+### 📌 Circuit Description
+- **Input Signal:** Applied to the **base**.
+- **Output Signal:** Taken from the **collector**.
+- **Emitter:** Connected to ground (or through an emitter resistor for stability).
+- **Biasing:** Uses voltage divider biasing to maintain transistor in active region.
+- **Phase Shift:** The output is **180° out of phase** with the input.
+
+### ⚡ How It Works
+- When the **input signal increases**, the transistor conducts more, pulling the **collector voltage down**, causing **inversion**.
+- When the **input signal decreases**, the transistor conducts less, raising the **collector voltage**.
+- This results in **high voltage gain** and **moderate input impedance**.
 
 ### 📷 Schematic Diagram
 
 ### 🛠 Simulation Result
-
-
-
 ---
 
-## 📌 2. Common-Collector (CC) (Emitter Follower)
-### 🔹 How It Works
-- The **CC amplifier** has a voltage gain of ~1 but provides **high current gain**.
-- Used for **impedance matching** because it has high input impedance and low output impedance.
-- Output is **not inverted**.
+## 2️⃣ Common-Collector (CC) Amplifier (Emitter Follower)
+
+### 📌 Circuit Description
+- **Input Signal:** Applied to the **base**.
+- **Output Signal:** Taken from the **emitter**.
+- **Collector:** Connected to power supply.
+- **Phase Shift:** The output is **in-phase** with the input.
+
+### ⚡ How It Works
+- Provides **no voltage gain** but **high current gain**.
+- Acts as a **buffer**, preventing signal loss due to impedance mismatch.
+- Output voltage **follows** input voltage, making it useful for **impedance matching**.
 
 ### 📷 Schematic Diagram
 
@@ -44,11 +57,18 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 ---
 
-## 📌 3. Common-Base (CB) Amplifier
-### 🔹 How It Works
-- The **CB amplifier** provides **high-frequency response** but has **low input impedance**.
-- The input is applied to the **emitter**, and the output is taken from the **collector**.
-- There is **no phase inversion**.
+## 3️⃣ Common-Base (CB) Amplifier
+
+### 📌 Circuit Description
+- **Input Signal:** Applied to the **emitter**.
+- **Output Signal:** Taken from the **collector**.
+- **Base:** Held at a fixed voltage (common reference).
+- **Phase Shift:** The output is **in-phase** with the input.
+
+### ⚡ How It Works
+- **Low input impedance**, making it useful for **high-frequency applications**.
+- **High voltage gain**, suitable for **RF amplifiers**.
+- **No current gain** (current gain ≈ 1).
 
 ### 📷 Schematic Diagram
 
@@ -77,5 +97,15 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 ## 💡 Conclusion
 Small-signal amplifiers are crucial in electronics for amplifying weak signals without distortion. Understanding their working principles helps in designing efficient analog circuits.
+
+
+
+
+
+
+
+
+
+
 
 
