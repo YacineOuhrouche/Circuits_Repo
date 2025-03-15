@@ -62,7 +62,7 @@ Clamper circuits can be categorized into different types based on the polarity o
 
 🛠 **Simulation:**
 
-![Screenshot 2025-03-14 143000](https://github.com/user-attachments/assets/32e7d8ef-dc84-44cd-ab6e-dfe32e5bde89)
+![Screenshot 2025-03-15 145956](https://github.com/user-attachments/assets/03ea59ba-6cfb-4486-8059-5b8702c5532f)
 
 **There is also the Positive clamper with Negative Bias, the Negative clamper with Positive and Negative bias.
 ---
