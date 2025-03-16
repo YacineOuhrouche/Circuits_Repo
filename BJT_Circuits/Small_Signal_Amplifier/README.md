@@ -85,7 +85,8 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 ### 📷 Schematic Diagram
 
-![Common Base Schematic](./images/common_base.png)
+![Screenshot 2025-03-16 142007](https://github.com/user-attachments/assets/16e0f350-4979-467b-9261-5b6664ab225f)
+
 
 ---
 
