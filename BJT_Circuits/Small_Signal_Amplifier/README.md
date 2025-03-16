@@ -90,31 +90,8 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 ---
 
 
-##  4️⃣ Darlington Amplifier
 
-### 📌 Circuit Description
-- **Input Signal:** Applied to the **base** of the first transistor.
-- **Output Signal:** Taken from the **collector** of the second transistor.
-- **Configuration:** Composed of two **NPN transistors** connected in a **cascade arrangement**.
-- **Phase Shift:** The output is **inverted** with respect to the input.
-
-### ⚡ How It Works
-- The **Darlington pair** provides **very high current gain** by combining the gains of both transistors.
-- The input current to the base of the first transistor is **very small**, and the output current is much larger due to the high current gain.
-- The **voltage drop** across the Darlington pair is **higher** than a single transistor (typically around 1.4V for NPN BJTs), making it less suitable for low-voltage applications.
-- The amplifier provides **low input current**, making it ideal for applications where high input impedance is needed.
-
-### 📷 Schematic Diagram
-
-![Darlington Amplifier Schematic](./images/darlington_amplifier.png)
-
-### 🛠 Simulation Result
-
-![Simulation Result](./images/darlington_amplifier_simulation.png)
-
----
-
-## 5️⃣ Differential Amplifier
+## 4️⃣  Differential Amplifier
 
 ### 📌 Circuit Description
 - **Input Signal:** Applied to two inputs (**inverting and non-inverting**).
@@ -158,8 +135,6 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 | **Common-Collector**      | ~1        | High            | Low              | **No Inversion**   |
 | **Common-Base**           | High      | Low             | High             | **No Inversion**   |
 | **Differential Amplifier**| Medium    | Medium          | Medium           | **Depends on Input**|
-| **Darlington**            | Medium    | Low             | 360°             | **Inverted**       |
-| **Differential**          | Medium    | Very Low        | 360°             | **Instrumentation**|
 
 ---
 
