@@ -17,18 +17,33 @@ Each folder contains:
 ## 📂 Circuit Categories
 
 
-### 🔗 1.  Analog Circuits
+## 🔗 1. Analog Circuits
 
-| Circuit | Description | Link |
-|---|---|---|
-| Small Signal Amplifier | Amplifies weak signals using **BJTs** | [View Folder](./BJT_Circuits/Small_Signal_Amplifier) |
-| Power Amplifier| Used to drive speakers and other high-power loads* | [View Folder](./BJT_Circuits/Power_Amplifier) |
-| Current Mirror| The current in one half of the circuit to control the current flow in the other half | [View Folder](./BJT_Circuits/Current_mirror/) |
-| LED Flasher | Alternating flashing LEDs using BJTs | [View Circuit](./BJT_Circuits/LED_Flasher/) |
-| Rectifier | AC-DC | [View Folder](./BJT_Circuits/Rectifier/) |
-| Filters | Filtering signals | [View Folder](./BJT_Circuits/Filters/) |
-| Clipper Circuit | "clip" portions of an AC signal without distorting the remaining waveform | [View Folder](./BJT_Circuits/Clipper_Circuit/) |
-| Clamper Circuit| Add or subtract a DC voltage to an AC signal | [View Folder](./BJT_Circuits/Clamper_Circuits/) |
+### 🔹 **Analog Circuit Projects**
+
+These are more complex or application-focused circuits that involve practical.
+
+| Circuit            | Description                                                                  | Link                                              |
+|--------------------|------------------------------------------------------------------------------|---------------------------------------------------|
+| **LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation. | [View Folder](./BJT_Circuits/LED_Flasher/)       |
+
+---
+
+### 🔹 **Basic Analog Circuits**
+
+These are fundamental analog circuits, focusing on basic signal processing, voltage manipulation, and filtering.
+
+| Circuit            | Description                                                                  | Link                                              |
+|--------------------|------------------------------------------------------------------------------|---------------------------------------------------|
+| **Small Signal Amplifier** | Amplifies weak signals using **BJTs**.                                        | [View Folder](./BJT_Circuits/Small_Signal_Amplifier) |
+| **Power Amplifier** | Used to drive speakers and other high-power loads.                          | [View Folder](./BJT_Circuits/Power_Amplifier)     |
+| **Current Mirror**  | The current in one half of the circuit controls the current flow in the other half.   | [View Folder](./BJT_Circuits/Current_mirror/)      |
+| **Rectifier**       | AC-to-DC conversion circuit.                                                 | [View Folder](./BJT_Circuits/Rectifier/)          |
+| **Filters**         | Filtering signals to pass or block specific frequencies.                     | [View Folder](./BJT_Circuits/Filters/)            |
+| **Clipper Circuit** | "Clips" portions of an AC signal without distorting the remaining waveform.   | [View Folder](./BJT_Circuits/Clipper_Circuit/)    |
+| **Clamper Circuit** | Adds or subtracts a DC voltage to an AC signal.                             | [View Folder](./BJT_Circuits/Clamper_Circuits/)   |
+
+---
 
 
 ---
