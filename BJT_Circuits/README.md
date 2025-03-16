@@ -15,18 +15,62 @@ Each folder contains:
 
 | Circuit | Description | Link |
 |--|--|--|
+| 📢 Small Signal Amplifier | Amplifies weak signals using **BJTs** | [Small Signal Amplifier Folder](./Small_Signal_Amplifier) |
+| 🔊 Power Amplifier | Used to drive speakers and other high-power loads | [Power Amplifier Folder](./Power_Amplifier) |
+| 🔄 Current Mirror | A **BJT-based current mirror** for stable current replication | [Current Mirror Folder](./Current_mirror) |
 | 💡 LED Flasher | A simple alternating **LED flasher** circuit using transistors | [LED Flasher Folder](./LED_Flasher) |
 | ⚡ Rectifier | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
 | 🔎 Filter | A simple **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters) |
-| 🔄 Current Mirror | A **BJT-based current mirror** for stable current replication | [Current Mirror Folder](./Current_mirror) |
 | ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper_Circuit) |
 | 🔼 Clamper Circuit | A circuit that **shifts** the voltage level without changing its shape | [Clamper Folder](./Clamper_Circuits) |
-| 📢 Small Signal Amplifier | Amplifies weak signals using **BJTs** | [Small Signal Amplifier Folder](./Small_Signal_Amplifier) |
-| 🔊 Power Amplifier | Used to drive speakers and other high-power loads | [Power Amplifier Folder](./Power_Amplifier) |
+
 
 ---
-
 ## 📐 Circuit Overviews
+
+### 📢 Small Signal Amplifier
+**What It Does:**  
+A **Small Signal Amplifier** is used to amplify weak signals, typically in the millivolt range, while maintaining signal integrity. It is a fundamental circuit in audio processing and sensor applications.
+
+**Core Concepts:**  
+- **Voltage gain and current gain**
+- **Biasing and stabilization**
+- **Frequency response**
+
+👉 [Explore the Schematic](./Small_Signal_Amplifier)
+
+---
+## 📐 Circuit Overviews
+
+### 🔊 Power Amplifier
+
+**What It Does:**  
+Power amplifiers are designed to **amplify weak signals** from a pre-amplifier stage to a level sufficient to drive **speakers, motors, or other high-power loads**. They are commonly used in **audio systems, RF transmitters, and industrial applications**.
+
+**Core Concepts:**
+- **Power gain and efficiency**
+- **Biasing and thermal stability**
+- **Load impedance matching**
+- **Heat dissipation and thermal runaway prevention**
+
+👉 [Explore the Schematic](./Power_Amplifier)
+---
+### 🔄 Current Mirror
+**What It Does:**  
+The **Current Mirror** is a fundamental analog circuit used to replicate a reference current into another circuit branch with minimal variation. It’s widely used in **biasing circuits, active loads, and analog IC design**.
+
+**How It Works:**  
+- Uses **two matched BJTs (Q1 & Q2)**
+- **Q1 sets the reference current**, while **Q2 mirrors it**
+- Ensures **constant current flow**, independent of the load  
+
+**Core Concepts:**  
+- **Current replication**
+- **Transistor matching**
+- **Active current sources**  
+
+👉 [Explore the Schematic](./Current_mirror)
+---
 
 ### 💡 LED Flasher
 **What It Does:**  
@@ -66,23 +110,6 @@ This filter circuit is designed to pass certain frequencies while blocking other
 
 👉 [Explore the Schematic](./Filters)
 
----
-
-### 🔄 Current Mirror
-**What It Does:**  
-The **Current Mirror** is a fundamental analog circuit used to replicate a reference current into another circuit branch with minimal variation. It’s widely used in **biasing circuits, active loads, and analog IC design**.
-
-**How It Works:**  
-- Uses **two matched BJTs (Q1 & Q2)**
-- **Q1 sets the reference current**, while **Q2 mirrors it**
-- Ensures **constant current flow**, independent of the load  
-
-**Core Concepts:**  
-- **Current replication**
-- **Transistor matching**
-- **Active current sources**  
-
-👉 [Explore the Schematic](./Current_mirror)
 
 ---
 
@@ -112,38 +139,7 @@ A **Clamper Circuit** shifts the DC level of a signal without distorting its wav
 
 ---
 
-### 📢 Small Signal Amplifier
-**What It Does:**  
-A **Small Signal Amplifier** is used to amplify weak signals, typically in the millivolt range, while maintaining signal integrity. It is a fundamental circuit in audio processing and sensor applications.
 
-**Types of Small Signal Amplifiers:**  
-- **Common Emitter Amplifier** – Provides voltage gain with phase inversion.
-- **Common Collector (Emitter Follower)** – Provides current gain with no phase inversion.
-- **Common Base Amplifier** – Offers high-frequency performance with voltage gain but no current gain.
-
-**Core Concepts:**  
-- **Voltage gain and current gain**
-- **Biasing and stabilization**
-- **Frequency response**
-
-👉 [Explore the Schematic](./Small_Signal_Amplifier)
-
----
-## 📐 Circuit Overviews
-
-### 🔊 Power Amplifier
-
-**What It Does:**  
-Power amplifiers are designed to **amplify weak signals** from a pre-amplifier stage to a level sufficient to drive **speakers, motors, or other high-power loads**. They are commonly used in **audio systems, RF transmitters, and industrial applications**.
-
-**Core Concepts:**
-- **Power gain and efficiency**
-- **Biasing and thermal stability**
-- **Load impedance matching**
-- **Heat dissipation and thermal runaway prevention**
-
-👉 [Explore the Schematic](./Power_Amplifier)
----
 
 ## 🛠️ Tools Used
 
