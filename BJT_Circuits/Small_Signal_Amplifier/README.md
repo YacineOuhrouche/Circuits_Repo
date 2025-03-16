@@ -13,9 +13,8 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 1. **Common-Emitter (CE) Amplifier** – High voltage & current gain
 2. **Common-Collector (CC) (Emitter Follower)** – Buffer, impedance matching
 3. **Common-Base (CB) Amplifier** – High-frequency applications
-4. **Differential Amplifier** – Used for signal amplification with noise rejection
-5.  **Darlington Amplifier** – High current gain, low input current
-6. **Differential Amplifier** – High common-mode rejection, used in instrumentation
+4.  **Darlington Amplifier** – High current gain, low input current
+5. **Differential Amplifier** – High common-mode rejection, used in instrumentation
 
 ---
 
