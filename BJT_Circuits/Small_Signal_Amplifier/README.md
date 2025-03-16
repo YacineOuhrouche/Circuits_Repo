@@ -101,13 +101,14 @@ Small-signal amplifiers can be classified based on their transistor configuratio
   
 - The circuit is designed to amplify the **difference** between two input signals, making it highly sensitive to small voltage variations.
 
+
 ### 📷 Schematic Diagram
 
-![Differential Amplifier Schematic](./images/differential_amplifier.png)
+![Screenshot 2025-03-16 195308](https://github.com/user-attachments/assets/811e2921-4e81-4754-a15c-9f6cb4da79d8)
 
 ### 🛠 Simulation Result
 
-![Simulation Result](./images/differential_amplifier_simulation.png)
+![Screenshot 2025-03-16 195315](https://github.com/user-attachments/assets/207c09d2-28bf-49b4-9341-a7979498fc0f)
 
 ---
 
