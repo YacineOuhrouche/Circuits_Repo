@@ -95,6 +95,29 @@ Power amplifiers are classified based on their conduction angle and efficiency:
 
 
 ---
+##  5 Darlington Amplifier
+
+### 📌 Circuit Description
+- **Input Signal:** Applied to the **base** of the first transistor.
+- **Output Signal:** Taken from the **collector** of the second transistor.
+- **Configuration:** Composed of two **NPN transistors** connected in a **cascade arrangement**.
+- **Phase Shift:** The output is **inverted** with respect to the input.
+
+### ⚡ How It Works
+- The **Darlington pair** provides **very high current gain** by combining the gains of both transistors.
+- The input current to the base of the first transistor is **very small**, and the output current is much larger due to the high current gain.
+- The **voltage drop** across the Darlington pair is **higher** than a single transistor (typically around 1.4V for NPN BJTs), making it less suitable for low-voltage applications.
+- The amplifier provides **low input current**, making it ideal for applications where high input impedance is needed.
+
+### 📷 Schematic Diagram
+
+![Darlington Amplifier Schematic](./images/darlington_amplifier.png)
+
+### 🛠 Simulation Result
+
+![Simulation Result](./images/darlington_amplifier_simulation.png)
+
+---
 
 
 
