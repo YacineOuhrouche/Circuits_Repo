@@ -13,6 +13,7 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 1. **Common-Emitter (CE) Amplifier** – High voltage & current gain
 2. **Common-Collector (CC) (Emitter Follower)** – Buffer, impedance matching
 3. **Common-Base (CB) Amplifier** – High-frequency applications
+4. **Differential Amplifier** – Used for signal amplification with noise rejection
 
 ---
 
@@ -29,13 +30,14 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 - When the **input signal increases**, the transistor conducts more current, increasing the voltage drop across the collector resistor, which **lowers the collector voltage**.
 - When the **input signal decreases**, the transistor conducts less, decreasing the voltage drop across the collector resistor, which **raises the collector voltage**.
 - This results in **high voltage gain** because small variations in the base voltage cause large variations at the collector.
+
 ### 📷 Schematic Diagram
 
-![Screenshot 2025-03-15 143407](https://github.com/user-attachments/assets/f402c8be-ce1f-4dcb-9baf-73af8304d364)
+![Common Emitter Schematic](./images/common_emitter.png)
 
 ### 🛠 Simulation Result
 
-![Screenshot 2025-03-15 143419](https://github.com/user-attachments/assets/2fb35035-b8ab-46ed-b778-2dba7034d4ec)
+![Simulation Result](./images/common_emitter_simulation.png)
 
 ---
 
@@ -54,12 +56,12 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 ### 📷 Schematic Diagram
 
-![Screenshot 2025-03-16 121116](https://github.com/user-attachments/assets/24038ea2-df28-49e8-9695-6148bd5b54e8)
-
+![Common Collector Schematic](./images/common_collector.png)
 
 ### 🛠 Simulation Result
 
-![Screenshot 2025-03-16 121122](https://github.com/user-attachments/assets/ef6def36-dcec-436a-982f-a1787d3b0045)
+![Simulation Result](./images/common_collector_simulation.png)
+
 ---
 
 ## 3️⃣ Common-Base (CB) Amplifier
@@ -74,7 +76,38 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 - The **low input impedance** allows it to efficiently handle **high-frequency signals**.
 - It provides **high voltage gain** but **no current gain** (current gain ≈ 1).
 - The **base is fixed**, so variations in the emitter voltage directly affect the collector voltage.
-  
+
+### 📷 Schematic Diagram
+
+![Common Base Schematic](./images/common_base.png)
+
+### 🛠 Simulation Result
+
+![Simulation Result](./images/common_base_simulation.png)
+
+---
+
+## 4️⃣ Differential Amplifier
+
+### 📌 Circuit Description
+- **Input Signal:** Applied to two inputs (**inverting and non-inverting**).
+- **Output Signal:** The difference between the two inputs is amplified.
+- **Configuration:** Uses **two identical transistors** sharing a common emitter resistor.
+- **Phase Shift:** Output depends on the relative input signals.
+
+### ⚡ How It Works
+- The differential amplifier **rejects common-mode noise**, making it ideal for precision applications.
+- If both inputs receive the same signal, the output remains **zero** (common-mode rejection).
+- If one input receives a signal while the other is grounded, the circuit functions as a **single-ended amplifier**.
+- Used in **op-amp input stages, signal conditioning, and instrumentation amplifiers**.
+
+### 📷 Schematic Diagram
+
+![Differential Amplifier Schematic](./images/differential_amplifier.png)
+
+### 🛠 Simulation Result
+
+![Simulation Result](./images/differential_amplifier_simulation.png)
 
 ---
 
@@ -83,6 +116,7 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 ✅ **Sensor signal processing** – Amplifies weak signals from temperature and motion sensors.
 ✅ **RF communication** – Used in radio frequency circuits for signal amplification.
 ✅ **Impedance matching** – Ensures maximum power transfer in electronic circuits.
+✅ **Differential amplification** – Used in precision and instrumentation applications.
 
 ---
 
@@ -92,8 +126,9 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 | **Common-Emitter** | High | Medium | Medium | **Inverted** |
 | **Common-Collector** | ~1 | High | Low | **No Inversion** |
 | **Common-Base** | High | Low | High | **No Inversion** |
+| **Differential Amplifier** | Medium | Medium | Medium | **Depends on Input** |
 
 ---
 
 ## 💡 Conclusion
-Small-signal amplifiers are crucial in electronics for amplifying weak signals without distortion. Understanding their working pprinciples helps in designing efficient analog circuits.
+Small-signal amplifiers are crucial in electronics for amplifying weak signals without distortion. Understanding their working principles helps in designing efficient analog circuits.
