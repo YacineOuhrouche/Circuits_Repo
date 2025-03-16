@@ -1,4 +1,4 @@
-# 🔊 Power Amplifiers Using BJT & MOSFET
+# 🔊 Power Amplifiers Using BJT 
 
 ## ✨ Introduction
 Power amplifiers are designed to drive high-power loads such as speakers, motors, or RF transmitters. Unlike small-signal amplifiers, which focus on signal integrity, power amplifiers prioritize **efficiency, power handling, and heat dissipation**.
