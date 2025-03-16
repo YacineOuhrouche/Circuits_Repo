@@ -8,8 +8,8 @@ This is where I document circuits I’ve designed and simulated throughout my **
 
 Each folder contains:
 
-✅ Circuit Schematic (PNG/PDF)  
-✅ Simulation Files (LTspice, Falstad, Proteus)  
+✅ Circuit Schematic (PNG) 
+✅ Simulation Files (LTspice, Falstad)  
 ✅ Explanation (How It Works)  
 
 ---
