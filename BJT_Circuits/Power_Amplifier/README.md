@@ -95,45 +95,7 @@ Power amplifiers are classified based on their conduction angle and efficiency:
 
 ---
 
-## 5️⃣ Darlington Power Amplifier
 
-### 📌 Circuit Description
-- Uses **two transistors in cascade**.
-- Provides **high current gain**, reducing required input current.
-- Used in **high-current switching applications**.
-
-### ⚡ How It Works
-- The first transistor amplifies the signal and **drives the second transistor**.
-- The combined gain is **β_total = β1 × β2**.
-- Used in **motor drivers, power regulators, and audio amplifiers**.
-
-### 📷 Schematic Diagram
-
-
-### 🛠 Simulation Result
-
-
----
-
-## 6️⃣ Differential Power Amplifier
-
-### 📌 Circuit Description
-- Uses **two identical transistors** to amplify the difference between inputs.
-- Provides **high common-mode rejection ratio (CMRR)**.
-- Used in **instrumentation and balanced audio circuits**.
-
-### ⚡ How It Works
-- The **difference between inputs** is amplified.
-- Common-mode signals are rejected, reducing noise.
-- Often used as the **first stage of operational amplifiers**.
-
-### 📷 Schematic Diagram
-_
-
-### 🛠 Simulation Result
-
-
----
 
 ## 📌 Summary Table
 | Amplifier Type | Efficiency | Distortion | Conduction Angle | Application |
