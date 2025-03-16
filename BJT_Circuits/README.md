@@ -40,7 +40,7 @@ A **Small Signal Amplifier** is used to amplify weak signals, typically in the m
 👉 [Explore the Schematic](./Small_Signal_Amplifier)
 
 ---
-## 📐 Circuit Overviews
+
 
 ### 🔊 Power Amplifier
 
