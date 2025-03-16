@@ -15,10 +15,10 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - **Cons**: Low efficiency (~25%-30%), high power dissipation.
 
 📷 **Circuit Diagram:**  
-![Class A Amplifier](./images/class_a_amplifier.png)
+
 
 🛠 **Simulation Result:**  
-![Simulation](./images/class_a_simulation.png)
+
 
 ---
 
@@ -28,10 +28,10 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - **Cons**: Crossover distortion at **zero crossing**.
 
 📷 **Circuit Diagram:**  
-![Class B Amplifier](./images/class_b_amplifier.png)
+
 
 🛠 **Simulation Result:**  
-![Simulation](./images/class_b_simulation.png)
+
 
 ---
 
@@ -41,10 +41,10 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - **Cons**: Requires careful biasing.
 
 📷 **Circuit Diagram:**  
-![Class AB Amplifier](./images/class_ab_amplifier.png)
+
 
 🛠 **Simulation Result:**  
-![Simulation](./images/class_ab_simulation.png)
+
 
 ---
 
@@ -54,10 +54,10 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - **Cons**: Requires filtering to remove switching noise.
 
 📷 **Circuit Diagram:**  
-![Class D Amplifier](./images/class_d_amplifier.png)
+
 
 🛠 **Simulation Result:**  
-![Simulation](./images/class_d_simulation.png)
+
 
 ---
 
@@ -69,10 +69,10 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - **Solves** the low-efficiency issue of Class A but introduces **crossover distortion**.
 
 📷 **Circuit Diagram:**  
-![Push-Pull Amplifier](./images/push_pull_amplifier.png)
+
 
 🛠 **Simulation Result:**  
-![Simulation](./images/push_pull_simulation.png)
+
 
 ---
 
@@ -81,10 +81,10 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - Common in **Class A & AB amplifiers**.
 
 📷 **Circuit Diagram:**  
-![Darlington Amplifier](./images/darlington_amplifier.png)
+
 
 🛠 **Simulation Result:**  
-![Simulation](./images/darlington_simulation.png)
+
 
 ---
 
@@ -108,4 +108,4 @@ Understanding **power amplifier classes** and their circuit implementations allo
 
 ---
 
-📌 **Next Steps**: Try simulating these circuits using **LTSpice**, **Proteus**, or **Multisim** to visualize their performance! 🚀
+
