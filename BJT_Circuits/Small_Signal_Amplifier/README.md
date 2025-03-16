@@ -76,11 +76,6 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 - It provides **high voltage gain** but **no current gain** (current gain ≈ 1).
 - The **base is fixed**, so variations in the emitter voltage directly affect the collector voltage.
   
-### 📷 Schematic Diagram
-
-
-### 🛠 Simulation Result
-
 
 ---
 
