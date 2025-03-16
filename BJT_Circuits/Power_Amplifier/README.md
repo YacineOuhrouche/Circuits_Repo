@@ -14,9 +14,6 @@ Power amplifiers are classified based on their conduction angle and efficiency:
 2. **Class B Amplifier** – Higher efficiency, crossover distortion
 3. **Class AB Amplifier** – Balanced efficiency and distortion
 4. **Push-Pull Amplifier** – Reduces even harmonics, used in audio
-5. **Darlington Amplifier** – High current gain, low input current
-6. **Differential Amplifier** – High common-mode rejection, used in instrumentation
-
 ---
 
 ## 1️⃣ Class A Power Amplifier
@@ -145,8 +142,6 @@ _
 | **Class B** | High (~78%) | Crossover Distortion | 180° | RF, audio |
 | **Class AB** | Medium (~50-70%) | Low | >180° | Audio, power stages |
 | **Push-Pull** | High | Low | 180° | Audio, RF |
-| **Darlington** | Medium | Low | 360° | High-current circuits |
-| **Differential** | Medium | Very Low | 360° | Instrumentation |
 
 ---
 
