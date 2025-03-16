@@ -89,19 +89,48 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 ---
 
-## 4️⃣ Differential Amplifier
+
+##  4️⃣ Darlington Amplifier
+
+### 📌 Circuit Description
+- **Input Signal:** Applied to the **base** of the first transistor.
+- **Output Signal:** Taken from the **collector** of the second transistor.
+- **Configuration:** Composed of two **NPN transistors** connected in a **cascade arrangement**.
+- **Phase Shift:** The output is **inverted** with respect to the input.
+
+### ⚡ How It Works
+- The **Darlington pair** provides **very high current gain** by combining the gains of both transistors.
+- The input current to the base of the first transistor is **very small**, and the output current is much larger due to the high current gain.
+- The **voltage drop** across the Darlington pair is **higher** than a single transistor (typically around 1.4V for NPN BJTs), making it less suitable for low-voltage applications.
+- The amplifier provides **low input current**, making it ideal for applications where high input impedance is needed.
+
+### 📷 Schematic Diagram
+
+![Darlington Amplifier Schematic](./images/darlington_amplifier.png)
+
+### 🛠 Simulation Result
+
+![Simulation Result](./images/darlington_amplifier_simulation.png)
+
+---
+
+## 5️⃣ Differential Amplifier
 
 ### 📌 Circuit Description
 - **Input Signal:** Applied to two inputs (**inverting and non-inverting**).
 - **Output Signal:** The difference between the two inputs is amplified.
 - **Configuration:** Uses **two identical transistors** sharing a common emitter resistor.
-- **Phase Shift:** Output depends on the relative input signals.
+- **Phase Shift:** The output depends on the **relative input signals**.
 
 ### ⚡ How It Works
 - The differential amplifier **rejects common-mode noise**, making it ideal for precision applications.
 - If both inputs receive the same signal, the output remains **zero** (common-mode rejection).
 - If one input receives a signal while the other is grounded, the circuit functions as a **single-ended amplifier**.
 - Used in **op-amp input stages, signal conditioning, and instrumentation amplifiers**.
+  
+  - **Common-Mode Rejection Ratio (CMRR)**: This measures the ability of the amplifier to reject signals that are common to both inputs (i.e., noise).
+  
+- The circuit is designed to amplify the **difference** between two input signals, making it highly sensitive to small voltage variations.
 
 ### 📷 Schematic Diagram
 
@@ -114,26 +143,26 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 ---
 
 ## 📌 Applications of Small-Signal Amplifiers
-✅ **Audio amplification** – Used in microphones, speakers, and hearing aids.
-✅ **Sensor signal processing** – Amplifies weak signals from temperature and motion sensors.
-✅ **RF communication** – Used in radio frequency circuits for signal amplification.
-✅ **Impedance matching** – Ensures maximum power transfer in electronic circuits.
-✅ **Differential amplification** – Used in precision and instrumentation applications.
+✅ **Audio amplification** – Used in microphones, speakers, and hearing aids.  
+✅ **Sensor signal processing** – Amplifies weak signals from temperature and motion sensors.  
+✅ **RF communication** – Used in radio frequency circuits for signal amplification.  
+✅ **Impedance matching** – Ensures maximum power transfer in electronic circuits.  
+✅ **Differential amplification** – Used in precision and instrumentation applications.  
 
 ---
 
 ## 📌 Summary Table
-| Amplifier Type | Gain | Input Impedance | Output Impedance | Phase Shift |
-|---------------|------|----------------|-----------------|------------|
-| **Common-Emitter** | High | Medium | Medium | **Inverted** |
-| **Common-Collector** | ~1 | High | Low | **No Inversion** |
-| **Common-Base** | High | Low | High | **No Inversion** |
-| **Differential Amplifier** | Medium | Medium | Medium | **Depends on Input** |
-| **Darlington** | Medium | Low | 360° | High-current circuits |
-| **Differential** | Medium | Very Low | 360° | Instrumentation |
-
+| Amplifier Type           | Gain      | Input Impedance | Output Impedance | Phase Shift        |
+|--------------------------|-----------|-----------------|------------------|--------------------|
+| **Common-Emitter**        | High      | Medium          | Medium           | **Inverted**       |
+| **Common-Collector**      | ~1        | High            | Low              | **No Inversion**   |
+| **Common-Base**           | High      | Low             | High             | **No Inversion**   |
+| **Differential Amplifier**| Medium    | Medium          | Medium           | **Depends on Input**|
+| **Darlington**            | Medium    | Low             | 360°             | **Inverted**       |
+| **Differential**          | Medium    | Very Low        | 360°             | **Instrumentation**|
 
 ---
 
 ## 💡 Conclusion
-Small-signal amplifiers are crucial in electronics for amplifying weak signals without distortion. Understanding their working principles helps in designing efficient analog circuits.
+Small-signal amplifiers are crucial in electronics for amplifying weak signals without distortion. Understanding their working principles helps in designing efficient analog circuits. 
+
