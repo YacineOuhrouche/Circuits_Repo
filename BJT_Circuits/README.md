@@ -22,6 +22,7 @@ Each folder contains:
 | ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper_Circuit) |
 | 🔼 Clamper Circuit | A circuit that **shifts** the voltage level without changing its shape | [Clamper Folder](./Clamper_Circuits) |
 | 📢 Small Signal Amplifier | Amplifies weak signals using **BJTs** | [Small Signal Amplifier Folder](./Small_Signal_Amplifier) |
+| 🔊 Power Amplifier | Used to drive speakers and other high-power loads | [Power Amplifier Folder](./Power_Amplifier) |
 
 ---
 
@@ -127,6 +128,21 @@ A **Small Signal Amplifier** is used to amplify weak signals, typically in the m
 
 👉 [Explore the Schematic](./Small_Signal_Amplifier)
 
+---
+## 📐 Circuit Overviews
+
+### 🔊 Power Amplifier
+
+**What It Does:**  
+Power amplifiers are designed to **amplify weak signals** from a pre-amplifier stage to a level sufficient to drive **speakers, motors, or other high-power loads**. They are commonly used in **audio systems, RF transmitters, and industrial applications**.
+
+**Core Concepts:**
+- **Power gain and efficiency**
+- **Biasing and thermal stability**
+- **Load impedance matching**
+- **Heat dissipation and thermal runaway prevention**
+
+👉 [Explore the Schematic](./Power_Amplifier)
 ---
 
 ## 🛠️ Tools Used
