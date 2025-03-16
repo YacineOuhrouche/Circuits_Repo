@@ -129,6 +129,9 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 | **Common-Collector** | ~1 | High | Low | **No Inversion** |
 | **Common-Base** | High | Low | High | **No Inversion** |
 | **Differential Amplifier** | Medium | Medium | Medium | **Depends on Input** |
+| **Darlington** | Medium | Low | 360° | High-current circuits |
+| **Differential** | Medium | Very Low | 360° | Instrumentation |
+
 
 ---
 
