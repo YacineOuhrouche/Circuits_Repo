@@ -82,8 +82,12 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 📷 **Circuit Diagram:**  
 
+![Screenshot 2025-03-17 115559](https://github.com/user-attachments/assets/2cd08b18-d202-4b1b-acd5-21570a7784c7)
 
 🛠 **Simulation Result:**  
+-We can see the distortion in the output waveform.
+
+![Screenshot 2025-03-17 115928](https://github.com/user-attachments/assets/7ff9a35c-b7af-4970-95b4-7fd17f592b84)
 
 
 ---
