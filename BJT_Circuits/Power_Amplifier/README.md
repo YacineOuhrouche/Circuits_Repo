@@ -16,9 +16,21 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 📷 **Circuit Diagram:**  
 
+![Screenshot 2025-03-15 143407](https://github.com/user-attachments/assets/4839f91c-5fee-49e4-8de7-0924c3f6d55e)
 
 🛠 **Simulation Result:**  
 
+![Screenshot 2025-03-15 143419](https://github.com/user-attachments/assets/43a1d68f-62c3-4b94-a088-7d8caf0e276b)
+
+💡 **Ways to Improve Efficiency:**
+- Use a **transformer-coupled load** instead of a resistive load to achieve up to **50% efficiency**.
+- Implement **heat sinks** to manage power dissipation.
+- Optimize **biasing** to reduce unnecessary power loss.
+  
+📷  **transformer-coupled load**
+
+![Screenshot 2025-03-17 112422](https://github.com/user-attachments/assets/cd3f6575-4c67-49eb-962e-15aa2e981320)
+![Screenshot 2025-03-17 112429](https://github.com/user-attachments/assets/a4f6c720-e498-48f5-be42-27892b1925c3)
 
 ---
 
