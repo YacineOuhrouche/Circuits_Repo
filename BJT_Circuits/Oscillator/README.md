@@ -21,6 +21,9 @@ RC oscillators use resistors and capacitors to determine the oscillation frequen
 - Uses three RC networks to produce 180° phase shift.
 - Requires positive feedback for sustained oscillations.
 - Operates in the audio frequency range.
+- To calcultate the frequency you want to generate, use this formula:
+-  f = 1/(2*pi*R*C*sqrt(2*n))
+
 
 📷 Circuit Diagram:
 
