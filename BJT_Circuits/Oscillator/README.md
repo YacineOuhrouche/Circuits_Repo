@@ -1,4 +1,4 @@
-# ⏳ Oscillator Circuits Repository
+# ⏳ Oscillator Circuits
 
 ## 📢 Introduction
 
