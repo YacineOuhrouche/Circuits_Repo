@@ -108,7 +108,10 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 ![Screenshot 2025-03-17 122542](https://github.com/user-attachments/assets/c991fe2c-4bf4-4c55-87f2-62ced3e1098a)
 
-🛠 **Simulation Result:**  
+📷 **Circuit Diagram: Class B Amplifier**  
+
+![Screenshot 2025-03-17 123725](https://github.com/user-attachments/assets/b8e17502-68a0-4302-89ef-c7acd309c321)
+
 
 ---
 
