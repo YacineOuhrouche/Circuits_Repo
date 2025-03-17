@@ -94,8 +94,9 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 These circuits were simulated and tested using:
 
 - [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)
-- [Proteus](https://www.labcenter.com/)
 - [Falstad Circuit Simulator](https://www.falstad.com/circuit/)
+- [Fritzing](https://fritzing.org/)
+  
 
 ---
 
