@@ -76,16 +76,6 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 ---
 
-### 5⃣ **Class D Amplifier** (Switching Mode, High Efficiency)
-- **How it Works**: Uses **PWM (Pulse Width Modulation)** and switching transistors.
-- **Pros**: **Very high efficiency (~90%+), low heat dissipation**.
-- **Cons**: Requires filtering to remove switching noise.
-
-📷 **Circuit Diagram:**  
-
-🛠 **Simulation Result:**  
-
----
 
 ## 🔹 Implementation Circuits
 
@@ -128,7 +118,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 | **Class B** | ~70% | High (Crossover) | Medium | RF, PA systems |
 | **Class AB** | ~50-70% | Low | Medium | Audio, Power amps |
 | **Class C** | ~80% | High | Low | RF transmission |
-| **Class D** | ~90%+ | PWM artifacts | Low | Subwoofers, Wireless |
+
 
 ---
 
@@ -139,6 +129,6 @@ Understanding **power amplifier classes** and their circuit implementations allo
 👉 **Class B** – Efficient, but has crossover distortion.  
 👉 **Class AB** – Best balance between distortion and efficiency.  
 👉 **Class C** – High efficiency, used in RF applications.  
-👉 **Class D** – Best for high-power, low-heat applications.
+
 
 ---
