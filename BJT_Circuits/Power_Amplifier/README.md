@@ -71,7 +71,8 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 📷 **Circuit Diagram:**  
 
-🛠 **Simulation Result:**  
+![Screenshot 2025-03-17 134249](https://github.com/user-attachments/assets/2ec7566e-b544-4166-a67c-27140c80ce71)
+
 
 ---
 
