@@ -1,4 +1,4 @@
-# 🎧 Power Amplifiers with BJTs
+![Screenshot 2025-03-17 130354](https://github.com/user-attachments/assets/86e6de31-5cdb-4d8f-b712-6a489f2b1e74)# 🎧 Power Amplifiers with BJTs
 
 ## ✨ Introduction
 Power amplifiers are essential in audio systems, RF transmission, and motor control, where they boost small signals to **high power levels** to drive **speakers, actuators, and high-current loads**.
@@ -41,10 +41,13 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 📷 **Circuit Diagram:**  
 
-![Screenshot 2025-03-17 124436](https://github.com/user-attachments/assets/edaad9a4-239f-4ab0-a648-61aae787bfd2)
+![Screenshot 2025-03-17 130349](https://github.com/user-attachments/assets/51907f41-0644-4039-95b7-8cfdb8b5b217)
 
+🛠 **Simulation Result:**  
 
+![Uploading Screenshot 2025-03-17 130354.png…]()
 ---
+
 
 ### 3⃣ **Class AB Amplifier** (Balanced Performance)
 - **How it Works**: Uses **slight biasing** to keep both transistors slightly on, reducing crossover distortion.
