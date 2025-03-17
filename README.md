@@ -25,7 +25,7 @@ These are more complex or application-focused circuits that involve practical.
 
 | Circuit            | Description                                                                  | Link                                              |
 |--------------------|------------------------------------------------------------------------------|---------------------------------------------------|
-| **LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation. | [View Folder](./BJT_Circuits/LED_Flasher/)       |
+| **LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation. | [View Folder](./Circuit_Project/LED_Flasher/)       |
 
 ---
 
