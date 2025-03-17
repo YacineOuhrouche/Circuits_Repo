@@ -1,4 +1,4 @@
-l# 🎧 Power Amplifiers with BJTs
+# 🎧 Power Amplifiers with BJTs
 
 ## ✨ Introduction
 Power amplifiers are essential in audio systems, RF transmission, and motor control, where they boost small signals to **high power levels** to drive **speakers, actuators, and high-current loads**.
