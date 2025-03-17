@@ -1,4 +1,4 @@
-![Screenshot 2025-03-17 130354](https://github.com/user-attachments/assets/86e6de31-5cdb-4d8f-b712-6a489f2b1e74)# 🎧 Power Amplifiers with BJTs
+# 🎧 Power Amplifiers with BJTs
 
 ## ✨ Introduction
 Power amplifiers are essential in audio systems, RF transmission, and motor control, where they boost small signals to **high power levels** to drive **speakers, actuators, and high-current loads**.
@@ -45,7 +45,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 🛠 **Simulation Result:**  
 
-![Uploading Screenshot 2025-03-17 130354.png…]()
+![Screenshot 2025-03-17 130354](https://github.com/user-attachments/assets/86e6de31-5cdb-4d8f-b712-6a489f2b1e74)
 ---
 
 
