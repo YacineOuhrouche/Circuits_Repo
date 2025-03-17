@@ -17,6 +17,7 @@ Each folder contains:
 |--|--|--|
 | 📢 Small Signal Amplifier | Amplifies weak signals using **BJTs** | [Small Signal Amplifier Folder](./Small_Signal_Amplifier) |
 | 🔊 Power Amplifier | Used to drive speakers and other high-power loads | [Power Amplifier Folder](./Power_Amplifier) |
+| 🌀 Oscillator Circuit | Generates a continuous periodic waveform, typically for use in signal generation | [Oscillator Folder](./Oscillator) |
 | 🔄 Current Mirror | A **BJT-based current mirror** for stable current replication | [Current Mirror Folder](./Current_mirror) |
 | 💡 LED Flasher | An alternating **LED flasher** circuit using transistors | [LED Flasher Folder](./LED_Flasher) |
 | ⚡ Rectifier | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
@@ -26,6 +27,7 @@ Each folder contains:
 
 
 ---
+
 ## 📐 Circuit Overviews
 
 ### 📢 Small Signal Amplifier
@@ -41,9 +43,7 @@ A **Small Signal Amplifier** is used to amplify weak signals, typically in the m
 
 ---
 
-
 ### 🔊 Power Amplifier
-
 **What It Does:**  
 Power amplifiers are designed to **amplify weak signals** from a pre-amplifier stage to a level sufficient to drive **speakers, motors, or other high-power loads**. They are commonly used in **audio systems, RF transmitters, and industrial applications**.
 
@@ -54,6 +54,19 @@ Power amplifiers are designed to **amplify weak signals** from a pre-amplifier s
 - **Heat dissipation and thermal runaway prevention**
 
 👉 [Explore the Schematic](./Power_Amplifier)
+
+---
+
+### 🌀 Oscillator Circuit
+**What It Does:**  
+An **Oscillator Circuit** generates a continuous periodic waveform, typically used in signal generation for clocks, audio, or radio frequency applications.
+
+**Core Concepts:**  
+- **Frequency generation**
+- **Positive feedback**
+- **Waveform shaping (sine, square, triangular waves)**
+
+👉 [Explore the Schematic](./Oscillator_Circuit)
 ---
 ### 🔄 Current Mirror
 **What It Does:**  
@@ -70,6 +83,7 @@ The **Current Mirror** is a fundamental analog circuit used to replicate a refer
 - **Active current sources**  
 
 👉 [Explore the Schematic](./Current_mirror)
+
 ---
 
 ### 💡 LED Flasher
@@ -110,7 +124,6 @@ This filter circuit is designed to pass certain frequencies while blocking other
 
 👉 [Explore the Schematic](./Filters)
 
-
 ---
 
 ### ✂️ Clipper Circuit
@@ -137,9 +150,8 @@ A **Clamper Circuit** shifts the DC level of a signal without distorting its wav
 
 👉 [Explore the Schematic](./Clamper_Circuits)
 
+
 ---
-
-
 
 ## 🛠️ Tools Used
 
@@ -147,4 +159,4 @@ A **Clamper Circuit** shifts the DC level of a signal without distorting its wav
 - **Falstad Circuit Simulator** for quick online testing  
 - **Breadboard** for real-world implementation  
 
----
+--- 
