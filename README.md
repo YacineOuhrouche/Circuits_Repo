@@ -37,7 +37,7 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 |--------------------|------------------------------------------------------------------------------|---------------------------------------------------|
 | **Small Signal Amplifier** | Amplifies weak signals using **BJTs**.                                        | [View Folder](./BJT_Circuits/Small_Signal_Amplifier) |
 | **Power Amplifier** | Used to drive speakers and other high-power loads.                          | [View Folder](./BJT_Circuits/Power_Amplifier)     |
-| **Oscillator Circuit** | Generates a continuous periodic waveform, typically for use in signal generation | [Oscillator Folder](./BJT_Circuits/Oscillator) |
+| **Oscillator Circuit** | Generates a continuous periodic waveform, typically for use in signal generation | [View Folder](./BJT_Circuits/Oscillator) |
 | **Current Mirror**  | The current in one half of the circuit controls the current flow in the other half.   | [View Folder](./BJT_Circuits/Current_mirror/)      |
 | **Rectifier**       | AC-to-DC conversion circuit.                                                 | [View Folder](./BJT_Circuits/Rectifier/)          |
 | **Filters**         | Filtering signals to pass or block specific frequencies.                     | [View Folder](./BJT_Circuits/Filters/)            |
