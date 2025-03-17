@@ -27,7 +27,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - Implement **heat sinks** to manage power dissipation.
 - Optimize **biasing** to reduce unnecessary power loss.
   
-📷  **transformer-coupled load**
+📷  **Circuit Diagram: transformer-coupled load**
 
 ![Screenshot 2025-03-17 112422](https://github.com/user-attachments/assets/cd3f6575-4c67-49eb-962e-15aa2e981320)
 ![Screenshot 2025-03-17 112429](https://github.com/user-attachments/assets/a4f6c720-e498-48f5-be42-27892b1925c3)
@@ -39,7 +39,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - **Pros**: Efficiency up to **70%**.
 - **Cons**: Crossover distortion at **zero crossing**.
 
-📷 **Circuit Diagram:**  
+📷 **Circuit Diagram: **  
 
 
 🛠 **Simulation Result:**  
@@ -96,7 +96,9 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - Uses a **Darlington pair** (two BJTs in cascade) for **very high current gain**.
 - Common in **Class A & AB amplifiers**.
 
-📷 **Circuit Diagram:**  
+📷 **Circuit Diagram: Darlington Pair**  
+
+![Screenshot 2025-03-17 121158](https://github.com/user-attachments/assets/a1522358-547b-430f-9df2-3ee402bc72a7)
 
 
 🛠 **Simulation Result:**  
