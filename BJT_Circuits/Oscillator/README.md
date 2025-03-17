@@ -27,7 +27,12 @@ RC oscillators use resistors and capacitors to determine the oscillation frequen
 
 📷 Circuit Diagram:
 
+![Screenshot 2025-03-17 191908](https://github.com/user-attachments/assets/0dc63847-7a48-48bb-887d-d1b1973c2d9d)
+
 🛠 Simulation Result:
+
+![Screenshot 2025-03-17 191913](https://github.com/user-attachments/assets/ee40bbe7-ad26-4133-a927-4f796e51cd7d)
+
 
 #### ✅ Wien Bridge Oscillator
 - Uses a bridge circuit with a positive feedback loop.
@@ -36,11 +41,9 @@ RC oscillators use resistors and capacitors to determine the oscillation frequen
 
 📷 Circuit Diagram:
 
-![Screenshot 2025-03-17 191908](https://github.com/user-attachments/assets/0dc63847-7a48-48bb-887d-d1b1973c2d9d)
 
 🛠 Simulation Result:
 
-![Screenshot 2025-03-17 191913](https://github.com/user-attachments/assets/ee40bbe7-ad26-4133-a927-4f796e51cd7d)
 
 ### 2️⃣ LC Oscillators (High-Frequency Applications)
 
