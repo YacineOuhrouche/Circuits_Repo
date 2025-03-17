@@ -19,7 +19,6 @@ Each folder contains:
 | 🔊 Power Amplifier | Used to drive speakers and other high-power loads | [Power Amplifier Folder](./Power_Amplifier) |
 | 🌀 Oscillator Circuit | Generates a continuous periodic waveform, typically for use in signal generation | [Oscillator Folder](./Oscillator) |
 | 🔄 Current Mirror | A **BJT-based current mirror** for stable current replication | [Current Mirror Folder](./Current_mirror) |
-| 💡 LED Flasher | An alternating **LED flasher** circuit using transistors | [LED Flasher Folder](./LED_Flasher) |
 | ⚡ Rectifier | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
 | 🔎 Filter | A **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters) |
 | ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper_Circuit) |
@@ -86,19 +85,6 @@ The **Current Mirror** is a fundamental analog circuit used to replicate a refer
 
 ---
 
-### 💡 LED Flasher
-**What It Does:**  
-This circuit uses two **BJTs (Bipolar Junction Transistors)** to blink an LED periodically.  
-The flashing rate is determined by resistors and capacitors, creating a basic **astable multivibrator**.
-
-**Core Concepts:**  
-- **Capacitor charging and discharging**
-- **Transistor switching**
-- **Timing circuits**
-
-👉 [Explore the Schematic](./LED_Flasher)
-
----
 
 ### ⚡ Rectifier
 **What It Does:**  
