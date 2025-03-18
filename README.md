@@ -8,9 +8,9 @@ This is where I document circuits I’ve designed and simulated throughout my **
 
 Each folder contains:
 
-✅ Circuit Schematic (PNG) 
-✅ Simulation Files (LTspice, Falstad)  
-✅ Explanation (How It Works)  
+✅ Circuit Schematic 
+✅ Simulation 
+✅ Explanation  
 
 ---
 
