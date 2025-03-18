@@ -69,7 +69,11 @@ LC oscillators use inductors (L) and capacitors (C) to create a resonant circuit
 
 📷 Circuit Diagram:
 
+![Screenshot 2025-03-18 113633](https://github.com/user-attachments/assets/5390fd31-8259-4651-91d8-b748c94aa8d4)
+
 🛠 Simulation Result:
+
+![Screenshot 2025-03-18 113712](https://github.com/user-attachments/assets/92812dc9-56cc-4078-8ffe-3d69ef664489)
 
 #### ✅ Hartley Oscillator
 - Uses a tapped inductor for feedback.
