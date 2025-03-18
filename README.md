@@ -89,16 +89,7 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 
 ---
 
-## 💾 Simulation Tools Used
 
-These circuits were simulated and tested using:
-
-- [LTspice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html)  (Schematics & Simulation)
-- [Falstad Circuit Simulator](https://www.falstad.com/circuit/)  (Schematics & Simulation)
-- [Fritzing](https://fritzing.org/) (Breadboard Design)
-  
-
----
 
 ## 🌐 Why This Repository Exists
 
