@@ -139,10 +139,3 @@ A **Clamper Circuit** shifts the DC level of a signal without distorting its wav
 
 ---
 
-## 🛠️ Tools Used
-
-- **LTspice** for schematic drawing and simulation  
-- **Falstad Circuit Simulator** for quick online testing  
-- **Breadboard** for real-world implementation  
-
---- 
