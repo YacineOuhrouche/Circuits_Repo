@@ -89,18 +89,6 @@ LC oscillators use inductors (L) and capacitors (C) to create a resonant circuit
 
 🛠 Simulation Result:
 
-#### ✅ Clapp Oscillator
-- Similar to Colpitts but with an additional capacitor for better stability.
-- Used in precision RF applications.
-- The oscillation frequency is determined by:
-  
-  \[
-  f = \frac{1}{2\pi \sqrt{LC}}
-  \]
-
-📷 Circuit Diagram:
-
-🛠 Simulation Result:
 
 ### 3️⃣ Crystal Oscillators (High Precision)
 
