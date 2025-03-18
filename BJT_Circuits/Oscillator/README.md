@@ -77,6 +77,7 @@ LC oscillators use inductors (L) and capacitors (C) to create a resonant circuit
 
 #### ✅ Hartley Oscillator
 - Uses a tapped inductor for feedback.
+-  Uses a capacitor voltage divider.
 - Simple and reliable for high-frequency applications.
 - The oscillation frequency is determined by:
   
