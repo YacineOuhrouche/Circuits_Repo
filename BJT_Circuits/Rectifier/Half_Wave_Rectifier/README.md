@@ -51,12 +51,6 @@ Here’s the actual **breadboard setup** of the Half-Wave Rectifier.
 ---
 
 
-## 🧰 Tools Used
-
-- **LTspice** for schematic and simulation.
-- **Falstad Simulator** for quick visualization.
-
----
 
 ## ⚠️ Notes on Performance
 
