@@ -48,17 +48,6 @@ Each rectifier has its own folder containing:
 
 ---
 
-
-
-## 🛠️ Tools Used
-
-- **LTspice** - Schematic design and simulation  
-- **Falstad** - Quick online simulation  
-- **Breadboard** - Real-world prototype  
-
-
----
-
 ## 💡 Why Study Rectifiers?
 
 Rectifiers are **foundational components** in power supplies. Understanding these circuits helps build **better power management systems**, ensuring clean and reliable DC power for sensitive electronics.
