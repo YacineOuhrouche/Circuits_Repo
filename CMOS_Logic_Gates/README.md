@@ -24,13 +24,6 @@ Each folder contains:
 
 
 
----
-
-## 🛠️  Tools Used
-
-- **LTspice** (for schematics and SPICE simulations)
-- **Falstad Circuit Simulator** (for browser-based quick testing)
-  
 
 ---
 
