@@ -39,14 +39,7 @@ The latch is built using **CMOS inverters** (constructed with **PMOS** and **NMO
 
 👉 [Explore the Schematic](./SR_Latch)
 
----
 
-## 🛠️ Tools Used
-
-- **LTspice** for schematic drawing and simulation  
-- **Falstad Circuit Simulator** for browser-based testing  
-
----
 
 ## Why CMOS?
 
