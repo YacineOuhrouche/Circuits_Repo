@@ -63,12 +63,6 @@ Here’s the actual breadboard setup showing the circuit built with diodes, capa
 
 ---
 
-## 📚 Tools Used
 
-
-- **Falstad Circuit Simulator** for quick online testing
-- **Breadboard** for real-world implementation
-
----
 
 
