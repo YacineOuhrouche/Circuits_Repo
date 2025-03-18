@@ -22,15 +22,7 @@ Each folder contains:
 | NAND Gate | [NAND Gate Folder](./NAND_Gate) |
 | NOR Gate | [NOR Gate Folder](./NOR_Gate) |
 
-
-
----
-
-## 🛠️  Tools Used
-
-- **LTspice** (for schematics and SPICE simulations)
-- **Falstad Circuit Simulator** (for browser-based quick testing)
-  
+ 
 
 ---
 
