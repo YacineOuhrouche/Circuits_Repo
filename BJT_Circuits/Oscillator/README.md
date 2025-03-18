@@ -21,10 +21,12 @@ RC oscillators use resistors and capacitors to determine the oscillation frequen
 - Uses three RC networks to produce 180° phase shift.
 - Requires positive feedback for sustained oscillations.
 - Operates in the audio frequency range.
-- To calcultate the frequency you want to generate, use this formula:
--  f = 1/(2*pi*R*C*sqrt(2*n))
+- To calculate the frequency you want to generate, use this formula:
+  
+  f = 1/(2PiRCsqrt(2n))
+  
 
-
+  
 📷 Circuit Diagram:
 
 ![Screenshot 2025-03-17 191908](https://github.com/user-attachments/assets/0dc63847-7a48-48bb-887d-d1b1973c2d9d)
@@ -33,19 +35,19 @@ RC oscillators use resistors and capacitors to determine the oscillation frequen
 
 ![Screenshot 2025-03-17 191913](https://github.com/user-attachments/assets/ee40bbe7-ad26-4133-a927-4f796e51cd7d)
 
-
 #### ✅ Wien Bridge Oscillator
 - Uses a bridge circuit with a positive feedback loop.
 - Provides low distortion sine waves.
 - Used in audio signal generation.
-- - To calcultate the frequency you want to generate, use this formula:
--  f = 1/(2*pi*R*C)
-
+- To calculate the frequency you want to generate, use this formula:
+  
+  \[
+  f = \frac{1}{2\pi RC}
+  \]
 
 📷 Circuit Diagram:
 
 ![Screenshot 2025-03-18 110731](https://github.com/user-attachments/assets/6f1a378e-f9c6-400d-abaa-ab5533fe2e3d)
-
 
 🛠 Simulation Result:
 
@@ -59,6 +61,11 @@ LC oscillators use inductors (L) and capacitors (C) to create a resonant circuit
 - Uses a capacitor voltage divider.
 - High stability and frequency control.
 - Used in RF and communication systems.
+- The oscillation frequency is determined by:
+  
+  \[
+  f = \frac{1}{2\pi \sqrt{LC}}
+  \]
 
 📷 Circuit Diagram:
 
@@ -67,6 +74,11 @@ LC oscillators use inductors (L) and capacitors (C) to create a resonant circuit
 #### ✅ Hartley Oscillator
 - Uses a tapped inductor for feedback.
 - Simple and reliable for high-frequency applications.
+- The oscillation frequency is determined by:
+  
+  \[
+  f = \frac{1}{2\pi \sqrt{LC}}
+  \]
 
 📷 Circuit Diagram:
 
@@ -75,6 +87,11 @@ LC oscillators use inductors (L) and capacitors (C) to create a resonant circuit
 #### ✅ Clapp Oscillator
 - Similar to Colpitts but with an additional capacitor for better stability.
 - Used in precision RF applications.
+- The oscillation frequency is determined by:
+  
+  \[
+  f = \frac{1}{2\pi \sqrt{LC}}
+  \]
 
 📷 Circuit Diagram:
 
@@ -119,6 +136,8 @@ Relaxation oscillators generate non-sinusoidal waveforms, such as square waves a
 | Crystal Oscillators   | Very High       | Sine Wave     | Very High      | Clocks, Microcontrollers    |
 | Relaxation Oscillators| Low to Medium   | Square/Triangle | Low           | Waveform Gen., Timers       |
 
+
+
 ## 🔥 Conclusion
 
 Oscillators are vital in electronics, offering various frequency ranges and waveform types for different applications. This repository provides a practical understanding of their working, with schematics and simulation results.
@@ -127,4 +146,3 @@ Oscillators are vital in electronics, offering various frequency ranges and wave
 - ✅ LC Oscillators – Used in high-frequency RF systems.
 - ✅ Crystal Oscillators – Provide ultra-stable clock signals.
 - ✅ Relaxation Oscillators – Generate square & triangular waves for timing applications.
-
