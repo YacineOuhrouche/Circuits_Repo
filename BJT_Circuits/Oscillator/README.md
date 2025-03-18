@@ -87,8 +87,11 @@ LC oscillators use inductors (L) and capacitors (C) to create a resonant circuit
 
 📷 Circuit Diagram:
 
+![Screenshot 2025-03-18 123636](https://github.com/user-attachments/assets/8786a4a7-555c-4e43-a462-a98e0df19ac3)
+
 🛠 Simulation Result:
 
+![Screenshot 2025-03-18 123643](https://github.com/user-attachments/assets/3e294bae-a8a9-4715-abd6-c3f408ce9ae5)
 
 ### 3️⃣ Crystal Oscillators (High Precision)
 
