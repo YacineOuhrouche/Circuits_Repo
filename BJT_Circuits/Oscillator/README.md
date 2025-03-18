@@ -38,12 +38,18 @@ RC oscillators use resistors and capacitors to determine the oscillation frequen
 - Uses a bridge circuit with a positive feedback loop.
 - Provides low distortion sine waves.
 - Used in audio signal generation.
+- - To calcultate the frequency you want to generate, use this formula:
+-  f = 1/(2*pi*R*C)
+
 
 📷 Circuit Diagram:
+
+![Screenshot 2025-03-18 110731](https://github.com/user-attachments/assets/6f1a378e-f9c6-400d-abaa-ab5533fe2e3d)
 
 
 🛠 Simulation Result:
 
+![Screenshot 2025-03-18 110750](https://github.com/user-attachments/assets/f85a565d-0f92-4dff-8498-3bc33a43e069)
 
 ### 2️⃣ LC Oscillators (High-Frequency Applications)
 
