@@ -25,7 +25,7 @@ These are more complex or application-focused circuits that involve practical.
 
 | Circuit            | Description                                                                  | Link                                              |
 |--------------------|------------------------------------------------------------------------------|---------------------------------------------------|
-|  **Audio Amplifier** | A **Class AB amplifier** for boosting audio signals | [Audio Amplifier Folder](./Circuits_Projects/Audio_Amplifier) |
+|  **Audio Amplifier** | A **Class AB amplifier** for boosting audio signals | [View Folder](./Circuits_Projects/Audio_Amplifier) |
 | **LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation | [View Folder](./Circuits_Projects/LED_Flasher/)       |
 
 ---
