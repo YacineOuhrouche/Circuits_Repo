@@ -35,7 +35,6 @@ This circuit uses two **BJTs (Bipolar Junction Transistors)** to blink an LED pe
 ## 🛠️ Tools Used
 
 - **LTspice** for schematic drawing and simulation  
-- **Falstad Circuit Simulator** for quick online testing  
 - **Breadboard** for real-world implementation  
 
 ---
