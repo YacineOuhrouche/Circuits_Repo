@@ -26,6 +26,8 @@ RC oscillators use resistors and capacitors to determine the oscillation frequen
   ```
   f = 1/(2πRCsqrt(2n))
   ```
+**Signal Generation:**
+The amplifier provides gain, while the RC network produces a phase shift of 180°. The feedback ensures sustained oscillations by reinforcing the waveform with a phase-corrected signal.
 
 📷 **Circuit Diagram:**
 
@@ -35,8 +37,6 @@ RC oscillators use resistors and capacitors to determine the oscillation frequen
 
 ![Screenshot](https://github.com/user-attachments/assets/ee40bbe7-ad26-4133-a927-4f796e51cd7d)
 
-**Signal Generation:**
-The amplifier provides gain, while the RC network produces a phase shift of 180°. The feedback ensures sustained oscillations by reinforcing the waveform with a phase-corrected signal.
 
 #### ✅ Wien Bridge Oscillator
 - Uses a bridge circuit with a positive feedback loop.
@@ -47,6 +47,8 @@ The amplifier provides gain, while the RC network produces a phase shift of 180�
   ```
   f = 1 / (2πRC)
   ```
+**Signal Generation:**
+The circuit relies on a voltage divider and an operational amplifier. The positive feedback maintains oscillations while the negative feedback controls gain to stabilize the waveform.
 
 📷 **Circuit Diagram:**
 
@@ -56,8 +58,6 @@ The amplifier provides gain, while the RC network produces a phase shift of 180�
 
 ![Screenshot](https://github.com/user-attachments/assets/f85a565d-0f92-4dff-8498-3bc33a43e069)
 
-**Signal Generation:**
-The circuit relies on a voltage divider and an operational amplifier. The positive feedback maintains oscillations while the negative feedback controls gain to stabilize the waveform.
 
 ### 2️⃣ LC Oscillators (High-Frequency Applications)
 
@@ -72,6 +72,9 @@ LC oscillators use inductors (L) and capacitors (C) to create a resonant circuit
   ```
   f = 1 / (2π√(LC))
   ```
+  **Signal Generation:**
+The inductor and capacitors form a resonant circuit, producing oscillations. The transistor amplifies the signal, and feedback through the capacitor divider sustains the oscillations.
+
 
 📷 **Circuit Diagram:**
 
@@ -81,8 +84,6 @@ LC oscillators use inductors (L) and capacitors (C) to create a resonant circuit
 
 ![Screenshot](https://github.com/user-attachments/assets/92812dc9-56cc-4078-8ffe-3d69ef664489)
 
-**Signal Generation:**
-The inductor and capacitors form a resonant circuit, producing oscillations. The transistor amplifies the signal, and feedback through the capacitor divider sustains the oscillations.
 
 #### ✅ Hartley Oscillator
 - Uses a tapped inductor for feedback.
@@ -92,6 +93,8 @@ The inductor and capacitors form a resonant circuit, producing oscillations. The
   ```
   f = 1 / (2π√(LC))
   ```
+**Signal Generation:**
+The tapped inductor provides feedback, ensuring sustained oscillations. The transistor amplifies the oscillating signal, and energy is exchanged between the inductor and capacitor.
 
 📷 **Circuit Diagram:**
 
@@ -101,12 +104,12 @@ The inductor and capacitors form a resonant circuit, producing oscillations. The
 
 ![Screenshot](https://github.com/user-attachments/assets/3e294bae-a8a9-4715-abd6-c3f408ce9ae5)
 
-**Signal Generation:**
-The tapped inductor provides feedback, ensuring sustained oscillations. The transistor amplifies the oscillating signal, and energy is exchanged between the inductor and capacitor.
 
 ### 3️⃣ Crystal Oscillators (High Precision)
 
 Crystal oscillators use piezoelectric crystals (usually quartz) to generate a stable frequency. They are used in clocks, microcontrollers, and communication systems.
+**Signal Generation:**
+The crystal resonates at a specific frequency due to its mechanical vibrations. The circuit amplifies this resonance, producing a highly stable oscillation.
 
 📷 **Circuit Diagram:**
 
@@ -116,8 +119,6 @@ Crystal oscillators use piezoelectric crystals (usually quartz) to generate a st
 
 ![Screenshot](https://github.com/user-attachments/assets/0213dc2e-a270-4f6a-a8ad-8250eed67ab8)
 
-**Signal Generation:**
-The crystal resonates at a specific frequency due to its mechanical vibrations. The circuit amplifies this resonance, producing a highly stable oscillation.
 
 ### 4️⃣ Relaxation Oscillators (Square and Triangular Waves)
 
@@ -127,6 +128,8 @@ Relaxation oscillators generate non-sinusoidal waveforms, such as square waves a
 - Uses two transistors or op-amps.
 - Generates continuous square waves.
 - Used in timing circuits, waveform generators.
+**Signal Generation:**
+The circuit alternates between two states, charging and discharging capacitors through transistors, creating a continuous oscillating square wave output.
 
 📷 **Circuit Diagram:**
 
@@ -136,8 +139,6 @@ Relaxation oscillators generate non-sinusoidal waveforms, such as square waves a
 
 ![Screenshot](https://github.com/user-attachments/assets/05c3b994-6684-4aaf-b384-9df277035917)
 
-**Signal Generation:**
-The circuit alternates between two states, charging and discharging capacitors through transistors, creating a continuous oscillating square wave output.
 
 ## 📊 Comparison of Oscillator Types
 
