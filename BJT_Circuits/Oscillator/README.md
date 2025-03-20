@@ -116,7 +116,11 @@ Relaxation oscillators generate non-sinusoidal waveforms, such as square waves a
 
 📷 Circuit Diagram:
 
+![Screenshot 2025-03-20 113225](https://github.com/user-attachments/assets/3f5a83bb-3678-469b-95a3-9f507be0dc32)
+
 🛠 Simulation Result:
+
+![Screenshot 2025-03-20 113232](https://github.com/user-attachments/assets/05c3b994-6684-4aaf-b384-9df277035917)
 
 
 ## 📊 Comparison of Oscillator Types
