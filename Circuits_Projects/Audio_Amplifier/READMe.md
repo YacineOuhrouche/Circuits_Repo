@@ -65,6 +65,8 @@ Below is the schematic representation of the two-stage common-emitter amplifier 
 
 ### **🛠 Breadboard Implementation**
 
+![Screenshot 2025-03-20 134703](https://github.com/user-attachments/assets/7a10f4f4-1f1e-4cec-a09e-5d919687ecdb)
+
 
 ## 🎯 Conclusion
 This **two-stage Class A audio amplifier** successfully increases both the voltage and power of the signal while maintaining quality. By using **two cascaded common-emitter amplifiers**, it provides sufficient gain for audio applications.
