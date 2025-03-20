@@ -3,7 +3,7 @@
 ## Overview 🚀
 This project is a **two-stage Class A audio amplifier**, designed to increase the amplitude of an audio signal while maintaining its integrity. Audio amplifiers are widely used in various applications, such as speakers, headphones, and communication devices, to enhance sound output.
 
-Unlike conventional **Class A amplifiers** that suffer from poor efficiency, this design uses a **transformer-coupled load** in the power amplification stage to **improve efficiency and power transfer**.
+This design consists of **two cascaded common-emitter (CE) amplifier stages** to **increase both voltage and power** of the signal. Class A amplifiers are known for their **high linearity** and **low distortion**, making them ideal for high-fidelity applications.
 
 ## 📌 Prerequisites
 
@@ -13,26 +13,24 @@ Before building this circuit, you should be familiar with:
 - **[Power Amplifier](../../BJT_Circuits/Power_Amplifier)**
 
 ## How the Signal is Amplified ⚡
-In a **two-stage Class A amplifier**, the signal undergoes two amplification stages:
+In a **two-stage common-emitter amplifier**, the signal undergoes two amplification stages:
 
-1. **First Stage (Voltage Amplification - Common-Emitter Amplifier)**:  
+1. **First Stage (Voltage Amplification - Common-Emitter Amplifier)**  
    - The input audio signal is weak and requires initial amplification.
-   - A **common-emitter amplifier configuration** is used to **boost the voltage** of the signal.
-   - This stage provides **high voltage gain**, making it ideal for preparing the signal for the next stage.
-   - The **output is inverted** with respect to the input due to the nature of the common-emitter configuration.
-   - This stage does not provide enough current to drive a speaker but ensures the signal is strong enough for the next stage.
+   - A **small-signal transistor** in **common-emitter configuration** is used to **boost the voltage** of the signal.
+   - The **output is inverted** with respect to the input due to the CE configuration.
+   - This stage provides **high voltage gain**, ensuring the signal is strong enough for the next stage.
 
-2. **Second Stage (Power Amplification with Transformer-Coupled Load)**:  
-   - The amplified voltage signal is passed to a **power transistor** in Class A configuration.
-   - A **transformer is used in the load** to improve efficiency by **matching impedance** and maximizing power transfer to the speaker.
-   - The **transformer helps step up the output current**, reducing power dissipation in the transistor.
-   - This setup enhances **efficiency compared to a resistive load**, although it remains lower than other amplifier classes.
+2. **Second Stage (Power Amplification - Common-Emitter Amplifier)**  
+   - The amplified voltage signal is passed to a **second CE amplifier**, which further amplifies the signal and increases the current.
+   - This stage is designed to **drive the speaker**, ensuring sufficient power output.
+   - **A capacitor-coupled output** is used to block DC components and pass only the amplified AC audio signal.
 
 ### 🎛️ Working Principle:
-1. 🎤 The input signal is fed into the **common-emitter amplifier** (first stage).
+1. 🎤 The input signal is fed into the **first common-emitter amplifier**.
 2. 📢 The first stage **increases the voltage** of the signal while inverting it.
-3. 🎚️ The amplified signal is then sent to the **power amplifier** (second stage).
-4. 🔋 The second stage **boosts the current and power** of the signal, using a **transformer-coupled load** to improve efficiency.
+3. 🎚️ The amplified signal is sent to the **second common-emitter amplifier**, which boosts both voltage and current.
+4. 🔋 The second stage **drives the speaker**, ensuring proper sound output.
 5. 🔊 The amplified signal is sent to the **speaker** for sound output.
 
 ## 🛠 Components Used
@@ -40,23 +38,23 @@ The circuit consists of the following key components:
 
 | 🏷️ Component | 🔍 Function |
 |------------------|----------|
-| **🔼  Small-Signal Transistor (CE Amplifier)** | Amplifies the input voltage (First Stage) |
-| **🔼  Power Transistor** | Amplifies the power and current (Second Stage) |
-| **🔄 Transformer** | Matches impedance and increases efficiency |
+| **🔼  Small-Signal Transistor (CE Amplifier - First Stage)** | Amplifies the input voltage |
+| **🔼  Power Transistor (CE Amplifier - Second Stage)** | Amplifies the power and current |
 | **📏 Resistors** | Control the biasing and gain |
-| **🔵 Capacitors** | Filter noise and stabilize the circuit |
+| **🔵 Capacitors** | Filter noise, stabilize the circuit, and block DC components |
+| **⚡ Diodes** | Protect against voltage spikes |
 | **🔊 Speaker** | Converts amplified electrical signals into sound |
 | **🔋 Power Supply (Battery)** | Provides the necessary power |
 
 ## 🔥 Amplifier Class Type
-This project implements a **Class A amplifier with a transformer-coupled load**, which provides:
+This project implements a **Class A amplifier using two common-emitter stages**, which provides:
+- **High voltage and power gain**.
 - **Low distortion** (always conducting, avoiding crossover distortion).
 - **High linearity**, ensuring high-quality sound.
-- **Improved efficiency compared to a resistive load** (though still lower than Class B or Class D amplifiers).
-- **Better power transfer** to the speaker due to impedance matching via the transformer.
+- **Capacitor coupling** to ensure proper signal transmission without DC bias issues.
 
 ## 📜 Schematic Diagram
-Below is the schematic representation of the two-stage Class A amplifier circuit with a transformer-coupled load:
+Below is the schematic representation of the two-stage common-emitter amplifier circuit:
 
 
 ### **🖥️ Simulation**
@@ -66,7 +64,7 @@ Below is the schematic representation of the two-stage Class A amplifier circuit
 
 
 ## 🎯 Conclusion
-This **two-stage Class A audio amplifier** successfully increases both the voltage and power of the signal while maintaining quality. By using a **transformer-coupled load**, efficiency is improved compared to traditional Class A designs, making it a practical solution for high-fidelity applications.
+This **two-stage Class A audio amplifier** successfully increases both the voltage and power of the signal while maintaining quality. By using **two cascaded common-emitter amplifiers**, it provides sufficient gain for audio applications.
 
 ## 🚀 Future Enhancements
 - 🛠 Designing a **PCB version** for a compact and permanent solution.
