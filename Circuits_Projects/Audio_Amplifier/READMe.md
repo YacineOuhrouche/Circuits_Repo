@@ -6,7 +6,7 @@ This project is an **audio amplifier**, a circuit designed to increase the ampli
 ## 📌 Prerequisites
 
 Before building this circuit, you should be familiar with:
-- **[./BJT_Circuits/Power_Amplifier](./BJT_Circuits/Power_Amplifier)**
+**[./BJT_Circuits/Power_Amplifier](../BJT_Circuits/Power_Amplifier)**
 
 ## How the Circuit Works ⚡
 The audio amplifier takes a low-power audio signal from a source (such as a microphone or an MP3 player) and amplifies it using an active component like a **transistor** . The amplified signal is then fed into a speaker to produce louder sound output.
