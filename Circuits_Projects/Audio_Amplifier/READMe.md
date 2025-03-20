@@ -3,6 +3,11 @@
 ## Overview 🚀
 This project is an **audio amplifier**, a circuit designed to increase the amplitude of an audio signal while maintaining its integrity. Audio amplifiers are widely used in various applications, such as speakers, headphones, and communication devices, to enhance sound output.
 
+## Prerequisites 📚
+Before starting this project, it's recommended to have the following knowledge and skills:
+
+- **Power Amplifier Folder**: Familiarity with the concepts and circuits related to power amplifiers, including their design and operation. It is also helpful to have experience working with amplifier classes such as Class A, Class B, and Class AB.
+
 ## How the Circuit Works ⚡
 The audio amplifier takes a low-power audio signal from a source (such as a microphone or an MP3 player) and amplifies it using an active component like a **transistor** . The amplified signal is then fed into a speaker to produce louder sound output.
 
