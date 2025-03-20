@@ -15,7 +15,7 @@ The repository includes:
 
 | Circuit | Description | Link |
 |--|--|--|
-| 🔊 Audio Amplifier | A **Class AB amplifier** for boosting audio signals | [Audio Amplifier Folder](./Audio_Amplifier) |
+| 🔊 Audio Amplifier |Two-Stage Class A Audio Amplifier | [Audio Amplifier Folder](./Audio_Amplifier) |
 | 💡 LED Flasher | An alternating **LED flasher** circuit using **BJTs** | [LED Flasher Folder](./LED_Flasher) |
 
 ---
