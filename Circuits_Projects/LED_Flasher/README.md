@@ -44,3 +44,7 @@ This is a snapshot of the LED Flasher working in a simulation:
 ![Screenshot 2025-03-04 143926](https://github.com/user-attachments/assets/5e9cb8ef-9d3b-40c6-b3c0-6255fde00452)
 
 ---
+## 🖥️ Simulation Waveform
+
+![Screenshot 2025-03-20 135731](https://github.com/user-attachments/assets/b71dc5d0-9cc4-445b-9aa5-2437f1908e98)
+
