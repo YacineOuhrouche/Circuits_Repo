@@ -99,7 +99,11 @@ Crystal oscillators use piezoelectric crystals (usually quartz) to generate a st
 
 📷 Circuit Diagram:
 
+![Screenshot 2025-03-20 112149](https://github.com/user-attachments/assets/d087a944-4aa9-44da-894b-f7903bf859d5)
+
 🛠 Simulation Result:
+
+![Screenshot 2025-03-20 112208](https://github.com/user-attachments/assets/0213dc2e-a270-4f6a-a8ad-8250eed67ab8)
 
 ### 4️⃣ Relaxation Oscillators (Square and Triangular Waves)
 
@@ -114,14 +118,6 @@ Relaxation oscillators generate non-sinusoidal waveforms, such as square waves a
 
 🛠 Simulation Result:
 
-#### ✅ Schmitt Trigger Oscillator
-- Uses a comparator or op-amp with hysteresis.
-- Converts slow signals into fast switching waveforms.
-- Used in pulse generation and signal conditioning.
-
-📷 Circuit Diagram:
-
-🛠 Simulation Result:
 
 ## 📊 Comparison of Oscillator Types
 
