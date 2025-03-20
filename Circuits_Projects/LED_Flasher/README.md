@@ -6,12 +6,22 @@ This circuit uses a **two-transistor astable multivibrator** to flash two LEDs a
 
 ---
 
+## 📌 Prerequisites
+
+Before building this circuit, you should be familiar with:
+- [Oscillator Circuits](./oscillator/) 🔗 (Understanding how astable multivibrator works)
+
+---
+
 ## ⚙️ How It Works
 
-- **Q1** and **Q2** are NPN transistors.
-- When one transistor turns ON, the other turns OFF.
-- The **capacitor** allows the transistors to switch alternately, making the LEDs blink in sequence.
-- The resistors control the timing of the oscillation.
+This circuit operates as an **astable multivibrator**, meaning it continuously switches between two states without requiring an external trigger. Here’s a breakdown of its operation:
+
+1. When **Q1 turns ON**, current flows through **LED1**, lighting it up. At the same time, the capacitor connected to Q1’s base starts charging through a resistor.
+2. Once the capacitor is fully charged, it sends a reverse bias voltage to **Q1’s base**, turning it OFF.
+3. This turns **Q2 ON**, allowing current to flow through **LED2**, lighting it up.
+4. The cycle repeats, causing the LEDs to blink alternately.
+5. The blinking speed is determined by the values of the capacitors and resistors in the circuit.
 
 ---
 
@@ -20,27 +30,18 @@ This circuit uses a **two-transistor astable multivibrator** to flash two LEDs a
 Here’s the transistor-level schematic for the LED Flasher circuit:
 ![Screenshot 2025-03-04 102756](https://github.com/user-attachments/assets/22bdbc74-cb2a-4258-9e98-3feb0083bacb)
 
-
-
 ---
 
 ## 🔌 Breadboard View
 
-This is how the circuit could looks on a breadboard with components:
+This is how the circuit could look on a breadboard with components:
 ![Screenshot 2025-03-04 104042](https://github.com/user-attachments/assets/903ae3e4-a922-41cf-908d-4d1139947716)
-
-
 
 ---
 
 ## 🖥️ Simulation Screenshot
 
 This is a snapshot of the LED Flasher working in a simulation:
-
 ![Screenshot 2025-03-04 143926](https://github.com/user-attachments/assets/5e9cb8ef-9d3b-40c6-b3c0-6255fde00452)
 
 ---
-
-
-
-
