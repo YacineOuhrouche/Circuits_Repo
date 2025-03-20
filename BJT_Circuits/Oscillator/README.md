@@ -21,37 +21,43 @@ RC oscillators use resistors and capacitors to determine the oscillation frequen
 - Uses three RC networks to produce 180° phase shift.
 - Requires positive feedback for sustained oscillations.
 - Operates in the audio frequency range.
-- To calculate the frequency you want to generate, use this formula:
+- Frequency formula:
   
-  f = 1/(2PiRCsqrt(2n))
-  
+  ```
+  f = 1/(2πRCsqrt(2n))
+  ```
 
-  
-📷 Circuit Diagram:
+📷 **Circuit Diagram:**
 
-![Screenshot 2025-03-17 191908](https://github.com/user-attachments/assets/0dc63847-7a48-48bb-887d-d1b1973c2d9d)
+![Screenshot](https://github.com/user-attachments/assets/0dc63847-7a48-48bb-887d-d1b1973c2d9d)
 
-🛠 Simulation Result:
+🛠 **Simulation Result:**
 
-![Screenshot 2025-03-17 191913](https://github.com/user-attachments/assets/ee40bbe7-ad26-4133-a927-4f796e51cd7d)
+![Screenshot](https://github.com/user-attachments/assets/ee40bbe7-ad26-4133-a927-4f796e51cd7d)
+
+**Signal Generation:**
+The amplifier provides gain, while the RC network produces a phase shift of 180°. The feedback ensures sustained oscillations by reinforcing the waveform with a phase-corrected signal.
 
 #### ✅ Wien Bridge Oscillator
 - Uses a bridge circuit with a positive feedback loop.
 - Provides low distortion sine waves.
 - Used in audio signal generation.
-- To calculate the frequency you want to generate, use this formula:
+- Frequency formula:
   
-  \[
-  f = \frac{1}{2\pi RC}
-  \]
+  ```
+  f = 1 / (2πRC)
+  ```
 
-📷 Circuit Diagram:
+📷 **Circuit Diagram:**
 
-![Screenshot 2025-03-18 110731](https://github.com/user-attachments/assets/6f1a378e-f9c6-400d-abaa-ab5533fe2e3d)
+![Screenshot](https://github.com/user-attachments/assets/6f1a378e-f9c6-400d-abaa-ab5533fe2e3d)
 
-🛠 Simulation Result:
+🛠 **Simulation Result:**
 
-![Screenshot 2025-03-18 110750](https://github.com/user-attachments/assets/f85a565d-0f92-4dff-8498-3bc33a43e069)
+![Screenshot](https://github.com/user-attachments/assets/f85a565d-0f92-4dff-8498-3bc33a43e069)
+
+**Signal Generation:**
+The circuit relies on a voltage divider and an operational amplifier. The positive feedback maintains oscillations while the negative feedback controls gain to stabilize the waveform.
 
 ### 2️⃣ LC Oscillators (High-Frequency Applications)
 
@@ -61,49 +67,57 @@ LC oscillators use inductors (L) and capacitors (C) to create a resonant circuit
 - Uses a capacitor voltage divider.
 - High stability and frequency control.
 - Used in RF and communication systems.
-- The oscillation frequency is determined by:
+- Frequency formula:
   
-  \[
-  f = \frac{1}{2\pi \sqrt{LC}}
-  \]
+  ```
+  f = 1 / (2π√(LC))
+  ```
 
-📷 Circuit Diagram:
+📷 **Circuit Diagram:**
 
-![Screenshot 2025-03-18 113633](https://github.com/user-attachments/assets/5390fd31-8259-4651-91d8-b748c94aa8d4)
+![Screenshot](https://github.com/user-attachments/assets/5390fd31-8259-4651-91d8-b748c94aa8d4)
 
-🛠 Simulation Result:
+🛠 **Simulation Result:**
 
-![Screenshot 2025-03-18 113712](https://github.com/user-attachments/assets/92812dc9-56cc-4078-8ffe-3d69ef664489)
+![Screenshot](https://github.com/user-attachments/assets/92812dc9-56cc-4078-8ffe-3d69ef664489)
+
+**Signal Generation:**
+The inductor and capacitors form a resonant circuit, producing oscillations. The transistor amplifies the signal, and feedback through the capacitor divider sustains the oscillations.
 
 #### ✅ Hartley Oscillator
 - Uses a tapped inductor for feedback.
--  Uses a capacitor voltage divider.
 - Simple and reliable for high-frequency applications.
-- The oscillation frequency is determined by:
+- Frequency formula:
   
-  \[
-  f = \frac{1}{2\pi \sqrt{LC}}
-  \]
+  ```
+  f = 1 / (2π√(LC))
+  ```
 
-📷 Circuit Diagram:
+📷 **Circuit Diagram:**
 
-![Screenshot 2025-03-18 123636](https://github.com/user-attachments/assets/8786a4a7-555c-4e43-a462-a98e0df19ac3)
+![Screenshot](https://github.com/user-attachments/assets/8786a4a7-555c-4e43-a462-a98e0df19ac3)
 
-🛠 Simulation Result:
+🛠 **Simulation Result:**
 
-![Screenshot 2025-03-18 123643](https://github.com/user-attachments/assets/3e294bae-a8a9-4715-abd6-c3f408ce9ae5)
+![Screenshot](https://github.com/user-attachments/assets/3e294bae-a8a9-4715-abd6-c3f408ce9ae5)
+
+**Signal Generation:**
+The tapped inductor provides feedback, ensuring sustained oscillations. The transistor amplifies the oscillating signal, and energy is exchanged between the inductor and capacitor.
 
 ### 3️⃣ Crystal Oscillators (High Precision)
 
 Crystal oscillators use piezoelectric crystals (usually quartz) to generate a stable frequency. They are used in clocks, microcontrollers, and communication systems.
 
-📷 Circuit Diagram:
+📷 **Circuit Diagram:**
 
-![Screenshot 2025-03-20 112149](https://github.com/user-attachments/assets/d087a944-4aa9-44da-894b-f7903bf859d5)
+![Screenshot](https://github.com/user-attachments/assets/d087a944-4aa9-44da-894b-f7903bf859d5)
 
-🛠 Simulation Result:
+🛠 **Simulation Result:**
 
-![Screenshot 2025-03-20 112208](https://github.com/user-attachments/assets/0213dc2e-a270-4f6a-a8ad-8250eed67ab8)
+![Screenshot](https://github.com/user-attachments/assets/0213dc2e-a270-4f6a-a8ad-8250eed67ab8)
+
+**Signal Generation:**
+The crystal resonates at a specific frequency due to its mechanical vibrations. The circuit amplifies this resonance, producing a highly stable oscillation.
 
 ### 4️⃣ Relaxation Oscillators (Square and Triangular Waves)
 
@@ -114,25 +128,25 @@ Relaxation oscillators generate non-sinusoidal waveforms, such as square waves a
 - Generates continuous square waves.
 - Used in timing circuits, waveform generators.
 
-📷 Circuit Diagram:
+📷 **Circuit Diagram:**
 
-![Screenshot 2025-03-20 113225](https://github.com/user-attachments/assets/3f5a83bb-3678-469b-95a3-9f507be0dc32)
+![Screenshot](https://github.com/user-attachments/assets/3f5a83bb-3678-469b-95a3-9f507be0dc32)
 
-🛠 Simulation Result:
+🛠 **Simulation Result:**
 
-![Screenshot 2025-03-20 113232](https://github.com/user-attachments/assets/05c3b994-6684-4aaf-b384-9df277035917)
+![Screenshot](https://github.com/user-attachments/assets/05c3b994-6684-4aaf-b384-9df277035917)
 
+**Signal Generation:**
+The circuit alternates between two states, charging and discharging capacitors through transistors, creating a continuous oscillating square wave output.
 
 ## 📊 Comparison of Oscillator Types
 
 | Oscillator Type       | Frequency Range | Waveform      | Stability      | Applications                |
-|-----------------------|-----------------|---------------|----------------|-----------------------------|
-| RC Oscillators        | Low (Audio)     | Sine Wave     | Moderate       | Audio, Signal Generation    |
-| LC Oscillators        | High (RF)       | Sine Wave     | High           | RF, Communication           |
-| Crystal Oscillators   | Very High       | Sine Wave     | Very High      | Clocks, Microcontrollers    |
-| Relaxation Oscillators| Low to Medium   | Square/Triangle | Low           | Waveform Gen., Timers       |
-
-
+|-----------------------|----------------|--------------|---------------|-----------------------------|
+| RC Oscillators        | Low (Audio)     | Sine Wave    | Moderate      | Audio, Signal Generation    |
+| LC Oscillators        | High (RF)       | Sine Wave    | High          | RF, Communication           |
+| Crystal Oscillators   | Very High       | Sine Wave    | Very High     | Clocks, Microcontrollers    |
+| Relaxation Oscillators| Low to Medium   | Square/Triangle | Low       | Waveform Gen., Timers       |
 
 ## 🔥 Conclusion
 
