@@ -42,7 +42,6 @@ The circuit consists of the following key components:
 | **🔼  Power Transistor (CE Amplifier - Second Stage)** | Amplifies the power and current |
 | **📏 Resistors** | Control the biasing and gain |
 | **🔵 Capacitors** | Filter noise, stabilize the circuit, and block DC components |
-| **⚡ Diodes** | Protect against voltage spikes |
 | **🔊 Speaker** | Converts amplified electrical signals into sound |
 | **🔋 Power Supply (Battery)** | Provides the necessary power |
 
