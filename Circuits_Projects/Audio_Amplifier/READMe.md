@@ -9,7 +9,7 @@ Unlike conventional **Class A amplifiers** that suffer from poor efficiency, thi
 
 Before building this circuit, you should be familiar with:
 
--**[Small Signal Amplifier](../../BJT_Circuits/Small_Signal_Amplifier)**
+- **[Small Signal Amplifier](../../BJT_Circuits/Small_Signal_Amplifier)**
 - **[Power Amplifier](../../BJT_Circuits/Power_Amplifier)**
 
 ## How the Signal is Amplified ⚡
