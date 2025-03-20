@@ -56,9 +56,12 @@ This project implements a **Class A amplifier using two common-emitter stages**,
 ## 📜 Schematic Diagram
 Below is the schematic representation of the two-stage common-emitter amplifier circuit:
 
+![Screenshot 2025-03-20 130657](https://github.com/user-attachments/assets/bcf05f53-9f6b-4ed3-bdfb-0e7625be6c16)
+
 
 ### **🖥️ Simulation**
 
+![Screenshot 2025-03-20 130704](https://github.com/user-attachments/assets/9209f19c-1f0b-4ccd-874a-6aeb30e898dd)
 
 ### **🛠 Breadboard Implementation**
 
