@@ -15,9 +15,11 @@ Before building this circuit, you should be familiar with:
 ## How the Signal is Amplified ⚡
 In a **two-stage Class A amplifier**, the signal undergoes two amplification stages:
 
-1. **First Stage (Voltage Amplification)**:  
+1. **First Stage (Voltage Amplification - Common-Emitter Amplifier)**:  
    - The input audio signal is weak and requires initial amplification.
-   - A **small-signal transistor** is used to **boost the voltage** of the signal.
+   - A **common-emitter amplifier configuration** is used to **boost the voltage** of the signal.
+   - This stage provides **high voltage gain**, making it ideal for preparing the signal for the next stage.
+   - The **output is inverted** with respect to the input due to the nature of the common-emitter configuration.
    - This stage does not provide enough current to drive a speaker but ensures the signal is strong enough for the next stage.
 
 2. **Second Stage (Power Amplification with Transformer-Coupled Load)**:  
@@ -27,8 +29,8 @@ In a **two-stage Class A amplifier**, the signal undergoes two amplification sta
    - This setup enhances **efficiency compared to a resistive load**, although it remains lower than other amplifier classes.
 
 ### 🎛️ Working Principle:
-1. 🎤 The input signal is fed into the **voltage amplifier** (first stage).
-2. 📢 The first stage increases the **voltage** of the signal.
+1. 🎤 The input signal is fed into the **common-emitter amplifier** (first stage).
+2. 📢 The first stage **increases the voltage** of the signal while inverting it.
 3. 🎚️ The amplified signal is then sent to the **power amplifier** (second stage).
 4. 🔋 The second stage **boosts the current and power** of the signal, using a **transformer-coupled load** to improve efficiency.
 5. 🔊 The amplified signal is sent to the **speaker** for sound output.
@@ -38,12 +40,11 @@ The circuit consists of the following key components:
 
 | 🏷️ Component | 🔍 Function |
 |------------------|----------|
-| **🔼  Small-Signal Transistor** | Amplifies the input voltage (First Stage) |
+| **🔼  Small-Signal Transistor (CE Amplifier)** | Amplifies the input voltage (First Stage) |
 | **🔼  Power Transistor** | Amplifies the power and current (Second Stage) |
 | **🔄 Transformer** | Matches impedance and increases efficiency |
 | **📏 Resistors** | Control the biasing and gain |
 | **🔵 Capacitors** | Filter noise and stabilize the circuit |
-| **⚡ Diodes** | Protect against voltage spikes |
 | **🔊 Speaker** | Converts amplified electrical signals into sound |
 | **🔋 Power Supply (Battery)** | Provides the necessary power |
 
