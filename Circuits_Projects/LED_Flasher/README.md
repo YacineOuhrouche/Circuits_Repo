@@ -9,9 +9,7 @@ This circuit uses a **two-transistor astable multivibrator** to flash two LEDs a
 ## 📌 Prerequisites
 
 Before building this circuit, you should be familiar with:
-- [Oscillator Circuits](./oscillator/) 🔗 (Understanding how astable multivibrator works)
-
----
+-**[Oscillator](../../BJT_Circuits/oscillator** 
 
 ## ⚙️ How It Works
 
