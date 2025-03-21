@@ -19,6 +19,7 @@ Each folder contains:
 | 🔊 Power Amplifier | Used to drive speakers and other high-power loads | [Power Amplifier Folder](./Power_Amplifier) |
 | 🌀 Oscillator Circuit | Generates a continuous periodic waveform, typically for use in signal generation | [Oscillator Folder](./Oscillator) |
 | 🔄 Current Mirror | A **BJT-based current mirror** for stable current replication | [Current Mirror Folder](./Current_mirror) |
+| 🔄 DC-DC Converter | Converts DC voltage from one level to another | [DC-DC Converter Folder](./DCDC_Converter) |
 | ⚡ Rectifier | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
 | 🔎 Filter | A **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters) |
 | ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper_Circuit) |
@@ -30,74 +31,51 @@ Each folder contains:
 ## 📐 Circuit Overviews
 
 ### 📢 Small Signal Amplifier
-**What It Does:**  
-A **Small Signal Amplifier** is used to amplify weak signals, typically in the millivolt range, while maintaining signal integrity. It is a fundamental circuit in audio processing and sensor applications.
-
-**Core Concepts:**  
-- **Voltage gain and current gain**
-- **Biasing and stabilization**
-- **Frequency response**
+**What It Does:**
+Amplifies weak signals while maintaining their integrity. Used in **audio processing and sensor applications**.
 
 👉 [Explore the Schematic](./Small_Signal_Amplifier)
 
 ---
 
 ### 🔊 Power Amplifier
-**What It Does:**  
-Power amplifiers are designed to **amplify weak signals** from a pre-amplifier stage to a level sufficient to drive **speakers, motors, or other high-power loads**. They are commonly used in **audio systems, RF transmitters, and industrial applications**.
-
-**Core Concepts:**
-- **Power gain and efficiency**
-- **Biasing and thermal stability**
-- **Load impedance matching**
-- **Heat dissipation and thermal runaway prevention**
+**What It Does:**
+Amplifies signals to drive **high-power loads** like speakers and motors.
 
 👉 [Explore the Schematic](./Power_Amplifier)
-
 ---
 
 ### 🌀 Oscillator Circuit
-**What It Does:**  
-An **Oscillator Circuit** generates a continuous periodic waveform, typically used in signal generation for clocks, audio, or radio frequency applications.
+**What It Does:**
+Generates a continuous waveform for **signal processing, clocks, and RF applications**.
 
-**Core Concepts:**  
-- **Frequency generation**
-- **Positive feedback**
-- **Waveform shaping (sine, square, triangular waves)**
+👉 [Explore the Schematic](./Oscillator)
 
-👉 [Explore the Schematic](./Oscillator_Circuit)
 ---
+
 ### 🔄 Current Mirror
 **What It Does:**  
 The **Current Mirror** is a fundamental analog circuit used to replicate a reference current into another circuit branch with minimal variation. It’s widely used in **biasing circuits, active loads, and analog IC design**.
-
-**How It Works:**  
-- Uses **two matched BJTs (Q1 & Q2)**
-- **Q1 sets the reference current**, while **Q2 mirrors it**
-- Ensures **constant current flow**, independent of the load  
-
-**Core Concepts:**  
-- **Current replication**
-- **Transistor matching**
-- **Active current sources**  
 
 👉 [Explore the Schematic](./Current_mirror)
 
 ---
 
 
-### ⚡ Rectifier
-**What It Does:**  
-This project demonstrates a **Half-Wave Rectifier** circuit, which converts **AC voltage** into **pulsating DC voltage**. It works by allowing only the positive half of the AC waveform to pass through a diode, while blocking the negative half.
+### 🔄 DC-DC Converter
+**What It Does:**
+Converts DC voltage levels efficiently. Used in **battery-powered devices, power supplies, and renewable energy systems**.
 
-**Core Concepts:**  
-- **AC to DC conversion**
-- **Diode as a one-way current valve**
-- **Basic rectification principle**
+👉 [Explore the Schematic](./DCDC_Converter)
+---
+### ⚡ Rectifier
+**What It Does:**
+Converts **AC to DC** using diodes. Used in **power supplies and battery charging**.
 
 👉 [Explore the Schematic](./Rectifier)
 
 ---
+
 
 ### 🔎 Filter
 **What It Does:**  
@@ -112,30 +90,31 @@ This filter circuit is designed to pass certain frequencies while blocking other
 
 ---
 
-### ✂️ Clipper Circuit
-**What It Does:**  
-The **Clipper Circuit** is used to **clip** voltage above or below a certain level using diodes. It is commonly used for wave shaping, voltage limiting, and signal conditioning.
 
-**Core Concepts:**  
-- **Diode clamping action**
-- **Voltage limiting**
-- **Signal conditioning**
+### ✂️ Clipper Circuit
+**What It Does:**
+Limits the voltage to a set level, commonly used in **wave shaping and voltage protection**.
 
 👉 [Explore the Schematic](./Clipper_Circuit)
 
 ---
 
 ### 🔼 Clamper Circuit
-**What It Does:**  
-A **Clamper Circuit** shifts the DC level of a signal without distorting its waveform. It’s used in applications like signal processing and TV receiver circuits.
-
-**Core Concepts:**  
-- **DC level shifting**
-- **Capacitor and diode interaction**
-- **Waveform preservation**
+**What It Does:**
+Shifts the voltage level without altering its shape. Used in **TV and communication circuits**.
 
 👉 [Explore the Schematic](./Clamper_Circuits)
 
-
 ---
+
+
+
+
+
+
+
+
+
+
+
 
