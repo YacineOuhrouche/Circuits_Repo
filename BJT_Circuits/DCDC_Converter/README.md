@@ -35,8 +35,12 @@ DC-DC converters can be classified into different categories based on their oper
 
 ### 📷 Schematic Diagram
 
+![Screenshot 2025-03-21 120905](https://github.com/user-attachments/assets/5ff4d2c7-2732-4d16-b3f8-2a35ae04590c)
+
+
 ### 🛠 Simulation Result
 
+![Screenshot 2025-03-21 120916](https://github.com/user-attachments/assets/3996f351-e408-4981-af48-d203ac5c368e)
 
 ## 2️⃣ Boost Converter (Step-Up)
 
