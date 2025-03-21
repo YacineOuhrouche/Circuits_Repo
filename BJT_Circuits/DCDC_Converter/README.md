@@ -33,6 +33,17 @@ DC-DC converters can be classified into different categories based on their oper
 - When the switch is **OFF**, the inductor releases stored energy, maintaining a continuous output voltage.
 - A **capacitor** smooths the output voltage, reducing ripple.
 
+  📷 **Schematic Diagram:**
+  
+
+![Screenshot 2025-03-21 120905](https://github.com/user-attachments/assets/f8451281-fa9d-41cd-b918-e22f894e8990)
+
+
+🛠 **Simulation:**
+
+![Screenshot 2025-03-21 120916](https://github.com/user-attachments/assets/180ac4e0-1a99-482b-9f50-439f4676ab88)
+
+
 ---
 
 ## 2️⃣ Boost Converter (Step-Up)
