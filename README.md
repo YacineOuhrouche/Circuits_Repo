@@ -40,7 +40,7 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 | **Power Amplifier** | Used to drive speakers and other high-power loads                          | [View Folder](./BJT_Circuits/Power_Amplifier)     |
 | **Oscillator Circuit** | Generates a continuous periodic waveform | [View Folder](./BJT_Circuits/Oscillator) |
 | **Current Mirror**  | The current in one half of the circuit controls the current flow in the other half   | [View Folder](./BJT_Circuits/Current_mirror/)      |
-| **DC-DC Converter**| Converts DC voltage from one level to another | [View Folder](./BJT_Circuit/DCDC_Converter/) |
+| **DC-DC Converter**| Converts DC voltage from one level to another | [View Folder](./BJT_Circuits/DCDC_Converter/) |
 | **Rectifier**       | AC-to-DC conversion circuit                                                 | [View Folder](./BJT_Circuits/Rectifier/)          |
 | **Filters**         | Filtering signals to pass or block specific frequencies                     | [View Folder](./BJT_Circuits/Filters/)            |
 | **Clipper Circuit** | "Clips" portions of an AC signal without distorting the remaining waveform   | [View Folder](./BJT_Circuits/Clipper_Circuit/)    |
