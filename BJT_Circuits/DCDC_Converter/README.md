@@ -233,14 +233,7 @@ A **Buck-Boost Converter** is a versatile DC-DC power converter that can **eithe
 
 ---
 
-## 📌 Applications of DC-DC Converters
-✅ **Power supplies** – Used in voltage regulation for embedded systems and industrial electronics.
-✅ **Battery-powered devices** – Efficiently steps up/down voltage in portable electronics.
-✅ **Electric vehicles (EVs)** – Converts battery voltage for different subsystems.
-✅ **Solar power systems** – Converts solar panel voltage to usable levels.
-✅ **Telecommunications** – Regulates power in network infrastructure.
 
----
 
 ## 📌 Summary Table
 
