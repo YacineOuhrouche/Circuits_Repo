@@ -29,9 +29,18 @@ DC-DC converters can be classified into different categories based on their oper
 - **Operation:** The transistor switches ON/OFF rapidly, allowing controlled energy transfer to the inductor.
 
 ### ⚡ How It Works
-- When the switch (MOSFET) is **ON**, current flows through the inductor, storing energy.
-- When the switch is **OFF**, the inductor releases stored energy, maintaining a continuous output voltage.
-- A **capacitor** smooths the output voltage, reducing ripple.
+## When the MOSFET Switch is ON
+- The MOSFET (switch) is closed, allowing current to flow from the input voltage (V_in) through the inductor (L) and to the load (R_load).
+- The inductor stores energy in its magnetic field as the current increases.
+- During this phase, the diode is reverse-biased (off) and does not conduct.
+- The capacitor (C) helps maintain a stable output voltage by supplying current to the load.
+## When the MOSFET Switch is OFF
+- The MOSFET turns off, stopping the direct current flow from V_in.
+- The inductor resists sudden changes in current and tries to maintain the flow.
+- To do so, the inductor's stored magnetic energy is released as current continues to flow, but now through the diode (D) to the load.
+- The diode becomes forward-biased and provides a path for current.
+- The capacitor smooths the output, reducing voltage ripples.
+
 
   📷 **Schematic Diagram:**
   
