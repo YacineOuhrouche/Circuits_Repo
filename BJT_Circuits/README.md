@@ -35,7 +35,7 @@ Each folder contains:
 Amplifies weak signals while maintaining their integrity. Used in **audio processing and sensor applications**.
 
 👉 [Explore the Schematic](./Small_Signal_Amplifier)
-
+--
 ---
 
 ### 🔊 Power Amplifier
@@ -45,12 +45,13 @@ Amplifies signals to drive **high-power loads** like speakers and motors.
 👉 [Explore the Schematic](./Power_Amplifier)
 ---
 
+---
 ### 🌀 Oscillator Circuit
 **What It Does:**
 Generates a continuous waveform for **signal processing, clocks, and RF applications**.
 
 👉 [Explore the Schematic](./Oscillator)
-
+-
 ---
 
 ### 🔄 Current Mirror
@@ -58,7 +59,7 @@ Generates a continuous waveform for **signal processing, clocks, and RF applicat
 The **Current Mirror** is a fundamental analog circuit used to replicate a reference current into another circuit branch with minimal variation. It’s widely used in **biasing circuits, active loads, and analog IC design**.
 
 👉 [Explore the Schematic](./Current_mirror)
-
+-
 ---
 
 
@@ -67,13 +68,14 @@ The **Current Mirror** is a fundamental analog circuit used to replicate a refer
 Converts DC voltage levels efficiently. Used in **battery-powered devices, power supplies, and renewable energy systems**.
 
 👉 [Explore the Schematic](./DCDC_Converter)
+--
 ---
 ### ⚡ Rectifier
 **What It Does:**
 Converts **AC to DC** using diodes. Used in **power supplies and battery charging**.
 
 👉 [Explore the Schematic](./Rectifier)
-
+--
 ---
 
 
@@ -81,13 +83,8 @@ Converts **AC to DC** using diodes. Used in **power supplies and battery chargin
 **What It Does:**  
 This filter circuit is designed to pass certain frequencies while blocking others, typically used in audio and signal processing applications. It demonstrates how passive components such as resistors and capacitors can create low-pass, high-pass, or band-pass filters.
 
-**Core Concepts:**  
-- **Frequency response**
-- **Signal attenuation**
-- **RC filters**
-
 👉 [Explore the Schematic](./Filters)
-
+-
 ---
 
 
@@ -96,7 +93,7 @@ This filter circuit is designed to pass certain frequencies while blocking other
 Limits the voltage to a set level, commonly used in **wave shaping and voltage protection**.
 
 👉 [Explore the Schematic](./Clipper_Circuit)
-
+-
 ---
 
 ### 🔼 Clamper Circuit
@@ -104,7 +101,7 @@ Limits the voltage to a set level, commonly used in **wave shaping and voltage p
 Shifts the voltage level without altering its shape. Used in **TV and communication circuits**.
 
 👉 [Explore the Schematic](./Clamper_Circuits)
-
+-
 ---
 
 
