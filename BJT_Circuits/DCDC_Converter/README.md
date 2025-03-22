@@ -22,7 +22,6 @@ DC-DC converters can be classified into different categories based on their oper
 
 # ⚡ Buck Converter (Step-Down)  
 
-## 📘 Introduction  
 A **Buck Converter** is a DC-DC power converter that **steps down a higher input voltage** to a **lower output voltage** efficiently. It is widely used in power supplies, voltage regulators, and battery management systems.  
 
 ---
@@ -76,7 +75,6 @@ A **Buck Converter** is a DC-DC power converter that **steps down a higher input
 
 # ⚡ Boost Converter (Step-Up)  
 
-## 📘 Introduction  
 A **Boost Converter** is a DC-DC power converter that steps up a **lower input voltage** to a **higher output voltage** efficiently. It is widely used in battery-powered systems, renewable energy applications, and power electronics.  
 
 ---
@@ -130,7 +128,6 @@ A **Boost Converter** is a DC-DC power converter that steps up a **lower input v
 
 # ⚡ Buck-Boost Converter (Step-Up/Step-Down)  
 
-## 📘 Introduction  
 A **Buck-Boost Converter** is a versatile DC-DC power converter that can **either step up or step down** the input voltage to provide a **higher, lower, or inverted output voltage**. This makes it useful in applications where the input voltage varies but a stable output is required.  
 
 ---
