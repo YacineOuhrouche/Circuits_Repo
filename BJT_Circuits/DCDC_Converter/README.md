@@ -108,13 +108,14 @@ A **Boost Converter** is a DC-DC power converter that steps up a **lower input v
 
   📷 **Schematic Diagram:**
   
+  ![Screenshot 2025-03-22 124418](https://github.com/user-attachments/assets/040da479-142a-4cc4-8ebb-dfcc240523f1)
 
-![Screenshot 2025-03-21 120905](https://github.com/user-attachments/assets/f8451281-fa9d-41cd-b918-e22f894e8990)
 
 
 🛠 **Simulation:**
 
-![Screenshot 2025-03-21 120916](https://github.com/user-attachments/assets/180ac4e0-1a99-482b-9f50-439f4676ab88)
+![Screenshot 2025-03-22 124433](https://github.com/user-attachments/assets/e7465df3-c872-438d-b6dd-e9df9483e82b)
+
 
 ---
 ## 🔋 **Applications of Boost Converters**  
