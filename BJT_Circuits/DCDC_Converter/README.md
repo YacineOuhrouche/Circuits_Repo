@@ -160,13 +160,12 @@ A **Buck-Boost Converter** is a versatile DC-DC power converter that can **eithe
 ---
 📷 **Schematic Diagram:**
   
-  ![Screenshot 2025-03-22 124418](https://github.com/user-attachments/assets/040da479-142a-4cc4-8ebb-dfcc240523f1)
 
 
 
 🛠 **Simulation:**
 
-![Screenshot 2025-03-22 124433](https://github.com/user-attachments/assets/e7465df3-c872-438d-b6dd-e9df9483e82b)
+
 ---
 ## 🔋 **Applications of Buck-Boost Converters**  
 ✅ **Battery-powered devices** – Provides a stable voltage regardless of battery level.  
