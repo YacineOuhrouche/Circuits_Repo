@@ -133,13 +133,15 @@ A **Buck-Boost Converter** is a versatile DC-DC power converter that can **eithe
 
 
 ---
-📷 **Schematic Diagram:**
-  
+**📷 **Schematic Diagram:****
+
+![Screenshot 2025-03-23 124131](https://github.com/user-attachments/assets/b0fa9b0f-0c1f-47c4-87c2-2ea702e0d4cc)
 
 
 
-🛠 **Simulation:**
+**🛠 **Simulation:****
 
+![Screenshot 2025-03-23 124201](https://github.com/user-attachments/assets/18f04f54-4f93-45b5-a0ab-853a9eb68884)
 
 ---
 ## 🔋 **Applications of Buck-Boost Converters**  
@@ -192,7 +194,6 @@ A **SEPIC (Single-Ended Primary Inductor Converter)** is a **DC-DC power convert
 ---
 
 
-## 5️⃣ Cuk Converter (Inverting Step-Up/Step-Down)
 
 # ⚡ Ćuk Converter (Step-Up/Step-Down DC-DC)  
 
