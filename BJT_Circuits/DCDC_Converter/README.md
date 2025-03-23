@@ -204,33 +204,64 @@ A **Buck-Boost Converter** is a versatile DC-DC power converter that can **eithe
 
 ---
 
-## 6️⃣ Flyback Converter
 
-### 📌 Circuit Description
-- **Input Voltage:** Variable.
-- **Output Voltage:** Can be stepped up, stepped down, or isolated.
-- **Components:** Transformer, diode, capacitor, and switch.
-- **Operation:** Uses a transformer to store and transfer energy.
 
-### ⚡ How It Works
-- When the switch is **ON**, the transformer stores energy.
-- When the switch is **OFF**, energy is transferred to the secondary winding, delivering power to the output.
+# ⚡ Flyback Converter (Isolated DC-DC)  
+
+A **Flyback Converter** is a **DC-DC power converter** that can **step up or step down voltage** while providing **electrical isolation** between input and output. It is widely used in **power supplies, chargers, and LED drivers** where isolation and efficiency are crucial.  
 
 ---
 
-## 7️⃣ Forward Converter
+## 🔹 How It Works  
 
-### 📌 Circuit Description
-- **Input Voltage:** Variable.
-- **Output Voltage:** Can be stepped up, stepped down, or isolated.
-- **Components:** Transformer, diode, capacitor, and switch.
-- **Operation:** Similar to a flyback converter, but transfers energy **continuously** rather than storing it.
+### **1️⃣ When the MOSFET Switch is ON**  
+- The **MOSFET (switch) is closed**, allowing current to flow through the **primary winding** of the transformer.  
+- Unlike a normal transformer, the **energy is stored** in the transformer's magnetic field (not transferred instantly).  
+- The **secondary winding's diode is reverse-biased** (OFF), preventing output current flow.  
 
-### ⚡ How It Works
-- The transformer **directly** transfers power to the output during the switch’s ON state.
-- A secondary rectifier smooths the voltage for output.
+### **2️⃣ When the MOSFET Switch is OFF**  
+- The **MOSFET turns OFF**, stopping the current in the **primary winding**.  
+- The **magnetic field collapses**, inducing a voltage in the **secondary winding**.  
+- The **diode becomes forward-biased**, allowing the stored energy to transfer to the **output capacitor and load**.  
+- The **capacitor smooths the output voltage**, reducing ripple.  
 
 ---
+
+## 🔹 Key Features  
+✔ **Electrical Isolation** – Uses a transformer to separate input and output.  
+✔ **Step-Up or Step-Down Operation** – Can adjust voltage levels efficiently.  
+✔ **Energy Storage Mechanism** – Unlike a standard transformer, it stores and transfers energy in separate phases.  
+✔ **Common in Power Supplies** – Used in **AC-DC adapters, chargers, and industrial power applications**.  
+
+---
+
+# ⚡ Forward Converter (Isolated DC-DC)  
+
+A **Forward Converter** is a **DC-DC power converter** that provides **electrical isolation** while transferring energy **directly** from input to output through a transformer. Unlike a flyback converter, it does **not store energy in the transformer** but instead uses an additional inductor to smooth the output. It is commonly used in **power supplies, industrial control systems, and telecom applications**.  
+
+---
+
+## 🔹 How It Works  
+
+### **1️⃣ When the MOSFET Switch is ON**  
+- The **MOSFET (switch) is closed**, allowing current to flow through the **primary winding** of the transformer.  
+- The **secondary winding** generates a proportional voltage, which is **rectified and sent to the output**.  
+- The **diode (D1) conducts**, delivering power to the load.  
+- The **output inductor (L)** smooths the current, reducing ripple.  
+
+### **2️⃣ When the MOSFET Switch is OFF**  
+- The **MOSFET turns OFF**, stopping current in the **primary winding**.  
+- Since the transformer does not store energy, the output voltage would drop.  
+- To maintain continuous current, a **freewheeling diode (D2)** provides a path for current through the **inductor and load**.  
+- The **capacitor smooths the output voltage**, ensuring stable DC output.  
+
+---
+
+## 🔹 Key Features  
+✔ **Electrical Isolation** – Uses a transformer to separate input and output.  
+✔ **Continuous Power Transfer** – Energy is directly transferred, not stored like in a flyback converter.  
+✔ **Lower Voltage Stress** – Compared to a flyback converter, the MOSFET handles lower voltage spikes.  
+✔ **Used in Industrial and Telecom Applications** – Common in **regulated power supplies, motor drives, and communication systems**.  
 
 
 
