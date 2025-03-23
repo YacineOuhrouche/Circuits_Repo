@@ -44,15 +44,6 @@ A **Buck Converter** is a DC-DC power converter that **steps down a higher input
 ---
 
 
-## 📈 **Practical Considerations**  
-✅ **Inductor Selection:** Must handle **high current** without excessive saturation.  
-✅ **Switching Frequency:** Affects efficiency; **higher frequency = smaller inductor** but more losses.  
-✅ **Diode Choice:** **Schottky diodes** minimize **voltage drop and losses**.  
-✅ **Capacitor Size:** Affects **output stability** and **ripple reduction**.  
-
----
-
-
   📷 **Schematic Diagram:**
   
 
@@ -94,13 +85,6 @@ A **Boost Converter** is a DC-DC power converter that steps up a **lower input v
 - The **diode becomes forward-biased**, allowing energy to reach the output.  
 - The **capacitor smooths the output voltage**, reducing ripple.  
 
----
-
-## 📈 **Practical Considerations**  
-✅ **Inductor Selection:** Must handle **high current** without excessive saturation.  
-✅ **Switching Frequency:** Affects efficiency; **higher frequency = smaller inductor** but more losses.  
-✅ **Diode Choice:** **Schottky diodes** minimize **voltage drop and losses**.  
-✅ **Capacitor Size:** Affects **output stability** and **ripple reduction**.  
 
 ---
 
@@ -147,15 +131,6 @@ A **Buck-Boost Converter** is a versatile DC-DC power converter that can **eithe
 - The **diode becomes forward-biased**, providing a path for current.  
 - The **capacitor smooths the output voltage**, reducing ripple.  
 
----
-
-
-## 📈 **Practical Considerations**  
-✅ **Inductor Selection:** Must handle **high current** without excessive saturation.  
-✅ **Switching Frequency:** Affects efficiency; **higher frequency = smaller inductor** but more losses.  
-✅ **Diode Choice:** **Schottky diodes** minimize **voltage drop and losses**.  
-✅ **Capacitor Size:** Affects **output stability** and **ripple reduction**.  
-✅ **Control Strategy:** Varies depending on whether **boost, buck, or inversion** is needed.  
 
 ---
 📷 **Schematic Diagram:**
