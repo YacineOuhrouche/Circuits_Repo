@@ -82,7 +82,7 @@ A **Boost Converter** is a DC-DC power converter that steps up a **lower input v
 - The **diode becomes forward-biased**, allowing energy to reach the output.  
 - The **capacitor smooths the output voltage**, reducing ripple.  
 
-### Why the output voltage is lower?
+### Why the output voltage is higher?
 -The boost converter increases the voltage by adding the inductor’s energy to the input voltage. The relationship between the output and input voltage is determined by the duty cycle (D):
 - V_out =  V_In/(1-D)
 ---
