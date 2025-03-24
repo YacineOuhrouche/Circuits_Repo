@@ -36,7 +36,7 @@ A **Ćuk Converter** is a **DC-DC power converter** that provides a **negative o
 
 
 ### **Average Efficiency:**
-- A well-designed Ćuk converter generally has an average efficiency of **90%**, meaning around 10% of the input power is lost as heat.
+- A well-designed Ćuk converter generally has an average efficiency of **70-90%**.
 
 ---
 
