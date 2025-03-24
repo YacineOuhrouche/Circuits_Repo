@@ -21,7 +21,6 @@ Each folder contains:
 | 🔄 Current Mirror | A **BJT-based current mirror** for stable current replication | [Current Mirror Folder](./Current_mirror) |
 | 🔄 DC-DC Converter | Converts DC voltage from one level to another | [DC-DC Converter Folder](./DCDC_Converter) |
 | ⚡ AC-DC Converter | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
-| 🔄 AC-AC Converter | Converts one **AC voltage level** to another AC voltage level | [AC-AC Converter Folder](./ACAC_Converter) |
 | 🔎 Filter | A **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters) |
 | ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper_Circuit) |
 | 🔼 Clamper Circuit | A circuit that **shifts** the voltage level without changing its shape | [Clamper Folder](./Clamper_Circuits) |
