@@ -1,70 +1,100 @@
-# ⚡ DC-DC Converters
+ # 🔌 Analog Circuits
 
-Welcome to the **DC-DC Converters** repository! 🔋  
-This collection explores different types of **DC-DC power conversion circuits**, crucial in power electronics for **voltage regulation, efficiency optimization, and power management** in various applications, from mobile devices to industrial power supplies.
+Welcome to the **Analog Circuits** repository! 🎉  
+This collection demonstrates how to build **basic analog circuits** using components like **diodes, resistors, capacitors, and transistors**. Analog circuits process real-world signals, such as sound, light, and temperature, making them essential in many electronic applications.
 
 Each folder contains:
 
-✅ A brief explanation of the converter's functionality  
-✅ A schematic diagram  
-✅ The circuit simulation or implementation details  
+✅ A brief explanation of the circuit's functionality  
+✅ A schematic image  
+✅ The circuit simulation or breadboard setup  
 
 ---
 
-## 📂 Quick Links to Each Converter
+## Quick Links to Each Circuit
 
-| Converter | Description | Link |
+| Circuit | Description | Link |
 |--|--|--|
-| 🔽 Buck Converter | Steps down voltage efficiently | [Buck Converter Folder](./Buck_Converter) |
-| 🔼 Boost Converter | Steps up voltage for higher output | [Boost Converter Folder](./Boost_Converter) |
-| 🔄 Buck-Boost Converter | Provides higher or lower output voltage than input | [Buck-Boost Converter Folder](./Buck_Boost_Converter) |
-| 🔄 Ćuk Converter | Provides negative polarity output with good efficiency | [Ćuk Converter Folder](./Cuk_Converter) |
-| 🔄 SEPIC Converter | Allows step-up/down conversion with positive output | [SEPIC Converter Folder](./SEPIC_Converter) |
-| 🔌 **Isolated Converter** | Provides **isolated** voltage conversion using a transformer | [Isolated Converter Folder](./Isolated_Converter) |
+| 📢 Small Signal Amplifier | Amplifies weak signals using **BJTs** | [Small Signal Amplifier Folder](./Small_Signal_Amplifier) |
+| 🔊 Power Amplifier | Used to drive speakers and other high-power loads | [Power Amplifier Folder](./Power_Amplifier) |
+| 🌀 Oscillator Circuit | Generates a continuous periodic waveform, typically for use in signal generation | [Oscillator Folder](./Oscillator) |
+| 🔄 Current Mirror | A **BJT-based current mirror** for stable current replication | [Current Mirror Folder](./Current_mirror) |
+| 🔄 DC-DC Converter | Converts DC voltage from one level to another | [DC-DC Converter Folder](./DCDC_Converter) |
+| ⚡ Rectifier | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
+| 🔎 Filter | A **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters) |
+| ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper_Circuit) |
+| 🔼 Clamper Circuit | A circuit that **shifts** the voltage level without changing its shape | [Clamper Folder](./Clamper_Circuits) |
+
 
 ---
 
-## 📜 Converter Overviews
+## 📐 Circuit Overviews
 
-### 🔽 Buck Converter
-A **step-down converter** that reduces the input voltage while maintaining efficiency. Used in **battery-powered systems and power supplies**.
+### 📢 Small Signal Amplifier
+Amplifies weak signals while maintaining their integrity. Used in **audio processing and sensor applications**.
 
-👉 [Explore the Schematic](./Buck_Converter)
-
+👉 [Explore the Schematic](./Small_Signal_Amplifier)
+--
 ---
 
-### 🔼 Boost Converter
-A **step-up converter** that increases the input voltage, commonly used in **LED drivers and battery-powered circuits**.
+### 🔊 Power Amplifier
+Amplifies signals to drive **high-power loads** like speakers and motors.
 
-👉 [Explore the Schematic](./Boost_Converter)
-
+👉 [Explore the Schematic](./Power_Amplifier)
 ---
 
-### 🔄 Buck-Boost Converter
-A versatile converter that **steps up or steps down** the voltage, ideal for **applications with varying input power sources**.
+---
+### 🌀 Oscillator Circuit
+Generates a continuous waveform for **signal processing, clocks, and RF applications**.
 
-👉 [Explore the Schematic](./Buck_Boost_Converter)
-
+👉 [Explore the Schematic](./Oscillator)
+-
 ---
 
-### 🔄 Ćuk Converter
-This converter provides a **negative output voltage** with high efficiency and low ripple, often used in **industrial power supplies**.
+### 🔄 Current Mirror  
+The **Current Mirror** is a fundamental analog circuit used to replicate a reference current into another circuit branch with minimal variation. It’s widely used in **biasing circuits, active loads, and analog IC design**.
 
-👉 [Explore the Schematic](./Cuk_Converter)
-
+👉 [Explore the Schematic](./Current_mirror)
+-
 ---
 
-### 🔄 SEPIC Converter
-A **Single-Ended Primary-Inductor Converter** (SEPIC) allows for **both step-up and step-down conversion** with a **positive output**, making it useful in **battery-operated devices**.
 
-👉 [Explore the Schematic](./SEPIC_Converter)
+### 🔄 DC-DC Converter
+Converts DC voltage levels efficiently. Used in **battery-powered devices, power supplies, and renewable energy systems**.
 
+👉 [Explore the Schematic](./DCDC_Converter)
+--
+---
+### ⚡ Rectifier
+Converts **AC to DC** using diodes. Used in **power supplies and battery charging**.
+
+👉 [Explore the Schematic](./Rectifier)
+--
 ---
 
-### 🔌 **Isolated Converter**
-A **widely used type of DC-DC converter** that uses a transformer to provide **electrical isolation** between input and output. Used in **power adapters, LED drivers, and battery chargers**.
 
-👉 [Explore the Schematic](./Isolated_Converter)
+### 🔎 Filter 
+This filter circuit is designed to pass certain frequencies while blocking others, typically used in audio and signal processing applications. It demonstrates how passive components such as resistors and capacitors can create low-pass, high-pass, or band-pass filters.
+
+👉 [Explore the Schematic](./Filters)
+-
+---
+
+
+### ✂️ Clipper Circuit
+Limits the voltage to a set level, commonly used in **wave shaping and voltage protection**.
+
+👉 [Explore the Schematic](./Clipper_Circuit)
+-
+---
+
+### 🔼 Clamper Circuit
+Shifts the voltage level without altering its shape. Used in **TV and communication circuits**.
+
+👉 [Explore the Schematic](./Clamper_Circuits)
+-
+---
+
 
 
 
