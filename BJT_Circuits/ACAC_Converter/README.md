@@ -19,5 +19,6 @@ Each folder contains:
 | 🔄 **Voltage Controllers (AC Choppers)** | Control AC voltage using phase angle control | [Voltage Controllers Folder](./Voltage_Controllers) |
 | 🔄 **Cycloconverter** | Converts AC frequency directly (low-frequency applications) | [Cycloconverter Folder](./Cycloconverter) |
 | 🔄 **Matrix Converter** | Direct AC-AC conversion with full control of voltage and frequency | [Matrix Converter Folder](./Matrix_Converter) |
+| 🔄 **Indirect AC-AC Converter** | Converts AC to DC and back to AC (with intermediate DC link) for flexible voltage and frequency control | [Indirect AC-AC Converter Folder](./Indirect_AC_Converter) |
 
 ---
