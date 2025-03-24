@@ -43,7 +43,11 @@ A **Buck Converter** is a DC-DC power converter that **steps down a higher input
 
 ---
 
-
+### Why the output voltage is lower?
+-The buck converter reduces the voltage because it only allows a portion of the input voltage to pass to the output based on the duty cycle (D) of the switching signal. The duty cycle is the ratio of the time the switch is ON to the total switching period:
+- V_out = D X V_In
+​
+---
   📷 **Schematic Diagram:**
   
 
@@ -78,7 +82,9 @@ A **Boost Converter** is a DC-DC power converter that steps up a **lower input v
 - The **diode becomes forward-biased**, allowing energy to reach the output.  
 - The **capacitor smooths the output voltage**, reducing ripple.  
 
-
+### Why the output voltage is lower?
+-The boost converter increases the voltage by adding the inductor’s energy to the input voltage. The relationship between the output and input voltage is determined by the duty cycle (D):
+- V_out =  V_In/(1-D)
 ---
 
   📷 **Schematic Diagram:**
