@@ -15,13 +15,9 @@ Each folder contains:
 
 | Converter | Description | Link |
 |--|--|--|
-| 🔌 **AC Voltage Controllers (AVR)** | Controls AC voltage using phase control techniques | [AC Voltage Controllers Folder](./AC_Voltage_Controllers) |
-| 🔄 **Cycloconverter** | Direct AC-to-AC conversion with frequency change | [Cycloconverter Folder](./Cycloconverter) |
-| 🔄 **Matrix Converter** | Provides AC-to-AC conversion with output frequency control | [Matrix Converter Folder](./Matrix_Converter) |
-| 🔁 **Thyristor-Based AC-AC Converter** | Uses thyristors for controlled power conversion | [Thyristor-Based AC-AC Converter Folder](./Thyristor_AC_Converter) |
-| 🔄 **Solid-State AC-AC Converter** | Solid-state devices for efficient AC-to-AC conversion | [Solid-State AC-AC Converter Folder](./Solid_State_AC_Converter) |
-| 🔄 **Frequency Converters** | Converts the frequency of an AC signal | [Frequency Converters Folder](./Frequency_Converters) |
-| 🔌 **Transformer-Based AC-AC Converter** | AC voltage conversion using transformers | [Transformer-Based AC-AC Converter Folder](./Transformer_AC_Converter) |
-| ⚡ **AC-AC Converter** | Converts one AC voltage level to another AC voltage level | [AC-AC Converter Folder](./AC_AC_Converter) |
+| ⚡ **Transformers** | Basic voltage conversion (step-up/step-down) | [Transformers Folder](./Transformers) |
+| 🔄 **Voltage Controllers (AC Choppers)** | Control AC voltage using phase angle control | [Voltage Controllers Folder](./Voltage_Controllers) |
+| 🔄 **Cycloconverter** | Converts AC frequency directly (low-frequency applications) | [Cycloconverter Folder](./Cycloconverter) |
+| 🔄 **Matrix Converter** | Direct AC-AC conversion with full control of voltage and frequency | [Matrix Converter Folder](./Matrix_Converter) |
 
 ---
