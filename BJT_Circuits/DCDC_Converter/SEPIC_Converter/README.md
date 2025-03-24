@@ -51,4 +51,4 @@ A **SEPIC (Single-Ended Primary Inductor Converter)** is a **DC-DC power convert
 ---
 
 ## 🔹 NEXT
-**👉[ Boost Converter (Step-Up)](../Isolated_Converter)**
+**👉[ Isolated Converters ](../Isolated_Converter)**
