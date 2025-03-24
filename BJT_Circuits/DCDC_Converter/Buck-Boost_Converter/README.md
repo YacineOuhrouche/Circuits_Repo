@@ -35,8 +35,7 @@ A **Buck-Boost Converter** is a versatile DC-DC power converter that can **eithe
 
 
 ### **Average Efficiency:**
-- A typical buck-boost converter has an average efficiency of about **85% to 90%** under typical conditions. This means that about 10% to 15% of the power is lost as heat during operation.
-
+- A typical buck-boost converter has an average efficiency of about **75% to 90%** under typical conditions. 
 ---
 
 ### **Key Factors Influencing Efficiency:**
