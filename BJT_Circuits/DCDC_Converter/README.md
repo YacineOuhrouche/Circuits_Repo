@@ -17,7 +17,7 @@ Each folder contains:
 |--|--|--|
 | 🔽 Buck Converter | Steps down voltage efficiently | [Buck Converter Folder](./Buck_Converter) |
 | 🔼 Boost Converter | Steps up voltage for higher output | [Boost Converter Folder](./Boost_Converter) |
-| 🔄 Buck-Boost Converter | Provides higher or lower output voltage than input | [Buck-Boost Converter Folder](./Buck_Boost_Converter) |
+| 🔄 Buck-Boost Converter | Provides higher or lower output voltage than input | [Buck-Boost Converter Folder](./Buck-Boost_Converter) |
 | 🔄 Ćuk Converter | Provides negative polarity output with good efficiency | [Ćuk Converter Folder](./Cuk_Converter) |
 | 🔄 SEPIC Converter | Allows step-up/down conversion with positive output | [SEPIC Converter Folder](./SEPIC_Converter) |
 | 🔌 **Isolated Converter** | Provides **isolated** voltage conversion using a transformer | [Isolated Converter Folder](./Isolated_Converter) |
@@ -43,7 +43,7 @@ A **step-up converter** that increases the input voltage, commonly used in **LED
 ### 🔄 Buck-Boost Converter
 A versatile converter that **steps up or steps down** the voltage, ideal for **applications with varying input power sources**.
 
-👉 [Explore the Schematic](./Buck_Boost_Converter)
+👉 [Explore the Schematic](./Buck-Boost_Converter)
 
 ---
 
