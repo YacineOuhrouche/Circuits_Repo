@@ -201,7 +201,8 @@ A **Ćuk Converter** is a **DC-DC power converter** that provides a **negative o
 
 ---
 ### Why the Output Voltage Can Be Higher or Lower
-- Same thing as Buck-Boost converter
+- Same calculation as Buck-Boost converter.
+  
 📷 **Schematic Diagram:**  
 
 
