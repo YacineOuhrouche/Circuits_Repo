@@ -61,37 +61,13 @@ A **Charge Pump** is a type of **DC-DC converter** that **changes the voltage le
 ---
 
 ### **4️⃣ Voltage Step-Up Charge Pump**
-- **Function**: Steps up the input voltage to a higher level.
-- **How It Works**: 
-  - The charge pump uses a capacitor to accumulate energy and then releases it at a higher voltage.
-  - **Circuit Configuration**:
-    - **Capacitors**: Store the energy during the switching process.
-    - **Diodes**: Control the direction of energy flow to step up the voltage.
-  - **Applications**: Common in **battery-powered devices** where a small increase in voltage is needed without the use of an inductor.
-  - **Efficiency**: Efficiency typically ranges from **60% to 85%**.
-
-📷 **Schematic Diagram**:
-
-
-🛠 **Simulation**:
+**👉[ Boost Converter (Step-Up)](../Boost_Converter)**
 
 ---
 
 ### **5️⃣ Voltage Step-Down Charge Pump**
-- **Function**: Steps down the input voltage to a lower level.
-- **How It Works**: 
-  - The capacitor charges to the input voltage and then discharges to the output through a diode, reducing the voltage level.
-  - **Circuit Configuration**:
-    - **Capacitors**: Store and release energy.
-    - **Diodes**: Help direct current to ensure the voltage is stepped down.
-  - **Applications**: Used in **low-voltage devices** where a voltage reduction is necessary, such as **low-power circuits** and **sensors**.
-  - **Efficiency**: Typically ranges from **60% to 85%**.
 
-📷 **Schematic Diagram**:
-
-
-🛠 **Simulation**:
-
+**👉[ Buck Converter (Step-Down)](../Buck_Converter)**
 
 ---
 
