@@ -26,10 +26,20 @@ A **Boost Converter** is a DC-DC power converter that **steps up a lower input v
 
 ---
 
+
+### **Average Efficiency:**
+- The average efficiency of a boost converter typically ranges between **85% and 90%** under typical operating conditions. This means around 10% to 15% of the input power is lost as heat due to switching, conduction, and other component inefficiencies.
+
+### **Factors Contributing to Losses:**
+- **Switching and Conduction Losses** are the primary contributors to the losses, typically accounting for about **50% to 60%** of the total loss.
+- **Inductor and Capacitor Losses** contribute around **30% to 40%** of the total loss.
+- **Diode Losses** contribute the remaining **10% to 15%** of the total loss in non-synchronous boost converters.
+
+---
+
 📷 **Schematic Diagram:**  
 
 ![Screenshot 2025-03-22 124418](https://github.com/user-attachments/assets/940d7030-aba4-4613-832e-ede337d9950f)
-
 
 🛠 **Simulation:**  
 
@@ -46,6 +56,5 @@ A **Boost Converter** is a DC-DC power converter that **steps up a lower input v
 
 ---
 
-## 🔹 NEXT
+## 🔹 NEXT  
 **👉[ Buck-Boost Converter ](../Buck-Boost_Converter)**
-
