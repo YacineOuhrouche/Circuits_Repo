@@ -41,23 +41,6 @@ A **Forward Converter** is similar to the flyback converter but operates by tran
 
 ---
 
-### 🔑 **Half-Bridge Converter**
-The **Half-Bridge Converter** uses two switches on the primary side to drive the transformer, creating a half-bridge circuit. It’s more efficient than basic converters and ideal for **medium to high-power** applications.
-
-**Applications**:  
-- **Motor drives**  
-- **Solar power inverters**
-
----
-
-### 🔒 **Full-Bridge Converter**
-A **Full-Bridge Converter** uses four switches on the primary side, making it highly efficient and suitable for **high-power** applications. It provides the best performance and is used in large-scale power systems.
-
-**Applications**:  
-- Power supplies for **servers**  
-- **High-performance industrial applications**
-
----
 
 ## 🚀 Applications of Isolated DC-DC Converters
 
