@@ -41,7 +41,7 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 | **Oscillator Circuit** | Generates a continuous periodic waveform | [View Folder](./BJT_Circuits/Oscillator) |
 | **Current Mirror**  | The current in one half of the circuit controls the current flow in the other half   | [View Folder](./BJT_Circuits/Current_mirror/)      |
 | **DC-DC Converter**| Converts DC voltage from one level to another | [View Folder](./BJT_Circuits/DCDC_Converter/) |
-| **AC-DC Converter(Rectifier)**       | AC-to-DC conversion circuit                                                 | [View Folder](./BJT_Circuits/Rectifier/)          |
+| **AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./BJT_Circuits/Rectifier/)          |
 | **Filters**         | Filtering signals to pass or block specific frequencies                     | [View Folder](./BJT_Circuits/Filters/)            |
 | **Clipper Circuit** | "Clips" portions of an AC signal without distorting the remaining waveform   | [View Folder](./BJT_Circuits/Clipper_Circuit/)    |
 | **Clamper Circuit** | Adds or subtracts a DC voltage to an AC signal                             | [View Folder](./BJT_Circuits/Clamper_Circuits/)   |
