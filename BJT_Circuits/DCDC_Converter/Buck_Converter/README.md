@@ -28,6 +28,17 @@ A **Buck Converter** is a DC-DC power converter that **steps down a higher input
 
 ---
 
+
+### **Average Efficiency:**
+- The average efficiency of a buck converter typically ranges between **85% and 90%** under typical operating conditions. This means that around 10% to 15% of the input power is lost as heat due to factors such as switching losses, conduction losses, and component inefficiencies.
+
+### **Factors Contributing to Losses:**
+- **Switching and Conduction Losses** are the primary contributors to the losses, typically accounting for about **50% to 60%** of the total loss.
+- **Inductor and Capacitor Losses** contribute around **30% to 40%** of the total loss.
+- **Diode Losses** contribute the remaining **10% to 15%** of the total loss, especially in non-synchronous buck converters.
+
+---
+
 📷 **Schematic Diagram:**  
 
 ![Screenshot 2025-03-21 120905](https://github.com/user-attachments/assets/f8451281-fa9d-41cd-b918-e22f894e8990)
@@ -46,5 +57,6 @@ A **Buck Converter** is a DC-DC power converter that **steps down a higher input
 - **LED Drivers** – Provides constant voltage for LED lighting applications.  
 
 ---
-## 🔹 NEXT
+
+## 🔹 NEXT  
 **👉[ Boost Converter (Step-Up)](../Boost_Converter)**
