@@ -45,4 +45,6 @@ A **Boost Converter** is a DC-DC power converter that **steps up a lower input v
 
 ---
 
-[Next: Buck-Boost Converter (Bidirectional Voltage Conversion)](link-to-buck-boost-converter-section)
+## 🔹 NEXT
+**👉[ Buck-Boost Converter ](../Buck-Boost_Converter)**
+
