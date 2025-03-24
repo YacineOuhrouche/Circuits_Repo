@@ -129,7 +129,7 @@ A **Buck-Boost Converter** is a versatile DC-DC power converter that can **eithe
 -The buck-boost converter is unique because it inverts the polarity of the output voltage, meaning the output is negative with respect to the input. The voltage conversion ratio is given by:
 - V_out =  -V_In/(1-D)
 - If D > 0.5 (boost mode)
-- If D < 0.5 (Cuck mode)
+- If D < 0.5 (Buck mode)
 
 ---
 **📷 **Schematic Diagram:****
