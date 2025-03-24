@@ -47,4 +47,4 @@ A **Buck Converter** is a DC-DC power converter that **steps down a higher input
 
 ---
 ## 🔹 NEXT
-**👉[ Boost Converter (Step-Up)](../DCDC_Converter/Boost_Converter)**
+**👉[ Boost Converter (Step-Up)](../Boost_Converter)**
