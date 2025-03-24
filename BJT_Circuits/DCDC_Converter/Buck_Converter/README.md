@@ -1,6 +1,6 @@
 # ⚡ Buck Converter (Step-Down)  
 
-A **Buck Converter** is a DC-DC power converter that **steps down a higher input voltage** to a **lower output voltage** efficiently. It is widely used in power supplies, voltage regulators, and battery management systems.  
+A **Buck Converter** is a DC-DC power converter that **steps down a higher input voltage** to a **lower output voltage** efficiently. It is widely used in power supplies, voltage regulators, and battery management systems.
 
 ---
 
@@ -44,3 +44,7 @@ A **Buck Converter** is a DC-DC power converter that **steps down a higher input
 - **Electric Vehicles (EVs)** – Regulates power in EV battery management systems.  
 - **Renewable Energy Systems** – Used in solar and wind power applications to manage energy distribution.  
 - **LED Drivers** – Provides constant voltage for LED lighting applications.  
+
+---
+## NEXT
+[ Boost Converter (Step-Up)](./Boost_Converter/)
