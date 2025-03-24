@@ -1,6 +1,6 @@
 # ⚡ SEPIC Converter (Step-Up/Step-Down DC-DC)  
 
-A **SEPIC (Single-Ended Primary Inductor Converter)** is a **DC-DC power converter** that can **step up or step down** the input voltage while maintaining a regulated output. It is commonly used in **battery-powered devices, automotive electronics, and LED drivers**, where the input voltage may fluctuate above or below the required output.  
+A **SEPIC (Single-Ended Primary Inductor Converter)** is a **DC-DC power converter** that can **step up or step down** the input voltage while maintaining a regulated output. It is commonly used in **battery-powered devices, automotive electronics, and LED drivers**, where the input voltage may fluctuate above or below the required output.
 
 ---
 
@@ -21,17 +21,34 @@ A **SEPIC (Single-Ended Primary Inductor Converter)** is a **DC-DC power convert
 - The **capacitor C_out smooths the output voltage**, reducing ripple.  
 
 ---
-### Why the Output Voltage Can Be Higher or Lower
-- V_out =  V_In/(1-D) ***not inverted
-- If D > 0.5 (boost mode)
-- If D < 0.5 (Buck mode)
-- If D = 0.5 (Equal)
 
+### Why the Output Voltage Can Be Higher or Lower
+- The output voltage is governed by the duty cycle, with the equation:
+  \[ V_{out} = \frac{V_{in}}{(1 - D)} \]
+  - If **D > 0.5** (boost mode)  
+  - If **D < 0.5** (buck mode)  
+  - If **D = 0.5** (equal mode, output equals input)
+
+---
 
 📷 **Schematic Diagram:**  
 
+![Screenshot 2025-03-24 113947](https://github.com/user-attachments/assets/f6ecfeee-1284-4577-b465-05aaceb3fc00)
 
+🛠 **Simulation:** 
 
-🛠 **Simulation:**  
+![Screenshot 2025-03-24 113956](https://github.com/user-attachments/assets/024d3b41-bdc2-4891-93b7-631457af5c8c)
 
 ---
+
+## 📌 Applications  
+- **Battery-Powered Devices** – Ideal for regulating the voltage in devices powered by batteries, as the input voltage may vary as the battery discharges.  
+- **Automotive Electronics** – Used in automotive systems to manage power conversion and regulation where input voltage can fluctuate due to engine load changes.  
+- **LED Drivers** – Provides a stable voltage for driving LEDs, even when the input voltage fluctuates.  
+- **Portable Power Systems** – In devices like power banks and portable chargers, the SEPIC converter can maintain a stable output voltage even if the input from the battery drops.  
+- **Medical Devices** – Used in medical devices that require precise and stable power conversion despite varying input voltages.
+
+---
+
+## 🔹 NEXT
+**👉[ Boost Converter (Step-Up)](../Isolated_Converter)**
