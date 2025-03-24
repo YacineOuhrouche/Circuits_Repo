@@ -61,7 +61,7 @@ A **Single-Ended Primary-Inductor Converter** (SEPIC) allows for **both step-up 
 
 ---
 
-### 🔌 **Isolated Converter**
+### 🔌 **Isolated Converters**
 A **widely used type of DC-DC converter** that uses a transformer to provide **electrical isolation** between input and output. Used in **power adapters, LED drivers, and battery chargers**.
 
 👉 [Explore the Schematic](./Isolated_Converter)
