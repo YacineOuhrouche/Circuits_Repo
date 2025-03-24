@@ -24,13 +24,6 @@ A cycloconverter operates by **controlling the conduction of thyristors (SCRs)**
 
 ## 📟 Schematic Diagram  
 
-Below is a **basic schematic** of a single-phase cycloconverter:  
-
-![Cycloconverter Schematic](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Cycloconverter_1PH_Bridge.png/500px-Cycloconverter_1PH_Bridge.png)  
-
-**Explanation:**  
-- The circuit consists of **two groups of thyristors (SCRs)** controlling the positive and negative halves of the AC cycle.  
-- By triggering the thyristors at different intervals, the **output frequency is lowered**.  
 
 ---
 
