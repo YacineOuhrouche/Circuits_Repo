@@ -200,7 +200,8 @@ A **Ćuk Converter** is a **DC-DC power converter** that provides a **negative o
 - The **capacitor C_out stabilizes the output voltage**, reducing fluctuations.  
 
 ---
-
+### Why the Output Voltage Can Be Higher or Lower
+- Same thing as Buck-Boost converter
 📷 **Schematic Diagram:**  
 
 
