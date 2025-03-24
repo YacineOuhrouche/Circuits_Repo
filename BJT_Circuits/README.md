@@ -20,7 +20,7 @@ Each folder contains:
 | 🌀 Oscillator Circuit | Generates a continuous periodic waveform, typically for use in signal generation | [Oscillator Folder](./Oscillator) |
 | 🔄 Current Mirror | A **BJT-based current mirror** for stable current replication | [Current Mirror Folder](./Current_mirror) |
 | 🔄 DC-DC Converter | Converts DC voltage from one level to another | [DC-DC Converter Folder](./DCDC_Converter) |
-| ⚡ Rectifier | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
+| ⚡ AC-DC Converter | Converts **AC to DC** using diodes | [Rectifier Folder](./Rectifier) |
 | 🔎 Filter | A **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters) |
 | ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper_Circuit) |
 | 🔼 Clamper Circuit | A circuit that **shifts** the voltage level without changing its shape | [Clamper Folder](./Clamper_Circuits) |
