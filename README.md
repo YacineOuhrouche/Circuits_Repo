@@ -1,21 +1,19 @@
-
 # ⚡ Circuits Collection
 
 ![Electrical Engineering](https://img.shields.io/badge/Electrical%20Engineering-Projects-blue?style=for-the-badge)  
 📡 Welcome to my **Circuits Collection** repository!
 
-This is where I document circuits I’ve designed and simulated throughout my **Electrical Engineering**  journey.
+This is where I document circuits I’ve designed and simulated throughout my **Electrical Engineering** journey.
 
 Each folder contains:
 
-✅ Circuit Schematic 
-✅ Simulation 
+✅ Circuit Schematic  
+✅ Simulation  
 ✅ Explanation  
 
 ---
 
 ## 📂 Circuit Categories
-
 
 ## 🔗 1. Analog Circuits
 
@@ -25,7 +23,7 @@ These are more complex or application-focused circuits that involve practical.
 
 | Circuit            | Description                                                                  | Link                                              |
 |--------------------|------------------------------------------------------------------------------|---------------------------------------------------|
-|  **Audio Amplifier** | Two-Stage Class A Audio Amplifier | [View Folder](./Circuits_Projects/Audio_Amplifier) |
+| **Audio Amplifier** | Two-Stage Class A Audio Amplifier | [View Folder](./Circuits_Projects/Audio_Amplifier) |
 | **LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation | [View Folder](./Circuits_Projects/LED_Flasher/)       |
 
 ---
@@ -41,13 +39,14 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 | **Oscillator Circuit** | Generates a continuous periodic waveform | [View Folder](./BJT_Circuits/Oscillator) |
 | **Current Mirror**  | The current in one half of the circuit controls the current flow in the other half   | [View Folder](./BJT_Circuits/Current_mirror/)      |
 | **DC-DC Converter**| Converts DC voltage from one level to another | [View Folder](./BJT_Circuits/DCDC_Converter/) |
+| **AC-AC Converter** | Converts one AC voltage level to another AC voltage level | [View Folder](./ACAC_Converter/) |
 | **AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./BJT_Circuits/Rectifier/)          |
 | **Filters**         | Filtering signals to pass or block specific frequencies                     | [View Folder](./BJT_Circuits/Filters/)            |
 | **Clipper Circuit** | "Clips" portions of an AC signal without distorting the remaining waveform   | [View Folder](./BJT_Circuits/Clipper_Circuit/)    |
 | **Clamper Circuit** | Adds or subtracts a DC voltage to an AC signal                             | [View Folder](./BJT_Circuits/Clamper_Circuits/)   |
 
----
 
+---
 
 ### 🔗 2. CMOS Circuits 
 
@@ -80,18 +79,15 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 
 ---
 
-
 ### 🔗 5. Hardware Descriptive Language (HDL) Section
 
 | Circuit | Description | Link |
 |---|---|---|
 | Traffic Light Controller |Traffic Light Intersection | [View Circuit](./HDL/Traffic_Light_Controller/) |
-| 4-Bit ALU |Capable of perfoming  arithmetic and logic | [View Circuit](./HDL/4_Bit_ALU/) |
+| 4-Bit ALU |Capable of performing arithmetic and logic | [View Circuit](./HDL/4_Bit_ALU/) |
 | 4-Bit Register |Storing a 4-bit binary value | [View Circuit](./HDL/4_bit_register/) |
 
 ---
-
-
 
 ## 🌐 Why This Repository Exists
 
@@ -99,7 +95,6 @@ This repository serves as:
 
 🚀 My personal archive to track progress and build experience.  
 📖 A reference library for future academic or personal projects.  
-
 
 ---
 
@@ -111,15 +106,4 @@ Hi! I’m **Yacine Ouhrouche**, an **Electrical Engineering student** passionate
 🖥️ Embedded Systems  
 🔧 Hardware Development  
 
-
 ---
-
-
-
-
-
-
-
-
-
-
