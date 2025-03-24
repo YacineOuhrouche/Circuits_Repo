@@ -7,14 +7,8 @@ A **Charge Pump** is a type of **DC-DC converter** that **changes the voltage le
 ## 🔹 Types of Charge Pumps  
 
 ### **1️⃣ Voltage Doubler Charge Pump**
-- **Function**: Doubles the input voltage.
 - **How It Works**: 
   - In this configuration, two capacitors and two diodes are used. The first capacitor is charged during one phase of the switch, and the second capacitor is charged and then connected to the output, effectively doubling the voltage.
-  - **Circuit Configuration**: 
-    - **Capacitors**: Two capacitors are used to store and transfer energy.
-    - **Diodes**: Two diodes help direct current to the correct capacitor.
-  - **Applications**: Commonly used in applications requiring a small voltage boost, such as **LCD biasing** and **low-power voltage regulation**.
-  - **Efficiency**: Voltage doublers typically have an efficiency range of **60% to 85%** depending on operating conditions.
 
 📷 **Schematic Diagram**:
 
