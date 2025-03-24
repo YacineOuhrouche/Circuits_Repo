@@ -65,7 +65,7 @@ Converts DC voltage levels efficiently. Used in **battery-powered devices, power
 👉 [Explore the Schematic](./DCDC_Converter)
 --
 ---
-### ⚡ Rectifier
+### ⚡ AC-DC Converter
 Converts **AC to DC** using diodes. Used in **power supplies and battery charging**.
 
 👉 [Explore the Schematic](./Rectifier)
