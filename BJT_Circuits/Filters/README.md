@@ -26,7 +26,7 @@ Filters are **essential in audio, RF communication, power supplies, and biomedic
 | Category | Description | Link |
 |--|--|--|
 | ⚙️ Passive Filters | Filters made from resistors, capacitors, and inductors. | [Passive Filters Folder](./Passive_Filter) |
-| ⚡ Active Filters | Filters that use op-amps to improve gain and flexibility. | [Active Filters Folder](./Active_Filters/README.md) |
+| ⚡ Active Filters | Filters that use op-amps to improve gain and flexibility. |  |
 
 ---
 
