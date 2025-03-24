@@ -168,7 +168,11 @@ A **SEPIC (Single-Ended Primary Inductor Converter)** is a **DC-DC power convert
 - The **capacitor C_out smooths the output voltage**, reducing ripple.  
 
 ---
-
+### Why the Output Voltage Can Be Higher or Lower
+- V_out =  V_In/(1-D) ***not inverted
+- If D > 0.5 (boost mode)
+- If D < 0.5 (Buck mode)
+- If D = 0.5 (Equal)
 📷 **Schematic Diagram:**  
 
 
