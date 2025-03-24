@@ -52,4 +52,6 @@ A **Buck-Boost Converter** is a versatile DC-DC power converter that can **eithe
 
 ---
 
-[Next: Voltage Regulators](link-to-next-section)
+
+## 🔹 NEXT
+**👉[ Cuk Converter ](../Cuk_Converter)**
