@@ -20,6 +20,7 @@ Each folder contains:
 | 🔄 Buck-Boost Converter | Provides higher or lower output voltage than input | [Buck-Boost Converter Folder](./Buck_Boost_Converter) |
 | 🔄 Ćuk Converter | Provides negative polarity output with good efficiency | [Ćuk Converter Folder](./Cuk_Converter) |
 | 🔄 SEPIC Converter | Allows step-up/down conversion with positive output | [SEPIC Converter Folder](./SEPIC_Converter) |
+| 🔌 **Isolated Converter** | Provides **isolated** voltage conversion using a transformer | [Isolated Converter Folder](./Isolated_Converter) |
 
 ---
 
@@ -59,5 +60,11 @@ A **Single-Ended Primary-Inductor Converter** (SEPIC) allows for **both step-up 
 👉 [Explore the Schematic](./SEPIC_Converter)
 
 ---
+
+### 🔌 **Isolated Converter**
+A **widely used type of DC-DC converter** that uses a transformer to provide **electrical isolation** between input and output. Used in **power adapters, LED drivers, and battery chargers**.
+
+👉 [Explore the Schematic](./Isolated_Converter)
+
 
 
