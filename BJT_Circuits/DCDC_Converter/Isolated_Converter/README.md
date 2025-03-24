@@ -66,3 +66,7 @@ Isolated DC-DC converters are used in a wide variety of fields:
 ## 🏁 Conclusion
 
 **Isolated DC-DC converters** are essential in **safety-critical** and **high-performance** systems. Their ability to **isolate** the input and output ensures the protection of sensitive components and provides **reliable power conversion**. Whether for **medical
+
+## 🔹 NEXT  
+**👉[Charge Pump ](../Charge_Pump)**
+
