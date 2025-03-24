@@ -19,14 +19,9 @@ A **Charge Pump** is a type of **DC-DC converter** that **changes the voltage le
 ---
 
 ### **2️⃣ Voltage Inverter Charge Pump**
-- **Function**: Inverts the input voltage (positive becomes negative, and vice versa).
+
 - **How It Works**: 
   - This charge pump circuit inverts the polarity of the input voltage. It uses capacitors to store and transfer energy while utilizing diodes and switches to reverse the voltage.
-  - **Circuit Configuration**:
-    - **Capacitors**: Store energy during each phase.
-    - **Diodes**: Direct the current flow and invert the polarity.
-  - **Applications**: Used in systems requiring **negative voltage**, such as **op-amps**, **audio amplifiers**, and **bipolar power supplies**.
-  - **Efficiency**: Typically **70% to 85%**.
 
 📷 **Schematic Diagram**:
 
@@ -37,14 +32,10 @@ A **Charge Pump** is a type of **DC-DC converter** that **changes the voltage le
 ---
 
 ### **3️⃣ Voltage Tripler Charge Pump**
-- **Function**: Triples the input voltage.
+
 - **How It Works**: 
   - Similar to the voltage doubler but uses an additional capacitor and diode to multiply the voltage by three.
-  - **Circuit Configuration**:
-    - Three capacitors are used to accumulate and transfer energy in multiple phases.
-    - **Diodes**: Three diodes direct the current to increase the voltage.
-  - **Applications**: Used in circuits where a moderate boost in voltage is required, like **high-voltage biasing** and **some industrial applications**.
-  - **Efficiency**: **60% to 80%** efficiency.
+
 
 📷 **Schematic Diagram**:
 
@@ -62,23 +53,6 @@ A **Charge Pump** is a type of **DC-DC converter** that **changes the voltage le
 ### **5️⃣ Voltage Step-Down Charge Pump**
 
 **👉[ Buck Converter (Step-Down)](../Buck_Converter)**
-
----
-
-### **6️⃣ Charge Pump with Regulation**
-- **Function**: Provides regulated voltage output by using feedback control mechanisms.
-- **How It Works**: 
-  - This charge pump operates with an additional feedback mechanism to adjust the operation of the circuit and maintain a steady output voltage, despite variations in input or load conditions.
-  - **Circuit Configuration**:
-    - **Capacitors**: Store and transfer energy, as with other charge pumps.
-    - **Feedback Loop**: A feedback control system adjusts the switches to regulate the output voltage.
-  - **Applications**: Used in applications requiring **precise voltage regulation**, such as **voltage references**, **sensor circuits**, and **power management systems**.
-  - **Efficiency**: The efficiency depends on the complexity of the regulation mechanism but typically ranges from **70% to 90%**.
-
-📷 **Schematic Diagram**:
-
-
-🛠 **Simulation**:
 
 
 ---
