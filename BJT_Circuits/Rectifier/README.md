@@ -26,28 +26,6 @@ Each rectifier has its own folder containing:
 
 ---
 
-## 📐 Rectifier Overviews
-
-### 🔹 Half-Wave Rectifier
-
-**What It Does:**  
-- Allows only **one half-cycle** (positive or negative) of AC to pass, blocking the other half.
-- Simple but inefficient.
-
-👉 [Explore the Half-Wave Rectifier](./Half_Wave_Rectifier)
-
----
-
-### 🔹 Bridge Rectifier
-
-**What It Does:**  
-- Uses **4 diodes** in a bridge configuration to rectify both AC halves.
-- No center-tap needed — simple and practical.
-
-👉 [Explore the Bridge Rectifier](./Bridge_Rectifier)
-
----
-
 ## 💡 Why Study Rectifiers?
 
 Rectifiers are **foundational components** in power supplies. Understanding these circuits helps build **better power management systems**, ensuring clean and reliable DC power for sensitive electronics.
