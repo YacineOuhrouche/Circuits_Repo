@@ -43,6 +43,8 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 | **Filters**         | Filtering signals to pass or block specific frequencies                     | [View Folder](./BJT_Circuits/Filters/)            |
 | **Clipper Circuit** | "Clips" portions of an AC signal without distorting the remaining waveform   | [View Folder](./BJT_Circuits/Clipper_Circuit/)    |
 | **Clamper Circuit** | Adds or subtracts a DC voltage to an AC signal                             | [View Folder](./BJT_Circuits/Clamper_Circuits/)   |
+| **Schmitt Trigger** | Converts noisy or slowly changing input into a clean digital output using **hysteresis** | [View Folder](./BJT_Circuits/Schmitt_Trigger) |
+
 
 
 ---
