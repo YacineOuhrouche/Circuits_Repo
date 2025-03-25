@@ -45,17 +45,6 @@ A **Charge Pump** is a type of **DC-DC converter** that **changes the voltage le
 
 ---
 
-### **4️⃣ Voltage Step-Up Charge Pump**
-**👉[ Boost Converter (Step-Up)](../Boost_Converter)**
-
----
-
-### **5️⃣ Voltage Step-Down Charge Pump**
-
-**👉[ Buck Converter (Step-Down)](../Buck_Converter)**
-
-
----
 
 ## 🔹 Efficiency Considerations
 
