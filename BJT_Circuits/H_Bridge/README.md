@@ -17,9 +17,13 @@ The H-Bridge circuit controls the polarity of the voltage across the motor to dr
 
 ## 📐 Circuit Schematic
 
+![Screenshot 2025-03-25 150440](https://github.com/user-attachments/assets/d83e03d5-7521-45cd-a329-717564aa9fa9)
+
 ---
 
 ## 🛠 Simulation
+
+![Screenshot 2025-03-25 150544](https://github.com/user-attachments/assets/2ccd4e1a-5084-4d83-966e-e3df3a53e4b2)
 
 ---
 
