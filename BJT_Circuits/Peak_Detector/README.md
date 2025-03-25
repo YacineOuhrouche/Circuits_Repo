@@ -1,4 +1,4 @@
-# 📌 Peak Detector Circuit
+# 📌 Peak Detector Circuit: Working, Schematic, Applications, and Simulations
 
 ## 🔹 Overview  
 A **Peak Detector Circuit** is used to capture and hold the **highest voltage level** of an input signal. It is commonly found in:  
@@ -7,7 +7,7 @@ A **Peak Detector Circuit** is used to capture and hold the **highest voltage le
 ✅ **Power Monitoring Circuits**  
 ✅ **Audio Envelope Detectors**  
 
-It operates using a **diode, a capacitor, and an operational amplifier (op-amp)** to store and maintain the peak value of a varying signal.  
+It operates using **two operational amplifiers (op-amps), a diode, and a capacitor** to store and maintain the peak value of a varying signal.  
 
 ---
 
@@ -16,21 +16,28 @@ The circuit functions in two main modes:
 
 🔹 **1. Charging Mode:**  
 - When the **input voltage increases**, the **diode conducts**, allowing the **capacitor to charge** up to the peak voltage.  
-- The capacitor **stores the maximum voltage value** reached by the input signal.  
+- The first **op-amp** is used as a voltage follower to prevent the capacitor from discharging.  
+- The second **op-amp** can be used to buffer the output voltage and provide stable signal handling.  
 
 🔹 **2. Holding Mode:**  
-- When the **input voltage drops**, the **diode prevents the capacitor from discharging**.  
-- The capacitor **holds the peak value** until leakage or an external reset occurs.  
-- An **op-amp buffer** may be used to prevent unwanted discharge and maintain a stable output.  
+- When the **input voltage drops**, the **diode blocks the reverse current**, and the **capacitor retains the peak voltage**.  
+- The second **op-amp** ensures the output remains steady and the peak value is maintained until reset.  
+- The first **op-amp** continues to buffer the peak voltage stored in the capacitor.  
 
 ---
 
 ## 🛠 Circuit Schematic  
 
+![Screenshot 2025-03-25 143536](https://github.com/user-attachments/assets/23a3a76a-c5c8-4117-a4b6-b5ccb7963f2e)
+
+
 ---
 ## 📊 Simulations & Testing  
 
+![Screenshot 2025-03-25 143604](https://github.com/user-attachments/assets/3a7f8ec3-48dc-4902-9f7a-72c4c7a73dd8)
+
 ---
+
 
 ## 🔬 Applications of Peak Detectors  
 ✔ **Envelope Detectors in AM Radios** – Extracts signal information.  
@@ -43,12 +50,8 @@ The circuit functions in two main modes:
 
 
 ## 📌 Conclusion  
-The **Peak Detector Circuit** is a simple yet powerful tool in **signal processing and measurement systems**. By using **a diode and a capacitor**, it efficiently captures and holds the **highest voltage level** in a given signal. When combined with **op-amps**, it becomes even more reliable for precision applications.  
+The **Peak Detector Circuit** with two **op-amps** is a more advanced design that offers improved accuracy and performance. It efficiently captures and holds the **highest voltage level** in a given signal. This updated design is more reliable for **signal processing, measurement systems**, and **precision applications**.  
 
 🚀 *This circuit is widely used in **audio, RF, and power electronics** applications!*  
-
-
----
-
 
 
