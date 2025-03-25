@@ -24,5 +24,6 @@ Each folder contains:
 | 🔎 Filter | A **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters) |
 | ✂️ Clipper Circuit | A circuit that **clips** voltage above or below a set level using diodes | [Clipper Folder](./Clipper_Circuit) |
 | 🔼 Clamper Circuit | A circuit that **shifts** the voltage level without changing its shape | [Clamper Folder](./Clamper_Circuits) |
+| 🟢 **Schmitt Trigger** | Converts noisy or slowly changing input into a clean digital output using **hysteresis** | [Schmitt Trigger Folder](./Schmitt_Trigger) |
 
 ---
