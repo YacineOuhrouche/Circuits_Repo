@@ -58,6 +58,12 @@ This dual-threshold mechanism ensures that the circuit only switches states when
 
 ## 🔹 Schematic Diagram
 
+![Screenshot 2025-03-25 095838](https://github.com/user-attachments/assets/4f886563-7a26-420f-906d-371ce1dd3d05)
+
+---
+## 🔹 Simulation
+
+![Screenshot 2025-03-25 095847](https://github.com/user-attachments/assets/da19986e-5211-4d00-8b13-860f9572245e)
 
 ---
 
