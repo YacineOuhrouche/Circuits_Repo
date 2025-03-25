@@ -1,4 +1,57 @@
-# ⚡ Schmitt Trigger
+# ⚡ Schmitt Trigger Using Op-Amps
+
+A **Schmitt Trigger** is an essential circuit that converts noisy or slow analog signals into a clean digital output by using **hysteresis**. When implemented with an **operational amplifier (op-amp)**, it functions as a comparator with positive feedback, ensuring **stable and noise-resistant switching** between high and low states.
+
+---
+
+## 🔹 How It Works
+
+### **1️⃣ When the Input Voltage is Below the Lower Threshold (Vʟᴛ):**
+- The non-inverting input (**V⁺**) of the op-amp is lower than the inverting input (**V⁻**).
+- The op-amp output saturates to **HIGH** (close to +Vcc).
+- The positive feedback through resistors **R1** and **R2** raises the reference voltage.
+- The circuit remains in the HIGH state until the input voltage reaches the upper threshold.
+
+### **2️⃣ When the Input Voltage Exceeds the Upper Threshold (Vᴜᴛ):**
+- The non-inverting input (**V⁺**) becomes greater than the inverting input (**V⁻**).
+- The op-amp output saturates to **LOW** (close to -Vcc or 0V).
+- The feedback shifts the reference voltage lower, ensuring that small input fluctuations don’t cause rapid switching.
+
+### **3️⃣ When the Input Voltage Falls Below the Lower Threshold (Vʟᴛ):**
+- The non-inverting input (**V⁺**) is again lower than the reference voltage.
+- The op-amp output switches back to **HIGH**.
+- The feedback raises the reference voltage, maintaining stability until the next threshold crossing.
+
+---
+
+## **🔹 Role of Positive Feedback**
+- Unlike a regular comparator, a Schmitt Trigger **adds positive feedback** via resistors to create hysteresis.
+- This feedback changes the reference voltage dynamically, preventing noise from causing unstable output transitions.
+- The gap between **Vᴜᴛ** and **Vʟᴛ** is what makes the Schmitt Trigger immune to small fluctuations.
+
+---
+
+## **🔹 Formula for Threshold Voltages**
+If the circuit uses a **resistor divider (R1, R2)** for feedback, the threshold voltages are:  
+- **Upper Threshold (Vᴜᴛ) = (R2 / (R1 + R2)) * Vᴏᴜᴛ(high)**  
+- **Lower Threshold (Vʟᴛ) = (R2 / (R1 + R2)) * Vᴏᴜᴛ(low)**  
+
+By selecting **R1 and R2**, you can adjust the hysteresis range.
+
+---
+
+## 🔹 Schematic Diagram
+
+![Screenshot 2025-03-25 095838](https://github.com/user-attachments/assets/4f886563-7a26-420f-906d-371ce1dd3d05)
+
+---
+## 🔹 Simulation
+
+![Screenshot 2025-03-25 095847](https://github.com/user-attachments/assets/da19986e-5211-4d00-8b13-860f9572245e)
+
+---
+
+# ⚡ Schmitt Trigger Using Transisor
 
 A **Transistor-Based Schmitt Trigger** is an essential circuit in electronics that converts noisy or slow analog signals into a clean digital output by using **hysteresis**. It is based on **bipolar junction transistors (BJTs)** and provides enhanced noise immunity and stability. The Schmitt Trigger is a type of **comparator** but with hysteresis, making it useful in noisy environments or systems where a sharp transition from low to high is required.
 
@@ -30,43 +83,6 @@ This feedback mechanism creates two different threshold voltages: one for rising
 
 
 ---
-
-
-# ⚡ Schmitt Trigger Using Op-Amps
-
-A **Schmitt Trigger** is an essential circuit that converts noisy or slow analog signals into a clean digital output by using **hysteresis**. When implemented with an **operational amplifier (op-amp)**, it functions as a comparator with positive feedback, ensuring **stable and noise-resistant switching** between high and low states.
-
----
-
-## 🔹 How It Works
-
-### **1️⃣ When the Input Voltage is Below the Lower Threshold**
-- The **op-amp output is HIGH** because the input voltage is lower than the reference voltage.
-- The **positive feedback network** (resistors R1 and R2) helps maintain the high state by shifting the reference voltage dynamically.
-
-### **2️⃣ When the Input Voltage Exceeds the Upper Threshold**
-- The **op-amp output switches to LOW**, creating a sharp transition from HIGH to LOW.
-- The feedback network shifts the reference voltage lower, preventing unwanted oscillations due to noise.
-
-### **3️⃣ When the Input Voltage Falls Below the Lower Threshold**
-- The **op-amp output switches back to HIGH**, ensuring the signal remains clean and stable.
-- The hysteresis effect prevents rapid switching caused by noise or slow-changing signals.
-
-This dual-threshold mechanism ensures that the circuit only switches states when the input signal crosses well-defined limits, reducing **false triggering and noise sensitivity**.
-
----
-
-## 🔹 Schematic Diagram
-
-![Screenshot 2025-03-25 095838](https://github.com/user-attachments/assets/4f886563-7a26-420f-906d-371ce1dd3d05)
-
----
-## 🔹 Simulation
-
-![Screenshot 2025-03-25 095847](https://github.com/user-attachments/assets/da19986e-5211-4d00-8b13-860f9572245e)
-
----
-
 
 
 ## 🔹 Applications
