@@ -12,7 +12,6 @@ Each folder contains:
 ---
 
 ## Quick Links to Each Circuit
-
 | Circuit                 | Description                                                                 | Link                                                |
 |-------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------|
 | 📢 Small Signal Amplifier | Amplifies weak signals using **BJTs**                                       | [Small Signal Amplifier Folder](./Small_Signal_Amplifier) |
@@ -26,3 +25,4 @@ Each folder contains:
 | 🔼 Clamper Circuit      | A circuit that **shifts** the voltage level without changing its shape     | [Clamper Folder](./Clamper_Circuits)                |
 | 🟢 **Schmitt Trigger**   | Converts noisy or slowly changing input into a clean digital output using **hysteresis** | [Schmitt Trigger Folder](./Schmitt_trigger)          |
 | 📈 Peak Detector  | Captures and holds the peak voltage level of an input signal | [Peak Detector Folder](./Peak_Detector) |
+| ⚙️ H-Bridge Circuit | Controls the direction of **DC motors** and enables **bidirectional motor drive** | [H-Bridge Folder](./H_Bridge) |
