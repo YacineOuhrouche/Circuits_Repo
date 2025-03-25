@@ -1,4 +1,4 @@
-# 📌 Peak Detector Circuit: Working, Schematic, Applications, and Simulations
+# 📌 Peak Detector Circuit
 
 ## 🔹 Overview  
 A **Peak Detector Circuit** is used to capture and hold the **highest voltage level** of an input signal. It is commonly found in:  
