@@ -35,6 +35,8 @@ The H-Bridge circuit can be enhanced in several ways for better efficiency and c
 3. **PWM Control**: Using advanced **PWM techniques** such as **sinusoidal PWM** can reduce motor noise and improve efficiency.
 4. **Current Sensing**: Implementing **current sensors** in the H-Bridge allows for better control over the motor and ensures protection by detecting overcurrent situations.
 5. **Overvoltage/Overcurrent Protection**: Use **fuses** or **crowbar circuits** for safety against voltage or current spikes.
+   
+![Screenshot 2025-03-25 151010](https://github.com/user-attachments/assets/c978bc04-037a-4996-b3bc-f05c95e895dc)
 
 ---
 
