@@ -45,6 +45,7 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 | **Clamper Circuit**       | Adds or subtracts a DC voltage to an AC signal                              | [View Folder](./BJT_Circuits/Clamper_Circuits/)   |
 | **Schmitt Trigger**       | Converts noisy or slowly changing input into a clean digital output using **hysteresis** | [View Folder](./BJT_Circuits/Schmitt_trigger)     |
 | **Peak Detector Circuit** | Captures and holds the peak voltage level of an input signal using **op-amps** and **capacitors** | [View Folder](./BJT_Circuits/Peak_Detector)     |
+| **H-Bridge Circuit** | Controls the direction of **DC motors** and enables **bidirectional motor drive** | [View Folder](./BJT_Circuits//H_Bridge)|
 
 
 
