@@ -38,10 +38,6 @@ Overvoltage protection circuits are **essential** in electronic systems to preve
 - It rapidly switches to a **low-impedance state**, safely diverting excess voltage to ground.
 - Unlike Zener diodes, TVS diodes respond **within nanoseconds**.
 
-📷 **Schematic Diagram:**  
-
-🛠 **Simulation:**  
-
 ### ✅ Applications:  
 ✔️ **ESD Protection** – Shields USB and data lines from electrostatic discharge.  
 ✔️ **Lightning Protection** – Used in telecom and industrial equipment.  
