@@ -39,12 +39,12 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 | **🔄 Current Mirror**        | The current in one half of the circuit controls the current flow in the other half | [View Folder](./BJT_Circuits/Current_mirror/)      |
 | **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./BJT_Circuits/DCDC_Converter/)     |
 | **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./BJT_Circuits/Rectifier/)          |
-| **🔎 Filters**               | Filtering signals to pass or block specific frequencies                     | [View Folder](./BJT_Circuits/Filters/)            |
-| **✂️ Clipper Circuit**       | "Clips" portions of an AC signal without distorting the remaining waveform   | [View Folder](./BJT_Circuits/Clipper_Circuit/)    |
+| **🔎 Filters**               |  Pass or block specific frequencies                     | [View Folder](./BJT_Circuits/Filters/)            |
+| **✂️ Clipper Circuit**       | "Clips" portions of a signal without distorting the remaining waveform   | [View Folder](./BJT_Circuits/Clipper_Circuit/)    |
 | **🔼 Clamper Circuit**       | Adds or subtracts a DC voltage to an AC signal                              | [View Folder](./BJT_Circuits/Clamper_Circuits/)   |
-| **🟢 Schmitt Trigger**       | Converts noisy or slowly changing input into a clean digital output using **hysteresis** | [View Folder](./BJT_Circuits/Schmitt_trigger)     |
-| **📈 Peak Detector Circuit** | Captures and holds the peak voltage level of an input signal using **op-amps** and **capacitors** | [View Folder](./BJT_Circuits/Peak_Detector)     |
-| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** and enables **bidirectional motor drive** | [View Folder](./BJT_Circuits//H_Bridge) |
+| **🟢 Schmitt Trigger**       | Converts noisy or slowly changing input into a clean digital  | [View Folder](./BJT_Circuits/Schmitt_trigger)     |
+| **📈 Peak Detector Circuit** | Captures and holds the peak voltage level of an input signal | [View Folder](./BJT_Circuits/Peak_Detector)     |
+| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./BJT_Circuits//H_Bridge) |
 | **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./BJT_Circuits/Overvoltage) |
 | **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./BJT_Circuits/Overcurrent) |
 
