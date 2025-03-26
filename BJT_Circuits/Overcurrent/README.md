@@ -31,7 +31,7 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 - A **Current Limiting Diode (CLD)** is placed in the circuit to limit the current flow.
 - When the current exceeds the preset limit, the diode **clamps** the current, preventing it from rising beyond the safe threshold.
 
-**👉[ Current Limiting Diode](https://www.centralsemi.com/files/manager/Engineering/Whitepapers/Current-Limiting-Diodes-current-regulation-solution.pdf)**
+**👉[More About Current Limiting Diode](https://www.centralsemi.com/files/manager/Engineering/Whitepapers/Current-Limiting-Diodes-current-regulation-solution.pdf)**
 
 ### ✅ Applications:
 - ✔️ **LED Circuits** – Protects LEDs from excessive current that could burn them out.
@@ -47,6 +47,7 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 - An **electronic circuit breaker**, such as a transistor or MOSFET, is employed to monitor the current.
 - When the current exceeds a predefined threshold, the breaker **disconnects** the circuit to prevent damage.
 
+**👉[More About Breakers](https://electronics.howstuffworks.com/circuit-breaker.htm)**
 
 ### ✅ Applications:
 - ✔️ **Home Electrical Systems** – Protects circuits from overcurrent, ensuring safety in household electrical systems.
@@ -60,9 +61,7 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 - A **relay** is used to monitor the current flowing through the circuit.
 - When the current exceeds the preset threshold, the relay **opens**, disconnecting the load and preventing overcurrent damage.
 
-📷 **Schematic Diagram:**  
-
-🛠 **Simulation:**  
+**👉[More About Relays](https://eshop.se.com/in/blog/post/understanding-overcurrent-relays.html#:~:text=An%20overcurrent%20relay%20is%20a,faulty%20part%20of%20the%20system.)**
 
 ### ✅ Applications:
 - ✔️ **Home Appliances** – Protects household devices like refrigerators or washing machines from overcurrent.
@@ -78,7 +77,8 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 
 📷 **Schematic Diagram:**  
 
-🛠 **Simulation:**  
+![Screenshot 2025-03-26 124625](https://github.com/user-attachments/assets/82bb302f-361a-48c9-b795-c9f371eaf69b)
+
 
 ### ✅ Applications:
 - ✔️ **LED Drivers** – Ensures that LEDs do not receive more current than they can safely handle.
