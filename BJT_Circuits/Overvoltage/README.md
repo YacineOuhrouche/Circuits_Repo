@@ -19,7 +19,11 @@ Overvoltage protection circuits are **essential** in electronic systems to preve
 
 📷 **Schematic Diagram:**  
 
+![Screenshot 2025-03-26 110039](https://github.com/user-attachments/assets/fb9a88ee-b90c-422c-a265-af9c6c3c9482)
+
 🛠 **Simulation:**  
+
+![Screenshot 2025-03-26 110046](https://github.com/user-attachments/assets/4d813cea-56cc-4037-822c-4fbfb497a4fb)
 
 ### ✅ Applications:  
 ✔️ **Microcontroller Protection** – Prevents overvoltage on GPIO pins.  
