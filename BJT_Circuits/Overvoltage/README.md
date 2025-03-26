@@ -49,11 +49,12 @@ Overvoltage protection circuits are **essential** in electronic systems to preve
 🔹 **How It Works:**  
 - Uses a **Silicon Controlled Rectifier (SCR)** and a **Zener diode**.
 - When voltage exceeds the threshold, the **Zener diode** triggers the **SCR**, shorting the circuit.
-- This forces the fuse to **blow**, fully disconnecting the power source.
+- This forces the fuse to **blow**, fully disconnecting the power source. (I forgot the fuse in the schematic)
 
 📷 **Schematic Diagram:**  
 
-🛠 **Simulation:**  
+![Screenshot 2025-03-26 113854](https://github.com/user-attachments/assets/31664ec5-c8f9-4942-aa7d-f360c2d41017)
+
 
 ### ✅ Applications:  
 ✔️ **High-Voltage Power Supplies** – Used in industrial and aerospace electronics.  
