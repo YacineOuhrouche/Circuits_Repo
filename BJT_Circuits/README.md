@@ -13,20 +13,20 @@ Each folder contains:
 
 ## Quick Links to Each Circuit
 
-| Circuit                 | Description                                                                 | Link                                                |
-|-------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------|
-| 📢 Small Signal Amplifier | Amplifies weak signals using **BJTs**                                       | [Small Signal Amplifier Folder](./Small_Signal_Amplifier) |
-| 🔊 Power Amplifier       | Used to drive speakers and other high-power loads                           | [Power Amplifier Folder](./Power_Amplifier)         |
-| 🌀 Oscillator Circuit    | Generates a continuous periodic waveform, typically for use in signal generation | [Oscillator Folder](./Oscillator)                  |
-| 🔄 Current Mirror        | A **BJT-based current mirror** for stable current replication               | [Current Mirror Folder](./Current_mirror)            |
-| 🔄 DC-DC Converter       | Converts DC voltage from one level to another                               | [DC-DC Converter Folder](./DCDC_Converter)           |
-| ⚡ AC-DC Converter       | Converts **AC to DC** using diodes                                           | [Rectifier Folder](./Rectifier)                     |
-| 🔎 Filter                | A **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters)                          |
-| ✂️ Clipper Circuit      | A circuit that **clips** voltage above or below a set level using diodes    | [Clipper Folder](./Clipper_Circuit)                 |
-| 🔼 Clamper Circuit      | A circuit that **shifts** the voltage level without changing its shape     | [Clamper Folder](./Clamper_Circuits)                |
-| 🟢 **Schmitt Trigger**   | Converts noisy or slowly changing input into a clean digital output using **hysteresis** | [Schmitt Trigger Folder](./Schmitt_trigger)          |
-| 📈 Peak Detector  | Captures and holds the peak voltage level of an input signal | [Peak Detector Folder](./Peak_Detector) |
-| ⚙️ H-Bridge Circuit | Controls the direction of **DC motors** and enables **bidirectional motor drive** | [H-Bridge Folder](./H_Bridge) |
-| ⚠️ **Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [Overvoltage Protection Folder](./Overvoltage) |
-| ⚡ **Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [Overcurrent Protection Folder](./Overcurrent) |
-
+| Circuit                     | Description                                                                 | Link                                                    |
+|-----------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------|
+| 📢 Small Signal Amplifier    | Amplifies weak signals using **BJTs**                                       | [Small Signal Amplifier Folder](./Small_Signal_Amplifier) |
+| 🔊 Power Amplifier           | Used to drive speakers and other high-power loads                           | [Power Amplifier Folder](./Power_Amplifier)             |
+| 🌀 Oscillator Circuit        | Generates a continuous periodic waveform, typically for use in signal generation | [Oscillator Folder](./Oscillator)                      |
+| 🔄 Current Mirror            | A **BJT-based current mirror** for stable current replication               | [Current Mirror Folder](./Current_mirror)                |
+| 🔄 DC-DC Converter           | Converts DC voltage from one level to another                               | [DC-DC Converter Folder](./DCDC_Converter)               |
+| ⚡ AC-DC Converter           | Converts **AC to DC** using diodes                                           | [Rectifier Folder](./Rectifier)                         |
+| 🔎 Filter                    | A **filter circuit** used to pass certain frequencies while blocking others | [Filter Folder](./Filters)                              |
+| ✂️ Clipper Circuit          | A circuit that **clips** voltage above or below a set level using diodes    | [Clipper Folder](./Clipper_Circuit)                     |
+| 🔼 Clamper Circuit          | A circuit that **shifts** the voltage level without changing its shape     | [Clamper Folder](./Clamper_Circuits)                    |
+| 🟢 **Schmitt Trigger**       | Converts noisy or slowly changing input into a clean digital output using **hysteresis** | [Schmitt Trigger Folder](./Schmitt_trigger)              |
+| 📈 Peak Detector            | Captures and holds the peak voltage level of an input signal               | [Peak Detector Folder](./Peak_Detector)                 |
+| ⚙️ H-Bridge Circuit         | Controls the direction of **DC motors** and enables **bidirectional motor drive** | [H-Bridge Folder](./H_Bridge)                           |
+| ⚠️ **Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components | [Overvoltage Protection Folder](./Overvoltage)          |
+| ⚡ **Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage | [Overcurrent Protection Folder](./Overcurrent)          |
+| ⚡ **Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [Current Sensing Folder](./Current_Sensing)             |
