@@ -16,9 +16,8 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 - A **fuse** is placed in series with the load.
 - When current exceeds the fuse’s rated value, the fuse **melts**, disconnecting the circuit and preventing damage to the system.
 
-📷 **Schematic Diagram:**  
-
-🛠 **Simulation:**  
+  
+  **👉[ More About Fuse](https://www.dfliq.net/blog/electric-fuse/)**
 
 ### ✅ Applications:
 - ✔️ **Power Supply Protection** – Prevents overcurrent from damaging power circuits.
@@ -32,9 +31,7 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 - A **Current Limiting Diode (CLD)** is placed in the circuit to limit the current flow.
 - When the current exceeds the preset limit, the diode **clamps** the current, preventing it from rising beyond the safe threshold.
 
-📷 **Schematic Diagram:**  
-
-🛠 **Simulation:**  
+**👉[ Current Limiting Diode](https://www.centralsemi.com/files/manager/Engineering/Whitepapers/Current-Limiting-Diodes-current-regulation-solution.pdf)**
 
 ### ✅ Applications:
 - ✔️ **LED Circuits** – Protects LEDs from excessive current that could burn them out.
@@ -50,9 +47,6 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 - An **electronic circuit breaker**, such as a transistor or MOSFET, is employed to monitor the current.
 - When the current exceeds a predefined threshold, the breaker **disconnects** the circuit to prevent damage.
 
-📷 **Schematic Diagram:**  
-
-🛠 **Simulation:**  
 
 ### ✅ Applications:
 - ✔️ **Home Electrical Systems** – Protects circuits from overcurrent, ensuring safety in household electrical systems.
