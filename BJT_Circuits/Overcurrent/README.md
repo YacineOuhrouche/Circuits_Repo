@@ -17,10 +17,8 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 - When current exceeds the fuse’s rated value, the fuse **melts**, disconnecting the circuit and preventing damage to the system.
 
 📷 **Schematic Diagram:**  
-![Fuse-Based Overcurrent Protection](path-to-your-image)  
 
 🛠 **Simulation:**  
-![Fuse Simulation](path-to-your-simulation-image)  
 
 ### ✅ Applications:
 - ✔️ **Power Supply Protection** – Prevents overcurrent from damaging power circuits.
@@ -35,10 +33,8 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 - When the current exceeds the preset limit, the diode **clamps** the current, preventing it from rising beyond the safe threshold.
 
 📷 **Schematic Diagram:**  
-![CLD-Based Overcurrent Protection](path-to-your-image)  
 
 🛠 **Simulation:**  
-![CLD Simulation](path-to-your-simulation-image)  
 
 ### ✅ Applications:
 - ✔️ **LED Circuits** – Protects LEDs from excessive current that could burn them out.
@@ -55,7 +51,6 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 - When the current exceeds a predefined threshold, the breaker **disconnects** the circuit to prevent damage.
 
 📷 **Schematic Diagram:**  
-![Electronic Circuit Breaker](path-to-your-image)  
 
 🛠 **Simulation:**  
 
