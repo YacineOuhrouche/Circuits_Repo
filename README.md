@@ -46,6 +46,10 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 | **Schmitt Trigger**       | Converts noisy or slowly changing input into a clean digital output using **hysteresis** | [View Folder](./BJT_Circuits/Schmitt_trigger)     |
 | **Peak Detector Circuit** | Captures and holds the peak voltage level of an input signal using **op-amps** and **capacitors** | [View Folder](./BJT_Circuits/Peak_Detector)     |
 | **H-Bridge Circuit** | Controls the direction of **DC motors** and enables **bidirectional motor drive** | [View Folder](./BJT_Circuits//H_Bridge)|
+ | **Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./BJT_Circuits/Overvoltage) |
+|  **Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./BJT_Circuits/Overcurrent) |
+
+
 
 
 
