@@ -59,22 +59,6 @@ Overvoltage protection circuits are **essential** in electronic systems to preve
 ✔️ **High-Voltage Power Supplies** – Used in industrial and aerospace electronics.  
 ✔️ **Battery Charging Protection** – Prevents overvoltage in lithium-ion batteries.  
 
----
-
-## 📌 Overvoltage Protection Using MOSFET
-
-🔹 **How It Works:**  
-- A **MOSFET**, **Zener diode**, and **comparator** work together.
-- If input voltage exceeds the limit, the **MOSFET disconnects the load**.
-- Acts as a **fast electronic switch** to cut power.
-
-📷 **Schematic Diagram:**  
-
-🛠 **Simulation:**  
-
-### ✅ Applications:  
-✔️ **Laptop Power Adapters** – Prevents overvoltage from damaging sensitive electronics.  
-✔️ **Battery-Powered Devices** – Ensures safe voltage levels in portable electronics.  
 
 ---
 
@@ -84,7 +68,6 @@ Overvoltage protection circuits are **essential** in electronic systems to preve
 | **Zener Diode Clamping** | Zener Diode, Resistor | Limits voltage at a fixed level |
 | **TVS Diode Protection** | TVS Diode | Absorbs transient voltage spikes |
 | **Crowbar Protection** | SCR, Zener Diode, Fuse | Blows fuse on overvoltage |
-| **MOSFET-Based Protection** | MOSFET, Comparator | Cuts power when voltage exceeds threshold |
 
 ---
 
