@@ -49,6 +49,7 @@ A **SEPIC (Single-Ended Primary Inductor Converter)** is a **DC-DC power convert
 - **Medical Devices** – Used in medical devices that require precise and stable power conversion despite varying input voltages.
 
 ---
+**👉[ More About SEPIC Converters ](https://www.monolithicpower.com/en/learning/mpscholar/power-electronics/dc-dc-converters/sepic-converters)**
 
 ## 🔹 NEXT
 **👉[ Isolated Converters ](../Isolated_Converter)**
