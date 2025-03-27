@@ -79,6 +79,7 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 
 ![Screenshot 2025-03-26 124625](https://github.com/user-attachments/assets/82bb302f-361a-48c9-b795-c9f371eaf69b)
 
+**👉[More About Current Limiters](https://en.wikipedia.org/wiki/Current_limiting#:~:text=Current%20limiting%20is%20the%20practice,a%20short%2Dcircuit%20or%20overload.)**
 
 ### ✅ Applications:
 - ✔️ **LED Drivers** – Ensures that LEDs do not receive more current than they can safely handle.
@@ -102,3 +103,6 @@ Overcurrent protection circuits are **critical** for ensuring the safety and lon
 Overcurrent protection circuits are **vital** in protecting electrical systems from damage due to excessive current. Whether you're designing power supplies, battery systems, or industrial equipment, selecting the right protection method ensures your devices are safe, reliable, and long-lasting. Choose the appropriate method based on the system requirements to ensure optimal protection.
 
 ---
+## 🔹 NEXT  
+**👉[Current Sensing Circuit](../Current_Sensing)**
+
