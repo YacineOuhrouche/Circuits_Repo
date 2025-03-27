@@ -30,6 +30,9 @@ Overvoltage protection circuits are **essential** in electronic systems to preve
 ✔️ **Power Supply Regulation** – Ensures voltage does not exceed a safe limit.  
 
 ---
+**👉[More About Zener Diode Circuit](https://www.electronics-tutorials.ws/diode/diode_7.html)**
+---
+---
 
 ## 📌 TVS Diode Surge Protection
 
@@ -41,7 +44,9 @@ Overvoltage protection circuits are **essential** in electronic systems to preve
 ### ✅ Applications:  
 ✔️ **ESD Protection** – Shields USB and data lines from electrostatic discharge.  
 ✔️ **Lightning Protection** – Used in telecom and industrial equipment.  
-
+---
+**👉[More About TVS Diode](https://solutions.mccsemi.com/understanding-tvs-diodes-a-comprehensive-guide)**
+---
 ---
 
 ## 📌 Crowbar Overvoltage Protection
@@ -60,6 +65,8 @@ Overvoltage protection circuits are **essential** in electronic systems to preve
 ✔️ **High-Voltage Power Supplies** – Used in industrial and aerospace electronics.  
 ✔️ **Battery Charging Protection** – Prevents overvoltage in lithium-ion batteries.  
 
+**👉[More About Crowbar Circuit](https://www.sunpower-uk.com/glossary/crowbar-protection/)**
+---
 
 ---
 
@@ -74,3 +81,8 @@ Overvoltage protection circuits are **essential** in electronic systems to preve
 
 ## 💡 Conclusion  
 Overvoltage protection circuits are **essential** in safeguarding electronic devices from voltage surges and transient spikes. Choosing the right protection method depends on **response speed**, **application requirements**, and **voltage handling capacity**.
+
+
+
+## 🔹 NEXT  
+**👉[Overcurrent Protection Circuit](../Overcurrent)**
