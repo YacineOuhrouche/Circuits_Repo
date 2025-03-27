@@ -30,6 +30,9 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 ![Screenshot 2025-03-17 112422](https://github.com/user-attachments/assets/cd3f6575-4c67-49eb-962e-15aa2e981320)
 ![Screenshot 2025-03-17 112429](https://github.com/user-attachments/assets/a4f6c720-e498-48f5-be42-27892b1925c3)
+
+
+**👉[ More About Class A](https://www.electronics-tutorials.ws/amplifier/amp_5.html)**
 ---
 
 ### 2⃣ **Class B Amplifier** (Higher Efficiency, Crossover Distortion)
@@ -44,7 +47,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 🛠 **Simulation Result:**  
 ![Screenshot 2025-03-17 130354](https://github.com/user-attachments/assets/23415cc5-dc5f-4b44-ba46-0da6728a1668)
 
-
+*👉[ More About Class B](https://www.electronics-tutorials.ws/amplifier/amp_6.html)**
 ---
 
 ### 3⃣ **Class AB Amplifier** (Balanced Performance)
@@ -61,6 +64,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 ![Screenshot 2025-03-17 131338](https://github.com/user-attachments/assets/b1cecc33-7cec-44b1-890d-f78f348904a9)
 
+*👉[ More About Class AB](https://www.electronics-tutorials.ws/amplifier/amp_6.html)**
 ---
 ### 4⃣ **Class C Amplifier** (High Efficiency, RF Applications)
 - **How it Works**: The transistor conducts for **less than 50% of the cycle**, requiring a **tuned circuit** to restore full waveform.
