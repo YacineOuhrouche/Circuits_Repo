@@ -55,9 +55,9 @@ These circuits are focused on converting electrical power and ensuring efficient
 
 | ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
 |---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
-| **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./BJT_Circuits/DCDC_Converter/)     |
-| **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./BJT_Circuits/Rectifier/)          |
-| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./BJT_Circuits/H_Bridge) |
+| **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./Power_Electronics/DCDC_Converter/)     |
+| **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](.Power_Electronics/Rectifier/)          |
+| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./Power_Electronics/H_Bridge) |
 
 ---
 
