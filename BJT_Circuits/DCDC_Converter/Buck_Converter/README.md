@@ -57,6 +57,7 @@ A **Buck Converter** is a DC-DC power converter that **steps down a higher input
 - **LED Drivers** – Provides constant voltage for LED lighting applications.  
 
 ---
-
+**👉[ More About Buck Converter](https://www.monolithicpower.com/en/learning/mpscholar/power-electronics/dc-dc-converters/buck-converters#:~:text=The%20buck%20converter%20is%20designed,input%20voltage%20or%20load%20conditions.)**
+-
 ## 🔹 NEXT  
 **👉[ Boost Converter (Step-Up)](../Boost_Converter)**
