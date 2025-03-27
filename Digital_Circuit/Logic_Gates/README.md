@@ -15,11 +15,11 @@ Each folder contains:
 
 | ⚙️ Circuit | 🔗 Link |
 |---|---|
-| **🔵 AND Gate** | [AND Gate Folder](./Logic_Gates/AND_Gate/) |
-| **🔴 OR Gate** | [OR Gate Folder](./Logic_Gates/OR_Gate/) |
-| **⚪ NOT Gate** | [NOT Gate Folder](./Logic_Gates/NOT_Gate/) |
-| **🟢 NAND Gate** | [NAND Gate Folder](./Logic_Gates/NAND_Gate/) |
-| **🟠 NOR Gate** | [NOR Gate Folder](./Logic_Gates/NOR_Gate/) |
+| **🔵 AND Gate** | [AND Gate Folder](./Logic_Gates_BJT/AND_Gate/) |
+| **🔴 OR Gate** | [OR Gate Folder](./Logic_Gates_BJT/OR_Gate/) |
+| **⚪ NOT Gate** | [NOT Gate Folder](./Logic_Gates_BJT/NOT_Gate/) |
+| **🟢 NAND Gate** | [NAND Gate Folder](./Logic_Gates_BJT/NAND_Gate/) |
+| **🟠 NOR Gate** | [NOR Gate Folder](./Logic_Gates_BJT/NOR_Gate/) |
 
 ---
 ### 🔗 4 CMOS Logic Gates
