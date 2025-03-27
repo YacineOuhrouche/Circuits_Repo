@@ -15,7 +15,15 @@ Each folder contains:
 
 ## 📂 Circuit Categories
 
-## 🔗 1️⃣ Analog Circuits
+## 🔗 1️⃣ CMOS Circuits 
+
+| ⚙️ Circuit | 📜 Description | 🔗 Link |
+|---|---|---|
+| **🔁 SR Latch** | A basic CMOS SR Latch using PMOS and NMOS transistors to store a binary state	 | [View Circuit](./CMOS_Circuits/SR_Latch/) |
+
+---
+
+## 🔗 2️⃣ Analog Circuits
 
 ### 🔹 **Analog Circuit Projects**
 
@@ -25,7 +33,6 @@ These are more complex or application-focused circuits that involve practical de
 |--------------------|------------------------------------------------------------------------------|---------------------------------------------------|
 | **🎵 Audio Amplifier** | Two-Stage Class A Audio Amplifier | [View Folder](./Circuits_Projects/Audio_Amplifier) |
 | **💡 LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation | [View Folder](./Circuits_Projects/LED_Flasher/)       |
-
 
 ---
 ### 🔹 **Analog Circuits**  
@@ -50,7 +57,7 @@ These circuits are focused on converting electrical power and ensuring efficient
 |---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
 | **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./BJT_Circuits/DCDC_Converter/)     |
 | **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./BJT_Circuits/Rectifier/)          |
-| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./BJT_Circuits//H_Bridge) |
+| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./BJT_Circuits/H_Bridge) |
 
 ---
 
@@ -76,14 +83,6 @@ These circuits focus on regulating voltage and current, as well as protecting co
 | **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./BJT_Circuits/Overvoltage) |
 | **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./BJT_Circuits/Overcurrent) |
 | **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./BJT_Circuits/Current_Sensing)             |
-
-### 🔗 2️⃣ CMOS Circuits 
-
-| ⚙️ Circuit | 📜 Description | 🔗 Link |
-|---|---|---|
-| **🔁 SR Latch** | A basic CMOS SR Latch using PMOS and NMOS transistors to store a binary state	 | [View Circuit](./CMOS_Circuits/SR_Latch/) |
-
----
 
 ### 🔗 3️⃣ Logic Gates Circuits (BJTs)
 
