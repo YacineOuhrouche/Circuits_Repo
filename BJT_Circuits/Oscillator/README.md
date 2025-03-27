@@ -157,3 +157,7 @@ Oscillators are vital in electronics, offering various frequency ranges and wave
 - ✅ LC Oscillators – Used in high-frequency RF systems.
 - ✅ Crystal Oscillators – Provide ultra-stable clock signals.
 - ✅ Relaxation Oscillators – Generate square & triangular waves for timing applications.
+
+
+## 🔹 NEXT  
+**👉[Current Mirror](../Current_mirror)**
