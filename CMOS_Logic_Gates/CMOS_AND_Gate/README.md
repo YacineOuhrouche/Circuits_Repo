@@ -51,3 +51,6 @@ This is the simulation from ** Falstad**, showing the correct AND behavior:
 ---
 
 
+## 🔹 NEXT  
+**👉[CMOS OR Gate](../CMOS_OR_Gate)**
+---
