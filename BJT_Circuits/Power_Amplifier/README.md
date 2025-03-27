@@ -47,7 +47,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 🛠 **Simulation Result:**  
 ![Screenshot 2025-03-17 130354](https://github.com/user-attachments/assets/23415cc5-dc5f-4b44-ba46-0da6728a1668)
 
-*👉[ More About Class B](https://www.electronics-tutorials.ws/amplifier/amp_6.html)**
+**👉[ More About Class B](https://www.electronics-tutorials.ws/amplifier/amp_6.html)**
 ---
 
 ### 3⃣ **Class AB Amplifier** (Balanced Performance)
@@ -64,7 +64,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 ![Screenshot 2025-03-17 131338](https://github.com/user-attachments/assets/b1cecc33-7cec-44b1-890d-f78f348904a9)
 
-*👉[ More About Class AB](https://www.electronics-tutorials.ws/amplifier/amp_6.html)**
+**👉[ More About Class AB](https://www.electronics-tutorials.ws/amplifier/amp_6.html)**
 ---
 ### 4⃣ **Class C Amplifier** (High Efficiency, RF Applications)
 - **How it Works**: The transistor conducts for **less than 50% of the cycle**, requiring a **tuned circuit** to restore full waveform.
@@ -75,6 +75,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 ![Screenshot 2025-03-17 134249](https://github.com/user-attachments/assets/71bf218f-3e87-4dc4-89a9-5acd4ef6d2e8)
 
+**👉[ More About Class C](https://www.allaboutcircuits.com/technical-articles/introduction-to-the-class-c-power-amplifier/)**
 ---
 
 ### 5⃣ **Class D Amplifier** (Switching Amplifier, Digital)
@@ -90,6 +91,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 ![Screenshot 2025-03-27 104456](https://github.com/user-attachments/assets/7512d0ec-25d3-445b-b0bc-e45a6fdb8c80)
 
+**👉[ More About Class D](https://www.analog.com/en/resources/technical-articles/fundamentals-of-class-d-amplifiers.html)**
 ---
 
 ### 6⃣ **Class E Amplifier** (RF Power Applications)
@@ -97,10 +99,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - **Pros**: **Extremely high efficiency (~95%)**, widely used in **RF and wireless power transfer**.
 - **Cons**: Requires precise tuning of **inductor and capacitor values**.
 
-🖼 **Circuit Diagram:**  
 
-
-🛠 **Simulation Result:**  
 
 
 ---
@@ -110,10 +109,7 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - **Pros**: **Up to 90% efficiency**, ideal for **high-power RF transmission**.
 - **Cons**: **Complex circuit design**, requires **precise tuning**.
 
-🖼 **Circuit Diagram:**  
 
-
-🛠 **Simulation Result:**  
 
 ---
 
