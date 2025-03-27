@@ -89,3 +89,6 @@ module ALU(
     end
 endmodule
 
+````
+## 🔹 NEXT  
+**👉[4 Bit Register](../4-Bit_register)**
