@@ -56,4 +56,6 @@ This is the simulation from **Falstad**, showing how the output responds to diff
 
 ---
 
-
+## 🔹 NEXT  
+**👉[CMOS AND Gate](../CMOS_AND_Gate)**
+---
