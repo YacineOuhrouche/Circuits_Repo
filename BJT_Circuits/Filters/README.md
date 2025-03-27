@@ -68,4 +68,5 @@ Filters are **essential in audio, RF communication, power supplies, and biomedic
   
 
 ---
-
+## 🔹 NEXT  
+**👉[Clipper Circuit](../Clipper_Circuit)**
