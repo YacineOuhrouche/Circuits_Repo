@@ -66,3 +66,5 @@ Here’s the actual breadboard setup showing the circuit built with diodes, capa
 
 
 
+## 🔹 NEXT  
+**👉[Filters](../Filter)**
