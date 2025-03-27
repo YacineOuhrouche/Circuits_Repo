@@ -39,6 +39,7 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 ![Simulation Result](https://github.com/user-attachments/assets/ac8bf116-3d9c-40be-95f8-17214f7945d5)
 
+**👉[More About CE](https://www.allaboutcircuits.com/textbook/semiconductors/chpt-4/common-emitter-amplifier/)**
 ---
 
 ## 2️⃣ Common-Collector (CC) Amplifier (Emitter Follower)
@@ -62,6 +63,8 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 ![Simulation Result](https://github.com/user-attachments/assets/33b52a02-018a-4858-b9ff-955ae874b813)
 
+**👉[More About CC](https://www.electronics-tutorials.ws/amplifier/common-collector-amplifier.html)**
+---
 ---
 
 ## 3️⃣ Common-Base (CB) Amplifier
@@ -81,6 +84,8 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 
 ![Common-Base Amplifier](https://github.com/user-attachments/assets/16e0f350-4979-467b-9261-5b6664ab225f)
 
+**👉[More About CB](https://www.electronics-tutorials.ws/amplifier/common-base-amplifier.html)**
+---
 ---
 
 ## 4️⃣ Differential Amplifier
