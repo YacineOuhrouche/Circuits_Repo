@@ -58,4 +58,4 @@ The **Peak Detector Circuit** with two **op-amps** is a more advanced design tha
 ---
 
 ## 🔹 NEXT  
-**👉[H-Brifge Circuit](../H_Bridge)**
+**👉[Filters](../Filters)**
