@@ -164,4 +164,4 @@ Oscillators are vital in electronics, offering various frequency ranges and wave
 
 
 ## 🔹 NEXT  
-**👉[Current Mirror](../Current_mirror)**
+**👉[Schmitt Trigger](../Schmitt_trigger)**
