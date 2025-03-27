@@ -14,14 +14,13 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - **Pros**: Low distortion, high fidelity.
 - **Cons**: Low efficiency (~25%-30%), high power dissipation.
 
-📷 **Circuit Diagram:**  
+🖼 **Circuit Diagram:**  
 
-![Screenshot 2025-03-15 143407](https://github.com/user-attachments/assets/4839f91c-5fee-49e4-8de7-0924c3f6d55e)
+![Screenshot 2025-03-15 143407](https://github.com/user-attachments/assets/4060a3d7-b8cb-4450-9d1b-b75c31162873)
 
 🛠 **Simulation Result:**  
 
-![Screenshot 2025-03-15 143419](https://github.com/user-attachments/assets/43a1d68f-62c3-4b94-a088-7d8caf0e276b)
-
+![Screenshot 2025-03-15 143419](https://github.com/user-attachments/assets/c90d5628-3c58-4117-adab-431096bc4dac)
 💡 **Ways to Improve Efficiency:**
 - Use a **transformer-coupled load** instead of a resistive load to achieve up to **50% efficiency**.
 - Implement **heat sinks** to manage power dissipation.
@@ -31,7 +30,6 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 ![Screenshot 2025-03-17 112422](https://github.com/user-attachments/assets/cd3f6575-4c67-49eb-962e-15aa2e981320)
 ![Screenshot 2025-03-17 112429](https://github.com/user-attachments/assets/a4f6c720-e498-48f5-be42-27892b1925c3)
-
 ---
 
 ### 2⃣ **Class B Amplifier** (Higher Efficiency, Crossover Distortion)
@@ -39,75 +37,77 @@ This repository provides detailed explanations, **schematics**, and **simulation
 - **Pros**: Efficiency up to **70%**.
 - **Cons**: Crossover distortion at **zero crossing**.
 
-📷 **Circuit Diagram:**  
+🖼 **Circuit Diagram:**  
 
-![Screenshot 2025-03-17 130349](https://github.com/user-attachments/assets/51907f41-0644-4039-95b7-8cfdb8b5b217)
+![Screenshot 2025-03-17 130349](https://github.com/user-attachments/assets/37c134e1-fa8d-4db9-a3fb-bc0ca4b04b7d)
 
 🛠 **Simulation Result:**  
+![Screenshot 2025-03-17 130354](https://github.com/user-attachments/assets/23415cc5-dc5f-4b44-ba46-0da6728a1668)
 
-![Screenshot 2025-03-17 130354](https://github.com/user-attachments/assets/86e6de31-5cdb-4d8f-b712-6a489f2b1e74)
+
 ---
-
 
 ### 3⃣ **Class AB Amplifier** (Balanced Performance)
 - **How it Works**: Uses **slight biasing** to keep both transistors slightly on, reducing crossover distortion.
 - **Pros**: **Compromise** between Class A and B—better efficiency (~50-70%) and lower distortion.
 - **Cons**: Requires careful biasing.
 
-📷 **Circuit Diagram:**  
+🖼 **Circuit Diagram:**  
 
-![Screenshot 2025-03-17 131247](https://github.com/user-attachments/assets/44e9a00e-0e32-4e1f-a266-8373223a0139)
+![Screenshot 2025-03-17 131247](https://github.com/user-attachments/assets/fb3498a5-70aa-492d-bec5-cee66d7958e1)
 
 🛠 **Simulation Result:**  
 
-![Screenshot 2025-03-17 131338](https://github.com/user-attachments/assets/e3202ad3-31df-4959-9cc6-6ac2d2846408)
+
+![Screenshot 2025-03-17 131338](https://github.com/user-attachments/assets/b1cecc33-7cec-44b1-890d-f78f348904a9)
 
 ---
-
 ### 4⃣ **Class C Amplifier** (High Efficiency, RF Applications)
 - **How it Works**: The transistor conducts for **less than 50% of the cycle**, requiring a **tuned circuit** to restore full waveform.
 - **Pros**: **Very high efficiency (~80%)**, ideal for RF transmission.
 - **Cons**: **High distortion**, unsuitable for audio applications.
 
-📷 **Circuit Diagram:**  
+🖼 **Circuit Diagram:**  
 
-![Screenshot 2025-03-17 134249](https://github.com/user-attachments/assets/2ec7566e-b544-4166-a67c-27140c80ce71)
-
+![Screenshot 2025-03-17 134249](https://github.com/user-attachments/assets/71bf218f-3e87-4dc4-89a9-5acd4ef6d2e8)
 
 ---
 
+### 5⃣ **Class D Amplifier** (Switching Amplifier, Digital)
+- **How it Works**: Uses **PWM (Pulse Width Modulation)** to switch transistors **on and off rapidly**. A low-pass filter reconstructs the analog output.
+- **Pros**: Very high efficiency (~90%), ideal for **audio applications**.
+- **Cons**: Requires **careful filtering** to remove switching noise.
 
-## 🔹 Implementation Circuits
+🖼 **Circuit Diagram:**  
 
-### **Push-Pull Amplifier (Class B & AB)**
-- Uses **two complementary BJTs** for **better efficiency**.
-- Common in **audio applications**.
-- **Solves** the low-efficiency issue of Class A but introduces **crossover distortion**.
-
-📷 **Circuit Diagram:**  
-
-![Screenshot 2025-03-17 115559](https://github.com/user-attachments/assets/2cd08b18-d202-4b1b-acd5-21570a7784c7)
 
 🛠 **Simulation Result:**  
--We can see the distortion in the output waveform.
 
-![Screenshot 2025-03-17 115928](https://github.com/user-attachments/assets/7ff9a35c-b7af-4970-95b4-7fd17f592b84)
 
 ---
 
-### **Darlington Power Amplifier**
-- Uses a **Darlington pair** (two BJTs in cascade) for **very high current gain**.
-- Common in **Class A & AB amplifiers**.
+### 6⃣ **Class E Amplifier** (RF Power Applications)
+- **How it Works**: Uses **soft-switching techniques** and a tuned circuit to minimize power loss.
+- **Pros**: **Extremely high efficiency (~95%)**, widely used in **RF and wireless power transfer**.
+- **Cons**: Requires precise tuning of **inductor and capacitor values**.
 
-📷 **Circuit Diagram: Darlington Pair**  
-
-![Screenshot 2025-03-17 121158](https://github.com/user-attachments/assets/a1522358-547b-430f-9df2-3ee402bc72a7)
-
-📷 **Ex:  Class A Amplifier**  
-
-![Screenshot 2025-03-17 122542](https://github.com/user-attachments/assets/c991fe2c-4bf4-4c55-87f2-62ced3e1098a)
+🖼 **Circuit Diagram:**  
 
 
+🛠 **Simulation Result:**  
+
+
+---
+
+### 7⃣ **Class F Amplifier** (High-Efficiency RF Applications)
+- **How it Works**: Uses **harmonic tuning** (resonant circuits) to shape voltage and current waveforms, reducing power loss.
+- **Pros**: **Up to 90% efficiency**, ideal for **high-power RF transmission**.
+- **Cons**: **Complex circuit design**, requires **precise tuning**.
+
+🖼 **Circuit Diagram:**  
+
+
+🛠 **Simulation Result:**  
 
 ---
 
@@ -118,7 +118,9 @@ This repository provides detailed explanations, **schematics**, and **simulation
 | **Class B** | ~70% | High (Crossover) | Medium | RF, PA systems |
 | **Class AB** | ~50-70% | Low | Medium | Audio, Power amps |
 | **Class C** | ~80% | High | Low | RF transmission |
-
+| **Class D** | ~90% | Low (if filtered) | Very Low | Audio, Subwoofers |
+| **Class E** | ~95% | High | Very Low | RF power, Wireless power |
+| **Class F** | ~90% | High | Low | RF high-power transmission |
 
 ---
 
@@ -129,7 +131,9 @@ Understanding **power amplifier classes** and their circuit implementations allo
 👉 **Class B** – Efficient, but has crossover distortion.  
 👉 **Class AB** – Best balance between distortion and efficiency.  
 👉 **Class C** – High efficiency, used in RF applications.  
-
+👉 **Class D** – Digital switching, high efficiency for audio.  
+👉 **Class E** – Optimized for RF power applications.  
+👉 **Class F** – Harmonic tuning for maximum efficiency in RF.  
 
 ---
 
