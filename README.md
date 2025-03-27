@@ -26,29 +26,56 @@ These are more complex or application-focused circuits that involve practical de
 | **🎵 Audio Amplifier** | Two-Stage Class A Audio Amplifier | [View Folder](./Circuits_Projects/Audio_Amplifier) |
 | **💡 LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation | [View Folder](./Circuits_Projects/LED_Flasher/)       |
 
----
-### 🔹 **Basic Analog Circuits**
 
-These are fundamental analog circuits, focusing on basic signal processing, voltage manipulation, and filtering.
+---
+### 🔹 **Analog Circuits**  
+These circuits focus on basic signal processing, voltage manipulation, and filtering.
 
 | ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
-|-------------------------|------------------------------------------------------------------------------|---------------------------------------------------|
+|---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
 | **📢 Small Signal Amplifier** | Amplifies weak signals using **BJTs**                                      | [View Folder](./BJT_Circuits/Small_Signal_Amplifier) |
 | **🔊 Power Amplifier**       | Used to drive speakers and other high-power loads                          | [View Folder](./BJT_Circuits/Power_Amplifier)     |
 | **🌀 Oscillator Circuit**    | Generates a continuous periodic waveform                                   | [View Folder](./BJT_Circuits/Oscillator)         |
-| **🔄 Current Mirror**        | The current in one half of the circuit controls the current flow in the other half | [View Folder](./BJT_Circuits/Current_mirror/)      |
-| **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./BJT_Circuits/DCDC_Converter/)     |
-| **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./BJT_Circuits/Rectifier/)          |
+| **🟢 Schmitt Trigger**       | Converts noisy or slowly changing input into a clean digital  | [View Folder](./BJT_Circuits/Schmitt_trigger)     |
+| **📈 Peak Detector Circuit** | Captures and holds the peak voltage level of an input signal | [View Folder](./BJT_Circuits/Peak_Detector)     |
 | **🔎 Filters**               |  Pass or block specific frequencies                     | [View Folder](./BJT_Circuits/Filters/)            |
 | **✂️ Clipper Circuit**       | "Clips" portions of a signal without distorting the remaining waveform   | [View Folder](./BJT_Circuits/Clipper_Circuit/)    |
 | **🔼 Clamper Circuit**       | Adds or subtracts a DC voltage to an AC signal                              | [View Folder](./BJT_Circuits/Clamper_Circuits/)   |
-| **🟢 Schmitt Trigger**       | Converts noisy or slowly changing input into a clean digital  | [View Folder](./BJT_Circuits/Schmitt_trigger)     |
-| **📈 Peak Detector Circuit** | Captures and holds the peak voltage level of an input signal | [View Folder](./BJT_Circuits/Peak_Detector)     |
+---
+
+### 🔹 **Power Electronics & Converters**  
+These circuits are focused on converting electrical power and ensuring efficient operation of power systems.
+
+| ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
+|---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
+| **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./BJT_Circuits/DCDC_Converter/)     |
+| **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./BJT_Circuits/Rectifier/)          |
 | **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./BJT_Circuits//H_Bridge) |
+
+---
+
+### 🔹 **RF & Communication Circuits**  
+These circuits are primarily used in communication systems for modulation, demodulation, and frequency control.
+
+| ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
+|---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
+| **📡 Modulator**           | Encodes a message onto a carrier signal (AM, FM, PM, QAM, etc.).               |           |
+| **📡 Demodulator**         | Extracts the original signal from a modulated carrier.                         |     |
+| **🔧 AGC (Automatic Gain Control)** | Adjusts amplifier gain automatically to maintain a stable output signal.  |                 |
+| **🔀 Mixers**              | Combine two signals to produce sum and difference frequencies (used in RF and superheterodyne receivers). |            |
+| **🔒 PLL (Phase-Locked Loop)**  | Used for frequency synthesis, demodulation, and clock recovery.              |                |
+
+---
+
+### 🔹 **Current & Voltage Regulation/Protection**  
+These circuits focus on regulating voltage and current, as well as protecting components from damage.
+
+| ⚙️ Circuit                     | 📜 Description                                                                  | 🔗 Link                                              |
+|-------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
+| **🔄 Current Mirror**        | The current in one half of the circuit controls the current flow in the other half | [View Folder](./BJT_Circuits/Current_mirror/)      |
 | **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./BJT_Circuits/Overvoltage) |
 | **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./BJT_Circuits/Overcurrent) |
 | **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./BJT_Circuits/Current_Sensing)             |
----
 
 ### 🔗 2️⃣ CMOS Circuits 
 
