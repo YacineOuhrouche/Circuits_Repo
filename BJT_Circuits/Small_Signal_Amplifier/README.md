@@ -137,5 +137,5 @@ Small-signal amplifiers are crucial in electronics for amplifying weak signals w
 
 
 ## 🔹 NEXT  
-**👉[Power Amplifier)](../Power_Amplifier)**
+**👉[Power Amplifier](../Power_Amplifier)**
 
