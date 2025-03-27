@@ -27,7 +27,7 @@ Each folder contains:
 | **🔼 Clamper Circuit**       | Adds or subtracts a DC voltage to an AC signal                              | [View Folder](./Clamper_Circuits/)   |
 
 ---
-### 🔹 **Power Electronics & Converters**  
+### 🔹 **Power Electronics**  
 
 | ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
 |---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
