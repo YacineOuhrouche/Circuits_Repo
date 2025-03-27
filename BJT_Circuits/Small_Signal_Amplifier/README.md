@@ -135,3 +135,7 @@ Small-signal amplifiers can be classified based on their transistor configuratio
 ## 💡 Conclusion
 Small-signal amplifiers are crucial in electronics for amplifying weak signals without distortion. Understanding their working principles is essential for designing efficient analog circuits. Whether in audio amplification, sensor signal processing, or communication systems, these amplifiers form the backbone of many applications in modern electronics.
 
+
+## 🔹 NEXT  
+**👉[Power Amplifier)](../Power_Amplifier)**
+
