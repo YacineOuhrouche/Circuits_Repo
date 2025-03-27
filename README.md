@@ -79,10 +79,10 @@ These circuits focus on regulating voltage and current, as well as protecting co
 
 | ⚙️ Circuit                     | 📜 Description                                                                  | 🔗 Link                                              |
 |-------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🔄 Current Mirror**        | The current in one half of the circuit controls the current flow in the other half | [View Folder](./BJT_Circuits/Current_mirror/)      |
-| **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./BJT_Circuits/Overvoltage) |
-| **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./BJT_Circuits/Overcurrent) |
-| **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./BJT_Circuits/Current_Sensing)             |
+| **🔄 Current Mirror**        | The current in one half of the circuit controls the current flow in the other half | [View Folder](./Circuit_Protection/Current_mirror/)      |
+| **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./Circuit_Protection/Overvoltage) |
+| **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./Circuit_Protection/Overcurrent) |
+| **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./Circuit_Protection/Current_Sensing)             |
 
 ---
 ### 🔗 3️⃣ Logic Gates Circuits (BJTs)
