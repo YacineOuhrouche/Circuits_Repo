@@ -132,3 +132,6 @@ Understanding **power amplifier classes** and their circuit implementations allo
 
 
 ---
+
+## 🔹 NEXT  
+**👉[ Oscillator](../Oscillator)**
