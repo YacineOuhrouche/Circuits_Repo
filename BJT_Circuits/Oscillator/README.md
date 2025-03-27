@@ -86,6 +86,7 @@ The inductor and capacitors form a resonant circuit, producing oscillations. The
 
 ![Screenshot](https://github.com/user-attachments/assets/92812dc9-56cc-4078-8ffe-3d69ef664489)
 
+**👉[More About Colpitts Oscillator](https://www.electronics-tutorials.ws/oscillator/colpitts.html)**
 
 #### ✅ Hartley Oscillator
 - Uses a tapped inductor for feedback.
@@ -106,6 +107,7 @@ The tapped inductor provides feedback, ensuring sustained oscillations. The tran
 
 ![Screenshot](https://github.com/user-attachments/assets/3e294bae-a8a9-4715-abd6-c3f408ce9ae5)
 
+**👉[More About Hartley Oscillator](https://www.electronics-tutorials.ws/oscillator/hartley.html)**
 
 ### 3️⃣ Crystal Oscillators (High Precision)
 
@@ -121,7 +123,7 @@ The crystal resonates at a specific frequency due to its mechanical vibrations. 
 
 ![Screenshot](https://github.com/user-attachments/assets/0213dc2e-a270-4f6a-a8ad-8250eed67ab8)
 
-
+**👉[More About Crystal Oscillator](https://www.electronics-tutorials.ws/oscillator/crystal.html)**
 ### 4️⃣ Relaxation Oscillators (Square and Triangular Waves)
 
 Relaxation oscillators generate non-sinusoidal waveforms, such as square waves and triangular waves, using switching components.
