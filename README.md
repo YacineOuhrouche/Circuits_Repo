@@ -86,11 +86,9 @@ These circuits focus on regulating voltage and current, as well as protecting co
 
 ---
 ### 🔗 3️⃣ Digital Circuits
-
-| ⚙️ Circuit | 🔗 Link |
-|---|---|
-| **🔵 Logic Gates** | [AND Gate Folder](./Logic_Gates/AND_Gate/) |
-
+| ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
+|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
+| **💡 Logic Gate**              | Performs logical operations on binary inputs | [View Folder](./Logic_Gates)                           |
 ---
 
 ### 🔗 4️⃣ Hardware Descriptive Language (HDL) Section
