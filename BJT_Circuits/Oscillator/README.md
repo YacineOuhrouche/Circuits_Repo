@@ -37,6 +37,7 @@ The amplifier provides gain, while the RC network produces a phase shift of 180�
 
 ![Screenshot](https://github.com/user-attachments/assets/ee40bbe7-ad26-4133-a927-4f796e51cd7d)
 
+**👉[More About RC Phase Shift](https://www.electronics-tutorials.ws/oscillator/rc_oscillator.html)**
 
 #### ✅ Wien Bridge Oscillator
 - Uses a bridge circuit with a positive feedback loop.
@@ -58,6 +59,7 @@ The circuit relies on a voltage divider and an operational amplifier. The positi
 
 ![Screenshot](https://github.com/user-attachments/assets/f85a565d-0f92-4dff-8498-3bc33a43e069)
 
+**👉[More About Wien Bridge](https://www.electronics-tutorials.ws/oscillator/wien_bridge.html)**
 
 ### 2️⃣ LC Oscillators (High-Frequency Applications)
 
