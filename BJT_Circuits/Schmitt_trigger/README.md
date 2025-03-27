@@ -66,3 +66,8 @@ By adjusting resistors **R1 and R2**, we can **change the hysteresis range**.
 
 
 
+**👉[More About Schmitt Trigger Circuit](https://howtomechatronics.com/how-it-works/electrical-engineering/schmitt-trigger/)**
+---
+
+## 🔹 NEXT  
+**👉[Peak Detector Circuit](../Peak_Detector)**
