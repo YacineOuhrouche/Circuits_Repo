@@ -90,3 +90,8 @@ Clamper circuits can be categorized into different types based on the polarity o
 Clamper circuits are essential in **signal processing** and **waveform adjustment** applications. They help shift signals to a desired **DC reference level** while **preserving the waveform's shape**.
 
 
+**👉[More About Clamping Circuit](https://www.physics-and-radio-electronics.com/electronic-devices-and-circuits/rectifier/clampercircuits.html)**
+---
+
+## 🔹 NEXT  
+**👉[Schmitt Trigger Circuit](../Schmitt_trigger)**
