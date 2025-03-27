@@ -29,17 +29,6 @@ Each folder contains:
 
 ---
 
-### 🔹 **RF & Communication Circuits**  
-
-| ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
-|---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
-| **📡 Modulator**           | Encodes a message onto a carrier signal (AM, FM, PM, QAM, etc.).               |           |
-| **📡 Demodulator**         | Extracts the original signal from a modulated carrier.                         |     |
-| **🔧 AGC (Automatic Gain Control)** | Adjusts amplifier gain automatically to maintain a stable output signal.  |                 |
-| **🔀 Mixers**              | Combine two signals to produce sum and difference frequencies (used in RF and superheterodyne receivers). |            |
-| **🔒 PLL (Phase-Locked Loop)**  | Used for frequency synthesis, demodulation, and clock recovery.              |                |
-
----
 
 
   
