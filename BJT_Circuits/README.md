@@ -26,14 +26,6 @@ Each folder contains:
 | **✂️ Clipper Circuit**       | "Clips" portions of a signal without distorting the remaining waveform   | [View Folder](./Clipper_Circuit/)    |
 | **🔼 Clamper Circuit**       | Adds or subtracts a DC voltage to an AC signal                              | [View Folder](./Clamper_Circuits/)   |
 
----
-### 🔹 **Power Electronics**  
-
-| ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
-|---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
-| **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./DCDC_Converter/)     |
-| **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./Rectifier/)          |
-| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./H_Bridge) |
 
 ---
 
