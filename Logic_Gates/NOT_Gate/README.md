@@ -55,3 +55,6 @@ This is a snapshot of the NOT gate running in a simulation (LTspice / Falstad):
 
 
 
+## 🔹 NEXT  
+**👉[NAND Gate](../NAND_Gate)**
+---
