@@ -55,6 +55,8 @@ A **Boost Converter** is a DC-DC power converter that **steps up a lower input v
 - **LED Drivers** – Provides a higher constant voltage to power LED lighting systems.
 
 ---
+**👉[More About Boost Converter ](https://www.monolithicpower.com/en/learning/mpscholar/power-electronics/dc-dc-converters/boost-converters)**
+--
 
 ## 🔹 NEXT  
 **👉[ Buck-Boost Converter ](../Buck-Boost_Converter)**
