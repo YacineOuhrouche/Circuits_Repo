@@ -47,7 +47,7 @@ These are fundamental analog circuits, focusing on basic signal processing, volt
 | **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./BJT_Circuits//H_Bridge) |
 | **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./BJT_Circuits/Overvoltage) |
 | **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./BJT_Circuits/Overcurrent) |
-| **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [Current Sensing Folder](./BJT_Circuits/Current_Sensing)             |
+| **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./BJT_Circuits/Current_Sensing)             |
 ---
 
 ### 🔗 2️⃣ CMOS Circuits 
