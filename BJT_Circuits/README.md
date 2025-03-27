@@ -26,7 +26,7 @@ Each folder contains:
 | **✂️ Clipper Circuit**       | "Clips" portions of a signal without distorting the remaining waveform   | [View Folder](./Clipper_Circuit/)    |
 | **🔼 Clamper Circuit**       | Adds or subtracts a DC voltage to an AC signal                              | [View Folder](./Clamper_Circuits/)   |
 
-
+---
 ### 🔹 **Power Electronics & Converters**  
 
 | ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
