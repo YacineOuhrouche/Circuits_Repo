@@ -45,7 +45,8 @@ This is the simulation waveform captured in  Falstad:
 ![Screenshot 2025-03-05 131907](https://github.com/user-attachments/assets/4fc263e8-95bc-4523-9879-857b3a14d775)
 
 
-
+## 🔹 NEXT  
+**👉[CMOS NAND Gate](../CMOS_NAND_Gate)**
 ---
 
 
