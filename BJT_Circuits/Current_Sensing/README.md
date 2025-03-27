@@ -50,11 +50,10 @@ There are several types of current sensing circuits, each suited to different ap
 🔹 **How It Works:**  
 - A **current transformer (CT)** consists of a primary winding, which carries the current to be measured, and a secondary winding that produces a proportional voltage.
 - The current flowing through the primary winding induces a current in the secondary winding, which can then be measured to calculate the primary current.
+- 
+**👉[ More About Current Transformers](https://www.electronics-tutorials.ws/transformer/current-transformer.html)**
 
-📷 **Schematic Diagram:**
 
-
-🛠 **Simulation:**
 
 
 ### ✅ Applications:  
