@@ -56,4 +56,5 @@ This is a snapshot of the AND gate running in a simulation ( Falstad) when the t
 ---
 
 
-
+## 🔹 NEXT  
+**👉[OR Gate](../OR_Gate)**
