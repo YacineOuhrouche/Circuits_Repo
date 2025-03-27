@@ -52,5 +52,6 @@ This is a snapshot of the NAND gate running in a simulation ( Falstad) when the 
 ---
 
 
-
+## 🔹 NEXT  
+**👉[NOR Gate](../NOR_Gate)**
 
