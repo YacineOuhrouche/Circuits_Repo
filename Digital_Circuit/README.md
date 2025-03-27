@@ -17,7 +17,7 @@ Each folder contains:
 
 | ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
 |-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
-| **💡 Logic Gate**              | Performs logical operations on binary inputs. Includes AND, OR, NOT, and XOR gates. | [View Folder](./Logic_Gate)                           |
+| **💡 Logic Gate**              | Performs logical operations on binary inputs. Includes AND, OR, NOT, and XOR gates. | [View Folder](./Logic_Gates)                           |
 | **🔄 Flip-Flop**                | Stores one bit of data and is the basic unit for memory.                        | [View Folder](./Flip_Flop)                           |
 | **📊 Binary Counter**           | Counts in binary using flip-flops.                                             | [View Folder](./Binary_Counter)                      |
 | **🔢 Multiplexer (MUX)**        | Selects one of several input signals based on control signals.                  | [View Folder](./Multiplexer)                         |
