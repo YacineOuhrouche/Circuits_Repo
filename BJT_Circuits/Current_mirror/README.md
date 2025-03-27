@@ -64,3 +64,5 @@ A **BJT Current Mirror** is a crucial circuit in **analog electronics**. By usin
 
 ---
 
+## 🔹 NEXT  
+**👉[DC-DC Converter](../DCDC_Converter)**
