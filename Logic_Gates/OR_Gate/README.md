@@ -53,5 +53,7 @@ This is a snapshot of the OR gate running in a simulation ( Falstad):
 
 ---
 
-
+## 🔹 NEXT  
+**👉[NOT Gate](../NOT_Gate)**
+---
 
