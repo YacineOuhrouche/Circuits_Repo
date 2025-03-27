@@ -61,4 +61,6 @@ Here’s the actual **breadboard setup** of the Half-Wave Rectifier.
 ---
 
 
+## 🔹 NEXT  
+**👉[Full Wave Rectifier)](../Full_Wave_Rectifier)**
 
