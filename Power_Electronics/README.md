@@ -1,6 +1,6 @@
 # 🔌 Power Electronics
 
-Welcome to the **Power Electroncis** repository! 🎉  
+Welcome to the **Power Electronics** repository! 🎉  
 
 Each folder contains:
 
