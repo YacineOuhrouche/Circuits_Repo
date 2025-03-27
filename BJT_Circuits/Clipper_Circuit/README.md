@@ -187,4 +187,4 @@ Clipper circuits play a **vital role in signal processing** by removing unwanted
 ---
 
 ## 🔹 NEXT  
-**👉[Clamping Circuit](../Clamper_Circuit)**
+**👉[Clamping Circuit](../Clamper_Circuits)**
