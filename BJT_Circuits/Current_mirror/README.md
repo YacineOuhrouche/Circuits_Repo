@@ -67,4 +67,4 @@ A **BJT Current Mirror** is a crucial circuit in **analog electronics**. By usin
 ---
 
 ## 🔹 NEXT  
-**👉[Buck Converter](../DCDC_Converter/Buck_Converter)**
+**👉[Overvoltage Protection Circuit](../Overvoltage)**
