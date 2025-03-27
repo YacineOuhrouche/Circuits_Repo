@@ -57,5 +57,7 @@ This is the simulation  from ** Falstad**, showing the correct NAND behavior:
 
 ---
 
-
+## 🔹 NEXT  
+**👉[CMOS NOR Gate](../CMOS_NOR_Gate)**
+---
 
