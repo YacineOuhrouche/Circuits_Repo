@@ -54,4 +54,8 @@ The **Peak Detector Circuit** with two **op-amps** is a more advanced design tha
 
 🚀 *This circuit is widely used in **audio, RF, and power electronics** applications!*  
 
+**👉[More About Peak Detector Circuit](https://www.allaboutcircuits.com/textbook/semiconductors/chpt-3/peak-detector/)**
+---
 
+## 🔹 NEXT  
+**👉[H-Brifge Circuit](../H_Bridge)**
