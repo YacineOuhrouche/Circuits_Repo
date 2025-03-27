@@ -85,30 +85,15 @@ These circuits focus on regulating voltage and current, as well as protecting co
 | **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./Circuit_Protection/Current_Sensing)             |
 
 ---
-### 🔗 3️⃣ Logic Gates Circuits (BJTs)
+### 🔗 3️⃣ Digital Circuits
 
 | ⚙️ Circuit | 🔗 Link |
 |---|---|
-| **🔵 AND Gate** | [AND Gate Folder](./Logic_Gates/AND_Gate/) |
-| **🔴 OR Gate** | [OR Gate Folder](./Logic_Gates/OR_Gate/) |
-| **⚪ NOT Gate** | [NOT Gate Folder](./Logic_Gates/NOT_Gate/) |
-| **🟢 NAND Gate** | [NAND Gate Folder](./Logic_Gates/NAND_Gate/) |
-| **🟠 NOR Gate** | [NOR Gate Folder](./Logic_Gates/NOR_Gate/) |
-
----
-### 🔗 4️⃣ CMOS Logic Gates
-
-| ⚙️ Circuit | 🔗 Link |
-|---|---|
-| **🔄 CMOS Inverter** | [View Circuit](./CMOS_Logic_Gates/CMOS_NOT_Gate/) |
-| **🟠 CMOS NOR Gate** | [View Circuit](./CMOS_Logic_Gates/CMOS_NOR_Gate/) |
-| **🟢 CMOS NAND** | [View Circuit](./CMOS_Logic_Gates/CMOS_NAND_Gate/) |
-| **🔵 CMOS AND Gate** | [View Circuit](./CMOS_Logic_Gates/CMOS_AND_Gate/) |
-| **🔴 CMOS OR Gate** | [View Circuit](./CMOS_Logic_Gates/CMOS_OR_Gate/) |
+| **🔵 Logic Gates** | [AND Gate Folder](./Logic_Gates/AND_Gate/) |
 
 ---
 
-### 🔗 5️⃣ Hardware Descriptive Language (HDL) Section
+### 🔗 4️⃣ Hardware Descriptive Language (HDL) Section
 
 | ⚙️ Circuit | 📜 Description | 🔗 Link |
 |---|---|---|
