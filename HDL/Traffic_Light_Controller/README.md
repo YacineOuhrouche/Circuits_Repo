@@ -101,3 +101,6 @@ begin
 end Behavioral;
 ```
 
+## 🔹 NEXT  
+**👉[4 Bit ALU](../4_Bit_ALU)**
+---
