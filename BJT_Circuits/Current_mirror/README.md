@@ -63,6 +63,8 @@ A **BJT current mirror** consists of **two identical transistors (Q1 & Q2)**, wh
 A **BJT Current Mirror** is a crucial circuit in **analog electronics**. By using matched transistors and sharing **base-emitter voltage (V_BE),** it effectively **mirrors** current from one transistor to another, ensuring stable and predictable current sources.  
 
 ---
+**👉[More About Current Mirror](https://wiki.analog.com/university/courses/electronics/text/chapter-11)**
+---
 
 ## 🔹 NEXT  
-**👉[DC-DC Converter](../DCDC_Converter)**
+**👉[Buck Converter](../DCDC_Converter/Buck_Converter)**
