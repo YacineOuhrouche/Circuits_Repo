@@ -94,4 +94,4 @@ Clamper circuits are essential in **signal processing** and **waveform adjustmen
 ---
 
 ## 🔹 NEXT  
-**👉[Schmitt Trigger Circuit](../Schmitt_trigger)**
+**👉[DC-DC Converter](../DCDC_Converter)**
