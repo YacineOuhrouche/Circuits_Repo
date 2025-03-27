@@ -19,11 +19,8 @@ There are several types of current sensing circuits, each suited to different ap
 - The voltage drop across the resistor is proportional to the current flowing through the circuit, based on Ohm’s Law (V = IR).
 - This voltage drop is then amplified and measured to calculate the current.
 
-📷 **Schematic Diagram:**
-
-
-🛠 **Simulation:**
-
+  
+**👉[ More About Shunt Resistors](https://www.tek.com/en/blog/measuring-current-using-shunt-resistors)**
 
 ### ✅ Applications:  
 ✔️ **Battery Management Systems** – Measures current flow for charging and discharging.  
@@ -38,10 +35,8 @@ There are several types of current sensing circuits, each suited to different ap
 - The sensor produces a voltage proportional to the magnetic field, which is then converted into a current measurement.
 - This method allows for **non-invasive current sensing**, meaning the conductor doesn’t need to be physically interrupted.
 
-📷 **Schematic Diagram:**
 
-
-🛠 **Simulation:**
+**👉[ More About Hall Effect Sensors](https://www.allaboutcircuits.com/technical-articles/hall-effect-current-sensing-open-loop-and-closed-loop-configurations/)**
 
 
 ### ✅ Applications:  
