@@ -183,3 +183,8 @@ Clipper circuits can be classified based on the placement of the diode and addit
 Clipper circuits play a **vital role in signal processing** by removing unwanted portions of a waveform. Understanding their working principles helps in designing **efficient analog electronic systems**.
 
 
+**👉[More About Climping Circuit](https://www.electronics-tutorials.ws/diode/diode-clipping-circuits.html)**
+---
+
+## 🔹 NEXT  
+**👉[Clamping Circuit](../Clamper_Circuit)**
