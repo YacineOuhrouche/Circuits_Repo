@@ -80,9 +80,11 @@ This repository provides detailed explanations, **schematics**, and **simulation
 
 🖼 **Circuit Diagram:**  
 
+![Screenshot 2025-03-27 104446](https://github.com/user-attachments/assets/38aa6fe9-38a9-4f7f-84cc-ac4481422dc9)
 
 🛠 **Simulation Result:**  
 
+![Screenshot 2025-03-27 104456](https://github.com/user-attachments/assets/7512d0ec-25d3-445b-b0bc-e45a6fdb8c80)
 
 ---
 
