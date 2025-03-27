@@ -41,12 +41,5 @@ Each folder contains:
 
 ---
 
-### 🔹 **Current & Voltage Regulation/Protection**  
 
-| ⚙️ Circuit                     | 📜 Description                                                                  | 🔗 Link                                              |
-|-------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🔄 Current Mirror**        | The current in one half of the circuit controls the current flow in the other half | [View Folder](./Current_mirror/)      |
-| **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./Overvoltage) |
-| **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./Overcurrent) |
-| **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./Current_Sensing)             |
   
