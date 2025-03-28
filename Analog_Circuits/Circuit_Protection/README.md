@@ -12,3 +12,7 @@ These circuits focus on regulating voltage and current, as well as protecting co
 | **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./Overvoltage) |
 | **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./Overcurrent) |
 | **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./Current_Sensing)             |
+
+## 🔹 NEXT  
+**👉[Digital Circuits](../../Digital_Circuit)**
+
