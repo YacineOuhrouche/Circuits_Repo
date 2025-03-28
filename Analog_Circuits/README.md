@@ -47,3 +47,7 @@ Each folder contains:
 | **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./Circuit_Protection/Overvoltage) |
 | **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./Circuit_Protection/Overcurrent) |
 | **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./Circuit_Protection/Current_Sensing)             |
+
+## 🔹 NEXT  
+**👉[Digital Circuit](../Digital_Circuit)**
+---
