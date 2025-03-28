@@ -24,3 +24,6 @@ Each folder contains:
 | **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./H_Bridge) |
 
 ---
+## 🔹 NEXT  
+**👉[Circuit Protection](../Circuit_Protection)**
+---
