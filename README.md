@@ -50,7 +50,7 @@ These circuits focus on basic signal processing, voltage manipulation, and filte
 | **🔼 Clamper Circuit**       | Adds or subtracts a DC voltage to an AC signal                              | [View Folder](./Analog_Circuits/Clamper_Circuits/)   |
 ---
 
-### 🔹 **Power Electronics & Converters**  
+### 🔹 **Power Electronics**  
 These circuits are focused on converting electrical power and ensuring efficient operation of power systems.
 
 | ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
@@ -76,7 +76,7 @@ These circuits are primarily used in communication systems for modulation, demod
 
 ---
 
-### 🔹 **Current & Voltage Regulation/Protection**  
+### 🔹 **Current & Voltage Protection**  
 These circuits focus on regulating voltage and current, as well as protecting components from damage.
 
 | ⚙️ Circuit                     | 📜 Description                                                                  | 🔗 Link                                              |
