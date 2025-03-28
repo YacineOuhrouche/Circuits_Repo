@@ -43,11 +43,14 @@ These circuits focus on various applications in electronics, including signal pr
 | **🔒 Circuit Protection**    | Circuits designed to protect against overloads, surges, and faults                   | [View Folder](./Circuit_Protection)                 |
 
 ---
-
 ### 🔗 4️⃣ Digital Circuits  
 | ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
 |-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
-| **💡 Logic Gate**              | Performs logical operations on binary inputs | [View Folder](./Logic_Gates) |
+| **💡 Logic Gate**              | Performs logical operations on binary inputs | [View Folder](./Digital_Circuit/Logic_Gates) |
+| **🔲 Combinational Circuit**   | Circuit whose output depends only on the present input | [View Folder](./Digital_Circuit/Combinational_Circuits) |
+| **🔁 Sequential Circuit**      | Circuit whose output depends on both present inputs and past states | [View Folder](./Digital_Circuit/Sequential_Circuits) |
+| **🧠 Memory Circuit**          | Circuit that stores data, typically using flip-flops or registers | [View Folder](./Digital_Circuit/Memory_Circuits) |
+| **🔄 Finite State Machine (FSM)** | A sequential circuit that has a finite number of states and transitions between them based on inputs | [View Folder](./Digital_Circuit/FSM_Circuits) |
 
 ---
 
