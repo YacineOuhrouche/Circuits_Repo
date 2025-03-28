@@ -40,14 +40,14 @@ These circuits focus on basic signal processing, voltage manipulation, and filte
 
 | ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
 |---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
-| **📢 Small Signal Amplifier** | Amplifies weak signals using **BJTs**                                      | [View Folder](./BJT_Circuits/Small_Signal_Amplifier) |
-| **🔊 Power Amplifier**       | Used to drive speakers and other high-power loads                          | [View Folder](./BJT_Circuits/Power_Amplifier)     |
-| **🌀 Oscillator Circuit**    | Generates a continuous periodic waveform                                   | [View Folder](./BJT_Circuits/Oscillator)         |
-| **🟢 Schmitt Trigger**       | Converts noisy or slowly changing input into a clean digital  | [View Folder](./BJT_Circuits/Schmitt_trigger)     |
-| **📈 Peak Detector Circuit** | Captures and holds the peak voltage level of an input signal | [View Folder](./BJT_Circuits/Peak_Detector)     |
-| **🔎 Filters**               |  Pass or block specific frequencies                     | [View Folder](./BJT_Circuits/Filters/)            |
-| **✂️ Clipper Circuit**       | "Clips" portions of a signal without distorting the remaining waveform   | [View Folder](./BJT_Circuits/Clipper_Circuit/)    |
-| **🔼 Clamper Circuit**       | Adds or subtracts a DC voltage to an AC signal                              | [View Folder](./BJT_Circuits/Clamper_Circuits/)   |
+| **📢 Small Signal Amplifier** | Amplifies weak signals using **BJTs**                                      | [View Folder](./Analog_Circuits/Small_Signal_Amplifier) |
+| **🔊 Power Amplifier**       | Used to drive speakers and other high-power loads                          | [View Folder](./Analog_Circuits/Power_Amplifier)     |
+| **🌀 Oscillator Circuit**    | Generates a continuous periodic waveform                                   | [View Folder](./Analog_Circuits/Oscillator)         |
+| **🟢 Schmitt Trigger**       | Converts noisy or slowly changing input into a clean digital  | [View Folder](./Analog_Circuits/Schmitt_trigger)     |
+| **📈 Peak Detector Circuit** | Captures and holds the peak voltage level of an input signal | [View Folder](./Analog_Circuits/Peak_Detector)     |
+| **🔎 Filters**               |  Pass or block specific frequencies                     | [View Folder](./Analog_Circuits/Filters/)            |
+| **✂️ Clipper Circuit**       | "Clips" portions of a signal without distorting the remaining waveform   | [View Folder](./Analog_Circuits/Clipper_Circuit/)    |
+| **🔼 Clamper Circuit**       | Adds or subtracts a DC voltage to an AC signal                              | [View Folder](./Analog_Circuits/Clamper_Circuits/)   |
 ---
 
 ### 🔹 **Power Electronics & Converters**  
@@ -56,8 +56,10 @@ These circuits are focused on converting electrical power and ensuring efficient
 | ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
 |---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
 | **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./Power_Electronics/DCDC_Converter/)     |
-| **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](.Power_Electronics/Rectifier/)          |
-| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./Power_Electronics/H_Bridge) |
+| **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./Power_Electronics/Rectifier/)          |
+| **🔄 AC-AC Converter**       | Converts AC voltage from one frequency or amplitude to another              | [View Folder](./Power_Electronics/ACAC_Converter/)     |
+| **⚙️ H-Bridge Circuit**      | Controls the direction of **DC motors**                                     | [View Folder](./Power_Electronics/H_Bridge)            |
+
 
 ---
 
