@@ -18,8 +18,8 @@ Each folder contains:
 | ⚙️ Circuit                      | 📜 Description                                                                     | 🔗 Link                                              |
 |----------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------|
 | **🔲 Adder/Substractor**                | Adds two binary numbers and a carry input to produce a sum and carry output        | [View Folder](./+_-/)                        |
-| **🔲 Multiplexer (MUX)**         | Selects one of many inputs and routes it to a single output                        | [View Folder](./Multiplexer/)                       |
-| **🔲 Demultiplexer (DEMUX)**     | Routes a single input to one of many outputs based on a selector                   | [View Folder](./Demultiplexer/)                     |
+| **🔲 Multiplexer (MUX)**         | Selects one of many inputs and routes it to a single output                        | [View Folder](./MUX/)                       |
+| **🔲 Demultiplexer (DEMUX)**     | Routes a single input to one of many outputs based on a selector                   | [View Folder](./DEMUX/)                     |
 | **🔲 Decoder**                   | Converts binary input into a one-hot output for address decoding                   | [View Folder](./Decoder/)                           |
 | **🔲 Encoder**                   | Converts multiple inputs into a binary code that represents the active input       | [View Folder](./Encoder/)                           |
 | **🔲 Comparator**                | Compares two binary numbers and outputs the result of the comparison (equal, greater, or less) | [View Folder](./Comparator/)                        |
