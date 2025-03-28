@@ -28,7 +28,22 @@ Each folder contains:
 
 
 ---
+### 🔹 **Power Electronics**  
+| ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
+|---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
+| **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./DCDC_Converter/)     |
+| **⚡ AC_AC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./ACAC_Converter/)     |
+| **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./Rectifier/)          |
+| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./H_Bridge) |
 
 
 
-  
+---
+### 🔹 **Current & Voltage Regulation/Protection**  
+
+| ⚙️ Circuit                     | 📜 Description                                                                  | 🔗 Link                                              |
+|-------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
+| **🔄 Current Mirror**        | The current in one half of the circuit controls the current flow in the other half | [View Folder](./Current_mirror/)      |
+| **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./Overvoltage) |
+| **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./Overcurrent) |
+| **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./Current_Sensing)             |
