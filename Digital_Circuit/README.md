@@ -17,13 +17,11 @@ Each folder contains:
 
 | ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
 |-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
-| **💡 Logic Gate**              | Performs logical operations on binary inputs. Includes AND, OR, NOT, and XOR gates. | [View Folder](./Logic_Gates)                           |
-| **🔄 Flip-Flop**                | Stores one bit of data and is the basic unit for memory.                        | [View Folder](./Flip_Flop)                           |
-| **📊 Binary Counter**           | Counts in binary using flip-flops.                                             | [View Folder](./Binary_Counter)                      |
-| **🔢 Multiplexer (MUX)**        | Selects one of several input signals based on control signals.                  | [View Folder](./Multiplexer)                         |
-| **💻 Decoder**                  | Converts binary data into specific output, such as driving a display.           | [View Folder](./Decoder)                             |
-| **🔍 Encoder**                  | Converts multiple inputs into a binary code.                                    | [View Folder](./Encoder)                             |
-| **📈 Adder Circuit**            | Adds two binary numbers, can be half or full adder.                             | [View Folder](./Adder_Circuit)                       |
-| **🔄 Shift Register**           | Shifts binary data left or right, used for serial data transfer.                | [View Folder](./Shift_Register)                      |
-| **📊 Comparator**               | Compares two binary numbers and outputs the result of the comparison.           | [View Folder](./Comparator)                          |
-| **📶 Digital Filter**           | Passes or blocks specific digital frequencies.                                  | [View Folder](./Digital_Filter)                      |
+### 🔗 4️⃣ Digital Circuits  
+| ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
+|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
+| **💡 Logic Gate**              | Performs logical operations on binary inputs | [View Folder](./Logic_Gates) |
+| **🔲 Combinational Circuit**   | Circuit whose output depends only on the present input | [View Folder](./Combinational_Circuits) |
+| **🔁 Sequential Circuit**      | Circuit whose output depends on both present inputs and past states | [View Folder](./Sequential_Circuits) |
+| **🧠 Memory Circuit**          | Circuit that stores data, typically using flip-flops or registers | [View Folder](./Memory_Circuits) |
+| **🔄 Finite State Machine (FSM)** | A sequential circuit that has a finite number of states and transitions between them based on inputs | [View Folder](.FSM_Circuits) |
