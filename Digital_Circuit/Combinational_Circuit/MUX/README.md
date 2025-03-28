@@ -30,7 +30,6 @@ Multiplexers are categorized based on the number of input lines:
 
 📷 **Schematic Diagram:**
 
-![2:1 MUX](https://github.com/user-attachments/assets/mux_2to1.png)
 
 ---
 
@@ -50,7 +49,6 @@ Multiplexers are categorized based on the number of input lines:
 
 📷 **Schematic Diagram:**
 
-![4:1 MUX](https://github.com/user-attachments/assets/mux_4to1.png)
 
 ---
 
@@ -71,7 +69,6 @@ Multiplexers are categorized based on the number of input lines:
 
 📷 **Schematic Diagram:**
 
-![8:1 MUX](https://github.com/user-attachments/assets/mux_8to1.png)
 
 ---
 
@@ -92,7 +89,6 @@ Multiplexers are categorized based on the number of input lines:
 
 📷 **Schematic Diagram:**
 
-![16:1 MUX](https://github.com/user-attachments/assets/mux_16to1.png)
 
 ---
 
@@ -117,9 +113,7 @@ Multiplexers are categorized based on the number of input lines:
 ## 💡 Conclusion
 Multiplexers play a crucial role in **digital circuits** by efficiently managing data selection and transmission. Their ability to control multiple inputs with minimal wiring makes them essential in **computers, communication systems, and embedded applications**.
 
-**👉[More About Multiplexers](https://www.electronics-tutorials.ws/combination/multiplexers.html)**
-
 ---
 
-## 🔹 NEXT  
+
 
