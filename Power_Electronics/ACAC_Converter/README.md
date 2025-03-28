@@ -1,4 +1,4 @@
-# AC-AC Converters and Transformers ⚡🔌
+# AC-AC Converters⚡🔌
 
 This repository explores various **AC-AC voltage conversion techniques** used in electrical engineering, focusing on the different types of **AC Choppers**, **Cycloconverters**, **Matrix Converters**, and their usage in power electronics. Each section includes explanations and examples of how these converters work and how they compare with one another, as well as the role of transformers in AC power systems.
 
@@ -17,7 +17,7 @@ Each section is complemented by **schematic diagrams** to visualize the operatio
 - **Phase-controlled** to allow for smooth adjustment of the output voltage.
 
 ### Schematic:
-📊 (Placeholder for AC Chopper schematic)
+
 
 ### Applications:
 - **Fan speed controllers** 🌬️
@@ -35,7 +35,7 @@ An **AC Cycloconverter** directly converts an input AC voltage of one frequency 
 - They provide direct frequency conversion, often used for **high-power applications**.
 
 ### Schematic:
-📊 (Placeholder for AC Cycloconverter schematic)
+
 
 ### Applications:
 - **AC motor drives** for low-speed applications (e.g., pumps, mills) ⚙️
@@ -58,7 +58,7 @@ A **Matrix Converter** is a type of power converter that directly converts AC to
 - **More complex control**: It requires precise control algorithms to manage the switches and perform the conversion.
 
 ### Schematic:
-📊 (Placeholder for Matrix Converter schematic)
+
 
 ### Applications:
 - **Motor control applications** 🏭
@@ -86,7 +86,7 @@ An **Indirect Matrix Converter** uses a rectification stage to first convert AC 
 - **Intermediate DC link**: The DC link stores energy, allowing for smoother control of output.
 
 ### Schematic:
-📊 (Placeholder for Indirect Matrix Converter schematic)
+
 
 ### Applications:
 - **Variable-speed drives** for motors ⚙️
@@ -105,7 +105,7 @@ A **Direct Matrix Converter** is a converter that uses a matrix of controlled sw
 - **Complex switching**: The direct conversion requires precise control of the switches to ensure proper operation.
 
 ### Schematic:
-📊 (Placeholder for Direct Matrix Converter schematic)
+
 
 ### Applications:
 - **Motors**: Used in high-efficiency motor drives ⚙️.
@@ -113,24 +113,6 @@ A **Direct Matrix Converter** is a converter that uses a matrix of controlled sw
 
 ---
 
-## Role of Transformers in AC Converters ⚡🛠️
-
-Transformers are essential components in many AC power systems, including AC-AC converters. They are used to **step up or step down voltage levels** before or after conversion, ensuring that the voltage levels are compatible with the load or the grid.
-
-### Key Functions:
-- **Voltage conversion**: Transformers are often used in conjunction with AC converters to modify the voltage levels before or after the conversion process.
-- **Isolation**: Transformers provide **galvanic isolation** between the input and output, ensuring safety and preventing electrical faults from propagating.
-- **Power distribution**: Transformers help distribute power efficiently by ensuring the correct voltage levels at various stages of conversion.
-
-### Schematic:
-📊 (Placeholder for Transformer schematic)
-
-### Applications:
-- **Power systems**: Transformers are widely used in power grids to adjust voltage levels for long-distance transmission 🌍.
-- **Motor drives**: In motor drives, transformers adjust the voltage before or after it passes through the converter 🔌.
-- **Inverters and converters**: Transformers are used in combination with AC-DC or AC-AC converters for voltage regulation ⚡.
-
----
 
 ## Conclusion 🚀
 
