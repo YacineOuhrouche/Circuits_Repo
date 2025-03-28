@@ -1,97 +1,125 @@
-# 📘 Clamper Circuits – A Comprehensive Guide
+# 📘 Multiplexer – A Comprehensive Guide
 
 ## ✨ Introduction
-Clamper circuits, also known as **DC level shifters**, are electronic circuits that **add** or **subtract** a DC voltage to an AC signal without changing its shape. They are commonly used in TV receivers, oscilloscopes, and signal processing applications.
+A **Multiplexer (MUX)** is a combinational circuit that selects one of many input signals and forwards it to a single output line. It is widely used in **data routing, communication systems, and signal processing**.
 
-## 🔹 Types of Clamper Circuits
-Clamper circuits can be categorized into different types based on the polarity of the clamping voltage:
+Multiplexers reduce the number of data paths required and enable efficient resource utilization in digital circuits.
 
-1. **Positive Clamper**
-2. **Negative Clamper**
-3. **Biased Clamper** 
+## 🔹 Types of Multiplexer
+Multiplexers are categorized based on the number of input lines:
 
-
----
-
-## 📌 Positive Clamper Circuit
-
-🔹 **How It Works:**
-- The **diode** is placed in **parallel** with the output and conducts during the **negative half-cycle**.
-- During this time, the **capacitor** charges to the peak value of the AC signal.
-- During the **positive half-cycle**, the capacitor shifts the waveform **upward**, ensuring that the entire waveform moves **above** the zero reference level.
-
-  📷 **Schematic Diagram:**
-  
-![Screenshot 2025-03-14 141631](https://github.com/user-attachments/assets/3b721c84-44d9-4152-9890-c1f3b589f6c0)
-
-
-🛠 **Simulation:**
-
-![Screenshot 2025-03-15 150447](https://github.com/user-attachments/assets/382495b4-3b5f-41b3-83b0-90f307af8eac)
-
-
-
-## 📌 Negative Clamper Circuit
-
-🔹 **How It Works:**
-- The **diode is reversed**, so it **conducts during the positive half-cycle**.
-- The **capacitor charges** to the peak voltage and shifts the entire waveform **downward**, keeping the waveform below the zero reference.
-
-  📷 **Schematic Diagram:**
-  
-  ![Screenshot 2025-03-14 142140](https://github.com/user-attachments/assets/acf2074d-8f21-4526-95bc-49c29893e707)
-
-
-🛠 **Simulation:**
-
-
-![Screenshot 2025-03-15 150320](https://github.com/user-attachments/assets/0792bf75-b3fe-4183-8165-fca7ec2f297c)
+1. **2:1 Multiplexer** – Selects between 2 inputs using 1 select line.
+2. **4:1 Multiplexer** – Selects between 4 inputs using 2 select lines.
+3. **8:1 Multiplexer** – Selects between 8 inputs using 3 select lines.
+4. **16:1 Multiplexer** – Selects between 16 inputs using 4 select lines.
 
 ---
 
-## 📌 Biased Clamper Circuit
+## 📌 2:1 Multiplexer
 
 🔹 **How It Works:**
-- A **DC bias voltage** is added in series with the **diode**.
-- This allows us to shift the waveform to a **specific DC level**.
-- Used in **TV receivers** and **oscilloscopes** to adjust signal positioning.
+- Uses **one select line (S)** to choose between **two inputs (I0, I1)**.
+- The selected input appears at the output (Y).
 
-  📷 **Schematic Diagram:**
-  
-  ![Screenshot 2025-03-14 142952](https://github.com/user-attachments/assets/b895a0ef-279e-4b06-9b55-48c56a4dada7)
+📜 **Truth Table:**
 
+| S | Y  |
+|---|----|
+| 0 | I0 |
+| 1 | I1 |
 
-🛠 **Simulation:**
+📷 **Schematic Diagram:**
 
-![Screenshot 2025-03-15 145956](https://github.com/user-attachments/assets/03ea59ba-6cfb-4486-8059-5b8702c5532f)
+![2:1 MUX](https://github.com/user-attachments/assets/mux_2to1.png)
 
-**There is also the Positive clamper with Negative Bias, the Negative clamper with Positive and Negative bias.
 ---
 
+## 📌 4:1 Multiplexer
 
-## 📌 Applications of Clamper Circuits
-✅ **Waveform Shifting** – Moves signal up or down in voltage.
-✅ **DC Restoration** – Used in TV receivers to restore signal levels.
-✅ **Oscilloscope Positioning** – Adjusts the reference level of signals.
-✅ **Modulation Circuits** – Used in AM and FM communication systems.
+🔹 **How It Works:**
+- Uses **two select lines (S1, S0)** to choose between **four inputs (I0, I1, I2, I3)**.
+
+📜 **Truth Table:**
+
+| S1 | S0 | Y  |
+|----|----|----|
+|  0 |  0 | I0 |
+|  0 |  1 | I1 |
+|  1 |  0 | I2 |
+|  1 |  1 | I3 |
+
+📷 **Schematic Diagram:**
+
+![4:1 MUX](https://github.com/user-attachments/assets/mux_4to1.png)
+
+---
+
+## 📌 8:1 Multiplexer
+
+🔹 **How It Works:**
+- Uses **three select lines (S2, S1, S0)** to choose between **eight inputs (I0 to I7)**.
+
+📜 **Truth Table (Partial):**
+
+| S2 | S1 | S0 | Y  |
+|----|----|----|----|
+|  0 |  0 |  0 | I0 |
+|  0 |  0 |  1 | I1 |
+|  0 |  1 |  0 | I2 |
+| ...| ...| ...| ...|
+|  1 |  1 |  1 | I7 |
+
+📷 **Schematic Diagram:**
+
+![8:1 MUX](https://github.com/user-attachments/assets/mux_8to1.png)
+
+---
+
+## 📌 16:1 Multiplexer
+
+🔹 **How It Works:**
+- Uses **four select lines (S3, S2, S1, S0)** to choose between **sixteen inputs (I0 to I15)**.
+
+📜 **Truth Table (Partial):**
+
+| S3 | S2 | S1 | S0 | Y  |
+|----|----|----|----|----|
+|  0 |  0 |  0 |  0 | I0 |
+|  0 |  0 |  0 |  1 | I1 |
+|  0 |  0 |  1 |  0 | I2 |
+| ...| ...| ...| ...| ...|
+|  1 |  1 |  1 |  1 | I15 |
+
+📷 **Schematic Diagram:**
+
+![16:1 MUX](https://github.com/user-attachments/assets/mux_16to1.png)
+
+---
+
+## 📌 Applications of Multiplexers
+✅ **Data Selection** – Used in processors to select between different data sources.
+✅ **Signal Routing** – Common in communication systems and data transmission.
+✅ **Memory Addressing** – Used in RAMs and memory chips for efficient access.
+✅ **ALU Design** – Used in Arithmetic Logic Units (ALUs) to select specific operations.
 
 ---
 
 ## 📌 Summary Table
-| Type of Clamper | Function |
-|----------------|----------|
-| **Positive Clamper** | Moves waveform **upward** |
-| **Negative Clamper** | Moves waveform **downward** |
-| **Biased Clamper** | Moves waveform to a **specific DC level** |
+| Type of MUX | Select Lines | Inputs |
+|------------|-------------|--------|
+| **2:1** | 1 | 2 |
+| **4:1** | 2 | 4 |
+| **8:1** | 3 | 8 |
+| **16:1** | 4 | 16 |
 
 ---
 
 ## 💡 Conclusion
-Clamper circuits are essential in **signal processing** and **waveform adjustment** applications. They help shift signals to a desired **DC reference level** while **preserving the waveform's shape**.
+Multiplexers play a crucial role in **digital circuits** by efficiently managing data selection and transmission. Their ability to control multiple inputs with minimal wiring makes them essential in **computers, communication systems, and embedded applications**.
 
+**👉[More About Multiplexers](https://www.electronics-tutorials.ws/combination/multiplexers.html)**
 
-**👉[More About Clamping Circuit](https://www.physics-and-radio-electronics.com/electronic-devices-and-circuits/rectifier/clampercircuits.html)**
 ---
 
 ## 🔹 NEXT  
-**👉[Buck Converter](../../Power_Electronics/DCDC_Converter/Buck_Converter)**
+**👉[Demultiplexer](../../Digital_Circuits/Demultiplexer/)**
