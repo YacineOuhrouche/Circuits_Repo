@@ -65,7 +65,7 @@ Adder and Subtractor circuits can be categorized into different types based on t
 
   📷 **Schematic Diagram:**
   
-![Screenshot 2025-03-28 103226](https://github.com/user-attachments/assets/f3f1f10c-a818-4f49-8957-48a935ce4953)
+![Screenshot 2025-03-28 115736](https://github.com/user-attachments/assets/94557ffe-f503-40e6-9330-90f673f87c5d)
 
 ---
 
