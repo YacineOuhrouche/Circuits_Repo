@@ -34,8 +34,6 @@ This is the simplest form of a multiplexer and is used when only two data lines 
 
 📷 **Schematic Diagram:**
 
-![Screenshot 2025-03-28 144855](https://github.com/user-attachments/assets/d0808f25-1a57-4794-81c5-7fd98c4ed7f2)
-
 ---
 
 ## 📌 4:1 Multiplexer
