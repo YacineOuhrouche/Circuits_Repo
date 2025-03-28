@@ -17,24 +17,24 @@ Each folder contains:
 
 | ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
 |---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
-| **📢 Small Signal Amplifier** | Amplifies weak signals using **BJTs**                                      | [View Folder](./Small_Signal_Amplifier) |
-| **🔊 Power Amplifier**       | Used to drive speakers and other high-power loads                          | [View Folder](./Power_Amplifier)     |
-| **🌀 Oscillator Circuit**    | Generates a continuous periodic waveform                                   | [View Folder](.//Oscillator)         |
-| **🟢 Schmitt Trigger**       | Converts noisy or slowly changing input into a clean digital  | [View Folder](./Schmitt_trigger)     |
-| **📈 Peak Detector Circuit** | Captures and holds the peak voltage level of an input signal | [View Folder](./Peak_Detector)     |
-| **🔎 Filters**               |  Pass or block specific frequencies                     | [View Folder](./Filters/)            |
-| **✂️ Clipper Circuit**       | "Clips" portions of a signal without distorting the remaining waveform   | [View Folder](./Clipper_Circuit/)    |
-| **🔼 Clamper Circuit**       | Adds or subtracts a DC voltage to an AC signal                              | [View Folder](./Clamper_Circuits/)   |
+| **📢 Small Signal Amplifier** | Amplifies weak signals using **BJTs**                                      | [View Folder](./Analog_Basic/Small_Signal_Amplifier) |
+| **🔊 Power Amplifier**       | Used to drive speakers and other high-power loads                          | [View Folder](./Analog_Basic/Power_Amplifier)     |
+| **🌀 Oscillator Circuit**    | Generates a continuous periodic waveform                                   | [View Folder](./Analog_Basic/Oscillator)         |
+| **🟢 Schmitt Trigger**       | Converts noisy or slowly changing input into a clean digital  | [View Folder](./Analog_Basic/Schmitt_trigger)     |
+| **📈 Peak Detector Circuit** | Captures and holds the peak voltage level of an input signal | [View Folder](./Analog_Basic/Peak_Detector)     |
+| **🔎 Filters**               |  Pass or block specific frequencies                     | [View Folder](./Analog_Basic/Filters/)            |
+| **✂️ Clipper Circuit**       | "Clips" portions of a signal without distorting the remaining waveform   | [View Folder](./Analog_Basic/Clipper_Circuit/)    |
+| **🔼 Clamper Circuit**       | Adds or subtracts a DC voltage to an AC signal                              | [View Folder](./Analog_Basic/Clamper_Circuits/)   |
 
 
 ---
 ### 🔹 **Power Electronics**  
 | ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
 |---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
-| **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./DCDC_Converter/)     |
-| **⚡ AC_AC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./ACAC_Converter/)     |
-| **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./Rectifier/)          |
-| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./H_Bridge) |
+| **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./Power_Electronics/DCDC_Converter/)     |
+| **⚡ AC_AC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./Power_Electronics/ACAC_Converter/)     |
+| **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./Power_Electronics/Rectifier/)          |
+| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./Power_Electronics/H_Bridge) |
 
 
 
@@ -43,7 +43,7 @@ Each folder contains:
 
 | ⚙️ Circuit                     | 📜 Description                                                                  | 🔗 Link                                              |
 |-------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🔄 Current Mirror**        | The current in one half of the circuit controls the current flow in the other half | [View Folder](./Current_mirror/)      |
-| **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./Overvoltage) |
-| **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./Overcurrent) |
-| **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./Current_Sensing)             |
+| **🔄 Current Mirror**        | The current in one half of the circuit controls the current flow in the other half | [View Folder](./Circuit_Protection/Current_mirror/)      |
+| **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./Circuit_Protection/Overvoltage) |
+| **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./Circuit_Protection/Overcurrent) |
+| **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./Circuit_Protection/Current_Sensing)             |
