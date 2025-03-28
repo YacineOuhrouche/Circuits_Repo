@@ -3,6 +3,8 @@
 ## ✨ Introduction
 Adder and Subtractor circuits are fundamental combinational logic circuits used in digital electronics. They perform **binary addition and subtraction**, which are essential operations in **ALUs (Arithmetic Logic Units)**, **microprocessors**, and **digital computing**.
 
+However, **adders/substractor can be slow**, especially when dealing with large bit-width operations due to **carry propagation delay**. A solution to improve speed is the use of **carry-lookahead adders (CLA)** or **parallel prefix adders**, which significantly reduce the delay by computing carry signals in advance.
+
 ## 🔹 Types of Adder & Subtractor Circuits
 Adder and Subtractor circuits can be categorized into different types based on their functionality and design:
 
