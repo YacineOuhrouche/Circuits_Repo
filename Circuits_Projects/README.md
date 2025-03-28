@@ -21,3 +21,6 @@ The repository includes:
 ---
 
 
+## 🔹 NEXT  
+**👉[Analog Circuit](../Analog_Circuits)**
+---
