@@ -46,4 +46,7 @@ The latch is built using **CMOS inverters** (constructed with **PMOS** and **NMO
 **CMOS** technology is the backbone of modern electronics due to its low power consumption and high efficiency. By using both **PMOS** and **NMOS** transistors, CMOS circuits can perform logic operations with minimal power loss, which is crucial for modern computing and digital systems. The **CMOS SR Latch** is a key example of memory storage in digital systems and forms the foundation for more complex sequential logic circuits.
 
 ---
+## 🔹 NEXT  
+**👉[Analog Circuit Projects](../Circuits_Projects)**
+
 
