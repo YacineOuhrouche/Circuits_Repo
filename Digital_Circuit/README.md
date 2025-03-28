@@ -17,9 +17,6 @@ Each folder contains:
 
 | ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
 |-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
-### 🔗 4️⃣ Digital Circuits  
-| ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
-|-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
 | **💡 Logic Gate**              | Performs logical operations on binary inputs | [View Folder](./Logic_Gates) |
 | **🔲 Combinational Circuit**   | Circuit whose output depends only on the present input | [View Folder](./Combinational_Circuits) |
 | **🔁 Sequential Circuit**      | Circuit whose output depends on both present inputs and past states | [View Folder](./Sequential_Circuits) |
