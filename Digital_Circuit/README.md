@@ -22,3 +22,6 @@ Each folder contains:
 | **🔁 Sequential Circuit**      | Circuit whose output depends on both present inputs and past states | [View Folder](./Sequential_Circuits) |
 | **🧠 Memory Circuit**          | Circuit that stores data, typically using flip-flops or registers | [View Folder](./Memory_Circuits) |
 | **🔄 Finite State Machine (FSM)** | A sequential circuit that has a finite number of states and transitions between them based on inputs | [View Folder](.FSM_Circuits) |
+
+## 🔹 NEXT  
+**👉[HDL Section](../HDL)**
