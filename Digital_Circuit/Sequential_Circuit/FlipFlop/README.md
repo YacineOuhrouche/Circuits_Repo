@@ -127,3 +127,6 @@ Each has its unique behavior and role in digital electronics, as explained below
 ## 💡 Conclusion
 
 Flip-flops are key elements in **sequential circuits**, enabling functions such as **data storage**, **state control**, and **timing applications**. They play a crucial role in devices like memory elements, counters, registers, and control logic circuits.
+
+## 🔹 NEXT  
+**👉[Registers](../Register)**
