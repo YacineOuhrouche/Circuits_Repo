@@ -33,5 +33,5 @@ Each folder contains:
 | **🔴 CMOS OR Gate** | [View Circuit](./CMOS_Logic_Gates/CMOS_OR_Gate/) |
 
 ## 🔹 NEXT  
-**👉[Combinational Circuit](../Combinational_Circuits)**
+**👉[Combinational Circuit](../Combinational_Circuit)**
 
