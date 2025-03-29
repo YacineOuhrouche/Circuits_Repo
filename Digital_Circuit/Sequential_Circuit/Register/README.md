@@ -103,6 +103,8 @@ A **PIPO (Parallel-In Parallel-Out)** shift register is the fastest type because
 
 📷 **Diagram**:
 
+![Screenshot 2025-03-29 151431](https://github.com/user-attachments/assets/951db103-e48e-4145-aeff-99257fc81096)
+
 
 ---
 
