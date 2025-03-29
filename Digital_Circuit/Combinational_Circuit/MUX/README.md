@@ -58,6 +58,9 @@ This MUX is useful for switching between four data sources.
 | 0  | 1  | I₁         |
 | 1  | 0  | I₂         |
 | 1  | 1  | I₃         |
+### 📷 :
+
+![Screenshot 2025-03-28 201839](https://github.com/user-attachments/assets/980adefd-7804-400e-bee2-a0f6ecb27908)
 
 ---
 
