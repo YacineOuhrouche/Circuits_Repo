@@ -78,6 +78,10 @@ Each type of flip-flop has its unique behavior and design, which we will explain
 | 1  | 0  | ↑     | 1  |
 | 1  | 1  | ↑     | !Q |
 
+ 📷 **Diagram**
+ 
+![Screenshot 2025-03-29 133241](https://github.com/user-attachments/assets/b9849375-e07c-4b27-85f3-4d89600b2bdd)
+
 ---
 
 ## 📌 T Flip-Flop (Toggle Flip-Flop)
@@ -93,6 +97,11 @@ Each type of flip-flop has its unique behavior and design, which we will explain
 |----|-------|----|
 | 0  | ↑     | Q  |
 | 1  | ↑     | !Q |
+
+ 📷 **Diagram**
+ 
+ ![Screenshot 2025-03-29 125440](https://github.com/user-attachments/assets/9f47face-371b-4d21-a9fb-5382488f2ebb)
+
 
 ---
 
