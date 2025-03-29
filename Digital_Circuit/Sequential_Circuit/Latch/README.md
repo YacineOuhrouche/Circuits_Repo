@@ -126,7 +126,12 @@ Each of these latches has unique properties and uses, which we will explain in d
 | **T**      | T, Clock    | Toggles output when T=1            |
 
 ---
+**👉[More About Latches](https://www.geeksforgeeks.org/latches-in-digital-logic/)**
+---
 
 ## 💡 Conclusion
 
 Latches are vital components in **sequential circuits**, used for **state control** and **data storage** in digital electronics. Understanding the differences between the various types of latches allows for better design and implementation in a range of applications, from basic memory cells to advanced control systems.
+
+## 🔹 NEXT  
+**👉[Flip-Flops](../FlipFlop)**
