@@ -19,7 +19,7 @@ Each folder contains:
 |-----------------------------|---------------------------------------------------------------------------|---------------------------------|
 | **🔲 Latch**             | A  latch  stores a single bit | [View Folder](./Latch/) |
 | **🔲 Flip-Flop**         | A  flip-flop with Set, Reset, Toggle, and Hold functions | [View Folder](./FlipFlop/) |
-| **🔲 Shift Register**       | A circuit that shifts its stored data left or right | [View Folder](./Register/) |
+| **🔲 Register**       | A circuit that shifts its stored data left or right | [View Folder](./Register/) |
 | **🔲 Counter**              | A sequential circuit that increments or decrements binary numbers | [View Folder](./Counter/) |
 | **🔲 Finite State Machine (FSM)** | A logic system that transitions between defined states | [View Folder](./FSM/) |
 
