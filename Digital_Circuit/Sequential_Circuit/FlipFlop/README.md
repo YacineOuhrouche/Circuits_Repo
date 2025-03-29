@@ -2,33 +2,33 @@
 
 ## ✨ Introduction
 
-Flip-flops are fundamental **sequential logic circuits** used to store a single bit of data. Unlike combinational circuits, their outputs depend not only on the current input but also on the previous state, making them essential components in memory devices, registers, and control circuits.
+Flip-flops are crucial **sequential logic circuits** that store a single bit of data. Unlike combinational circuits, flip-flops’ outputs are influenced by both the current input and the previous state. This characteristic makes them invaluable in devices like memory, registers, and control systems.
 
-In this guide, we'll explore the **different types of flip-flops**, their working principles, and applications.
+In this guide, we'll explore the **different types of flip-flops**, how they function, and their uses.
 
 ---
 
 ## 🔹 Types of Flip-Flops
 
-Flip-flops can be categorized into:
+There are four main types of flip-flops:
 1. **SR Flip-Flop** (Set-Reset Flip-Flop)
 2. **D Flip-Flop** (Data Flip-Flop)
 3. **JK Flip-Flop**
 4. **T Flip-Flop** (Toggle Flip-Flop)
 
-Each type of flip-flop has its unique behavior and design, which we will explain in detail below.
+Each has its unique behavior and role in digital electronics, as explained below.
 
 ---
 
 ## 📌 SR Flip-Flop (Set-Reset Flip-Flop)
 
-🔹 **How It Works:**
-- The **SR flip-flop** consists of two inputs: **Set (S)** and **Reset (R)** along with a **Clock** signal.
-- When **S = 1** and **R = 0**, the flip-flop is **set** (Q = 1).
-- When **S = 0** and **R = 1**, the flip-flop is **reset** (Q = 0).
-- **Invalid state**: If both S and R are 1 at the same time, the output is undefined.
+🔹 **How It Works**:
+- The **SR flip-flop** uses two inputs: **Set (S)** and **Reset (R)**, along with a **Clock** signal.
+- When **S = 1** and **R = 0**, the output **Q** is set to 1.
+- When **S = 0** and **R = 1**, the output **Q** is reset to 0.
+- An invalid state occurs if both **S** and **R** are 1 at the same time, causing an undefined output.
 
-  📷 **Truth Table:**
+  📷 **Truth Table**:
 
 | S  | R  | Clock | Q  | !Q |
 |----|----|-------|----|----|
@@ -37,19 +37,19 @@ Each type of flip-flop has its unique behavior and design, which we will explain
 | 1  | 0  | 1     | 1  | 0  |
 | 1  | 1  | 1     | X  | X  |
 
- 📷 **Diagram**
- 
-![Screenshot 2025-03-29 130349](https://github.com/user-attachments/assets/2e1d726b-cdd2-465c-a594-fd6619d44b78)
+  📷 **Diagram**:
+
+  ![SR Flip-Flop](https://github.com/user-attachments/assets/2e1d726b-cdd2-465c-a594-fd6619d44b78)
 
 ---
 
 ## 📌 D Flip-Flop (Data Flip-Flop)
 
-🔹 **How It Works:**
-- The **D flip-flop** simplifies the SR flip-flop by ensuring that **S and R are never 1 simultaneously**.
-- It has a single input **D** (Data) and a **Clock** signal. On the rising edge of the clock, the flip-flop captures the value of D.
+🔹 **How It Works**:
+- The **D flip-flop** simplifies the SR flip-flop by ensuring **S** and **R** are never 1 simultaneously.
+- It has one input, **D** (Data), and a **Clock** signal. On the clock’s rising edge, the flip-flop stores the value of **D**.
 
-  📷 **Truth Table:**
+  📷 **Truth Table**:
 
 | D  | Clock | Q  |
 |----|-------|----|
@@ -57,19 +57,19 @@ Each type of flip-flop has its unique behavior and design, which we will explain
 | 1  | ↑     | 1  |
 | X  | 0     | Q  |
 
- 📷 **Diagram**
- 
+  📷 **Diagram**:
 
-![Screenshot 2025-03-29 131744](https://github.com/user-attachments/assets/3317b337-fd32-4077-8318-faa34f836a72)
+  ![D Flip-Flop](https://github.com/user-attachments/assets/3317b337-fd32-4077-8318-faa34f836a72)
+
 ---
 
 ## 📌 JK Flip-Flop
 
-🔹 **How It Works:**
-- The **JK flip-flop** resolves the ambiguity of the SR flip-flop by introducing two inputs: **J** and **K**.
+🔹 **How It Works**:
+- The **JK flip-flop** resolves the undefined state problem of the SR flip-flop by adding two inputs, **J** and **K**.
 - It behaves like an SR flip-flop except when **J = 1** and **K = 1**, in which case the output toggles (flips state).
 
-  📷 **Truth Table:**
+  📷 **Truth Table**:
 
 | J  | K  | Clock | Q  |
 |----|----|-------|----|
@@ -78,38 +78,37 @@ Each type of flip-flop has its unique behavior and design, which we will explain
 | 1  | 0  | ↑     | 1  |
 | 1  | 1  | ↑     | !Q |
 
- 📷 **Diagram**
- 
-![Screenshot 2025-03-29 133241](https://github.com/user-attachments/assets/b9849375-e07c-4b27-85f3-4d89600b2bdd)
+  📷 **Diagram**:
+
+  ![JK Flip-Flop](https://github.com/user-attachments/assets/b9849375-e07c-4b27-85f3-4d89600b2bdd)
 
 ---
 
 ## 📌 T Flip-Flop (Toggle Flip-Flop)
 
-🔹 **How It Works:**
-- The **T flip-flop** (Toggle flip-flop) is a simple flip-flop with a single input **T**.
-- When **T = 1**, the output toggles (flips state) on each clock pulse.
+🔹 **How It Works**:
+- The **T flip-flop** has a single input, **T**. When **T = 1**, the output toggles (flips) with every clock pulse.
 - When **T = 0**, the output remains unchanged.
 
-  📷 **Truth Table:**
+  📷 **Truth Table**:
 
 | T  | Clock | Q  |
 |----|-------|----|
 | 0  | ↑     | Q  |
 | 1  | ↑     | !Q |
 
- 📷 **Diagram**
- 
- ![Screenshot 2025-03-29 125440](https://github.com/user-attachments/assets/9f47face-371b-4d21-a9fb-5382488f2ebb)
+  📷 **Diagram**:
 
+  ![T Flip-Flop](https://github.com/user-attachments/assets/9f47face-371b-4d21-a9fb-5382488f2ebb)
 
 ---
 
 ## 📌 Applications of Flip-Flops
-✅ **Data Storage** – Flip-flops store single bits of data in memory elements.  
+
+✅ **Data Storage** – Flip-flops store single bits in memory elements.  
 ✅ **Counters & Registers** – Used in digital counters, shift registers, and memory circuits.  
 ✅ **State Machines** – Flip-flops form the core of finite state machines in digital logic.  
-✅ **Edge Detection** – Used to detect rising and falling edges of signals.  
+✅ **Edge Detection** – Detects rising and falling edges of signals.
 
 ---
 
@@ -118,12 +117,13 @@ Each type of flip-flop has its unique behavior and design, which we will explain
 | Flip-Flop Type | Inputs      | Behavior                           |
 |---------------|------------|------------------------------------|
 | **SR**        | S, R, Clock | Set or Reset based on inputs       |
-| **D**         | D, Clock    | Stores data on clock edge         |
-| **JK**        | J, K, Clock | Toggles output when both J and K=1 |
-| **T**         | T, Clock    | Toggles output when T=1            |
+| **D**         | D, Clock    | Stores data on clock edge          |
+| **JK**        | J, K, Clock | Toggles output when J = 1 & K = 1  |
+| **T**         | T, Clock    | Toggles output when T = 1          |
 
 ---
 **👉[More About Flip-Flops](https://www.electronicsforu.com/technology-trends/learn-electronics/flip-flop-rs-jk-t-d)**
 ---
 ## 💡 Conclusion
-Flip-flops are essential building blocks in **sequential circuits** and digital electronics, enabling **data storage**, **state control**, and **timing applications**. They are widely used in memory devices, registers, counters, and control logic circuits.
+
+Flip-flops are key elements in **sequential circuits**, enabling functions such as **data storage**, **state control**, and **timing applications**. They play a crucial role in devices like memory elements, counters, registers, and control logic circuits.
