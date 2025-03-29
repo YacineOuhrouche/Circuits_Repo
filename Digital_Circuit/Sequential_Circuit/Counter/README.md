@@ -36,7 +36,6 @@ An **asynchronous counter** is the simplest form of a counter. In these counters
 
 📷 **Diagram**:
 
-![Asynchronous Counter](https://github.com/user-attachments/assets/asynchronous_counter.jpg)
 
 ---
 
@@ -55,7 +54,6 @@ A **synchronous counter** is more efficient than an asynchronous counter. In thi
 
 📷 **Diagram**:
 
-![Synchronous Counter](https://github.com/user-attachments/assets/synchronous_counter.jpg)
 
 ---
 
@@ -73,7 +71,6 @@ An **up/down counter** can count in either an increasing or decreasing direction
 
 📷 **Diagram**:
 
-![Up/Down Counter](https://github.com/user-attachments/assets/up_down_counter.jpg)
 
 ---
 
@@ -91,7 +88,6 @@ A **decade counter** (or BCD counter) counts from 0 to 9 and then resets back to
 
 📷 **Diagram**:
 
-![Decade Counter](https://github.com/user-attachments/assets/decade_counter.jpg)
 
 ---
 
@@ -109,7 +105,6 @@ A **ring counter** is a type of counter where only one flip-flop is set at any t
 
 📷 **Diagram**:
 
-![Ring Counter](https://github.com/user-attachments/assets/ring_counter.jpg)
 
 ---
 
@@ -127,7 +122,6 @@ A **Johnson counter** is a type of shift register counter where the inverted out
 
 📷 **Diagram**:
 
-![Johnson Counter](https://github.com/user-attachments/assets/johnson_counter.jpg)
 
 ---
 
