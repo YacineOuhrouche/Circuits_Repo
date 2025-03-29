@@ -30,4 +30,6 @@ Each folder contains:
 
 Transistors are the core building blocks of logic gates in hardware. Understanding these basic gates is essential for anyone working with electronics, embedded systems, or digital design.
 
+## 🔹 NEXT  
+**👉[CMOS Logic Gates](../CMOS_Logic_Gates)**
 
