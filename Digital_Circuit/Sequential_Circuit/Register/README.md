@@ -66,6 +66,8 @@ A **SIPO (Serial-In Parallel-Out)** shift register allows data to enter serially
 📷 **Diagram**:
 
 
+![Screenshot 2025-03-29 144437](https://github.com/user-attachments/assets/2faf8ab7-4e7e-499a-86fd-a1f3e5a7b9ee)
+
 ---
 
 ## 📌 PISO (Parallel-In Serial-Out)
@@ -81,6 +83,8 @@ A **PISO (Parallel-In Serial-Out)** shift register allows multiple bits to be in
 - **Data Handling**: Useful for systems that need to send parallel data one bit at a time over a serial communication line.
 
 📷 **Diagram**:
+
+![Screenshot 2025-03-29 150320](https://github.com/user-attachments/assets/eef36dbc-6b7c-499f-be04-460ecdeae93c)
 
 
 ---
