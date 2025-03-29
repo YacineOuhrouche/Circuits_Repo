@@ -163,5 +163,7 @@ Registers are essential components in digital electronics and are used in variou
 ## 📌 Conclusion
 Digital registers play a critical role in **data storage**, **data transfer**, and **data manipulation** in digital systems. Understanding the various types of registers and their applications is essential for designing efficient circuits that handle data in a controlled and predictable manner.
 
+## 🔹 NEXT  
+**👉[Counters](../Counter)**
 ---
 
