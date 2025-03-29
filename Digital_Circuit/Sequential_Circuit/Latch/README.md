@@ -36,6 +36,10 @@ Each type of latch has its unique behavior and design, which we will explain in 
 | 1  | 0  | 1  | 0  |
 | 1  | 1  | X  | X  |
 
+  📷 **Diagram**
+  
+  ![Screenshot 2025-03-29 120639](https://github.com/user-attachments/assets/ce898ae0-b198-4ecc-9002-9231446cc385)
+
 ---
 
 ## 📌 D Latch (Data Latch)
