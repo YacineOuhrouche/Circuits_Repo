@@ -37,10 +37,10 @@ These circuits focus on various applications in electronics, including signal pr
 
 | ⚙️ Circuit                  | 📜 Description                                                                         | 🔗 Link                                              |
 |----------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🔌 Analog Basic Circuits** | Circuits that deal with continuous signals and basic signal processing techniques    | [View Folder](./Analog_Circuits)               |
-| **⚡ Power Electronics**     | Circuits that handle power conversion, including rectifiers, inverters, and converters | [View Folder](./Power_Electronics)                  |
-| **📡 RF & Communication**   | Circuits for signal modulation, transmission, and reception in communication systems   | [View Folder](./RF_Circuits)               |
-| **🔒 Circuit Protection**    | Circuits designed to protect against overloads, surges, and faults                   | [View Folder](./Circuit_Protection)                 |
+| **🔌 Analog Basic Circuits** | Circuits that deal with continuous signals and basic signal processing techniques    | [View Folder](./Analog_Circuits/Analog_Basic)               |
+| **⚡ Power Electronics**     | Circuits that handle power conversion, including rectifiers, inverters, and converters | [View Folder](./Analog_Circuits/Power_Electronics)                  |
+| **📡 RF & Communication**   | Circuits for signal modulation, transmission, and reception in communication systems   | [View Folder](./Analog_Circuits/RF_Circuits)               |
+| **🔒 Circuit Protection**    | Circuits designed to protect against overloads, surges, and faults                   | [View Folder](./Analog_Circuits/Circuit_Protection)                 |
 
 ---
 ### 🔗 4️⃣ Digital Circuits  
