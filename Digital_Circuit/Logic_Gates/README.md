@@ -31,3 +31,7 @@ Each folder contains:
 | **🟢 CMOS NAND** | [View Circuit](./CMOS_Logic_Gates/CMOS_NAND_Gate/) |
 | **🔵 CMOS AND Gate** | [View Circuit](./CMOS_Logic_Gates/CMOS_AND_Gate/) |
 | **🔴 CMOS OR Gate** | [View Circuit](./CMOS_Logic_Gates/CMOS_OR_Gate/) |
+
+## 🔹 NEXT  
+**👉[Combinational Circuit](../Combinational_Circuits)**
+
