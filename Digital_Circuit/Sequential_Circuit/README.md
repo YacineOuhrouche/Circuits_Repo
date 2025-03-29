@@ -15,13 +15,13 @@ Each folder contains:
 
 ## 📌 Types of Sequential Logic Circuits
 
-| ⚙️ Circuit                 | 📜 Description                                                           | 🔗 Link                         |
-|-----------------------------|---------------------------------------------------------------------------|---------------------------------|
-| **🔲 Latch**             | A  latch  stores a single bit | [View Folder](./Latch/) |
-| **🔲 Flip-Flop**         | A  flip-flop with Set, Reset, Toggle, and Hold functions | [View Folder](./FlipFlop/) |
-| **🔲 Register**       | A circuit that shifts its stored data left or right | [View Folder](./Register/) |
-| **🔲 Counter**              | A sequential circuit that increments or decrements binary numbers | [View Folder](./Counter/) |
-| **🔲 Finite State Machine (FSM)** | A logic system that transitions between defined states | [View Folder](./FSM/) |
+| ⚙️ Circuit                         | 📜 Description                                                                     | 🔗 Link                                |
+|------------------------------------|-----------------------------------------------------------------------------------|----------------------------------------|
+| **🔲 Latch**                       | A basic storage element that holds a single bit based on the input                | [View Folder](./Latch/)               |
+| **🔲 Flip-Flop**                   | A clock-driven storage element with Set, Reset, Toggle, and Hold functions        | [View Folder](./FlipFlop/)            |
+| **🔲 Register**                    | A circuit that stores multiple bits and shifts its stored data left or right      | [View Folder](./Register/)            |
+| **🔲 Counter**                     | A sequential circuit that increments or decrements binary numbers                 | [View Folder](./Counter/)             |
+| **🔲 Finite State Machine (FSM)**  | A logic system that transitions between defined states based on inputs            | [View Folder](./FSM/)                 |
 
 ---
 
