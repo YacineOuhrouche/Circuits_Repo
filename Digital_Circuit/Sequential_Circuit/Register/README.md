@@ -3,21 +3,21 @@
 ## ✨ Introduction
 Registers are fundamental components in digital electronics, used for **storing multiple bits of data**. They are composed of flip-flops and serve critical roles in memory units, processors, data transfer systems, and control circuits.
 
-In this guide, we will explore the different types of registers, how they work, and their applications in digital systems.
+In this guide, we will focus on **shift registers**, the most commonly used type of register, and explore their various types, how they work, and their applications.
 
 ---
 
 ## 🔹 Types of Registers
 
-Registers are classified based on how they handle data:
-1. **Shift Registers**
-2. **Parallel Registers**
-3. **Universal Shift Registers**
+Registers are classified into different types based on how they handle data. While there are several types, we will primarily focus on **shift registers**, as they are the most commonly used.
 
-Each of these registers performs a specific function in data storage, processing, and transfer. Let’s dive into each one.
+1. **Shift Registers**
+2. **Parallel Registers** (briefly mentioned)
+3. **Universal Shift Registers** (briefly mentioned)
+
+Each of these registers performs specific functions in data storage, processing, and transfer. Let’s dive deeper into the **Shift Registers** first.
 
 ---
-
 
 ## 🔹 Types of Shift Registers
 
@@ -104,10 +104,11 @@ A **PIPO (Parallel-In Parallel-Out)** shift register is the fastest type because
 
 ![Screenshot 2025-03-29 151431](https://github.com/user-attachments/assets/951db103-e48e-4145-aeff-99257fc81096)
 
-
 ---
 
-## 📌 Parallel Register
+## 📌 Other Types of Registers
+
+### Parallel Register
 
 🔹 **Overview**:  
 A **parallel register** allows data to be input and output simultaneously through multiple data lines. It stores and outputs all the bits at once, providing fast data storage and access.
@@ -122,8 +123,7 @@ A **parallel register** allows data to be input and output simultaneously throug
 
 ---
 
-
-## 📌 Universal Shift Register
+### Universal Shift Register
 
 🔹 **Overview**:  
 A **universal shift register** combines the features of both **shift registers** and **parallel registers**. It can shift data left or right and handle both serial and parallel input/output. This makes it highly flexible for various data-handling tasks.
@@ -155,15 +155,13 @@ Registers are essential components in digital electronics and are used in variou
 |----------------------|---------------------|---------------------|----------------------|--------------------------------------------------|
 | **Shift Register**    | Left/Right          | Serial/Parallel      | Serial/Parallel       | Serial-to-parallel conversion, data storage       |
 | **Parallel Register** | N/A                 | Parallel             | Parallel              | Fast data storage, buffer in processors           |
-| **Serial Register**   | N/A                 | Serial               | Serial                | Data transmission, slow peripheral interfacing    |
 | **Universal Register**| Left/Right + Both   | Serial/Parallel      | Serial/Parallel       | Data conversion, flexible data manipulation       |
 
 ---
+**👉 [Learn More About Registers](https://www.geeksforgeeks.org/shift-registers-in-digital-logic/)**
 
 ## 📌 Conclusion
 Digital registers play a critical role in **data storage**, **data transfer**, and **data manipulation** in digital systems. Understanding the various types of registers and their applications is essential for designing efficient circuits that handle data in a controlled and predictable manner.
 
 ---
-
-**👉 [Learn More About Registers](https://en.wikipedia.org/wiki/Shift_register)**
 
