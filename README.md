@@ -50,7 +50,6 @@ These circuits focus on various applications in electronics, including signal pr
 | **🔲 Combinational Circuit**   | Circuit whose output depends only on the present input | [View Folder](./Digital_Circuit/Combinational_Circuits) |
 | **🔁 Sequential Circuit**      | Circuit whose output depends on both present inputs and past states | [View Folder](./Digital_Circuit/Sequential_Circuits) |
 | **🧠 Memory Circuit**          | Circuit that stores data, typically using flip-flops or registers | [View Folder](./Digital_Circuit/Memory_Circuits) |
-| **🔄 Finite State Machine (FSM)** | A sequential circuit that has a finite number of states and transitions between them based on inputs | [View Folder](./Digital_Circuit/FSM_Circuits) |
 
 ---
 
