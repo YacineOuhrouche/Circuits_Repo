@@ -37,6 +37,10 @@ Each type of flip-flop has its unique behavior and design, which we will explain
 | 1  | 0  | 1     | 1  | 0  |
 | 1  | 1  | 1     | X  | X  |
 
+ 📷 **Diagram**
+ 
+![Screenshot 2025-03-29 130349](https://github.com/user-attachments/assets/2e1d726b-cdd2-465c-a594-fd6619d44b78)
+
 ---
 
 ## 📌 D Flip-Flop (Data Flip-Flop)
@@ -53,6 +57,10 @@ Each type of flip-flop has its unique behavior and design, which we will explain
 | 1  | ↑     | 1  |
 | X  | 0     | Q  |
 
+ 📷 **Diagram**
+ 
+
+![Screenshot 2025-03-29 131744](https://github.com/user-attachments/assets/3317b337-fd32-4077-8318-faa34f836a72)
 ---
 
 ## 📌 JK Flip-Flop
