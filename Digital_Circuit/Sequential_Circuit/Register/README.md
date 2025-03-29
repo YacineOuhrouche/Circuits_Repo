@@ -12,8 +12,7 @@ In this guide, we will explore the different types of registers, how they work, 
 Registers are classified based on how they handle data:
 1. **Shift Registers**
 2. **Parallel Registers**
-3. **Serial Registers**
-4. **Universal Shift Registers**
+3. **Universal Shift Registers**
 
 Each of these registers performs a specific function in data storage, processing, and transfer. Let’s dive into each one.
 
@@ -123,20 +122,6 @@ A **parallel register** allows data to be input and output simultaneously throug
 
 ---
 
-## 📌 Serial Register
-
-🔹 **Overview**:  
-A **serial register** works with one data bit at a time, loading and outputting data sequentially. It typically uses fewer data lines compared to parallel registers, but it's slower because data is processed one bit at a time.
-
-🔹 **How It Works**:  
-- Data is shifted into the register one bit at a time.
-- Output is also serial, meaning the bits are read out one after the other.
-
-🔹 **Applications**:
-- **Data transmission**: In systems where data is sent bit by bit, like in communication channels or slow peripherals.
-- **Simplified data storage**: In situations where space or wiring is limited.
-
----
 
 ## 📌 Universal Shift Register
 
