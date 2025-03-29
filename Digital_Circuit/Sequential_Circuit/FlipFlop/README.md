@@ -123,6 +123,7 @@ Each type of flip-flop has its unique behavior and design, which we will explain
 | **T**         | T, Clock    | Toggles output when T=1            |
 
 ---
-
+**👉[More About Flip-Flops](https://www.electronicsforu.com/technology-trends/learn-electronics/flip-flop-rs-jk-t-d)**
+---
 ## 💡 Conclusion
 Flip-flops are essential building blocks in **sequential circuits** and digital electronics, enabling **data storage**, **state control**, and **timing applications**. They are widely used in memory devices, registers, counters, and control logic circuits.
