@@ -50,7 +50,7 @@ Let’s dive deeper into each of them, including their functionality and use cas
 ## 📌 SISO (Serial-In Serial-Out)
 
 🔹 **How It Works**:  
-A **SISO (Serial-In Serial-Out)** shift register takes in data one bit at a time through a single input and shifts it through a series of flip-flops. After all the bits have been loaded, the data exits the register one bit at a time.
+A **SISO (Serial-In Serial-Out)** shift register takes in data one bit at a time through a single input and shifts it through a series of D flip-flops. After all the bits have been loaded, the data exits the register one bit at a time.
 
 - The register shifts the input data left or right with each clock pulse.
 - The output is serial, meaning that data is read out one bit after another, preserving the order.
@@ -61,6 +61,7 @@ A **SISO (Serial-In Serial-Out)** shift register takes in data one bit at a time
 
 📷 **Diagram**:
 
+![Screenshot 2025-03-29 143413](https://github.com/user-attachments/assets/edebb3fe-47a4-4ad6-8981-99765c654f48)
 
 ---
 
