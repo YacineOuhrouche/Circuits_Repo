@@ -84,7 +84,7 @@ A **PISO (Parallel-In Serial-Out)** shift register allows multiple bits to be in
 
 📷 **Diagram**:
 
-![Screenshot 2025-03-29 150320](https://github.com/user-attachments/assets/eef36dbc-6b7c-499f-be04-460ecdeae93c)
+![Screenshot 2025-03-29 150908](https://github.com/user-attachments/assets/7829c5b7-0395-4817-83a7-0240d4c7bbb9)
 
 
 ---
