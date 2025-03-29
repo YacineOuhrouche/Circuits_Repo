@@ -19,20 +19,6 @@ Each of these registers performs a specific function in data storage, processing
 
 ---
 
-## 📌 Shift Register
-
-🔹 **Overview**:  
-A **shift register** shifts data bits from one flip-flop to the next in response to a clock signal. The data can move left or right, and shift registers are often used to convert between **serial** (one bit at a time) and **parallel** (multiple bits at once) data.
-
-# 📘 Digital Registers
-
-## ✨ Introduction
-
-Registers are essential **sequential logic circuits** that store multiple bits of data. They are constructed from flip-flops and are used in memory units, processors, data transfer systems, and control circuits. Unlike combinational circuits, registers maintain their output based on both the current input and their previous state.
-
-In this guide, we will explore the **different types of registers**, how they work, and their applications in digital systems.
-
----
 
 ## 🔹 Types of Shift Registers
 
