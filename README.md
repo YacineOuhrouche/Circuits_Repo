@@ -13,26 +13,39 @@ Each folder contains:
 
 ---
 
-## 📂 Circuit Categories
+## 📂 Sections
 
-### 🔗 1️⃣ CMOS Circuits 
+### 🔹 **Projects Section**
+These are the circuits I have designed, simulated, and worked on as part of my personal projects and experiments.
 
-| ⚙️ Circuit | 📜 Description | 🔗 Link |
-|---|---|---|
-| **🔁 SR Latch** | A basic CMOS SR Latch using PMOS and NMOS transistors to store a binary state | [View Circuit](./CMOS_Circuits/SR_Latch/) |
 
----
-
-### 🔗 2️⃣ Analog Projects  
-These are more complex or application-focused circuits that involve practical designs.
-
+#### 🔗 1️⃣ Analog Circuit Projects  
 | ⚙️ Circuit            | 📜 Description                                                                  | 🔗 Link                                              |
 |--------------------|------------------------------------------------------------------------------|---------------------------------------------------|
 | **🎵 Audio Amplifier** | Two-Stage Class A Audio Amplifier | [View Folder](./Circuits_Projects/Audio_Amplifier) |
 | **💡 LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation | [View Folder](./Circuits_Projects/LED_Flasher/)       |
 
+#### 🔗2️⃣ Digital Circuit Projects 
+| ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
+
+#### 🔗 3️⃣ CMOS Circuits  
+| ⚙️ Circuit | 📜 Description | 🔗 Link |
+|---|---|---|
+| **🔁 SR Latch** | A basic CMOS SR Latch using PMOS and NMOS transistors to store a binary state | [View Circuit](./CMOS_Circuits/SR_Latch/) |
+
+#### 🔗 4️⃣ Hardware Description Language (HDL) Section  
+| ⚙️ Circuit | 📜 Description | 🔗 Link |
+|---|---|---|
+| **🚦 Traffic Light Controller** | Traffic Light Intersection | [View Circuit](./HDL/Traffic_Light_Controller/) |
+| **🧮 4-Bit ALU** | Capable of performing arithmetic and logic | [View Circuit](./HDL/4_Bit_ALU/) |
+| **🗄 4-Bit Register** | Storing a 4-bit binary value | [View Circuit](./HDL/4_bit_register/) |
+
 ---
-### 🔗 3️⃣ Analog Circuit
+
+### 🔹 **Learning Section**
+This section includes   focused on learning and understanding different electronic concepts, circuits, and their applications.
+
+#### 🔗 1️⃣ Analog Circuits  
 These circuits focus on various applications in electronics, including signal processing, power control, communication, and protection.
 
 | ⚙️ Circuit                  | 📜 Description                                                                         | 🔗 Link                                              |
@@ -43,24 +56,13 @@ These circuits focus on various applications in electronics, including signal pr
 | **🔒 Circuit Protection**    | Circuits designed to protect against overloads, surges, and faults                   | [View Folder](./Analog_Circuits/Circuit_Protection)                 |
 
 ---
-### 🔗 4️⃣ Digital Circuits  
+#### 🔗2️⃣Digital Circuit
 | ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
 |-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
 | **💡 Logic Gate**              | Performs logical operations on binary inputs | [View Folder](./Digital_Circuit/Logic_Gates) |
 | **🔲 Combinational Circuit**   | Circuit whose output depends only on the present input | [View Folder](./Digital_Circuit/Combinational_Circuits) |
 | **🔁 Sequential Circuit**      | Circuit whose output depends on both present inputs and past states | [View Folder](./Digital_Circuit/Sequential_Circuits) |
 | **🧠 Memory Circuit**          | Circuit that stores data, typically using flip-flops or registers | [View Folder](./Digital_Circuit/Memory_Circuits) |
-
----
-
-### 🔗 5️⃣ Hardware Descriptive Language (HDL) Section  
-
-| ⚙️ Circuit | 📜 Description | 🔗 Link |
-|---|---|---|
-| **🚦 Traffic Light Controller** | Traffic Light Intersection | [View Circuit](./HDL/Traffic_Light_Controller/) |
-| **🧮 4-Bit ALU** | Capable of performing arithmetic and logic | [View Circuit](./HDL/4_Bit_ALU/) |
-| **🗄 4-Bit Register** | Storing a 4-bit binary value | [View Circuit](./HDL/4_bit_register/) |
-
 ---
 
 ## 🌐 Why This Repository Exists  
@@ -76,5 +78,3 @@ Hi! I’m **Yacine Ouhrouche**, an **Electrical Engineering student** passionate
 🔌 **Circuit Design**  
 🖥️ **Embedded Systems**  
 🔧 **Hardware Development**  
-
----
