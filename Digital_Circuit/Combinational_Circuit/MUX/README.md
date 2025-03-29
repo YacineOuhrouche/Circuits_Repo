@@ -34,6 +34,8 @@ This is the simplest multiplexer used when routing between just two signals.
 | 0             | I₀         |
 | 1             | I₁         |
 
+![Screenshot 2025-03-28 201225](https://github.com/user-attachments/assets/ab3c6436-d243-4ace-806a-6004b783e428)
+
 ---
 
 ## 📌 **4:1 Multiplexer**
