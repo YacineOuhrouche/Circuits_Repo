@@ -21,7 +21,7 @@ Each folder contains:
 | **🔲 Combinational Circuit**   | Circuit whose output depends only on the present input | [View Folder](./Combinational_Circuit) |
 | **🔁 Sequential Circuit**      | Circuit whose output depends on both present inputs and past states | [View Folder](./Sequential_Circuit) |
 | **🧠 Memory Circuit**          | Circuit that stores data, typically using flip-flops or registers | [View Folder](./Memory_Circuit) |
-| **🔄 Finite State Machine (FSM)** | A sequential circuit that has a finite number of states and transitions between them based on inputs | [View Folder](.FSM_Circuit) |
+
 
 ## 🔹 NEXT  
 **👉[HDL Section](../HDL)**
