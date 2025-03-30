@@ -62,7 +62,7 @@ These circuits focus on various applications in electronics, including signal pr
 | **💡 Logic Gate**              | Performs logical operations on binary inputs | [View Folder](./Digital_Circuit/Logic_Gates) |
 | **🔲 Combinational Circuit**   | Circuit whose output depends only on the present input | [View Folder](./Digital_Circuit/Combinational_Circuit) |
 | **🔁 Sequential Circuit**      | Circuit whose output depends on both present inputs and past states | [View Folder](./Digital_Circuit/Sequential_Circuit) |
-| **🧠 Memory Circuit**          | Circuit that stores data, typically using flip-flops or registers | [View Folder](./Digital_Circuit/Memory_Circuits) |
+| **🧠 Memory Circuit**          | Circuit that stores data, typically using flip-flops or registers | [View Folder](./Digital_Circuit/Memory_Circuit) |
 ---
 
 ## 🌐 Why This Repository Exists  
