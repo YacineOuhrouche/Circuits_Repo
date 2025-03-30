@@ -225,10 +225,12 @@ Counters are widely used in digital electronics for:
 
 ---
 
+**👉 [Learn More About Counters](https://www.allaboutcircuits.com/textbook/digital/chpt-11/synchronous-counters/)**
+
 ## 📌 **Conclusion**
 
 Counters are essential components in digital systems, enabling applications such as **event counting**, **timing**, **state transitions**, and more. Understanding the different types of counters and their applications allows for efficient design of systems requiring controlled counting and state management.
 
+---## 🔹 NEXT  
+**👉[FSM](../FSM)**
 ---
-
-**👉 [Learn More About Counters](https://www.electronics-tutorials.ws/counter/decade-counter.html)**
