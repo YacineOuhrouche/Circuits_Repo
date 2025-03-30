@@ -25,10 +25,6 @@ Each has its unique behavior and role in digital systems, as explained below.
 - In a **DFA**, for every input and every state, there is exactly one transition to a new state. This makes it **deterministic**.
 - It is used in systems where the next state is always predictable from the current state and input.
 
-📷 **Transition Diagram**:
-
-![DFA Diagram](https://github.com/user-attachments/assets/dfa-diagram.png)
-
 📷 **Transition Table**:
 
 | State | Input 'a' | Input 'b' | 
@@ -48,10 +44,6 @@ Each has its unique behavior and role in digital systems, as explained below.
 🔹 **How It Works**:
 - In an **NFA**, for a given input symbol, there can be multiple possible states the machine can transition to. This makes it **non-deterministic**.
 - An NFA can also have **epsilon transitions**, where the machine transitions without any input.
-
-📷 **Transition Diagram**:
-
-![NFA Diagram](https://github.com/user-attachments/assets/nfa-diagram.png)
 
 📷 **Transition Table**:
 
@@ -73,10 +65,6 @@ Each has its unique behavior and role in digital systems, as explained below.
 - A **Moore Machine** is a type of FSM where the output depends **only on the current state** and not on the input symbol.
 - It is simpler to design but may be less responsive to input changes than a Mealy machine.
 
-📷 **State Diagram**:
-
-![Moore Machine Diagram](https://github.com/user-attachments/assets/moore-machine.png)
-
 📷 **State Transition Table**:
 
 | Current State | Input 'a' | Input 'b' | Output |
@@ -88,6 +76,8 @@ Each has its unique behavior and role in digital systems, as explained below.
 📷 **Explanation**:
 - In a Moore machine, the output is only determined by the state (not the input). For instance, when the machine is in **S0**, it outputs **0** regardless of whether the next input is 'a' or 'b'.
 
+  **👉[ More About Moores Machine](https://en.wikipedia.org/wiki/Moore_machine)**
+---
 ---
 
 ## 📌 Mealy Machine
@@ -96,9 +86,6 @@ Each has its unique behavior and role in digital systems, as explained below.
 - A **Mealy Machine** is another type of FSM where the output depends on both the **current state** and the **input symbol**.
 - This makes the Mealy machine more responsive to inputs compared to the Moore machine.
 
-📷 **State Diagram**:
-
-![Mealy Machine Diagram](https://github.com/user-attachments/assets/mealy-machine.png)
 
 📷 **State Transition Table**:
 
@@ -110,7 +97,7 @@ Each has its unique behavior and role in digital systems, as explained below.
 
 📷 **Explanation**:
 - In a Mealy machine, the output changes based on both the state and the input. For example, from **S0** with input 'a', the machine transitions to **S1** and outputs **1**.
-
+  **👉[ More About Mealys Machine](https://www.tutorialspoint.com/automata_theory/automata_theory_mealy_machine.htm)**
 ---
 
 ## 📌 Applications of FSMs
