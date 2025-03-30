@@ -48,10 +48,6 @@ This configuration is ideal for applications where you need to control multiple 
 
 ---
 
-## 🖥️ Simulation
-
-
----
 
 ## 🔌 Breadboard View
 
