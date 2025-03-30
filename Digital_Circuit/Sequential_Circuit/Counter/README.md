@@ -180,7 +180,6 @@ A **ring counter** has only one flip-flop set at any time, and it "moves" around
 - **🔁 Sequence Generators**: Perfect for generating simple state machines and sequential operations.
 - **💡 Light Indicators**: Often used in systems like rotating lights or cyclic operations.
 
-📷 **Diagram**:  
 
 ---
 
@@ -196,7 +195,6 @@ A **Johnson counter** is a type of shift register counter. The inverted output o
 - **🔄 State Machines**: Used in systems where complex counting or state changes are required.
 - **📡 Signal Encoding**: Useful in applications that require generation of binary sequences.
 
-📷 **Diagram**:  
 
 ---
 
