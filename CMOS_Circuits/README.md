@@ -47,6 +47,6 @@ The latch is built using **CMOS inverters** (constructed with **PMOS** and **NMO
 
 ---
 ## 🔹 NEXT  
-**👉[Analog Circuit Projects](../Circuits_Projects)**
+**👉[HDL Section](../HDL)**
 
 
