@@ -90,11 +90,17 @@ A **synchronous counter** is a digital counter where all flip-flops are triggere
 - **📡 Frequency Division**: Used in high-speed frequency division where delays could impact performance.
 - **💻 Memory Addressing**: Provides fast and reliable counting for accessing memory locations in microprocessors and digital systems.
   
-## 📷 **Diagram**: 
+## 📷 **Diagram up counter**: 
 
 
 
 ![Screenshot 2025-03-29 211908](https://github.com/user-attachments/assets/d7ddbac2-8639-4a16-831c-1ec98d7343a4)
+
+## 📷 **Diagram down counter**: 
+
+
+![Screenshot 2025-03-30 112835](https://github.com/user-attachments/assets/41b4822e-9c81-41c5-a02e-217c57b1ee22)
+
 
 
 ---
