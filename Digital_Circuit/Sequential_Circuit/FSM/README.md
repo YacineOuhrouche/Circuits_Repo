@@ -85,3 +85,4 @@ Finite State Machines are crucial tools in both theoretical and practical applic
 
 ## 🔹 NEXT  
 
+**👉[RAM](../../Memory_Circuit/RAM)**
