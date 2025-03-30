@@ -91,4 +91,4 @@ endmodule
 
 ````
 ## 🔹 NEXT  
-**👉[4 Bit Register](../4-Bit_register)**
+**👉[4 Bit Register](../4_Bit_register)**
