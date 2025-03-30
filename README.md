@@ -42,7 +42,7 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 
 ---
 
-### 🔹 **Essentials Section**
+### 🔹 ** Electronic Fundamentals*
 This section is focused on learning and understanding key electronic concepts, circuits, and their real-world applications.
 
 #### 🔗 1️⃣ **Analog Circuits**
