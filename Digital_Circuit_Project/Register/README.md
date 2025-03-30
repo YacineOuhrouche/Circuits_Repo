@@ -41,7 +41,7 @@ This configuration is ideal for applications where you need to control multiple 
 
 ## 📜 Schematic Diagram
 
-Below is the schematic representation of the **8-bit SIPO shift register** circuit:
+![Screenshot 2025-03-30 144745](https://github.com/user-attachments/assets/3e71f3de-c2a2-4973-817a-fc6d2fc5c9cb)
 
 
 ---
@@ -70,5 +70,5 @@ The **8-bit SIPO shift register** successfully takes serial data input and provi
 ---
 
 ## 🔹 NEXT  
-**👉 [SR Latch](../../CMOS_Circuit/SR_Latch)**
+**👉 [SR Latch](../../CMOS_Circuits/SR_Latch)**
 ---
