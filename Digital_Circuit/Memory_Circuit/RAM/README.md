@@ -25,10 +25,6 @@ Each type has distinct characteristics, uses, and benefits. Let's dive deeper in
 
 🔹 **How It Works**:  
 - **SRAM** stores data using **flip-flops** (bistable circuits). These flip-flops maintain their state as long as power is supplied.
-- Unlike **DRAM**, **SRAM** does not require periodic refresh cycles to retain data, making it **faster** and **more reliable**. However, it is more **expensive** and consumes more power.
-- Data in **SRAM** is retained as long as the power is on. Once power is lost, the data is also lost.
-
-🔹 **Key Features**:
 - **🚫 No refresh required**: Data remains intact as long as power is on.
 - **⚡ Faster access times**: **SRAM** offers quicker data retrieval compared to **DRAM**.
 - **🔋 Power consumption**: More power-hungry than **DRAM**.
