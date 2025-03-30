@@ -37,12 +37,7 @@ Each type has distinct characteristics, uses, and benefits. Let's dive deeper in
 ## 📌 **⚡ DRAM (Dynamic RAM)**
 
 🔹 **How It Works**:  
-- **DRAM** stores data using **capacitors**, which hold charge to represent a bit. A charged capacitor represents a `1`, and an uncharged capacitor represents a `0`. However, capacitors naturally leak charge, requiring **DRAM** to be **refreshed** periodically.
-- While **DRAM** is slower than **SRAM** due to the need for refresh cycles, it is **cheaper** and allows for larger memory sizes.
-- **DRAM** is widely used as the **main memory** in devices like computers, smartphones, and servers.
-
-🔹 **Key Features**:
-- **🔄 Requires refreshing**: Data must be refreshed periodically.
+- **🔄 Requires refreshing**: Data must be refreshed periodically due to capacitor leakage.
 - **📈 Larger memory capacity**: **DRAM** can store more data at a lower cost than **SRAM**.
 - **🐢 Slower access times**: Due to the need for refreshing.
 - **🖥️ Usage**: Used as **main memory** (RAM) in devices like **PCs**, **laptops**, and **mobile phones**.
@@ -55,11 +50,6 @@ Each type has distinct characteristics, uses, and benefits. Let's dive deeper in
 ## 📌 **🔒 Registers**
 
 🔹 **How It Works**:  
-- **Registers** are small, high-speed **RAM circuits** embedded within the **CPU**. They are used to store data that is actively being processed, such as intermediate calculation results or instructions being executed.
-- Registers are **integrated into the CPU**, providing extremely fast access compared to **RAM** or **cache**.
-- They are used for operations like **storing operands** for arithmetic operations, **holding memory addresses**, and temporarily storing data during instruction execution.
-
-🔹 **Key Features**:
 - **⚡ Very fast access**: Registers are the fastest type of memory due to their direct integration with the CPU.
 - **📏 Small capacity**: Registers are limited to a few bits to a few bytes of data due to their speed.
 - **⏳ Temporary storage**: Registers store data only during CPU operations.
@@ -72,11 +62,6 @@ Each type has distinct characteristics, uses, and benefits. Let's dive deeper in
 ## 📌 **💾 Cache Memory**
 
 🔹 **How It Works**:  
-- **Cache memory** is a high-speed memory layer placed between the **CPU** and **main memory (DRAM)**. It stores copies of frequently accessed data from the main memory, allowing the CPU to access it faster than retrieving it from **DRAM**.
-- Cache is typically divided into multiple levels: **L1**, **L2**, and **L3** cache. The **L1 cache** is the smallest and fastest, located closest to the CPU cores, while **L3 cache** is larger and slower but still much faster than **DRAM**.
-- The idea is that programs tend to reuse data and instructions frequently, so storing these in the cache improves overall system performance.
-
-🔹 **Key Features**:
 - **⚡ Speed**: Cache memory is significantly faster than **DRAM** and accessing data from **main memory**.
 - **🔢 Levels of cache**:
   - **L1 cache**: Smallest and fastest, located closest to the CPU cores.
