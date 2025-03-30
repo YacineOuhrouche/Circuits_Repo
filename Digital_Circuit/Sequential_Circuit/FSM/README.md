@@ -126,4 +126,4 @@ Each has its unique behavior and role in digital systems, as explained below.
 Finite State Machines are crucial tools in both theoretical and practical applications of **sequential logic**. By understanding FSMs, you can design systems that depend on a series of states, from digital circuits to software control systems.
 
 ## 🔹 NEXT  
-**👉[State Machines in Digital Design](../DigitalDesign)**
+
