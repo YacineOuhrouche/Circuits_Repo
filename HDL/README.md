@@ -29,4 +29,5 @@ Verilog is a **hardware description language** that lets us describe the behavio
 
 ---
 
-
+## 🔹 NEXT  
+**👉[Analog Circuit](../Analog_Circuits)**
