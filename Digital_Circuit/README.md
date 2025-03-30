@@ -23,5 +23,3 @@ Each folder contains:
 | **🧠 Memory Circuit**          | Circuit that stores data, typically using flip-flops or registers | [View Folder](./Memory_Circuit) |
 
 
-## 🔹 NEXT  
-**👉[HDL Section](../HDL)**
