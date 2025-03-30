@@ -1,4 +1,4 @@
-# ⚡ Circuits Collection
+# ⚡ **Circuits Collection**
 
 ![Electrical Engineering](https://img.shields.io/badge/Electrical%20Engineering-Projects-blue?style=for-the-badge)  
 📡 Welcome to my **Circuits Collection** repository!
@@ -25,7 +25,7 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 | **🎵 Audio Amplifier** | Two-Stage Class A Audio Amplifier | [View Folder](./Circuits_Projects/Audio_Amplifier) |
 | **💡 LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation | [View Folder](./Circuits_Projects/LED_Flasher/)       |
 
-#### 🔗2️⃣ Digital Circuit Projects 
+#### 🔗 2️⃣ Digital Circuit Projects 
 | ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
 
 #### 🔗 3️⃣ CMOS Circuits  
@@ -42,27 +42,31 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 
 ---
 
-### 🔹 **Learning Section**
-This section includes   focused on learning and understanding different electronic concepts, circuits, and their applications.
+### 🔹 **Essentials Section**
+This section is focused on learning and understanding key electronic concepts, circuits, and their real-world applications.
 
-#### 🔗 1️⃣ Analog Circuits  
-These circuits focus on various applications in electronics, including signal processing, power control, communication, and protection.
+#### 🔗 1️⃣ **Analog Circuits**
+Explore the fundamental analog circuits used in a variety of fields, from signal processing to power control, and more.
 
 | ⚙️ Circuit                  | 📜 Description                                                                         | 🔗 Link                                              |
 |----------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🔌 Analog Basic Circuits** | Circuits that deal with continuous signals and basic signal processing techniques    | [View Folder](./Analog_Circuits/Analog_Basic)               |
-| **⚡ Power Electronics**     | Circuits that handle power conversion, including rectifiers, inverters, and converters | [View Folder](./Analog_Circuits/Power_Electronics)                  |
-| **📡 RF & Communication**   | Circuits for signal modulation, transmission, and reception in communication systems   | [View Folder](./Analog_Circuits/RF_Circuits)               |
-| **🔒 Circuit Protection**    | Circuits designed to protect against overloads, surges, and faults                   | [View Folder](./Analog_Circuits/Circuit_Protection)                 |
+| **🔌 Analog Basic Circuits** | Basic circuits dealing with continuous signals and common signal processing techniques | [View Folder](./Analog_Circuits/Analog_Basic)               |
+| **⚡ Power Electronics**     | Circuits for power conversion such as rectifiers, inverters, and DC-DC converters      | [View Folder](./Analog_Circuits/Power_Electronics)                  |
+| **📡 RF & Communication**   | Circuits used in signal modulation, transmission, and reception in communication systems | [View Folder](./Analog_Circuits/RF_Circuits)               |
+| **🔒 Circuit Protection**    | Protection circuits designed to safeguard against overloads, surges, and faults        | [View Folder](./Analog_Circuits/Circuit_Protection)                 |
 
 ---
-#### 🔗2️⃣Digital Circuit
+
+#### 🔗 2️⃣ **Digital Circuits**
+Learn the basics and advanced concepts of digital circuits, covering logic gates, combinational circuits, and sequential circuits.
+
 | ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
 |-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
 | **💡 Logic Gate**              | Performs logical operations on binary inputs | [View Folder](./Digital_Circuit/Logic_Gates) |
-| **🔲 Combinational Circuit**   | Circuit whose output depends only on the present input | [View Folder](./Digital_Circuit/Combinational_Circuit) |
-| **🔁 Sequential Circuit**      | Circuit whose output depends on both present inputs and past states | [View Folder](./Digital_Circuit/Sequential_Circuit) |
-| **🧠 Memory Circuit**          | Circuit that stores data, typically using flip-flops or registers | [View Folder](./Digital_Circuit/Memory_Circuit) |
+| **🔲 Combinational Circuit**   | Circuit whose output depends only on the present input                           | [View Folder](./Digital_Circuit/Combinational_Circuit) |
+| **🔁 Sequential Circuit**      | Circuit whose output depends on both present inputs and past states             | [View Folder](./Digital_Circuit/Sequential_Circuit) |
+| **🧠 Memory Circuit**          | Circuit designed to store data, typically using flip-flops or registers          | [View Folder](./Digital_Circuit/Memory_Circuit) |
+
 ---
 
 ## 🌐 Why This Repository Exists  
