@@ -61,7 +61,8 @@ Here’s the **CMOS NAND Gate Schematic** built using two **CMOS inverters**:
 ---
 
 
-
+## 🔹 NEXT  
+**👉[Traffic Light Controller](../../HDL/Traffic_Light_Controller)**
 
 
 
