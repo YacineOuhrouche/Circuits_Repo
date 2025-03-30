@@ -164,6 +164,8 @@ A **decade counter** (or BCD counter) counts from 0 to 9 and then resets to 0. I
 
 📷 **Diagram**:  
 
+![Screenshot 2025-03-30 120804](https://github.com/user-attachments/assets/37b05676-1ea3-487e-97ed-9b6875fb66f0)
+
 ---
 
 ## 📌 **Ring Counters**
