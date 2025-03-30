@@ -9,7 +9,7 @@ The circuit allows you to send data serially, one bit at a time, and retrieve it
 
 Before building this circuit, you should be familiar with:
 
-- **[Shift Registers](../../Digital_Circuit/Register)**
+- **[Shift Registers](../../Digital_Circuit/Sequential_Circuit/Register)**
 
 
 ## Why I Chose the SIPO Shift Register ⚡
