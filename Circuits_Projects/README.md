@@ -22,5 +22,5 @@ The repository includes:
 
 
 ## 🔹 NEXT  
-**👉[Analog Circuit](../Analog_Circuits)**
+**👉[Digital Circuit Project](../Digital_Circuit_Project)**
 ---
