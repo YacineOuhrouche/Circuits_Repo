@@ -49,7 +49,7 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 This section is focused on learning and understanding key electronic concepts, circuits, and their real-world applications.
 
 #### 🔗 1️⃣ **Analog Circuits**
-Explore the fundamental analog circuits used in a variety of fields, from signal processing to power control, and more.
+ Analog circuits are used in a variety of fields, from signal processing to power control, and more.
 
 | ⚙️ Circuit                  | 📜 Description                                                                         | 🔗 Link                                              |
 |----------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------|
