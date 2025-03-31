@@ -40,10 +40,6 @@ The counter is typically built using **D-type flip-flops** or **JK flip-flops**,
 
 ![Screenshot 2025-03-30 170334](https://github.com/user-attachments/assets/e7fe2707-e526-4725-8175-8f58a9d19381)
 
----
-
-## 🖥️ Simulation
-
 
 
 ---
