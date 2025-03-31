@@ -81,5 +81,5 @@ The **8-bit SIPO shift register** successfully takes serial data input and provi
 ---
 
 ## 🔹 NEXT  
-**👉 [SR Latch](../../CMOS_Circuits/SR_Latch)**
+**👉 [4-Bit Adder](../adder)**
 ---
