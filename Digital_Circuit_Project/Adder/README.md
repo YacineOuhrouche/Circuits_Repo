@@ -47,6 +47,7 @@ The 4-bit adder consists of four **full adders** connected in a ripple-carry con
 
 ## 🛠 Components Used
 
+
 | 🏷️ Component          | 🔍 Function                      |
 |-----------------------|----------------------------------|
 | **🔼 Full Adder**      | Adds two bits and a carry input  |
@@ -54,9 +55,8 @@ The 4-bit adder consists of four **full adders** connected in a ripple-carry con
 | **🔵 AND Gates**       | Generates the carry output       |
 | **🔌 OR Gates**        | Combines carry signals           |
 | **🔋 Power Supply**    | Provides necessary voltage       |
-
-
-
+| **💡 LEDs**           | Indicates output visually        |
+| **📏 Resistors**       | Limits current to protect components |
 
 
 ---
