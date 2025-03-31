@@ -48,9 +48,22 @@ This configuration is ideal for applications where you need to control multiple 
 
 ---
 
+## 🛠 Components Used
 
+The circuit consists of the following key components:
+
+| 🏷️ Component | 🔍 Function | #|
+|--------------|------------|-----------|
+| **🔼  74HC74 Shift Register** | Handles serial-to-parallel conversion | 4|
+| **📏 Resistors** | Control current and provide biasing | 1|
+| **🔵 Capacitors** | Filter noise and stabilize signals | 2| 
+| **🔊 LEDs** | Represent the parallel outputs (can be replaced with other devices) | 4| 
+| **🔋 Power Supply** | Provides necessary voltage for the circuit | 1| 
+| **🔋 555 Timer** | Generate clock | 1| 
+| **Button** | Turn on and off | 1| 
 ## 🔌 Breadboard View
 
+![Screenshot 2025-03-30 211056](https://github.com/user-attachments/assets/e473e608-aed2-4e28-8385-709de780c608)
 
 
 ---
