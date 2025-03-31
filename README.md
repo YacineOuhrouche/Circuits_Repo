@@ -30,6 +30,7 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 |------------------------|-----------------------------------------------|----------------------------------------------|
 | 🔢 8-bit Binary Counter | A counter circuit that counts from 0 to 255 in binary | [View Folder](./Digital_Circuit_Project/Binary_Counter) |
 | 🗃️ 8-bit Register      | A register that stores 8-bit binary data      | [View Folder](./Digital_Circuit_Project/Register)   |
+| ➕ 4-bit Adder         | A combinational circuit that performs 4-bit addition   | [View Folder](./Digital_Circuit_Project/Adder)       |
 
 #### 🔗 3️⃣ CMOS Circuits  
 | ⚙️ Circuit | 📜 Description | 🔗 Link |
