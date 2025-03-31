@@ -50,7 +50,6 @@ The 4-bit adder consists of four **full adders** connected in a ripple-carry con
 
 | 🏷️ Component          | 🔍 Function                      |
 |-----------------------|----------------------------------|
-| **🔼 Full Adder**      | Adds two bits and a carry input  |
 | **📏 XOR Gates**       | Produces the sum of two bits     |
 | **🔵 AND Gates**       | Generates the carry output       |
 | **🔌 OR Gates**        | Combines carry signals           |
@@ -58,6 +57,7 @@ The 4-bit adder consists of four **full adders** connected in a ripple-carry con
 | **💡 LEDs**           | Indicates output visually        |
 | **📏 Resistors**       | Limits current to protect components |
 
+![Screenshot 2025-03-31 124337](https://github.com/user-attachments/assets/9db78cd6-8f5e-4e02-98ad-4818049b4adb)
 
 ---
 
