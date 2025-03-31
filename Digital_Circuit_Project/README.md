@@ -15,7 +15,7 @@ The repository includes:
 
 | Circuit                | Description                                   | Link                                         |
 |------------------------|-----------------------------------------------|----------------------------------------------|
-| 🔢 8-bit Binary Counter | A counter circuit that counts from 0 to 255 in binary | [8-bit Binary Counter Folder](./Binary_Counter) |
+| 🔢 8-bit Binary Counter | A counter circuit that counts from 0 to 255 in binary | [8-bit Binary Counter Folder](./Counter) |
 | 🗃️ 8-bit Register      | A register that stores 8-bit binary data      | [8-bit Register Folder](./Register)   |
 
 ---
