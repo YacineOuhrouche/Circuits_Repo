@@ -24,7 +24,7 @@ An **8-bit Up/Down Counter** can operate in two modes:
 - **Up Mode**: The counter increments its value on each clock pulse, counting from 0 to 255.
 - **Down Mode**: The counter decrements its value on each clock pulse, counting from 255 down to 0.
 
-The counter is typically built using **D-type flip-flops** or **JK flip-flops**, with control logic to determine whether the counter counts up or down based on an input signal.
+The counter is typically built using  **JK flip-flops**, with control logic to determine whether the counter counts up or down based on an input signal.
 
 ### Control Signals:
 1. **Clock (CLK)**: Drives the counter, incrementing or decrementing its value on each pulse.
