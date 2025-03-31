@@ -45,7 +45,8 @@ The counter is typically built using **D-type flip-flops** or **JK flip-flops**,
 ---
 
 ## 🔌 Breadboard View
-
+This is a 4-bit up counter. It was too long to do an 8-bit up/down counter. 
+![Screenshot 2025-03-31 140346](https://github.com/user-attachments/assets/9eaf271e-362f-41fd-8584-d556ffb63e0c)
 
 
 ---
