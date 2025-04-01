@@ -23,8 +23,7 @@ Each folder contains:
 | **🔲 Decoder**                   | Converts binary input into a one-hot output for address decoding                   | [View Folder](./Decoder/)                           |
 | **🔲 Encoder**                   | Converts multiple inputs into a binary code that represents the active input       | [View Folder](./Encoder/)                           |
 | **🔲 Comparator**                | Compares two binary numbers and outputs the result of the comparison (equal, greater, or less) | [View Folder](./Comparator/)                        |
-| **🔲 Binary to Gray Code Converter** | Converts a binary number into its equivalent Gray code representation            | [View Folder](./Binary_to_Gray_Code/)               |
-| **🔲 Seven Segment Display Driver** | Controls a seven-segment display to represent numbers in digital form            | [View Folder](./Seven_Segment_Display/)             |
+
 
 
 ---
