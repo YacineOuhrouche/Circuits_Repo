@@ -103,6 +103,10 @@ Demultiplexers are commonly used in **data routing, signal demodulation, memory 
 | **1:16 DEMUX**   | 16               | 4               |
 
 ---
-
+**👉[More About DEMUX ](https://www.electronics-tutorials.ws/combination/comb_3.html)**
+---
 ## 💡 Conclusion
 Demultiplexers play a crucial role in **digital logic design** by efficiently routing a single input to multiple outputs. As the number of selection lines increases, the number of output choices grows exponentially, making demultiplexers highly scalable for various applications.
+## 🔹 NEXT  
+**👉[Decoder](../Decoder)**
+---
