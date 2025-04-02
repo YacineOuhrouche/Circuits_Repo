@@ -77,6 +77,8 @@ Demultiplexers are commonly used in **data routing, signal demodulation, memory 
 
 📷 **Schematic Diagram:**
 
+![Screenshot 2025-04-02 122355](https://github.com/user-attachments/assets/3b165dcf-7775-4218-88d8-6b8d53981160)
+
 ## 📌 1:16 Demultiplexer
 
 🔹 **How It Works:**
@@ -84,7 +86,7 @@ Demultiplexers are commonly used in **data routing, signal demodulation, memory 
 - The truth table follows the same pattern as the 1:8 DEMUX but with 16 rows.
 
 📷 **Schematic Diagram:**
-
+You can imagine it
 ---
 
 ## 📌 Applications of Demultiplexers
