@@ -1,4 +1,4 @@
-# 📘 **Decoder**
+# 📘 **Decoder: A Comprehensive Guide**
 
 ## ✨ **Introduction**
 A **Decoder** is a **combinational logic circuit** that converts binary input data into a unique output. It is commonly used in **memory addressing**, **instruction decoding**, **demultiplexing**, and **display systems**. Decoders are essential in **computer architecture**, **microprocessor design**, and **digital communication**.
@@ -30,9 +30,6 @@ Decoders are widely used in **digital electronics** for data routing and signal 
 |  1 |  0 |  0 |  0 |  1 |  0 |
 |  1 |  1 |  0 |  0 |  0 |  1 |
 
-### 📷 ** Diagram**:
-
-
 ---
 
 ## 📌 **3-to-8 Decoder**
@@ -56,8 +53,32 @@ Decoders are widely used in **digital electronics** for data routing and signal 
 
 ---
 
+## 📌 **4-to-16 Decoder**
 
+### 🔹 **How It Works:**
+- A **4-to-16 decoder** has **four input lines (A₃, A₂, A₁, A₀)** and **16 unique outputs (Y₀ - Y₁₅)**.
+- Only **one output is HIGH** for each combination of inputs.
 
+### 📷 **Truth Table**:
+(Similar pattern as above, extended to 16 outputs.)
+
+---
+
+## 📌 **BCD to 7-Segment Decoder**
+
+### 🔹 **How It Works:**
+- Converts a **4-bit Binary-Coded Decimal (BCD)** into **7 output lines** to control a **7-segment display**.
+- Each segment (A-G) is turned ON or OFF to represent decimal numbers (0-9).
+
+### 📷 **Truth Table (Simplified)**:
+
+| B₃ | B₂ | B₁ | B₀ | A | B | C | D | E | F | G |
+|----|----|----|----|---|---|---|---|---|---|---|
+| 0  | 0  | 0  | 0  | 1 | 1 | 1 | 1 | 1 | 1 | 0 |
+| 0  | 0  | 0  | 1  | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
+| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+
+### 📷 **7-Segment Display Example:**
 
 
 ---
@@ -72,12 +93,19 @@ Decoders are widely used in **digital electronics** for data routing and signal 
 
 ## 📌 **Summary Table**
 
-| Decoder Type  | Number of Inputs | Number of Outputs |
-|--------------|----------------|-----------------|
-| **2-to-4**   | 2              | 4               |
-| **3-to-8**   | 3              | 8               |
-| **4-to-16**  | 4              | 16              |
+| Decoder Type          | Number of Inputs | Number of Outputs |
+|----------------------|----------------|-----------------|
+| **2-to-4**          | 2              | 4               |
+| **3-to-8**          | 3              | 8               |
+| **4-to-16**         | 4              | 16              |
+| **BCD to 7-Segment** | 4              | 7               |
 
+**👉[More About Decoders ](https://www.electronics-tutorials.ws/combination/comb_5.html)**
+---
 ---
 ## 💡 **Conclusion**
 Decoders are essential **digital circuits** that convert binary inputs into unique output activations. They are widely used in **memory addressing, instruction decoding, and display systems**.
+
+
+## 🔹 NEXT  
+**👉[Encoder](../Encoder)**
