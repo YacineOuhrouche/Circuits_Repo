@@ -114,5 +114,10 @@ Encoders are essential in **digital electronics** for data compression and effic
 | **Decimal to BCD**    | 10             | 4               |
 
 ---
+**👉[More About Encoders ](https://www.electronics-tutorials.ws/combination/comb_5.html)**
+
+
 ## 💡 **Conclusion**
 Encoders are key **digital circuits** for data compression and transmission. They efficiently convert multiple input lines into compact binary codes, optimizing data handling in **communication systems, microprocessors, and display devices**.
+## 🔹 NEXT  
+**👉[Comparators](../Comparator)**
