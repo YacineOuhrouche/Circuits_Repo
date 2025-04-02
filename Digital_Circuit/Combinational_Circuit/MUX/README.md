@@ -34,7 +34,7 @@ This is the simplest multiplexer used when routing between just two signals.
 | 0             | I₀         |
 | 1             | I₁         |
 
-![Screenshot 2025-03-28 201225](https://github.com/user-attachments/assets/ab3c6436-d243-4ace-806a-6004b783e428)
+![Screenshot 2025-04-02 110307](https://github.com/user-attachments/assets/8daae4d0-f0fd-4ad7-9b7f-f30463c5e4fc)
 
 ---
 
@@ -60,7 +60,7 @@ This MUX is useful for switching between four data sources.
 | 1  | 1  | I₃         |
 ### 📷 :
 
-![Screenshot 2025-03-28 201839](https://github.com/user-attachments/assets/980adefd-7804-400e-bee2-a0f6ecb27908)
+![Screenshot 2025-04-02 111120](https://github.com/user-attachments/assets/af01b751-84b8-45f7-b344-d55d38d3b5bb)
 
 ---
 
