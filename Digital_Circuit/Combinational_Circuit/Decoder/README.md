@@ -1,4 +1,4 @@
-# 📘 **Decoder: A Comprehensive Guide**
+# 📘 **Decoder**
 
 ## ✨ **Introduction**
 A **Decoder** is a **combinational logic circuit** that converts binary input data into a unique output. It is commonly used in **memory addressing**, **instruction decoding**, **demultiplexing**, and **display systems**. Decoders are essential in **computer architecture**, **microprocessor design**, and **digital communication**.
