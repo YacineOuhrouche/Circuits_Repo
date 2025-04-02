@@ -30,6 +30,8 @@ Decoders are widely used in **digital electronics** for data routing and signal 
 |  1 |  0 |  0 |  0 |  1 |  0 |
 |  1 |  1 |  0 |  0 |  0 |  1 |
 
+![Screenshot 2025-04-02 125512](https://github.com/user-attachments/assets/c24c2299-6b5f-4cf5-ba5d-824f09d1eaae)
+
 ---
 
 ## 📌 **3-to-8 Decoder**
