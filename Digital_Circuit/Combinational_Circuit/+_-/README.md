@@ -141,3 +141,5 @@ Adder and Subtractor circuits can be categorized into different types based on t
 ## 💡 Conclusion
 Adder and Subtractor circuits are **vital building blocks** of digital arithmetic and are widely used in **computing and embedded systems**. Understanding their functionality is essential for anyone working in digital electronics or computer engineering.
 
+## 🔹 NEXT  
+**👉[MUX](../MUX)**
