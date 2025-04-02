@@ -74,13 +74,19 @@ Decoders are widely used in **digital electronics** for data routing and signal 
 - Converts a **4-bit Binary-Coded Decimal (BCD)** into **7 output lines** to control a **7-segment display**.
 - Each segment (A-G) is turned ON or OFF to represent decimal numbers (0-9).
 
-### 📷 **Truth Table (Simplified)**:
-
-| B₃ | B₂ | B₁ | B₀ | A | B | C | D | E | F | G |
-|----|----|----|----|---|---|---|---|---|---|---|
-| 0  | 0  | 0  | 0  | 1 | 1 | 1 | 1 | 1 | 1 | 0 |
-| 0  | 0  | 0  | 1  | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
-| ... | ... | ... | ... | ... | ... | ... | ... | ... | ... | ... |
+### 📷 **Truth Table**:
+|Digits| B₃ | B₂ | B₁ | B₀ | A | B | C | D | E | F | G |
+|----|----|----|----|----|---|---|---|---|---|---|---|
+|0| 0  | 0  | 0  | 0  | 1 | 1 | 1 | 1 | 1 | 1 | 0 |
+|1| 0  | 0  | 0  | 1  | 0 | 1 | 1 | 0 | 0 | 0 | 0 |
+|2| 0  | 0  | 1  | 0  | 1 | 1 | 0 | 1 | 1 | 0 | 1 |
+|3| 0  | 0  | 1  | 1  | 1 | 1 | 1 | 1 | 0 | 0 | 1 |
+|4| 0  | 1  | 0  | 0  | 0 | 1 | 1 | 0 | 0 | 1 | 1 |
+|5| 0  | 1  | 0  | 1  | 1 | 0 | 1 | 1 | 0 | 1 | 1 |
+|6| 0  | 1  | 1  | 0  | 1 | 0 | 1 | 1 | 1 | 1 | 1 |
+|7| 0  | 1  | 1  | 1  | 1 | 1 | 1 | 0 | 0 | 0 | 0 |
+|8| 1  | 0  | 0  | 0  | 1 | 1 | 1 | 1 | 1 | 1 | 1 |
+| 9  | 0  | 0  | 1  | 1 | 1 | 1 | 1 | 0 | 1 | 1 |
 
 ### 📷 **7-Segment Display Example:**
 
