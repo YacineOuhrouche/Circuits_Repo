@@ -93,6 +93,8 @@ This MUX is suitable for managing multiple input lines efficiently.
 | 1  | 1  | 0  | I₆         |
 | 1  | 1  | 1  | I₇         |
 
+![Screenshot 2025-04-02 112923](https://github.com/user-attachments/assets/8f49e9cc-c7ed-4701-acb5-15e6b32871df)
+
 ---
 
 ## 📌 **16:1 Multiplexer**
@@ -103,8 +105,8 @@ This MUX is suitable for managing multiple input lines efficiently.
 
 This type of MUX is widely used in high-speed data routing systems where many inputs need to be handled.
 
-### 📷 **Truth Table:**
-(Extend the pattern to accommodate 16 inputs similar to the 8:1 MUX).
+
+![Screenshot 2025-04-02 113911](https://github.com/user-attachments/assets/0d3a9709-c1bd-432f-86f7-c0cff3d95552)
 
 ---
 
