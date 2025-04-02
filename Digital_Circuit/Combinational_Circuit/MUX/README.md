@@ -129,6 +129,10 @@ Multiplexers are used in:
 | **16:1 MUX**     | 16               | 4               |
 
 ---
-
+**👉[More About MUX ](https://www.electronics-tutorials.ws/combination/comb_2.html)**
+---
 ## 💡 **Conclusion**
 Multiplexers are key to efficient data routing in **digital circuits**. As the number of selection lines increases, the inputs scale exponentially, making multiplexers highly adaptable for modern communication systems, computer memory management, and large data-processing applications.
+
+## 🔹 NEXT  
+**👉[DEMYX(../DEMUX)**
