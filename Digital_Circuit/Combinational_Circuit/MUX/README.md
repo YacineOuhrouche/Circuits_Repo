@@ -135,4 +135,4 @@ Multiplexers are used in:
 Multiplexers are key to efficient data routing in **digital circuits**. As the number of selection lines increases, the inputs scale exponentially, making multiplexers highly adaptable for modern communication systems, computer memory management, and large data-processing applications.
 
 ## 🔹 NEXT  
-**👉[DEMYX(../DEMUX)**
+**👉[DEMUX](../DEMUX)**
