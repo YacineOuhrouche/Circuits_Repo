@@ -53,6 +53,8 @@ Demultiplexers are commonly used in **data routing, signal demodulation, memory 
 
 📷 **Schematic Diagram:**
 
+![Screenshot 2025-04-02 121458](https://github.com/user-attachments/assets/84dc8455-f651-4d1b-a208-383900614073)
+
 ---
 
 ## 📌 1:8 Demultiplexer
