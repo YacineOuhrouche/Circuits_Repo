@@ -90,7 +90,7 @@ Decoders are widely used in **digital electronics** for data routing and signal 
 
 ### 📷 **7-Segment Display Example:**
 
-![Screenshot 2025-04-03 113644](https://github.com/user-attachments/assets/33542e64-25f6-4ad5-a9f3-761d3be3558e)
+![Screenshot 2025-04-03 120106](https://github.com/user-attachments/assets/fda13c1a-c09c-40b6-8ece-cf230ca517e0)
 
 ---
 
