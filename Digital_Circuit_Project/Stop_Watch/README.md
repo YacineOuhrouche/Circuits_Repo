@@ -6,6 +6,16 @@ Welcome to the **Digital Stopwatch Project**! This project demonstrates how to b
 
 This project uses **555 timers** in **astable mode** to generate clock pulses, which are then fed into a **counter circuit**. The output of the counter drives **7-segment displays** or **LEDs** to display the elapsed time. You can control the stopwatch using **push buttons** to **start**, **stop**, and **reset** the time.
 
+## 📌 Prerequisites
+Before building this circuit, it’s helpful to have a basic understanding of:
+- **[Logic Gates](../../Digital_Circuit/Logic_Gates)**
+- **555 Timers**
+- **[Decoders](../../Digital_Circuit/Combinational_Circuit/Decoder)**
+
+
+
+---
+
 ## 🎯 Features
 - **Start/Stop/Reset Control**: Operated via push buttons to control the stopwatch.
 - **Time Display**: Displays the elapsed time in seconds on a **7-segment display** or **LEDs**.
