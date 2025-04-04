@@ -59,4 +59,4 @@ The **H-Bridge Circuit** is a vital component in many electronics applications, 
 ---
 
 ## 🔹 NEXT  
-**👉[Overvoltage Protection Circuit](../../Circuit_Protection/Overvoltage)**
+**👉[Current Mirror](../../Circuit_Protection/Current_mirror)**
