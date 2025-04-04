@@ -54,6 +54,8 @@ Encoders are essential in **digital electronics** for data compression and effic
 | 0  | 1  | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 1  | 0  |
 | 1  | 0  | 0  | 0  | 0  | 0  | 0  | 0  | 1  | 1  | 1  |
 
+![Screenshot 2025-04-04 195420](https://github.com/user-attachments/assets/f53dca93-7b38-4e65-9038-1ece58eb9823)
+
 ---
 
 ## 📌 **Priority Encoder**
