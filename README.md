@@ -36,12 +36,12 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 | **➕ 4-bit Adder**         | A combinational circuit that performs 4-bit addition   | [View Folder](./Digital_Circuit_Project/Adder)       |
 
 #### 🔗 3️⃣ CMOS Circuits  
-| ⚙️ Circuit | 📜 Description | 🔗 Link |
-|---|---|---|
-| **🧠 CMOS SRAM Cell**  | A **6-transistor SRAM memory cell** storing a single bit using CMOS topology | [View Folder](./CMOS_Circuits/SRAM) |
-| **🔁 CMOS Ring Oscillator** | A **CMOS-based oscillator** using an odd number of inverters to generate a periodic signal      | [View Folder](./CMOS_Circuits/Ring_Oscillator) |
-| **🔒 CMOS SR Latch**   | A basic **CMOS SR Latch** using **PMOS** and **NMOS** transistors to store a binary state | [View Folder](./CMOS_Circuits/SR_Latch) |
-| **⚙️ CMOS Logic Gates**| Basic  gates implemented using **PMOS and NMOS** transistors | [View Folder](./CMOS_Circuits/CMOS_Logic_Gates) |
+| ⚙️ Circuit               | 📜 Description                                            | 🔗 Link                                     |
+|--------------------------|-----------------------------------------------------------|----------------------------------------------|
+| **🧠 CMOS SRAM Cell**     | Stores 1 bit using 6 CMOS transistors                     | [View Folder](./CMOS_Circuits/SRAM)          |
+| **🔁 CMOS Ring Oscillator** | Generates a clock-like signal using inverter loops        | [View Folder](./CMOS_Circuits/Ring_Oscillator) |
+| **🔒 CMOS SR Latch**      | Stores a binary value using PMOS and NMOS                 | [View Folder](./CMOS_Circuits/SR_Latch)      |
+| **⚙️ CMOS Logic Gates**   | Basic logic gates built from PMOS and NMOS               | [View Folder](./CMOS_Circuits/CMOS_Logic_Gates) |
 
 
 #### 🔗 4️⃣ Hardware Description Language (HDL) Section  
