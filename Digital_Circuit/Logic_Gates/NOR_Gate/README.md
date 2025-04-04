@@ -45,5 +45,5 @@ This is how you can wire the NOR gate using two transistors, resistors, and an L
 
 
 ## 🔹 NEXT  
-**👉[CMOS Inverter](../../CMOS_Logic_Gates/CMOS_NOT_Gate)**
+**👉[Adder/substractor](../../Combinational_Circuit/+_-)**
 
