@@ -19,25 +19,6 @@ Each folder contains:
 
 ---
 
-## 📐 Circuit Overview
-
-### 🔒 CMOS SR Latch
-**What It Does:**  
-The **CMOS SR Latch** (Set-Reset Latch) is a basic memory element used in digital systems. It stores a binary state based on two inputs:  
-- **S = 1, R = 0**: Set the latch (Q = 1, Q' = 0)  
-- **S = 0, R = 1**: Reset the latch (Q = 0, Q' = 1)  
-- **S = 0, R = 0**: The latch holds its previous state  
-- **S = 1, R = 1**: This is an invalid state for the latch and is generally avoided.
-
-The latch is built using **CMOS inverters** (constructed with **PMOS** and **NMOS** transistors). These inverters are connected in a feedback loop to form the SR Latch.
-
-**Core Concepts:**  
-- **CMOS logic gates**  
-- **Feedback loops for memory storage**  
-- **PMOS and NMOS transistors**  
-- **Low power consumption and efficient switching**
-
-👉 [Explore the Schematic](./SR_Latch)
 
 
 
