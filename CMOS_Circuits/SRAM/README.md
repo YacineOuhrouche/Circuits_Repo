@@ -67,4 +67,4 @@ Alternative SRAM types (1T, 4T) are more compact but suffer from instability or 
 ---
 
 ## 🔹 NEXT  
-**👉 [SR Latch](../SR_Latch)**  
+**👉 [CMOS Ring Oscillator](../Ring_Oscillator)**  
