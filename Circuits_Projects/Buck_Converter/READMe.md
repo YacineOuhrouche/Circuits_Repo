@@ -47,7 +47,7 @@ A **buck converter** is a type of **switching regulator** that reduces voltage t
 ---
 ## 📜 Schematic Diagram
 
-![Screenshot 2025-04-04 111025](https://github.com/user-attachments/assets/a9fe0d0f-0bf8-43e9-902b-3b7e548d6ff5)
+![Screenshot 2024-12-19 142607](https://github.com/user-attachments/assets/42978040-a140-4860-ac5e-8dee422a5afb)
 
 ---
 
