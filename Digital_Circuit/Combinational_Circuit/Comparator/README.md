@@ -9,7 +9,7 @@ Comparators are used to enable conditional operations like sorting, threshold de
 - **1-bit Comparator** → Compares two 1-bit inputs
 - **2-bit Comparator** → Compares two 2-bit binary numbers
 - **4-bit Comparator** → Compares two 4-bit binary numbers
-- **Magnitude Comparator** → Outputs three signals: A > B, A = B, A < B
+
 
 ---
 
