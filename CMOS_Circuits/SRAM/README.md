@@ -10,8 +10,8 @@ This is the fundamental building block of larger memory arrays such as **registe
 ## 📌 Prerequisites  
 Before building or analyzing this circuit, it's helpful to understand:  
 - ✅ Basics of **MOSFETs** (nMOS and pMOS behavior)  
-- ✅ [CMOS Inverter Design](../../Digital_Circuit/Logic_Gates/CMOS_Logic_Gates/CMOS_Inverter)  
-- ✅ [SRAM Memory Arrays](../SRAM_Memory)  
+- ✅ [CMOS Inverter Design](../../Digital_Circuit/Logic_Gates/CMOS_Logic_Gates/CMOS_NOT_Gate)  
+- ✅ [SRAM Memory Arrays](../../Digital_Circuit/Memory_Circuit/RAM)  
 - ✅ Knowledge of **Read/Write timing** in digital memory  
 
 ---
