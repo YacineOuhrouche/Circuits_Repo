@@ -21,7 +21,6 @@ Each folder contains:
 | 🔄 **Ćuk Converter** | Outputs negative voltage | Medium (75-90%) | Audio amplifiers, power inverters | [Ćuk Converter Folder](./Cuk_Converter) |
 | 🔄 **SEPIC Converter** | Step-up/down conversion with positive output | Medium (75-90%) | Renewable energy, battery systems | [SEPIC Converter Folder](./SEPIC_Converter) |
 | 🔌 **Isolated Converter** | Provides **isolated** voltage conversion using a transformer | High (80-95%)|Telecom, industrial power supplies| [Isolated Converter Folder](./Isolated_Converter) |
-| ⚡ **Charge Pump (Switched Capacitor)** | Steps up/inverts voltage without an inductor | Low (60-85%) | LCD biasing, low-power voltage regulation | [Charge Pump Folder](./Charge_Pump) |
 
 
 ---
