@@ -41,29 +41,12 @@ The 1-bit SRAM cell is made using:
 
 ## 🗂️ Schematic  
 
-![SRAM Schematic](./sram_schematic.png)  
-*A 1-bit SRAM cell schematic using 6 transistors (6T CMOS)*
 
 ---
 
-## 🔌 Breadboard or Simulation Setup  
 
-Although SRAM cells are usually not prototyped on breadboards due to transistor-level complexity, this circuit can be:  
-- Simulated using **LTspice**, **Ngspice**, or **Cadence Virtuoso**  
-- Designed with CMOS models and tested for read/write behavior
 
----
 
-## 🛠 Components Used  
-
-| Component | Description |
-|----------|-------------|
-| **2× CMOS Inverters** | Store the actual data bit (flip-flop style) – see [Inverter Circuit](../CMOS_Inverter) |
-| **2× nMOS Access Transistors** | Enable read/write access based on the word line |
-| **Bit Lines (BL, BL̅)** | Interface for reading/writing data |
-| **Word Line (WL)** | Selects the cell for access |
-
----
 
 ## 🔮 Future Improvements  
 - 🔁 Design a **4×1 SRAM array** using multiple 1-bit cells  
@@ -73,4 +56,5 @@ Although SRAM cells are usually not prototyped on breadboards due to transistor-
 
 ---
 
-## 📂 Folder Structure  
+## 🔹 NEXT  
+**👉 [SR Latch](../SR_Lacth)** 
