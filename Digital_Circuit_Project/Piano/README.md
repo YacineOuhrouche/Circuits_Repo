@@ -56,7 +56,6 @@ Each pushbutton connects a unique combination of resistors to form the RB value 
 | B5   | 988            | 6731   | 390Ω + 6.2kΩ |
 | C6   | 1047           | 6325   | 6.2kΩ |
 
-> ⚠️ Due to rounding and component availability, tones may be slightly off-key — but still musically pleasant.
 
 ---
 ## 🧰 Components Used
