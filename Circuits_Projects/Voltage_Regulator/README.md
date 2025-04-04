@@ -7,14 +7,6 @@ In this case, the regulator converts a **higher DC input (e.g., 9V or 12V)** dow
 
 ---
 
-## 📌 Prerequisites  
-Before building this circuit, it's helpful to understand:
-- **Ohm’s Law and Power Dissipation**
-- **Voltage Divider Principles**
-- **Linear Regulator ICs (e.g., 7805)**  
-- **Heat management in analog circuits**
-
----
 
 ## Why I Chose a 5V Linear Regulator 🔋  
 1. **Common Voltage Level**: 5V is a standard for powering most microcontrollers (like Arduino), sensors, and digital ICs.
@@ -39,6 +31,7 @@ The **linear voltage regulator** maintains 5V output using a voltage regulator I
 | **🔲 7805 Regulator IC** | Maintains a constant 5V output              |
 | **🔋 Input Voltage Source** | Provides input voltage (e.g., 9V or 12V) |
 | **🔧 Capacitors**   | Filters input/output for voltage stability   |
+| **🔵 Diode (Schottky)**| Allows current during OFF state       |
 
 ---
 ## 📜 Schematic Diagram
