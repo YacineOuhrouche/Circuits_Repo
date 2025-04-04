@@ -1,4 +1,4 @@
-# 📘 **Encoder: A Comprehensive Guide**
+# 📘 **Encoder**
 
 ## ✨ **Introduction**
 An **Encoder** is a **combinational logic circuit** that converts multiple input lines into a smaller number of output lines. It is the reverse of a **Decoder** and is used in applications such as **data compression**, **priority encoding**, and **keyboard encoding**.
@@ -114,8 +114,8 @@ Encoders are essential in **digital electronics** for data compression and effic
 | **Decimal to BCD**    | 10             | 4               |
 
 ---
-**👉[More About Encoders ](https://www.electronics-tutorials.ws/combination/comb_5.html)**
-
+**👉[More About Encoders ](https://www.electronics-tutorials.ws/combination/comb_4.html)**
+---
 
 ## 💡 **Conclusion**
 Encoders are key **digital circuits** for data compression and transmission. They efficiently convert multiple input lines into compact binary codes, optimizing data handling in **communication systems, microprocessors, and display devices**.
