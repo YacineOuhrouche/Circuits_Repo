@@ -73,6 +73,7 @@ Each pushbutton connects a unique combination of resistors to form the RB value 
 ---
 ## 🔌 Schematic
 
+![Screenshot 2025-04-04 121352](https://github.com/user-attachments/assets/1d359d17-984d-4eab-a3f6-a49229c878f0)
 
 
 ---
