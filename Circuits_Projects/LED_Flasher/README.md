@@ -48,3 +48,6 @@ This is a snapshot of the LED Flasher working in a simulation:
 
 ![Screenshot 2025-03-20 135731](https://github.com/user-attachments/assets/b71dc5d0-9cc4-445b-9aa5-2437f1908e98)
 
+
+## 🔹 NEXT  
+**👉 [Digital Piano](../../Digital_Circuit_Project/Piano)**  
