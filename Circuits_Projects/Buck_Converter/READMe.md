@@ -19,6 +19,7 @@ Before building this circuit, it’s helpful to have a basic understanding of:
 1. **Real-World Application**: Buck converters are essential in battery-powered devices, microcontroller power supplies, and embedded systems.
 2. **Energy Efficiency**: Compared to linear regulators, buck converters waste less power and produce less heat.
 3. **Hands-on Learning**: Building one helped me better understand switching regulators, pulse-width modulation (PWM), and the role of inductive filtering.
+4. **Practical Voltage Step-Down (12V to 5V)**: 12V power sources are common in many systems (e.g., wall adapters, automotive electronics), while 5V is a standard operating voltage for most microcontrollers (like Arduino), sensors, and USB-powered devices. This makes 12V to 5V a **practical and useful** conversion in real-world circuits.
 
 ---
 
