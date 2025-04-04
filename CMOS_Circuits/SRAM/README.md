@@ -1,9 +1,9 @@
-# 🧠 1-Bit SRAM Cell in CMOS Project  
+# 🧠 1-Bit 6T SRAM Cell in CMOS Project  
 
 ## Overview 🧩  
-This project demonstrates the design and functionality of a **1-bit Static Random Access Memory (SRAM) cell** implemented using **CMOS technology**. The cell is capable of storing a single bit of binary data (either `0` or `1`) and allows **read** and **write** operations using control signals.
+This project demonstrates the design and functionality of a **1-bit Static Random Access Memory (SRAM) cell** implemented using **CMOS technology**. The cell follows the **6-transistor (6T)** configuration, which is the standard in modern SRAM design due to its balance of **stability**, **speed**, and **efficiency**.
 
-This is the fundamental building block of larger memory arrays such as **register files**, **cache memories**, and **on-chip RAM**.
+This 1-bit memory element allows **read** and **write** operations using control signals and serves as the basic building block of memory arrays used in **register files**, **cache**, and **on-chip RAM**.
 
 ---
 
@@ -16,45 +16,53 @@ Before building or analyzing this circuit, it's helpful to understand:
 
 ---
 
-## 🧠 Why Build a 1-Bit SRAM Cell?  
-- 🔬 **Memory fundamentals**: Understanding the 1-bit SRAM gives insights into how modern memory systems are constructed.  
+## 🧠 Why Build a 6T SRAM Cell?  
+- 🔬 **Memory fundamentals**: Understanding the 6T SRAM gives insights into how modern memory systems are constructed.  
 - 🏗️ **Foundational circuit**: It is the smallest unit in an SRAM matrix and crucial to digital system design.  
 - 🧪 **CMOS exploration**: This is a practical application of CMOS logic in data storage.  
+- 🛠️ **Industry relevance**: The 6T cell is used in real-world CPUs and memory chips.  
 
 ---
 
 ## ⚙️ How It Works  
 
-The 1-bit SRAM cell is made using:  
-- **Two cross-coupled CMOS inverters** to store the bit  
-- **Two nMOS access transistors** to connect/disconnect the cell from the bit lines (BL and BL̅) during read and write operations  
-- **Word Line (WL)** to control access to the cell
+The 1-bit **6T SRAM cell** is made using:  
+- **Two cross-coupled CMOS inverters** (4 transistors) that form a bistable latch to store 0 or 1  
+- **Two nMOS access transistors** controlled by the **Word Line (WL)**  
+- **Two Bit Lines (BL and BL̅)** used to read or write data to the cell
 
 ### 🧾 Operations:
 
 | Operation | Description |
 |----------|-------------|
-| **Write** | The word line (WL) is activated, and the value is forced onto the bit lines (BL and BL̅) using write circuitry. The cross-coupled inverters latch the value. |
-| **Read** | WL is activated while the bit lines are precharged. The stored value pulls one of the bit lines low, allowing the data to be read nondestructively. |
+| **Write** | Activate the **Word Line (WL)** and drive the Bit Lines (BL and BL̅) with the desired value. The access transistors conduct, and the inverters latch the data. |
+| **Read** | Precharge the Bit Lines, activate WL, and the stored value is transferred to one of the Bit Lines depending on the cell state (BL drops low or stays high). |
 
 ---
 
 ## 🗂️ Schematic  
 
+---
+
+## 📐 Choosing the Right Cell Type  
+
+This design uses a **6T configuration**, which is preferred due to:  
+- ✅ High **read stability**  
+- ✅ **Non-destructive reads**  
+- ✅ Good **noise margins**  
+- ✅ Real-world application accuracy  
+
+Alternative SRAM types (1T, 4T) are more compact but suffer from instability or refresh requirements.
 
 ---
 
-
-
-
-
 ## 🔮 Future Improvements  
-- 🔁 Design a **4×1 SRAM array** using multiple 1-bit cells  
-- 🧱 Add **sense amplifier circuitry** for accurate reads  
-- ⚡ Include **power gating** to reduce leakage current  
-- 📐 Layout the design using **EDA tools** and verify with DRC/LVS  
+- 🔁 Extend the design to a **4×1 or 8×1 SRAM array** using multiple 6T cells  
+- 🧱 Add **sense amplifiers** for high-speed and accurate reads  
+- ⚡ Implement **power gating** or sleep mode for low-power operation  
+- 🧪 Use **layout and fabrication tools** for a complete VLSI workflow  
 
 ---
 
 ## 🔹 NEXT  
-**👉 [SR Latch](../SR_Latch)** 
+**👉 [SR Latch](../SR_Latch)**  
