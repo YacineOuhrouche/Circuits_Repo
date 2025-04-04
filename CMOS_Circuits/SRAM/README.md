@@ -57,4 +57,4 @@ The 1-bit SRAM cell is made using:
 ---
 
 ## 🔹 NEXT  
-**👉 [SR Latch](../SR_Lacth)** 
+**👉 [SR Latch](../SR_Latch)** 
