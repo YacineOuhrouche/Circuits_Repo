@@ -31,6 +31,8 @@ Encoders are essential in **digital electronics** for data compression and effic
 | 0  | 1  | 0  | 0  | 1  | 0  |
 | 1  | 0  | 0  | 0  | 1  | 1  |
 
+![Screenshot 2025-04-04 191454](https://github.com/user-attachments/assets/e6a85ce5-28c7-425b-a7e3-d50842dd0977)
+
 ---
 
 ## 📌 **8-to-3 Encoder**
