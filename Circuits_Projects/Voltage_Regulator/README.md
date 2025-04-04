@@ -63,4 +63,4 @@ The **5V linear voltage regulator** is a simple yet essential component in power
 ---
 
 ## 🔹 NEXT  
-**👉 [Audio Amplifier](../Analog_Circuit_Project/Audio_Amplifier)**  
+**👉 [Audio Amplifier](../Audio_Amplifier)**  
