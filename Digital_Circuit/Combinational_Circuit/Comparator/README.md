@@ -70,6 +70,8 @@ Compares two 4-bit binary numbers `A3A2A1A0` and `B3B2B1B0`.
 | 4-bit Comparator | A3–A0, B3–B0  | A > B, A = B, A < B          |
 
 ---
+**👉[More About Comparators ](https://www.electronics-tutorials.ws/combination/comb_8.html)**
+---
 
 ## 💡 **Conclusion**
 Comparators are essential components in digital systems that allow **logical decision-making** based on binary magnitudes. They play a vital role in **data processing**, **arithmetic operations**, and **real-time control systems**.
