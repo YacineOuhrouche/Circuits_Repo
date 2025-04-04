@@ -27,6 +27,9 @@ Compares two 1-bit inputs `A` and `B`.
 | 1 | 0 |   1    |   0    |   0    |
 | 1 | 1 |   0    |   1    |   0    |
 
+![Screenshot 2025-04-04 134538](https://github.com/user-attachments/assets/16c53115-9804-4646-8b07-f22858b5defa)
+
+
 ---
 
 ## 📌 **2-bit Comparator**
