@@ -9,7 +9,6 @@ An encoder with `2^n` inputs produces `n` output lines.
 - **4-to-2 Encoder** → 4 inputs, 2 outputs
 - **8-to-3 Encoder** → 8 inputs, 3 outputs
 - **Priority Encoder** → Handles multiple active inputs with priority selection
-- **Decimal to BCD Encoder** → Converts decimal inputs into Binary-Coded Decimal (BCD) outputs
 
 Encoders are essential in **digital electronics** for data compression and efficient signal transmission.
 
@@ -75,28 +74,6 @@ Encoders are essential in **digital electronics** for data compression and effic
 
 (*X = Don't Care Condition*)
 
----
-
-## 📌 **Decimal to BCD Encoder**
-
-### 🔹 **How It Works:**
-- Converts a **decimal input (0-9)** into a **4-bit BCD code**.
-- Used in **calculators**, **display systems**, and **digital clocks**.
-
-### 📷 **Truth Table**:
-
-| Decimal | B₃ | B₂ | B₁ | B₀ |
-|---------|----|----|----|----|
-| 0       | 0  | 0  | 0  | 0  |
-| 1       | 0  | 0  | 0  | 1  |
-| 2       | 0  | 0  | 1  | 0  |
-| 3       | 0  | 0  | 1  | 1  |
-| 4       | 0  | 1  | 0  | 0  |
-| 5       | 0  | 1  | 0  | 1  |
-| 6       | 0  | 1  | 1  | 0  |
-| 7       | 0  | 1  | 1  | 1  |
-| 8       | 1  | 0  | 0  | 0  |
-| 9       | 1  | 0  | 0  | 1  |
 
 ---
 
