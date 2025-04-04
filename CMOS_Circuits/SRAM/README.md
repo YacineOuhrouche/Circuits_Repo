@@ -42,6 +42,8 @@ The 1-bit **6T SRAM cell** is made using:
 
 ## 🗂️ Schematic  
 
+![Screenshot 2025-04-04 131116](https://github.com/user-attachments/assets/0646a97d-15c2-4d2c-a5d6-8c3409e8bcec)
+
 ---
 
 ## 📐 Choosing the Right Cell Type  
