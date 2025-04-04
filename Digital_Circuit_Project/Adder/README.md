@@ -73,4 +73,4 @@ The **4-bit binary adder** is a foundational circuit that demonstrates the core 
 - 📉 Add support for **signed numbers**.
 
 ## 🔹 NEXT  
-**👉 [SR Latch](../../CMOS_Circuits/SR_Latch)**
+**👉 [CMOS SRAM Cell](../../CMOS_Circuits/SRAM)**
