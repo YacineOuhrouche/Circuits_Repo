@@ -37,11 +37,8 @@ Compares two 1-bit inputs `A` and `B`.
 ### 🔹 **How It Works:**
 Compares two 2-bit binary numbers `A1A0` and `B1B0`.
 
-### 📷 **Example Conditions**:
-- If `A1 > B1` → A > B  
-- If `A1 = B1` and `A0 > B0` → A > B  
-- If `A1 = B1` and `A0 = B0` → A = B  
-- If `A1 < B1` or `A1 = B1` and `A0 < B0` → A < B
+![Screenshot 2025-04-04 143130](https://github.com/user-attachments/assets/951dec6f-ad6b-4395-b62c-1782dbeb0864)
+
 
 ---
 
@@ -50,9 +47,7 @@ Compares two 2-bit binary numbers `A1A0` and `B1B0`.
 ### 🔹 **How It Works:**
 Compares two 4-bit binary numbers `A3A2A1A0` and `B3B2B1B0`.
 
-### 📷 **Logic:**
-- Uses **cascaded 1-bit comparators** or dedicated **4-bit magnitude comparator ICs** like **7485**.
-- Outputs: `A > B`, `A = B`, `A < B`
+### 📷 **Diagram:  **You can imagine it
 
 ---
 
