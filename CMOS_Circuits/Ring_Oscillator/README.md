@@ -63,4 +63,4 @@ This project uses a **3-stage ring**, but other odd values like 5, 7, or 9 can a
 ---
 
 ## 🔹 NEXT  
-**👉 [CMOS NOT Gate](../CMOS_Logic_Gates/CMOS_NOT_Gate)**  
+**👉 [CMOS SR Latch](../SR_Latch)**  
