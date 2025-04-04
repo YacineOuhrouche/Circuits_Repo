@@ -38,7 +38,10 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 #### 🔗 3️⃣ CMOS Circuits  
 | ⚙️ Circuit | 📜 Description | 🔗 Link |
 |---|---|---|
-| **🔁 SR Latch** | A basic CMOS SR Latch using PMOS and NMOS transistors to store a binary state | [View Circuit](./CMOS_Circuits/SR_Latch/) |
+| **🧠 CMOS SRAM Cell**  | A **6-transistor SRAM memory cell** storing a single bit using CMOS topology | [View Folder](./CMOS_Circuits/SRAM) |
+| **🔒 CMOS SR Latch**   | A basic **CMOS SR Latch** using **PMOS** and **NMOS** transistors to store a binary state | [View Folder](./CMOS_Circuits/SR_Latch) |
+| **⚙️ CMOS Logic Gates**| Basic  gates implemented using **PMOS and NMOS** transistors | [View Folder](./CMOS_Circuits/CMOS_Logic_Gates) |
+
 
 #### 🔗 4️⃣ Hardware Description Language (HDL) Section  
 | ⚙️ Circuit | 📜 Description | 🔗 Link |
