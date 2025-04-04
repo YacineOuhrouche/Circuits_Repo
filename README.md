@@ -39,6 +39,7 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 | ⚙️ Circuit | 📜 Description | 🔗 Link |
 |---|---|---|
 | **🧠 CMOS SRAM Cell**  | A **6-transistor SRAM memory cell** storing a single bit using CMOS topology | [View Folder](./CMOS_Circuits/SRAM) |
+| **🔁 CMOS Ring Oscillator** | A **CMOS-based oscillator** using an odd number of inverters to generate a periodic signal      | [View Folder](./CMOS_Circuits/Ring_Oscillator) |
 | **🔒 CMOS SR Latch**   | A basic **CMOS SR Latch** using **PMOS** and **NMOS** transistors to store a binary state | [View Folder](./CMOS_Circuits/SR_Latch) |
 | **⚙️ CMOS Logic Gates**| Basic  gates implemented using **PMOS and NMOS** transistors | [View Folder](./CMOS_Circuits/CMOS_Logic_Gates) |
 
