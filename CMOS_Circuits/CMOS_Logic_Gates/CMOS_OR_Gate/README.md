@@ -53,4 +53,5 @@ This is the **simulation ** from ** Falstad**, showing correct OR behavior: (It 
 
 
 ## 🔹 NEXT  
-**👉[Adder/Sub](../../../Combinational_Circuit/+_-)**
+**👉 [Traffic Light Controller](../../HDL/Traffic_Light_Controller)**  
+
