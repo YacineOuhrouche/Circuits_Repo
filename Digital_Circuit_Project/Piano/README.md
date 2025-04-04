@@ -81,6 +81,7 @@ Each pushbutton connects a unique combination of resistors to form the RB value 
 
 ## 🛠 Breadboard Setup
 
+![Screenshot 2025-04-04 120108](https://github.com/user-attachments/assets/6d5a95c9-fcdb-40ba-bc60-6c4bc01a13a2)
 
 ---
 
