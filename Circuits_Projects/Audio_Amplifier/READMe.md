@@ -76,3 +76,6 @@ This **two-stage Class A audio amplifier** successfully increases both the volta
 - 🔋 Exploring **Class AB or Class D amplifier topology** for further efficiency improvements.
 
 ---
+
+## 🔹 NEXT  
+**👉 [LED Flasher](../LED_Flasher)**  
