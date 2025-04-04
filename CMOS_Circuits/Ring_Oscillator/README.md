@@ -41,9 +41,16 @@ The CMOS Ring Oscillator is made by connecting an **odd number of inverters** in
 
 ## 🗂️ Schematic  
 
+![Screenshot 2025-04-04 174504](https://github.com/user-attachments/assets/e72eb5dd-e880-41b0-a204-37259b1fb86e)
+
 
 ---
+## 📊 Simulation Waveform Output  
 
+![Screenshot 2025-04-04 174516](https://github.com/user-attachments/assets/16704a92-93d3-4ba8-a410-1b6fba1deca0)
+
+
+---
 ## 📐 Choosing the Right Configuration  
 
 This project uses a **3-stage ring**, but other odd values like 5, 7, or 9 can also be used.  
