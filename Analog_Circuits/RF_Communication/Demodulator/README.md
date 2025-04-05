@@ -34,7 +34,7 @@ In **Amplitude Demodulation (AM Demodulation)**, the **amplitude** variations of
    - The signal is passed through a **diode detector** or a **synchronous detector**.
    - The carrier frequency is removed, and the original modulating signal is recovered from the variations in the amplitude.
 
-**👉 [More on AM Demodulation](https://www.electronics-tutorials.ws/radio/am-demodulation.html)**
+
 
 ### **Key Characteristics**:
 
@@ -51,9 +51,10 @@ In **Amplitude Demodulation (AM Demodulation)**, the **amplitude** variations of
 | Widely used in commercial broadcasting.              | Limited to low-fidelity audio.                       |
 
 ### **Applications**:
-   - **AM Radio**: Used in AM radio receivers to decode transmitted signals.
-   - **Broadcasting**: AM demodulation is used in radio and television broadcasting systems.
-
+   - ✅**AM Radio**: Used in AM radio receivers to decode transmitted signals.
+   - ✅**Broadcasting**: AM demodulation is used in radio and television broadcasting systems.
+     
+**👉 [More on AM Demodulation](https://www.electronics-tutorials.ws/radio/am-demodulation.html)**
 ---
 
 ## 📌 Frequency Demodulation (FM Demodulation)
@@ -68,8 +69,6 @@ In **Frequency Demodulation (FM Demodulation)**, the **frequency** variations in
    - The signal is passed through a **frequency discriminator** or **phase-locked loop (PLL)**.
    - The output of the discriminator represents the modulating signal, which is then processed to extract the original information.
 
-**👉 [More on FM Demodulation](https://www.tescaglobal.com/blog/frequency-modulation-detection/)**
-   
 ### **Key Characteristics**:
 
 - **Bandwidth Requirement**: FM demodulation requires a wider bandwidth compared to AM.
@@ -85,10 +84,11 @@ In **Frequency Demodulation (FM Demodulation)**, the **frequency** variations in
 | Less susceptible to amplitude noise.                 | More complex than AM demodulation.                   |
 
 ### **Applications**:
-   - **FM Radio Receivers**: FM demodulation is used in FM radios for high-quality sound reception.
-   - **Television Audio**: FM demodulation is used in the audio channels of analog television systems.
-   - **Two-Way Radios**: FM demodulation is also used in two-way radio communications for reliable transmission.
+   - ✅**FM Radio Receivers**: FM demodulation is used in FM radios for high-quality sound reception.
+   - ✅**Television Audio**: FM demodulation is used in the audio channels of analog television systems.
+   - ✅**Two-Way Radios**: FM demodulation is also used in two-way radio communications for reliable transmission.
 
+**👉 [More on FM Demodulation](https://www.tescaglobal.com/blog/frequency-modulation-detection/)**
 ---
 
 ## 📌 Phase Demodulation (PM Demodulation)
@@ -102,8 +102,6 @@ In **Phase Demodulation (PM Demodulation)**, the **phase** changes in the receiv
 2. **Demodulation Process**:
    - The signal is passed through a **phase detector** or **synchronous detector**.
    - The phase variations are extracted to recover the modulating signal.
-
-**👉 [More on PM Demodulation](https://www.electronics-tutorials.ws/radio/phase-modulation.html)**
 
 ### **Key Characteristics**:
 
@@ -120,9 +118,10 @@ In **Phase Demodulation (PM Demodulation)**, the **phase** changes in the receiv
 | Effective in communication systems with high-frequency carriers. | More susceptible to phase errors.                   |
 
 ### **Applications**:
-   - **Satellite Communication**: PM demodulation is used in satellite communication systems.
-   - **Military Communication**: Used in military and secure communication systems due to its resistance to interference.
+   - ✅**Satellite Communication**: PM demodulation is used in satellite communication systems.
+   - ✅**Military Communication**: Used in military and secure communication systems due to its resistance to interference.
 
+**👉 [More on PM Demodulation](https://www.electronics-tutorials.ws/radio/phase-modulation.html)**
 ---
 
 ## 📌 Amplitude Shift Keying Demodulation (ASK Demodulation)
@@ -136,9 +135,7 @@ In **Amplitude Shift Keying Demodulation (ASK Demodulation)**, the modulated sig
 2. **Demodulation Process**:
    - The signal is passed through a **rectifier** and **low-pass filter** to extract the data.
    - The received signal's amplitude is compared to a threshold to detect logic '1' and '0'.
-
-**👉 [More on ASK Demodulation](https://www.electronics-tutorials.ws/io/amplitude-shift-keying.html)**
-
+     
 ### **Key Characteristics**:
 
 - **Bandwidth Requirement**: Similar to the bandwidth requirement of the modulating signal.
@@ -154,9 +151,11 @@ In **Amplitude Shift Keying Demodulation (ASK Demodulation)**, the modulated sig
 | Efficient for short-range communication.             | Limited to low data rates.                          |
 
 ### **Applications**:
-   - **RFID Systems**: ASK demodulation is used in RFID systems for object tracking and identification.
-   - **Short-Range Communication**: Used in simple low-power wireless systems.
+   - ✅**RFID Systems**: ASK demodulation is used in RFID systems for object tracking and identification.
+   - ✅**Short-Range Communication**: Used in simple low-power wireless systems.
 
+
+**👉 [More on ASK Demodulation](https://www.electronics-tutorials.ws/io/amplitude-shift-keying.html)**
 ---
 
 ## 📌 Frequency Shift Keying Demodulation (FSK Demodulation)
@@ -170,8 +169,6 @@ In **Frequency Shift Keying Demodulation (FSK Demodulation)**, the demodulation 
 2. **Demodulation Process**:
    - The signal is passed through a **frequency discriminator** or **phase-locked loop (PLL)**.
    - The discriminator detects the frequency shifts and maps them to binary '1' and '0'.
-
-**👉 [More on FSK Demodulation](https://www.electronics-tutorials.ws/io/frequency-shift-keying.html)**
 
 ### **Key Characteristics**:
 
@@ -188,9 +185,10 @@ In **Frequency Shift Keying Demodulation (FSK Demodulation)**, the demodulation 
 | Reliable in noisy environments.                      | Requires more power for signal transmission.        |
 
 ### **Applications**:
-   - **Modems**: FSK demodulation is used in legacy modems to transmit data over telephone lines.
-   - **Wireless Communication**: FSK is used in some radio communication systems.
+   -✅ **Modems**: FSK demodulation is used in legacy modems to transmit data over telephone lines.
+   - ✅**Wireless Communication**: FSK is used in some radio communication systems.
 
+**👉 [More on FSK Demodulation](https://www.electronics-tutorials.ws/io/frequency-shift-keying.html)**
 ---
 
 ## 📌 Phase Shift Keying Demodulation (PSK Demodulation)
@@ -204,8 +202,6 @@ In **Phase Shift Keying Demodulation (PSK Demodulation)**, the demodulation proc
 2. **Demodulation Process**:
    - The signal is passed through a **phase detector**.
    - The phase shifts are mapped back to binary data based on pre-defined phase states.
-
-**👉 [More on PSK Demodulation](https://www.electronics-tutorials.ws/io/phase-shift-keying.html)**
 
 ### **Key Characteristics**:
 
@@ -224,7 +220,8 @@ In **Phase Shift Keying Demodulation (PSK Demodulation)**, the demodulation proc
 ### **Applications**:
    - **Wi-Fi and Bluetooth**: PSK is used in modern wireless communication systems.
    - **Satellite Communication**: PSK demodulation is used for robust signal transmission in satellite communication systems.
-
+     
+**👉 [More on PSK Demodulation](https://www.electronics-tutorials.ws/io/phase-shift-keying.html)**
 ---
 
 ## 📌 Quadrature Amplitude Modulation Demodulation (QAM Demodulation)
@@ -238,8 +235,6 @@ In **Quadrature Amplitude Modulation Demodulation (QAM Demodulation)**, the demo
 2. **Demodulation Process**:
    - The signal is passed through a **matched filter** or **quadrature demodulator**.
    - Both the amplitude and phase information are extracted and mapped to the binary data.
-
-**👉 [More on QAM Demodulation](https://www.electronics-tutorials.ws/io/quadrature-amplitude-modulation.html)**
 
 ### **Key Characteristics**:
 
@@ -256,10 +251,11 @@ In **Quadrature Amplitude Modulation Demodulation (QAM Demodulation)**, the demo
 | Suitable for high-speed communication systems.       | Sensitive to noise and distortion in the channel.     |
 
 ### **Applications**:
-   - **4G/5G Cellular Networks**: QAM demodulation is used for high-speed data communication.
-   - **Digital Television**: QAM is used in cable television for transmitting high-definition video.
-   - **Cable Modems**: QAM is the backbone of cable modem technology for broadband internet.
+   - ✅**4G/5G Cellular Networks**: QAM demodulation is used for high-speed data communication.
+   - ✅**Digital Television**: QAM is used in cable television for transmitting high-definition video.
+   - ✅**Cable Modems**: QAM is the backbone of cable modem technology for broadband internet.
 
+**👉 [More on QAM Demodulation](https://www.electronics-tutorials.ws/io/quadrature-amplitude-modulation.html)**
 ---
 
 ## 📌 Orthogonal Frequency Division Multiplexing Demodulation (OFDM Demodulation)
@@ -274,7 +270,6 @@ In **Orthogonal Frequency Division Multiplexing Demodulation (OFDM Demodulation)
    - The signal is passed through an **FFT (Fast Fourier Transform)**.
    - The data from each subcarrier is extracted and combined to recover the original signal.
 
-**👉 [More on OFDM Demodulation](https://www.electronics-tutorials.ws/io/orthogonal-frequency-division-multiplexing.html)**
 
 ### **Key Characteristics**:
 
@@ -291,10 +286,11 @@ In **Orthogonal Frequency Division Multiplexing Demodulation (OFDM Demodulation)
 | Efficient use of bandwidth.                          | Requires complex hardware for modulation and demodulation. |
 
 ### **Applications**:
-   - **Wi-Fi (IEEE 802.11ac, 802.11n)**: OFDM is used in modern Wi-Fi standards.
-   - **4G/5G LTE Networks**: OFDM is used in cellular networks for efficient data transmission.
-   - **Digital Broadcasting**: OFDM is used for both digital TV and radio broadcasting.
+   - ✅**Wi-Fi (IEEE 802.11ac, 802.11n)**: OFDM is used in modern Wi-Fi standards.
+   - ✅**4G/5G LTE Networks**: OFDM is used in cellular networks for efficient data transmission.
+   - ✅**Digital Broadcasting**: OFDM is used for both digital TV and radio broadcasting.
 
+**👉 [More on OFDM Demodulation](https://www.electronics-tutorials.ws/io/orthogonal-frequency-division-multiplexing.html)**
 ---
 
 
