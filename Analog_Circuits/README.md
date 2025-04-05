@@ -36,6 +36,17 @@ Each folder contains:
 | **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./Power_Electronics/Rectifier/)          |
 | **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./Power_Electronics/H_Bridge) |
 
+---
+
+### 📡 **RF & Communication Circuits**
+
+| ⚙️ Circuit              | 📜 Description                                                                 | 🔗 Link                                                   |
+|------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------|
+| **📤 Modulator**        | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)       | [View Folder](./RF_Communication/Modulator)                |
+| **📥 Demodulator**      | Recovers the original message from a modulated carrier signal                   | [View Folder](./RF_Communication/Demodulator)              |
+| **⏱️ PLL Circuit**       | Phase-Locked Loop for frequency synthesis, demodulation, and clock recovery     | [View Folder](./RF_Communication/PLL_Circuit)              |
+| **🔁 Mixer**            | Combines two signals to shift frequency (used in up/down-conversion)            | [View Folder](./RF_Communication/Mixer_Circuit)            |
+| **🧾 Envelope Detector** | Extracts the envelope (modulating signal) from an AM waveform                   | [View Folder](./RF_Communication/Envelope_Detector)        |
 
 
 ---
