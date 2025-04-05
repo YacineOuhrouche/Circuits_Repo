@@ -53,7 +53,8 @@ In **Frequency Modulation (FM)**, the **frequency** of the carrier signal is var
 
     This method of modulation allows for better **noise immunity** than AM, as it is less affected by amplitude noise.
 
-
+**👉 [More on FM](https://www.heavy.ai/technical-glossary/frequency-modulation)**
+---
 ## 📌 Phase Modulation (PM)
 
 ### 🔹 **How It Works:**
@@ -68,7 +69,8 @@ In **Phase Modulation (PM)**, the **phase** of the carrier signal is varied base
 
     - Phase shifts represent data, and changes in phase correlate with changes in the modulating signal.
 
-
+**👉 [More on PM](https://www.flyeye.io/drone-acronym-pm/)**
+---
 
 ## 📌 Amplitude Shift Keying (ASK)
 
