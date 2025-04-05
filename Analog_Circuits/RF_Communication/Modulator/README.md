@@ -1,4 +1,4 @@
-# 📘 Modulation Techniques 
+# 📘 Modulation Techniques
 
 ## ✨ Introduction  
 Modulation is the process of **altering a carrier signal** to encode information such as voice, video, or data. It is a **core principle in communication systems**, enabling long-distance signal transmission over various media like radio waves, cables, and fiber optics.
@@ -25,122 +25,151 @@ Modulation can be broadly categorized into **analog** and **digital** types:
 ## 📌 Amplitude Modulation (AM)
 
 🔹 **How It Works:**  
-In AM, the **amplitude** of a high-frequency carrier signal is varied in proportion to the message signal (modulating signal), while the frequency and phase remain constant.
+In **Amplitude Modulation (AM)**, the **amplitude** of a high-frequency **carrier signal** is varied in direct proportion to the **instantaneous value** of the **modulating signal** (such as an audio or video signal). The frequency and phase of the carrier remain unchanged.
 
-📷 **Waveform Example:**  
+This means the message signal causes the carrier wave to "grow" or "shrink" in amplitude depending on the data, while the carrier frequency stays constant. 
 
-🛠 **Applications:**  
-- AM Radio
-- Airband radio communication
+**Mathematically**, the AM signal can be represented as:
+
+\[
+s(t) = [A_c + A_m \cdot m(t)] \cdot \cos(2 \pi f_c t)
+\]
+
+Where:
+- \( A_c \) is the amplitude of the carrier wave,
+- \( A_m \) is the modulation depth (how much the amplitude of the carrier changes),
+- \( m(t) \) is the modulating signal (e.g., audio data),
+- \( f_c \) is the carrier frequency.
+
+### **Waveform **
+
+### **Schematic:**
 
 ---
 
 ## 📌 Frequency Modulation (FM)
 
 🔹 **How It Works:**  
-In FM, the **frequency** of the carrier is varied according to the message signal, while amplitude remains constant. This provides better noise immunity than AM.
+In **Frequency Modulation (FM)**, the **frequency** of the carrier signal is varied in accordance with the **instantaneous amplitude** of the modulating signal. The amplitude of the carrier remains constant, while its frequency changes based on the input signal's characteristics.
 
-📷 **Waveform Example:**  
+FM provides **better noise immunity** compared to AM, as noise typically affects the amplitude of a signal, which does not influence FM signals as much.
 
-🛠 **Applications:**  
-- FM Radio Broadcasting
-- Television Sound Transmission
+
+
+### **Waveform Example:**
+![FM Waveform](path/to/fm_waveform.png)  
+*The carrier signal with frequency shifts based on the modulating signal.*
+
+### **Schematic:**
+![FM Schematic](path/to/fm_schematic.png)  
+*Basic circuit for generating an FM signal.*
 
 ---
 
 ## 📌 Phase Modulation (PM)
 
 🔹 **How It Works:**  
-In PM, the **phase** of the carrier signal is varied based on the modulating signal. PM is closely related to FM and is used in many digital systems.
+In **Phase Modulation (PM)**, the **phase** of the carrier signal is varied based on the instantaneous value of the modulating signal. Like FM, PM is a type of angle modulation but focuses on the phase shift rather than frequency.
 
-📷 **Waveform Example:**  
+PM is closely related to FM, and the difference lies in how the signal reacts to the modulating signal. While FM varies the frequency based on the signal's amplitude, PM changes the carrier phase in response to the modulating signal.
 
-🛠 **Applications:**  
-- Bluetooth Communication
-- Satellite Telemetry
+
+### **Waveform Example:**
+
+### **Schematic:**
+
 
 ---
 
 ## 📌 Amplitude Shift Keying (ASK)
 
 🔹 **How It Works:**  
-ASK is a digital modulation where the **amplitude** of the carrier is switched based on binary data. Logic 1 is transmitted by a carrier wave; logic 0 by no carrier.
+**Amplitude Shift Keying (ASK)** is a digital modulation technique where the **amplitude** of the carrier wave is switched between different levels, typically **two levels** to represent binary data (0 and 1). The carrier wave is transmitted at full amplitude for a logic 1, and it is absent (zero amplitude) for a logic 0.
 
-📷 **Waveform Example:**  
+This allows digital data to be encoded onto a carrier using variations in the signal’s strength or intensity.
 
-🛠 **Applications:**  
-- RFID
-- Optical Fiber Communication
+ASK is simple but can be vulnerable to noise and interference because noise typically affects the signal's amplitude, leading to errors in data transmission.
+
+### **Waveform Example:**
+
+
+### **Schematic:**
+
 
 ---
 
 ## 📌 Frequency Shift Keying (FSK)
 
 🔹 **How It Works:**  
-In FSK, the **frequency** of the carrier is changed according to the digital input. Typically, two distinct frequencies represent 1 and 0.
+In **Frequency Shift Keying (FSK)**, the **frequency** of the carrier signal is shifted between two distinct frequencies to represent binary data. A logic 1 could be represented by one frequency, while a logic 0 could be represented by another frequency.
 
-📷 **Waveform Example:**  
+FSK is commonly used in communication systems where data needs to be transmitted over long distances with less concern about amplitude fluctuations and noise.
 
-🛠 **Applications:**  
-- GSM
-- Low-bandwidth radio systems
+### **Waveform Example:**
+
+
+### **Schematic:**
+
 
 ---
 
 ## 📌 Phase Shift Keying (PSK)
 
 🔹 **How It Works:**  
-PSK alters the **phase** of the carrier signal to represent digital data. Variants like BPSK, QPSK, and 8-PSK increase data rates.
+**Phase Shift Keying (PSK)** encodes binary data by altering the **phase** of the carrier signal. Each phase shift represents a specific bit of data. For example, in **Binary PSK (BPSK)**, two phases (0° and 180°) represent binary 1 and 0.
 
-📷 **Waveform Example:**  
+Higher-order variants like **QPSK (Quadrature PSK)** and **8-PSK** allow multiple bits to be encoded per symbol by using more phase shifts, which increases the data rate.
 
-🛠 **Applications:**  
-- Wi-Fi
-- GPS
-- Satellite communication
+### **Waveform Example:**
+
+
+### **Schematic:**
+
 
 ---
 
 ## 📌 Quadrature Amplitude Modulation (QAM)
 
 🔹 **How It Works:**  
-QAM combines **amplitude and phase modulation**, allowing multiple bits to be sent per symbol. For example, 16-QAM transmits 4 bits per symbol.
+**Quadrature Amplitude Modulation (QAM)** combines **amplitude modulation** and **phase modulation**. It encodes data by varying both the amplitude and phase of the carrier signal. This allows more data to be transmitted at once, as multiple bits can be encoded in each symbol.
 
-📷 **Constellation Diagram:**  
+For example, in **16-QAM**, each symbol represents 4 bits of data by using different combinations of amplitude and phase shifts. This increases the data rate compared to simpler modulation schemes.
 
-🛠 **Applications:**  
-- 4G/5G LTE
-- Cable Modems
-- Digital TV
+### **Waveform Example:**
+
+
+### **Schematic:**
+
 
 ---
 
 ## 📌 Orthogonal Frequency Division Multiplexing (OFDM)
 
 🔹 **How It Works:**  
-OFDM splits the data into multiple subcarriers that are **orthogonal** to each other, reducing interference and increasing spectral efficiency.
+**Orthogonal Frequency Division Multiplexing (OFDM)** splits the data into several subcarriers, each modulated by a lower data rate signal. These subcarriers are **orthogonal** to each other, meaning they do not interfere despite being close together in frequency. This improves the spectral efficiency and allows for the use of multiple carriers in parallel.
 
-📷 **Block Diagram:**  
+OFDM is highly resistant to interference and distortion, making it suitable for high-speed broadband applications like Wi-Fi, 4G, and digital TV.
 
-🛠 **Applications:**  
-- Wi-Fi (802.11)
-- LTE
-- DVB-T (Digital TV)
+### **Waveform Example:**
+
+
+### **Schematic:**
+
 
 ---
 
 ## 📌 Summary Table  
 
-| Type | Technique | Used In |
-|------|-----------|---------|
-| **Analog** | AM | Radio, Aviation |
-|            | FM | FM Radio, TV |
-|            | PM | Satellite, Bluetooth |
-| **Digital** | ASK | RFID, Optical Comm |
-|              | FSK | GSM, Low-speed Modems |
-|              | PSK | Wi-Fi, GPS |
-|              | QAM | 4G, 5G, Cable Modems |
-|              | OFDM | LTE, Wi-Fi, DVB-T |
+| Type       | Technique | Used In |
+|------------|-----------|---------|
+| **Analog** | AM        | Radio, Aviation |
+|            | FM        | FM Radio, TV |
+|            | PM        | Satellite, Bluetooth |
+| **Digital**| ASK       | RFID, Optical Comm |
+|            | FSK       | GSM, Low-speed Modems |
+|            | PSK       | Wi-Fi, GPS |
+|            | QAM       | 4G, 5G, Cable Modems |
+|            | OFDM      | LTE, Wi-Fi, DVB-T |
 
 ---
 
@@ -157,8 +186,7 @@ OFDM splits the data into multiple subcarriers that are **orthogonal** to each o
 ## 💡 Conclusion  
 Modulation techniques are foundational in **analog and digital communication systems**. Understanding them is crucial for designing efficient wireless systems, **RF circuits**, and **modern networking infrastructure**.
 
-**👉 [More on Modulation from Electronics Tutorials](https://www.electronics-tutorials.ws/modulation/mod_1.html)**
-**👉 [More on Modulation from Electronics Tutorials](https://www.electronics-tutorials.ws/modulation/mod_1.html){:target="_blank"}**
+**👉 [More on Modulation ](https://www.electronics-tutorials.ws/modulation/mod_1.html)**
 
 ---
 
