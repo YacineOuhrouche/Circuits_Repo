@@ -54,7 +54,7 @@ In **Amplitude Demodulation (AM Demodulation)**, the **amplitude** variations of
    - ✅**AM Radio**: Used in AM radio receivers to decode transmitted signals.
    - ✅**Broadcasting**: AM demodulation is used in radio and television broadcasting systems.
      
-**👉 [More on AM Demodulation](https://www.electronics-tutorials.ws/radio/am-demodulation.html)**
+**👉 [More on AM Demodulation](https://www.electronics-notes.com/articles/radio/modulation/amplitude-modulation-am-demodulation-detection.php)**
 ---
 
 ## 📌 Frequency Demodulation (FM Demodulation)
