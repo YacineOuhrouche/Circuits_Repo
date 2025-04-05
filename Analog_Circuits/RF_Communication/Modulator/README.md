@@ -88,6 +88,8 @@ In **Amplitude Shift Keying (ASK)**, the **amplitude** of the carrier wave is va
 
 This modulation method is simple and is often used in low-speed communication systems but is sensitive to noise since it modulates the amplitude, which is easily affected by noise.
 
+**👉 [More on ASK](https://www.elprocus.com/amplitude-shift-keying-ask-working-and-applications/)**
+---
 
 ## 📌 Frequency Shift Keying (FSK)
 
@@ -105,6 +107,8 @@ In **Frequency Shift Keying (FSK)**, the **frequency** of the carrier signal is 
 
 FSK provides better noise immunity than ASK because it uses frequency instead of amplitude, which is less prone to distortion from noise.
 
+**👉 [More on FSK](https://www.elprocus.com/frequency-shift-keying-fsk-working-applications/)**
+---
 
 ---
 
@@ -125,7 +129,8 @@ In **Phase Shift Keying (PSK)**, the **phase** of the carrier signal is varied i
 
 PSK is efficient in terms of bandwidth and can be more resistant to noise compared to ASK.
 
-
+**👉 [More on PSK](https://www.elprocus.com/phase-shift-keying-psk-types-and-its-applications/)**
+---
 
 ## 📌 Quadrature Amplitude Modulation (QAM)
 
@@ -143,6 +148,8 @@ In **Quadrature Amplitude Modulation (QAM)**, both the **amplitude** and the **p
 
 QAM increases data throughput, making it efficient for high-speed communications.
 
+**👉 [More on QAM](https://www.elprocus.com/quadrature-amplitude-modulation/)**
+---
 
 ## 📌 Orthogonal Frequency Division Multiplexing (OFDM)
 
@@ -160,7 +167,8 @@ In **Orthogonal Frequency Division Multiplexing (OFDM)**, the data is split into
 
 OFDM provides high spectral efficiency and is resistant to interference and multi-path fading.
 
-
+**👉 [More on OFDM](https://devopedia.org/orthogonal-frequency-division-multiplexing)**
+---
 
 ## 📌 Summary Table  
 
