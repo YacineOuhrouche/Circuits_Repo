@@ -6,17 +6,17 @@ A **Phase-Locked Loop (PLL)** is an electronic circuit that synchronizes an outp
 
 ---
 
-## 🔧 Basic Components of a PLL
+## 🔄 How a PLL Works (General Overview)
 
-A typical PLL circuit consists of the following blocks:
+1. The **Phase Detector (PD)** compares the input signal and the VCO output to detect phase/frequency error.
+2. The **Low-Pass Filter (LPF)** removes noise and high-frequency components from this error signal.
+3. The filtered signal adjusts the **Voltage-Controlled Oscillator (VCO)** to align its frequency and phase with the input.
+4. The VCO output is fed back to close the loop, enabling it to stay "locked" on the input.
 
-- **Phase Detector (PD)**: Compares the phase of the input signal with the VCO output.
-- **Low-Pass Filter (LPF)**: Filters the phase detector output to remove high-frequency components.
-- **Voltage-Controlled Oscillator (VCO)**: Produces a signal whose frequency is controlled by the input voltage.
-- **Feedback Path**: Sends a portion of the VCO output back to the phase detector.
-
+This loop allows the PLL to track or generate highly stable frequencies.
 
 ---
+
 ## 📡 Types of PLL Circuits and Their Applications
 
 ---
@@ -50,13 +50,13 @@ Analog PLLs use continuous-time analog signals. The phase detector and filter ar
 ### 2. 🔹 Digital PLL (DPLL)
 
 #### 📋 Description:
-Analog PLLs use continuous-time analog signals. The phase detector and filter are analog components.
+Digital PLLs use discrete-time digital logic (counters, comparators, flip-flops) for phase comparison and control.
 
 #### 🧠 How It Works:
 - Uses digital logic (counters, comparators) to detect phase differences.
 - The digital phase error signal is filtered using digital methods.
 - The output adjusts a digital-controlled oscillator or modifies clock dividers.
-- Feedback ensures synchronization with input signal.
+- Feedback ensures synchronization with the input signal.
 
 #### ✅ Applications:
 - Clock recovery in digital communication  
@@ -74,6 +74,7 @@ Analog PLLs use continuous-time analog signals. The phase detector and filter ar
 ---
 
 ### 3. 🔹 All-Digital PLL (ADPLL)
+
 #### 📋 Description:
 Fully digital implementation with no analog components. Uses DSP (Digital Signal Processing) techniques.
 
@@ -98,6 +99,7 @@ Fully digital implementation with no analog components. Uses DSP (Digital Signal
 ---
 
 ### 4. 🔹 Charge-Pump PLL (CP-PLL)
+
 #### 📋 Description:
 A specialized analog PLL where the phase detector output controls a current source (charge pump) that adjusts the VCO.
 
@@ -122,11 +124,23 @@ A specialized analog PLL where the phase detector output controls a current sour
 
 ---
 
+## 📊 Comparison Table
+
+| Type       | Best For                        | Complexity | Noise Immunity | Integration |
+|------------|----------------------------------|------------|----------------|-------------|
+| APLL       | Simple analog systems            | Low        | Low            | Discrete/IC |
+| DPLL       | Digital systems with timing needs| Medium     | Medium         | High        |
+| ADPLL      | FPGAs, SoCs, DSPs                | High       | High           | Very High   |
+| CP-PLL     | High-performance RF systems      | High       | Very High      | Medium      |
+
+---
+
 ## 🧠 Summary
 
 Phase-Locked Loops are **essential building blocks** in modern electronics, enabling synchronization, modulation, and signal recovery in a wide range of systems. Understanding each type of PLL and its tradeoffs is key to selecting the right architecture for your design.
 
 ---
 
+
 ## 🔹 NEXT  
-**👉 [Mixers](../Mixer)**  
+**👉 [Mixers](../Mixer)**
