@@ -328,4 +328,4 @@ Modulation techniques are foundational in **analog and digital communication sys
 ---
 
 ## 🔹 NEXT  
-**👉 [Demodulation Techniques](../Demodulation)**  
+**👉 [Demodulation Techniques](../Demodulator)**  
