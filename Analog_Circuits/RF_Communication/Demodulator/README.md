@@ -88,7 +88,7 @@ In **Frequency Demodulation (FM Demodulation)**, the **frequency** variations in
    - ✅**Television Audio**: FM demodulation is used in the audio channels of analog television systems.
    - ✅**Two-Way Radios**: FM demodulation is also used in two-way radio communications for reliable transmission.
 
-**👉 [More on FM Demodulation](https://www.tescaglobal.com/blog/frequency-modulation-detection/)**
+**👉 [More on FM Demodulation](https://www.electronics-notes.com/articles/radio/modulation/fm-frequency-demodulation-detection-discrimination.php#google_vignette)**
 ---
 
 ## 📌 Phase Demodulation (PM Demodulation)
