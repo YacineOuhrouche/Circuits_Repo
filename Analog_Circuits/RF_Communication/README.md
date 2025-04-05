@@ -16,7 +16,6 @@ These circuits cover essential components in RF systems, including modulators, m
 | **📡 Antenna Matching Network** | Matches impedance between circuit and antenna to maximize power transfer | [View Folder](./Antenna_Matching)   |
 | **📉 RF Attenuator**        | Reduces signal strength for testing or safe receiver input                     | [View Folder](./RF_Attenuator)      |
 | **🔄 Automatic Gain Control (AGC)** | Stabilizes signal amplitude in receivers — helps prevent clipping or fading | [View Folder](./AGC_Circuit)         |
-| **🎚️ Balanced Modulator**  | Used for DSB-SC and SSB generation — cancels carrier while keeping sidebands    | [View Folder](./Balanced_Modulator) |
 | **📵 RF Switch**            | Switches between multiple antennas or signal paths (e.g., for TX/RX switching) | [View Folder](./RF_Switch)          |
 
 ---
