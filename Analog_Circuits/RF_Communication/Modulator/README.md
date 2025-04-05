@@ -24,96 +24,140 @@ Modulation can be broadly categorized into **analog** and **digital** types:
 
 ## 📌 Amplitude Modulation (AM)
 
-🔹 **How It Works:**  
-In **Amplitude Modulation (AM)**, the **amplitude** of a high-frequency **carrier signal** is varied in direct proportion to the **instantaneous value** of the **modulating signal** (such as an audio or video signal). The frequency and phase of the carrier remain unchanged.
+### 🔹 **How It Works:**
 
-This means the message signal causes the carrier wave to "grow" or "shrink" in amplitude depending on the data, while the carrier frequency stays constant. 
+In **Amplitude Modulation (AM)**, the **amplitude** of a high-frequency **carrier signal** is varied in direct proportion to the **instantaneous value** of the **modulating signal** (such as an audio or video signal). The frequency and phase of the carrier remain constant.
 
-**👉 [More on AM ](https://egrassbcollege.ac.in/wp-content/uploads/2020/04/Pradip-29_4-sem-6.pdf)**
+1. **Carrier Signal**: A high-frequency sine wave that acts as the baseline signal for the transmission.
+   
+2. **Modulating Signal**: The message or information signal, typically an audio or voice signal, that carries the data to be transmitted.
+
+3. **Modulation Process**: The **amplitude** of the carrier signal changes in response to the instantaneous value of the modulating signal. The modulating signal does not affect the frequency or phase of the carrier.
+
+4. **AM Signal Representation**: The resulting AM signal can be visualized as a high-frequency carrier wave whose amplitude changes in a pattern that mirrors the modulating signal.
+
 ---
 
 ## 📌 Frequency Modulation (FM)
 
-🔹 **How It Works:**  
+### 🔹 **How It Works:**
+
 In **Frequency Modulation (FM)**, the **frequency** of the carrier signal is varied in accordance with the **instantaneous amplitude** of the modulating signal. The amplitude of the carrier remains constant, while its frequency changes based on the input signal's characteristics.
 
-FM provides **better noise immunity** compared to AM, as noise typically affects the amplitude of a signal, which does not influence FM signals as much.
+1. **Carrier Signal**: A high-frequency sine wave that acts as the baseline for the transmission.
+   
+2. **Modulating Signal**: The message signal, typically an audio or voice signal, that alters the frequency of the carrier signal.
 
+3. **Modulation Process**: The **frequency** of the carrier signal varies proportionally to the amplitude of the modulating signal.
 
+    This method of modulation allows for better **noise immunity** than AM, as it is less affected by amplitude noise.
 
----
 
 ## 📌 Phase Modulation (PM)
 
-🔹 **How It Works:**  
-In **Phase Modulation (PM)**, the **phase** of the carrier signal is varied based on the instantaneous value of the modulating signal. Like FM, PM is a type of angle modulation but focuses on the phase shift rather than frequency.
+### 🔹 **How It Works:**
 
-PM is closely related to FM, and the difference lies in how the signal reacts to the modulating signal. While FM varies the frequency based on the signal's amplitude, PM changes the carrier phase in response to the modulating signal.
+In **Phase Modulation (PM)**, the **phase** of the carrier signal is varied based on the instantaneous value of the modulating signal. Like FM, PM is a form of **angle modulation** but focuses on changing the phase instead of the frequency.
+
+1. **Carrier Signal**: A high-frequency sine wave that acts as the baseline signal.
+   
+2. **Modulating Signal**: The input signal that affects the phase of the carrier.
+
+3. **Modulation Process**: The **phase** of the carrier is altered in proportion to the modulating signal. The higher the amplitude of the modulating signal, the greater the phase shift.
+
+    - Phase shifts represent data, and changes in phase correlate with changes in the modulating signal.
 
 
-
-
----
 
 ## 📌 Amplitude Shift Keying (ASK)
 
-🔹 **How It Works:**  
-**Amplitude Shift Keying (ASK)** is a digital modulation technique where the **amplitude** of the carrier wave is switched between different levels, typically **two levels** to represent binary data (0 and 1). The carrier wave is transmitted at full amplitude for a logic 1, and it is absent (zero amplitude) for a logic 0.
+### 🔹 **How It Works:**
 
-This allows digital data to be encoded onto a carrier using variations in the signal’s strength or intensity.
+In **Amplitude Shift Keying (ASK)**, the **amplitude** of the carrier wave is varied between different levels to represent binary data (1 and 0). The carrier signal is transmitted at full amplitude for a logic '1', and zero amplitude (no signal) for a logic '0'. 
 
-ASK is simple but can be vulnerable to noise and interference because noise typically affects the signal's amplitude, leading to errors in data transmission.
+1. **Carrier Signal**: A high-frequency sine wave that forms the baseline for transmission.
 
+2. **Modulating Signal**: The digital data that alters the amplitude of the carrier.
 
+3. **Modulation Process**: 
+    - When the modulating signal represents a '1', the carrier's amplitude is at maximum.
+    - When the modulating signal represents a '0', the carrier's amplitude is set to zero, effectively "turning off" the signal.
 
+This modulation method is simple and is often used in low-speed communication systems but is sensitive to noise since it modulates the amplitude, which is easily affected by noise.
 
----
 
 ## 📌 Frequency Shift Keying (FSK)
 
-🔹 **How It Works:**  
-In **Frequency Shift Keying (FSK)**, the **frequency** of the carrier signal is shifted between two distinct frequencies to represent binary data. A logic 1 could be represented by one frequency, while a logic 0 could be represented by another frequency.
+### 🔹 **How It Works:**
 
-FSK is commonly used in communication systems where data needs to be transmitted over long distances with less concern about amplitude fluctuations and noise.
+In **Frequency Shift Keying (FSK)**, the **frequency** of the carrier signal is shifted between two distinct frequencies to represent binary data. One frequency represents a logic '1', and the other represents a logic '0'. 
 
+1. **Carrier Signal**: A high-frequency sine wave that is shifted in frequency.
+   
+2. **Modulating Signal**: The binary data, which causes the frequency of the carrier to shift.
 
+3. **Modulation Process**: 
+    - The frequency of the carrier is changed between two distinct frequencies to represent binary data.
+    - A '1' might be represented by a higher frequency, and a '0' by a lower frequency (or vice versa).
+
+FSK provides better noise immunity than ASK because it uses frequency instead of amplitude, which is less prone to distortion from noise.
 
 
 ---
 
 ## 📌 Phase Shift Keying (PSK)
 
-🔹 **How It Works:**  
-**Phase Shift Keying (PSK)** encodes binary data by altering the **phase** of the carrier signal. Each phase shift represents a specific bit of data. For example, in **Binary PSK (BPSK)**, two phases (0° and 180°) represent binary 1 and 0.
+### 🔹 **How It Works:**
 
-Higher-order variants like **QPSK (Quadrature PSK)** and **8-PSK** allow multiple bits to be encoded per symbol by using more phase shifts, which increases the data rate.
+In **Phase Shift Keying (PSK)**, the **phase** of the carrier signal is varied in accordance with the modulating signal. Different phases represent different bits or symbols in the data.
+
+1. **Carrier Signal**: A high-frequency sine wave with a specific phase.
+   
+2. **Modulating Signal**: The binary data that determines the phase of the carrier.
+
+3. **Modulation Process**: 
+    - Each phase shift in the carrier wave corresponds to a binary symbol.
+    - For example, in **Binary PSK (BPSK)**, the carrier might shift between 0° (representing 0) and 180° (representing 1).
+    - In higher-order PSK, multiple phase shifts can represent more than one bit.
+
+PSK is efficient in terms of bandwidth and can be more resistant to noise compared to ASK.
 
 
-
-
----
 
 ## 📌 Quadrature Amplitude Modulation (QAM)
 
-🔹 **How It Works:**  
-**Quadrature Amplitude Modulation (QAM)** combines **amplitude modulation** and **phase modulation**. It encodes data by varying both the amplitude and phase of the carrier signal. This allows more data to be transmitted at once, as multiple bits can be encoded in each symbol.
+### 🔹 **How It Works:**
 
-For example, in **16-QAM**, each symbol represents 4 bits of data by using different combinations of amplitude and phase shifts. This increases the data rate compared to simpler modulation schemes.
+In **Quadrature Amplitude Modulation (QAM)**, both the **amplitude** and the **phase** of the carrier signal are varied simultaneously to encode multiple bits of data. This allows more bits per symbol compared to simpler modulation schemes like ASK or PSK.
 
+1. **Carrier Signal**: A high-frequency sine wave with both amplitude and phase components.
+   
+2. **Modulating Signal**: A digital data stream that modulates both the amplitude and phase.
 
+3. **Modulation Process**: 
+    - QAM allows multiple combinations of amplitude and phase to represent multiple bits.
+    - For example, in **16-QAM**, each symbol represents 4 bits by varying the amplitude and phase in 16 different ways.
 
----
+QAM increases data throughput, making it efficient for high-speed communications.
+
 
 ## 📌 Orthogonal Frequency Division Multiplexing (OFDM)
 
-🔹 **How It Works:**  
-**Orthogonal Frequency Division Multiplexing (OFDM)** splits the data into several subcarriers, each modulated by a lower data rate signal. These subcarriers are **orthogonal** to each other, meaning they do not interfere despite being close together in frequency. This improves the spectral efficiency and allows for the use of multiple carriers in parallel.
+### 🔹 **How It Works:**
 
-OFDM is highly resistant to interference and distortion, making it suitable for high-speed broadband applications like Wi-Fi, 4G, and digital TV.
+In **Orthogonal Frequency Division Multiplexing (OFDM)**, the data is split into several smaller subcarriers, each modulated by a lower data rate signal. These subcarriers are spaced so that they don’t interfere with each other despite being close together in frequency.
+
+1. **Carrier Signals**: Multiple orthogonal subcarriers, each with a low data rate.
+   
+2. **Modulating Signal**: Data that is divided and mapped onto the subcarriers.
+
+3. **Modulation Process**: 
+    - The data is split into several streams, each of which is modulated using a technique like QAM or PSK.
+    - The subcarriers are transmitted simultaneously and are orthogonal to each other, preventing interference.
+
+OFDM provides high spectral efficiency and is resistant to interference and multi-path fading.
 
 
-
----
 
 ## 📌 Summary Table  
 
@@ -147,4 +191,5 @@ Modulation techniques are foundational in **analog and digital communication sys
 ---
 
 ## 🔹 NEXT  
-**👉 [Demodulation Techniques](../Demodulation)**
+**👉 [Demodulation Techniques](../Demodulation)**  
+
