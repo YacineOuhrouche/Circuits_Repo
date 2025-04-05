@@ -121,7 +121,7 @@ In **Phase Demodulation (PM Demodulation)**, the **phase** changes in the receiv
    - ✅**Satellite Communication**: PM demodulation is used in satellite communication systems.
    - ✅**Military Communication**: Used in military and secure communication systems due to its resistance to interference.
 
-**👉 [More on PM Demodulation](https://www.electronics-tutorials.ws/radio/phase-modulation.html)**
+**👉 [More on PM Demodulation](https://www.allaboutcircuits.com/textbook/radio-frequency-analysis-design/radio-frequency-demodulation/how-to-demodulate-digital-phase-modulation/)**
 ---
 
 ## 📌 Amplitude Shift Keying Demodulation (ASK Demodulation)
@@ -155,7 +155,7 @@ In **Amplitude Shift Keying Demodulation (ASK Demodulation)**, the modulated sig
    - ✅**Short-Range Communication**: Used in simple low-power wireless systems.
 
 
-**👉 [More on ASK Demodulation](https://www.electronics-tutorials.ws/io/amplitude-shift-keying.html)**
+**👉 [More on ASK Demodulation](https://rahsoft.com/2024/12/31/amplitude-shift-keying-ask-demodulation/)**
 ---
 
 ## 📌 Frequency Shift Keying Demodulation (FSK Demodulation)
@@ -188,7 +188,7 @@ In **Frequency Shift Keying Demodulation (FSK Demodulation)**, the demodulation 
    -✅ **Modems**: FSK demodulation is used in legacy modems to transmit data over telephone lines.
    - ✅**Wireless Communication**: FSK is used in some radio communication systems.
 
-**👉 [More on FSK Demodulation](https://www.electronics-tutorials.ws/io/frequency-shift-keying.html)**
+**👉 [More on FSK Demodulation](https://www.rfcafe.com/references/articles/wj-tech-notes/fsk-signals-demodulation-v7-5.pdf)**
 ---
 
 ## 📌 Phase Shift Keying Demodulation (PSK Demodulation)
@@ -221,7 +221,7 @@ In **Phase Shift Keying Demodulation (PSK Demodulation)**, the demodulation proc
    - **Wi-Fi and Bluetooth**: PSK is used in modern wireless communication systems.
    - **Satellite Communication**: PSK demodulation is used for robust signal transmission in satellite communication systems.
      
-**👉 [More on PSK Demodulation](https://www.electronics-tutorials.ws/io/phase-shift-keying.html)**
+**👉 [More on PSK Demodulation](https://rahsoft.com/2024/12/24/understanding-psk-demodulation-and-its-challenges/)**
 ---
 
 ## 📌 Quadrature Amplitude Modulation Demodulation (QAM Demodulation)
@@ -255,7 +255,7 @@ In **Quadrature Amplitude Modulation Demodulation (QAM Demodulation)**, the demo
    - ✅**Digital Television**: QAM is used in cable television for transmitting high-definition video.
    - ✅**Cable Modems**: QAM is the backbone of cable modem technology for broadband internet.
 
-**👉 [More on QAM Demodulation](https://www.electronics-tutorials.ws/io/quadrature-amplitude-modulation.html)**
+**👉 [More on QAM Demodulation](https://www.electronics-notes.com/articles/radio/modulation/quadrature-amplitude-modulation-qam-modulator-demodulator.php)**
 ---
 
 ## 📌 Orthogonal Frequency Division Multiplexing Demodulation (OFDM Demodulation)
@@ -290,7 +290,7 @@ In **Orthogonal Frequency Division Multiplexing Demodulation (OFDM Demodulation)
    - ✅**4G/5G LTE Networks**: OFDM is used in cellular networks for efficient data transmission.
    - ✅**Digital Broadcasting**: OFDM is used for both digital TV and radio broadcasting.
 
-**👉 [More on OFDM Demodulation](https://www.electronics-tutorials.ws/io/orthogonal-frequency-division-multiplexing.html)**
+**👉 [More on OFDM Demodulation](https://dspillustrations.com/pages/pages/courses/course_OFDM/html/03%20-%20Basic%20OFDM%20modulation%20and%20demodulation.html)**
 ---
 
 
@@ -301,5 +301,5 @@ Demodulation techniques are foundational in **analog and digital communication s
 ---
 
 ## 🔹 NEXT  
-**👉 [Mixers](../Mixer)**  
+**👉 [PLL](../PLL)**  
 
