@@ -10,7 +10,7 @@ These circuits cover essential components in RF systems, including modulators, m
 |----------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
 | **📤 Modulator**            | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)       | [View Folder](./Modulator)          |
 | **📥 Demodulator**          | Recovers the original message from a modulated carrier signal                   | [View Folder](./Demodulator)        |
-| **⏱️ PLL Circuit**          | Phase-Locked Loop for frequency synthesis, demodulation, and clock recovery     | [View Folder](./PLL_Circuit)        |
+| **⏱️ PLL Circuit**          | Phase-Locked Loop for frequency synthesis, demodulation, and clock recovery     | [View Folder](./PLL)        |
 | **🔁 Mixer**                | Combines two signals to shift frequency (used in up/down-conversion)            | [View Folder](./Mixer)      |
 | **📡 Antenna Matching Network** | Matches impedance between circuit and antenna to maximize power transfer | [View Folder](./Antenna_Matching)   |
 | **📉 RF Attenuator**        | Reduces signal strength for testing or safe receiver input                     | [View Folder](./RF_Attenuator)      |
