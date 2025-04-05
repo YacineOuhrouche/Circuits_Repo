@@ -35,7 +35,8 @@ In **Amplitude Modulation (AM)**, the **amplitude** of a high-frequency **carrie
 3. **Modulation Process**: The **amplitude** of the carrier signal changes in response to the instantaneous value of the modulating signal. The modulating signal does not affect the frequency or phase of the carrier.
 
 4. **AM Signal Representation**: The resulting AM signal can be visualized as a high-frequency carrier wave whose amplitude changes in a pattern that mirrors the modulating signal.
-
+   
+**👉 [More on AM](https://www.flyeye.io/drone-acronym-am/)**
 ---
 
 ## 📌 Frequency Modulation (FM)
