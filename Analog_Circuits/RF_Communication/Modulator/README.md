@@ -29,12 +29,7 @@ In **Amplitude Modulation (AM)**, the **amplitude** of a high-frequency **carrie
 
 This means the message signal causes the carrier wave to "grow" or "shrink" in amplitude depending on the data, while the carrier frequency stays constant. 
 
-
-
-### **Waveform **
-
-### **Schematic:**
-
+**👉 [More on AM ](https://egrassbcollege.ac.in/wp-content/uploads/2020/04/Pradip-29_4-sem-6.pdf)**
 ---
 
 ## 📌 Frequency Modulation (FM)
@@ -56,9 +51,6 @@ In **Phase Modulation (PM)**, the **phase** of the carrier signal is varied base
 PM is closely related to FM, and the difference lies in how the signal reacts to the modulating signal. While FM varies the frequency based on the signal's amplitude, PM changes the carrier phase in response to the modulating signal.
 
 
-### **Waveform Example:**
-
-### **Schematic:**
 
 
 ---
@@ -72,10 +64,7 @@ This allows digital data to be encoded onto a carrier using variations in the si
 
 ASK is simple but can be vulnerable to noise and interference because noise typically affects the signal's amplitude, leading to errors in data transmission.
 
-### **Waveform Example:**
 
-
-### **Schematic:**
 
 
 ---
@@ -87,10 +76,7 @@ In **Frequency Shift Keying (FSK)**, the **frequency** of the carrier signal is 
 
 FSK is commonly used in communication systems where data needs to be transmitted over long distances with less concern about amplitude fluctuations and noise.
 
-### **Waveform Example:**
 
-
-### **Schematic:**
 
 
 ---
@@ -102,10 +88,7 @@ FSK is commonly used in communication systems where data needs to be transmitted
 
 Higher-order variants like **QPSK (Quadrature PSK)** and **8-PSK** allow multiple bits to be encoded per symbol by using more phase shifts, which increases the data rate.
 
-### **Waveform Example:**
 
-
-### **Schematic:**
 
 
 ---
@@ -117,10 +100,6 @@ Higher-order variants like **QPSK (Quadrature PSK)** and **8-PSK** allow multipl
 
 For example, in **16-QAM**, each symbol represents 4 bits of data by using different combinations of amplitude and phase shifts. This increases the data rate compared to simpler modulation schemes.
 
-### **Waveform Example:**
-
-
-### **Schematic:**
 
 
 ---
@@ -132,10 +111,6 @@ For example, in **16-QAM**, each symbol represents 4 bits of data by using diffe
 
 OFDM is highly resistant to interference and distortion, making it suitable for high-speed broadband applications like Wi-Fi, 4G, and digital TV.
 
-### **Waveform Example:**
-
-
-### **Schematic:**
 
 
 ---
@@ -168,7 +143,6 @@ OFDM is highly resistant to interference and distortion, making it suitable for 
 ## 💡 Conclusion  
 Modulation techniques are foundational in **analog and digital communication systems**. Understanding them is crucial for designing efficient wireless systems, **RF circuits**, and **modern networking infrastructure**.
 
-**👉 [More on Modulation ](https://www.electronics-tutorials.ws/modulation/mod_1.html)**
 
 ---
 
