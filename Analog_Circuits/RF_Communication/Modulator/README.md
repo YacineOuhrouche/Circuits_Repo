@@ -29,17 +29,7 @@ In **Amplitude Modulation (AM)**, the **amplitude** of a high-frequency **carrie
 
 This means the message signal causes the carrier wave to "grow" or "shrink" in amplitude depending on the data, while the carrier frequency stays constant. 
 
-**Mathematically**, the AM signal can be represented as:
 
-\[
-s(t) = [A_c + A_m \cdot m(t)] \cdot \cos(2 \pi f_c t)
-\]
-
-Where:
-- \( A_c \) is the amplitude of the carrier wave,
-- \( A_m \) is the modulation depth (how much the amplitude of the carrier changes),
-- \( m(t) \) is the modulating signal (e.g., audio data),
-- \( f_c \) is the carrier frequency.
 
 ### **Waveform **
 
@@ -55,14 +45,6 @@ In **Frequency Modulation (FM)**, the **frequency** of the carrier signal is var
 FM provides **better noise immunity** compared to AM, as noise typically affects the amplitude of a signal, which does not influence FM signals as much.
 
 
-
-### **Waveform Example:**
-![FM Waveform](path/to/fm_waveform.png)  
-*The carrier signal with frequency shifts based on the modulating signal.*
-
-### **Schematic:**
-![FM Schematic](path/to/fm_schematic.png)  
-*Basic circuit for generating an FM signal.*
 
 ---
 
