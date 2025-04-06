@@ -140,6 +140,19 @@
 
 ---
 
+## 🔹 Using the Smith Chart for Impedance Matching
+
+To choose the right impedance matching network, the **Smith Chart** is an essential tool. It provides a graphical representation of complex impedance and can be used to:
+
+- Visualize impedance matching networks
+- Analyze complex reflection coefficients
+- Design and optimize L-section, Pi network, and other matching circuits
+
+The Smith Chart helps engineers visualize how components affect impedance and how to adjust parameters to minimize signal loss and maximize power transfer.
+
+**👉 [More on Smith Chart](https://www.rohde-schwarz.com/us/products/test-and-measurement/essentials-test-equipment/spectrum-analyzers/understanding-the-smith-chart_257989.html)**
+---
+
 ## 📌 Applications of Impedance Matching Networks
 
 - ✅ **Communication Systems**  
@@ -157,4 +170,4 @@ Impedance matching is an essential part of high-performance communication system
 ---
 
 ## 🔹 NEXT  
-**👉[RF Attenuator](../RF_Attenuator)**  
+**👉[RF Attenuator](../RF_Attenuator)**
