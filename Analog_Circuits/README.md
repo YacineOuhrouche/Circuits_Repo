@@ -42,11 +42,18 @@ Each folder contains:
 
 | ⚙️ Circuit              | 📜 Description                                                                 | 🔗 Link                                                   |
 |------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------|
-| **📤 Modulator**        | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)       | [View Folder](./RF_Communication/Modulator)                |
-| **📥 Demodulator**      | Recovers the original message from a modulated carrier signal                   | [View Folder](./RF_Communication/Demodulator)              |
-| **⏱️ PLL Circuit**       | Phase-Locked Loop for frequency synthesis, demodulation, and clock recovery     | [View Folder](./RF_Communication/PLL_Circuit)              |
-| **🔁 Mixer**            | Combines two signals to shift frequency (used in up/down-conversion)            | [View Folder](./RF_Communication/Mixer_Circuit)            |
-| **🧾 Envelope Detector** | Extracts the envelope (modulating signal) from an AM waveform                   | [View Folder](./RF_Communication/Envelope_Detector)        |
+| **🔁 Mixer**                       | Combines two signals to shift frequency (used in up/down-conversion)            | [View Folder](./RF_Communication/Mixer)                              |
+| **⏱️ PLL Circuit**                 | Phase-Locked Loop for frequency synthesis, demodulation, and clock recovery     | [View Folder](./RF_Communication/PLL)                                |
+| **📤 Modulator**                   | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)       | [View Folder](./RF_Communication/Modulator)                          |
+| **📥 Demodulator**                 | Recovers the original message from a modulated carrier signal                   | [View Folder](./RF_Communication/Demodulator)                        |
+| **📡 Antenna**                     | Converts electrical signals into radio waves or vice versa                      | [View Folder](./RF_Communication/Antenna)                            |
+| **📡 Antenna Matching Network**    | Matches impedance between circuit and antenna to maximize power transfer       | [View Folder](./RF_Communication/Antenna_Matching)                   |
+| **📉 RF Attenuator**               | Reduces signal strength for testing or safe receiver input                      | [View Folder](./RF_Communication/RF_Attenuator)                      |
+| **🔊 LNA (Low Noise Amplifier)**   | Amplifies weak signals with minimal noise addition, crucial for receiver front-ends | [View Folder](./RF_Communication/LNA)                              |
+| **🔋 Power Amplifier**             | Increases the power level of a signal to drive an antenna or long-distance communication | [View Folder](./RF_Communication/Power_Amplifier)                   |
+| **🔄 Automatic Gain Control (AGC)**| Stabilizes signal amplitude in receivers — helps prevent clipping or fading    | [View Folder](./RF_Communication/AGC_Circuit)                       |
+| **📵 RF Switch**                   | Switches between multiple antennas or signal paths (e.g., for TX/RX switching) | [View Folder](./RF_Communication/RF_Switch)                          |
+
 
 
 ---
