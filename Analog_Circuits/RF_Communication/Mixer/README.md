@@ -60,20 +60,7 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
   
 **👉 [More on IQ Mixer](https://www.microwaves101.com/encyclopedias/i-q-mixers)** 
 ---
-### 4️⃣ **Active Mixer**
-
-> Uses transistors or FETs for amplification while mixing.
-
-- ⚙️ **How it works**:  
-  Active mixers incorporate active devices like **transistors or FETs** to amplify the signals while mixing them. These active devices provide **conversion gain**, meaning the output signal strength can be higher than the input. The active elements allow for **higher linearity** and **dynamic range**, making them suitable for modern communication systems where low distortion is required.
-
-- 📈 Offers **conversion gain**
-- 🚀 Higher **linearity and dynamic range**
-- 📶 **Used in**: *Wireless transceivers, SDRs*
-
----
-
-### 5️⃣ **Heterodyne Mixer**
+### 4️⃣  **Heterodyne Mixer**
 
 > Converts signals by mixing them with a local oscillator to create a new intermediate frequency.
 
@@ -85,7 +72,7 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 **👉 [More on Heterodyne Mixer](https://rahsoft.com/2021/08/20/heterodyne-receivers-and-its-components/)** 
 ---
 
-### 6️⃣ **Image-Reject Mixer**
+### 5️⃣ **Image-Reject Mixer**
 
 > Uses filters or quadrature hybrids to reject unwanted image frequencies.
 
@@ -99,7 +86,7 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 **👉 [More on Image-Reject Mixer](https://www.electronics-notes.com/articles/radio/rf-mixer/image-rejection-mixer.php)** 
 ---
 
-### 7️⃣ **Single Diode Mixer**
+### 6️⃣ **Single Diode Mixer**
 
 > A basic non-linear mixer using a single diode and transformer.
 
@@ -115,7 +102,7 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 ---
 
 
-### 9️⃣ **Ring Mixer**
+### 7️⃣ **Ring Mixer**
 
 > A mixer that uses a **ring diode** configuration, often used in communications and radar systems.
 
