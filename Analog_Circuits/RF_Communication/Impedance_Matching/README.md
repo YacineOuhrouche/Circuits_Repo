@@ -38,7 +38,6 @@
 | Low cost                     | Requires careful component selection |
 
 **👉[More on L-Section Matching](https://www.analog.com/en/technical-articles/impedance-matching.html)**
-
 ---
 
 ### 2️⃣ **Pi Network Matching**
@@ -61,7 +60,6 @@
 | Suitable for broad frequency ranges | Can be complex to design       |
 
 **👉[More on Pi Network Matching](https://www.analog.com/en/technical-articles/impedance-matching-pi-network.html)**
-
 ---
 
 ### 3️⃣ **Transmission Line Matching (Quarter-Wave Transformer)**
@@ -84,7 +82,6 @@
 | Low loss                    | Requires precise length and impedance matching |
 
 **👉[More on Transmission Line Matching](https://www.electronics-tutorials.ws/io/io_4.html)**
-
 ---
 
 ### 4️⃣ **Impedance Matching via Antennas**
@@ -107,7 +104,6 @@
 | Helps prevent signal loss    | Complex for non-standard antennas |
 
 **👉[More on Antenna Matching](https://www.electronics-tutorials.ws/antennas/antenna-impedance-matching.html)**
-
 ---
 
 ### 5️⃣ **Small Signal Amplifier (SSA)**
@@ -130,8 +126,7 @@
 | Linear operation ensures low distortion | May require careful design for optimal performance |
 | Commonly used in RF front-ends | Requires power supply for operation |
 
-**👉[More on Small Signal Amplifiers](https://www.electronics-tutorials.ws/amplifier/small-signal-amplifier.html)**
-
+**👉[More on Small Signal Amplifiers](../../Analog_Basics/Small_Signal_Amplifier)**
 ---
 
 ## 🧠 Key Concepts
