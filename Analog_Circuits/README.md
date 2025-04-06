@@ -47,7 +47,7 @@ Each folder contains:
 | **📤 Modulator**                   | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)       | [View Folder](./RF_Communication/Modulator)                          |
 | **📥 Demodulator**                 | Recovers the original message from a modulated carrier signal                   | [View Folder](./RF_Communication/Demodulator)                        |
 | **📡 Antenna**                     | Converts electrical signals into radio waves or vice versa                      | [View Folder](./RF_Communication/Antenna)                            |
-| **📡 Antenna Matching Network**    | Matches impedance between circuit and antenna to maximize power transfer       | [View Folder](./RF_Communication/Antenna_Matching)                   |
+| **📡 Antenna Matching Network**    | Matches impedance between circuit and antenna to maximize power transfer       | [View Folder](./RF_Communication/Impedance_Matching)                   |
 | **📉 RF Attenuator**               | Reduces signal strength for testing or safe receiver input                      | [View Folder](./RF_Communication/RF_Attenuator)                      |
 | **🔊 LNA (Low Noise Amplifier)**   | Amplifies weak signals with minimal noise addition, crucial for receiver front-ends | [View Folder](./RF_Communication/LNA)                              |
 | **🔋 Power Amplifier**             | Increases the power level of a signal to drive an antenna or long-distance communication | [View Folder](./RF_Communication/Power_Amplifier)                   |
