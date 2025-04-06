@@ -126,7 +126,7 @@
 | Linear operation ensures low distortion | May require careful design for optimal performance |
 | Commonly used in RF front-ends | Requires power supply for operation |
 
-**👉[More on Small Signal Amplifiers](../../Analog_Basics/Small_Signal_Amplifier)**
+**👉[More on Small Signal Amplifiers](../../Analog_Basic/Small_Signal_Amplifier)**
 ---
 
 ## 🧠 Key Concepts
