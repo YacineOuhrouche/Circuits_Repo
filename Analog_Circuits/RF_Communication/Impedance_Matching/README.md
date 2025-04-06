@@ -37,7 +37,7 @@
 | Simple to design and implement | Limited to certain impedance ranges |
 | Low cost                     | Requires careful component selection |
 
-**👉[More on L-Section Matching](https://www.analog.com/en/technical-articles/impedance-matching.html)**
+**👉[More on L-Section Matching](https://www.allaboutcircuits.com/technical-articles/l-type-matching-network-basics-examining-l-network-frequency-response-and-bandwidth/)**
 ---
 
 ### 2️⃣ **Pi Network Matching**
@@ -59,7 +59,7 @@
 | High flexibility             | Requires more components        |
 | Suitable for broad frequency ranges | Can be complex to design       |
 
-**👉[More on Pi Network Matching](https://www.analog.com/en/technical-articles/impedance-matching-pi-network.html)**
+**👉[More on Pi Network Matching](https://www.impedans.com/the-pi-shaped-matching-network/)**
 ---
 
 ### 3️⃣ **Transmission Line Matching (Quarter-Wave Transformer)**
@@ -81,7 +81,7 @@
 | Simple and effective for matching | Only works at a specific frequency |
 | Low loss                    | Requires precise length and impedance matching |
 
-**👉[More on Transmission Line Matching](https://www.electronics-tutorials.ws/io/io_4.html)**
+**👉[More on Transmission Line Matching](https://www.allaboutcircuits.com/technical-articles/introduction-to-impedance-matching-using-transmission-line-elements/)**
 ---
 
 ### 4️⃣ **Impedance Matching via Antennas**
@@ -103,7 +103,7 @@
 | Can improve antenna performance | Requires careful design         |
 | Helps prevent signal loss    | Complex for non-standard antennas |
 
-**👉[More on Antenna Matching](https://www.electronics-tutorials.ws/antennas/antenna-impedance-matching.html)**
+**👉[More on Antenna Matching](https://resources.system-analysis.cadence.com/blog/msa2021-impedance-matching-techniques-for-antennas)**
 ---
 
 ### 5️⃣ **Small Signal Amplifier (SSA)**
