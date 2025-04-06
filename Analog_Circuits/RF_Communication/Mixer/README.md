@@ -30,6 +30,7 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 - 🛡️ Good **LO isolation**
 - 🧩 **Used in**: *IC-based mixers, PLLs, RF transceivers*
 
+**👉 [More on Gilbert Cell](https://www.electronics-notes.com/articles/radio/rf-mixer/gilbert-cell-rf-mixer.php)** 
 ---
 
 ### 2️⃣ **Double-Balanced Mixer**
@@ -42,7 +43,8 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 - 🧊 Suppresses both **RF and LO**
 - 🌟 Excellent **isolation & linearity**
 - 📡 **Used in**: *RF front-ends, up/down converters, frequency synthesizers*
-
+  
+**👉 [More on Double-Balanced](https://www.electronics-notes.com/articles/radio/rf-mixer/double-balanced-mixer.php)** 
 ---
 
 ### 3️⃣ **IQ Mixer (Quadrature Mixer)**
@@ -55,9 +57,9 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 - 🔄 Enables **modulation & demodulation**
 - 🧠 Supports **QAM, PSK**, and other digital schemes
 - 💻 **Used in**: *Software-defined radios (SDRs)*
-
+  
+**👉 [More on IQ Mixer](https://www.microwaves101.com/encyclopedias/i-q-mixers)** 
 ---
-
 ### 4️⃣ **Active Mixer**
 
 > Uses transistors or FETs for amplification while mixing.
@@ -79,7 +81,8 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
   The heterodyne mixer mixes the RF signal with a local oscillator (LO) signal to produce an intermediate frequency (IF). This process helps shift the frequency of the RF signal, making it easier for further processing in communication systems.
 
 - 🧳 **Used in**: *Superheterodyne receivers, frequency conversion*
-
+  
+**👉 [More on Heterodyne Mixer](https://rahsoft.com/2021/08/20/heterodyne-receivers-and-its-components/)** 
 ---
 
 ### 6️⃣ **Image-Reject Mixer**
@@ -123,19 +126,7 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 
 ---
 
-### 9️⃣ **Logarithmic Mixer**
-
-> A mixer that combines logarithmic amplifiers with mixers for use in applications requiring wide dynamic range.
-
-- ⚙️ **How it works**:  
-  The logarithmic mixer uses a logarithmic amplifier as part of the mixing process, providing better handling of signals that vary widely in power levels. This is useful in systems where large dynamic range is required, such as radar or satellite communications.
-
-- 🎯 **Wide dynamic range**
-- 🛰️ **Used in**: *Radar, satellite, and high-dynamic-range receivers*
-
----
-
-### 🔟 **Ring Mixer**
+### 9️⃣ **Ring Mixer**
 
 > A mixer that uses a **ring diode** configuration, often used in communications and radar systems.
 
@@ -146,8 +137,7 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 - 📡 **Used in**: *RF systems, radar systems*
 
 ---
-
-### 1️⃣1️⃣ **FET Mixer**
+### 🔟  **FET Mixer**
 
 > A mixer that uses Field-Effect Transistors (FETs) as the active components.
 
@@ -159,29 +149,8 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 
 ---
 
-### 1️⃣2️⃣ **Turbo Mixer (Turbocharged Mixer)**
 
-> A newer type of mixer used in modern high-speed communication systems.
 
-- ⚙️ **How it works**:  
-  Turbo mixers use a combination of innovative techniques like adaptive filtering and high-speed mixers to achieve faster mixing with better precision, often employed in high-speed digital communication systems.
-
-- ⚡ **Fast and precise**
-- 💻 **Used in**: *High-speed digital communications, modern SDRs*
-
----
-
-### 1️⃣3️⃣ **Harmonic Mixer**
-
-> A mixer designed to operate at harmonic frequencies rather than fundamental frequencies.
-
-- ⚙️ **How it works**:  
-  A harmonic mixer mixes the RF signal with harmonics (multiples of the LO signal), enabling operation at frequencies that are not directly at the fundamental frequencies of the local oscillator.
-
-- ⚙️ **Used for non-standard frequency bands**
-- 🔧 **Used in**: *High-frequency applications, specialized RF systems*
-
----
 
 ## 🧠 Key Concepts
 
@@ -202,10 +171,6 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 - ✅ Modulators and demodulators  
 - ✅ Frequency synthesizers  
 - ✅ Radar & satellite communication  
-
----
-
-
 
 ---
 
