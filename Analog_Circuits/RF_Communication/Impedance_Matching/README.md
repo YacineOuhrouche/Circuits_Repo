@@ -81,7 +81,7 @@
 | Simple and effective for matching | Only works at a specific frequency |
 | Low loss                    | Requires precise length and impedance matching |
 
-**👉[More on Transmission Line Matching](https://www.allaboutcircuits.com/technical-articles/introduction-to-impedance-matching-using-transmission-line-elements/)**
+**👉[More on Transmission Line Matching](https://www.microwaves101.com/encyclopedias/quarter-wave-transformers)**
 ---
 
 ### 4️⃣ **Impedance Matching via Antennas**
