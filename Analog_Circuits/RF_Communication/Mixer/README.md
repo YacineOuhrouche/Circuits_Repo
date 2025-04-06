@@ -96,6 +96,7 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 - 🎯 Improves **selectivity**
 - 🛰️ **Used in**: *High-performance receivers*
 
+**👉 [More on Image-Reject Mixer](https://www.electronics-notes.com/articles/radio/rf-mixer/image-rejection-mixer.php)** 
 ---
 
 ### 7️⃣ **Single Diode Mixer**
@@ -110,21 +111,9 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 - 🔁 Generates **harmonics**
 - 📻 **Used in**: *Basic AM receivers*
 
+**👉 [More on Single Diode Mixer](https://blog.minicircuits.com/a-quick-guide-to-mixer-topologies/)** 
 ---
 
-### 8️⃣ **Balanced Mixer**
-
-> Combines two diodes/transistors in a symmetrical layout.
-
-- ⚙️ **How it works**:  
-  In a balanced mixer, the two diodes (or transistors) are arranged in a way that they receive opposite phases of the LO signal. This symmetry helps **cancel out** the RF and LO signals, reducing the leakage of these unwanted signals while mixing the input RF signal with the LO. The result is the creation of both sum and difference frequencies while improving isolation.
-
-- 🔇 Suppresses **RF or LO**
-- 🛡️ Better **isolation**
-- 🌀 Lower **spurious output**
-- 📻 **Used in**: *Intermediate frequency conversion*
-
----
 
 ### 9️⃣ **Ring Mixer**
 
@@ -137,7 +126,7 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 - 📡 **Used in**: *RF systems, radar systems*
 
 ---
-### 🔟  **FET Mixer**
+### 9️⃣  **FET Mixer**
 
 > A mixer that uses Field-Effect Transistors (FETs) as the active components.
 
@@ -147,6 +136,7 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 - 📈 **Better noise performance**
 - 🔊 **Used in**: *Low-noise RF receivers, communication systems*
 
+**👉 [More on Single Diode Mixer](https://www.electronics-notes.com/articles/radio/rf-mixer/fet-rf-mixer.php#google_vignette)** 
 ---
 
 
