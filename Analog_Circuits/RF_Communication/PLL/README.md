@@ -110,4 +110,4 @@ Phase-Locked Loops are **essential building blocks** in modern electronics, enab
 
 
 ## 🔹 NEXT  
-**👉 [Mixers](../Mixer)**
+**👉 [Modulation Techniques](../Modulator)**
