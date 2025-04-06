@@ -42,6 +42,7 @@ This loop allows the PLL to track or generate highly stable frequencies.
 | Low power consumption    | Less flexible than digital PLLs  |
 | Fast response time       | Limited functionality            |
 
+**👉 [More on APLL](https://www.zhinst.com/americas/en/resources/phase-locked-loops)**
 ---
 
 ### 2. 🔹 Digital PLL (DPLL)
@@ -65,6 +66,7 @@ This loop allows the PLL to track or generate highly stable frequencies.
 | Easy integration in digital ICs | Higher power consumption          |
 | Handles complex logic algorithms | Requires precise timing hardware  |
 
+**👉 [More on DPLL](https://www.cppsim.com/PLL_Lectures/digital_pll_cicc_tutorial_perrott.pdf)**
 ---
 
 ### 3. 🔹 All-Digital PLL (ADPLL)
@@ -87,7 +89,7 @@ This loop allows the PLL to track or generate highly stable frequencies.
 | Scalable and portable            | Needs high-speed digital logic      |
 | Easy integration with digital systems | May increase power consumption |
 
-
+**👉 [More on ADPLL](https://movellus.wpenginepowered.com/wp-content/uploads/2021/04/All-Dig-PLL.pdf)**
 ---
 
 ## 📊 Comparison Table
