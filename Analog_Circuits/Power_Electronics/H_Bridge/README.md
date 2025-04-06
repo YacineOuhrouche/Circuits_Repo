@@ -59,4 +59,4 @@ The **H-Bridge Circuit** is a vital component in many electronics applications, 
 ---
 
 ## 🔹 NEXT  
-**👉[Current Mirror](../../Circuit_Protection/Current_mirror)**
+**👉[Mixers](../../RF_Communication/Mixer)**
