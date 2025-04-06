@@ -3,21 +3,25 @@
 This collection demonstrates how to build **RF and Communication circuits** that focus on modulating, transmitting, receiving, and processing signals in the radio frequency domain. These circuits are fundamental to communication systems like AM/FM radios, cell phones, and wireless communication devices.
 
 ---
+
 ### 🔹 **RF & Communication Circuits**  
 These circuits cover essential components in RF systems, including modulators, mixers, amplifiers, and more.
 
-| ⚙️ Circuit                  | 📜 Description                                                                  | 🔗 Link                                              |
-|----------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🔁 Mixer**                | Combines two signals to shift frequency (used in up/down-conversion)            | [View Folder](./Mixer)      |
-| **⏱️ PLL Circuit**          | Phase-Locked Loop for frequency synthesis, demodulation, and clock recovery     | [View Folder](./PLL)        |
-| **📤 Modulator**            | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)       | [View Folder](./Modulator)          |
-| **📥 Demodulator**          | Recovers the original message from a modulated carrier signal                   | [View Folder](./Demodulator)        |
-| **📡 Antenna Matching Network** | Matches impedance between circuit and antenna to maximize power transfer | [View Folder](./Antenna_Matching)   |
-| **📉 RF Attenuator**        | Reduces signal strength for testing or safe receiver input                     | [View Folder](./RF_Attenuator)      |
-| **🔄 Automatic Gain Control (AGC)** | Stabilizes signal amplitude in receivers — helps prevent clipping or fading | [View Folder](./AGC_Circuit)         |
-| **📵 RF Switch**            | Switches between multiple antennas or signal paths (e.g., for TX/RX switching) | [View Folder](./RF_Switch)          |
+| ⚙️ Circuit                         | 📜 Description                                                                  | 🔗 Link                                              |
+|------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
+| **🔁 Mixer**                       | Combines two signals to shift frequency (used in up/down-conversion)            | [View Folder](./Mixer)                              |
+| **⏱️ PLL Circuit**                 | Phase-Locked Loop for frequency synthesis, demodulation, and clock recovery     | [View Folder](./PLL)                                |
+| **📤 Modulator**                   | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)       | [View Folder](./Modulator)                          |
+| **📥 Demodulator**                 | Recovers the original message from a modulated carrier signal                   | [View Folder](./Demodulator)                        |
+| **📡 Antenna**                     | Converts electrical signals into radio waves or vice versa                      | [View Folder](./Antenna)                            |
+| **📡 Antenna Matching Network**    | Matches impedance between circuit and antenna to maximize power transfer       | [View Folder](./Antenna_Matching)                   |
+| **📉 RF Attenuator**               | Reduces signal strength for testing or safe receiver input                      | [View Folder](./RF_Attenuator)                      |
+| **🔊 LNA (Low Noise Amplifier)**   | Amplifies weak signals with minimal noise addition, crucial for receiver front-ends | [View Folder](./LNA)                              |
+| **🔋 Power Amplifier**             | Increases the power level of a signal to drive an antenna or long-distance communication | [View Folder](./Power_Amplifier)                   |
+| **🔄 Automatic Gain Control (AGC)**| Stabilizes signal amplitude in receivers — helps prevent clipping or fading    | [View Folder](./AGC_Circuit)                       |
+| **📵 RF Switch**                   | Switches between multiple antennas or signal paths (e.g., for TX/RX switching) | [View Folder](./RF_Switch)                          |
 
 ---
 
 ## 🔹 NEXT  
-**👉[Circuit Protection](../../Circuit_Protection)**
+**👉[Circuit Protection](../../Circuit_Protection)**  
