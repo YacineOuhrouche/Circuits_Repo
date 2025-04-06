@@ -23,9 +23,6 @@ This loop allows the PLL to track or generate highly stable frequencies.
 
 ### 1. 🔹 Analog PLL (APLL)
 
-#### 📋 Description:
-Analog PLLs use continuous-time analog signals. The phase detector and filter are analog components.
-
 #### 🧠 How It Works:
 - The phase detector compares the input and VCO output signals.
 - The resulting error voltage passes through an analog low-pass filter.
@@ -48,9 +45,6 @@ Analog PLLs use continuous-time analog signals. The phase detector and filter ar
 ---
 
 ### 2. 🔹 Digital PLL (DPLL)
-
-#### 📋 Description:
-Digital PLLs use discrete-time digital logic (counters, comparators, flip-flops) for phase comparison and control.
 
 #### 🧠 How It Works:
 - Uses digital logic (counters, comparators) to detect phase differences.
@@ -75,9 +69,6 @@ Digital PLLs use discrete-time digital logic (counters, comparators, flip-flops)
 
 ### 3. 🔹 All-Digital PLL (ADPLL)
 
-#### 📋 Description:
-Fully digital implementation with no analog components. Uses DSP (Digital Signal Processing) techniques.
-
 #### 🧠 How It Works:
 - Everything is handled digitally—phase comparison, filtering, and frequency control.
 - Digital signal processors (DSPs) or logic circuits handle the loop operations.
@@ -96,31 +87,6 @@ Fully digital implementation with no analog components. Uses DSP (Digital Signal
 | Scalable and portable            | Needs high-speed digital logic      |
 | Easy integration with digital systems | May increase power consumption |
 
----
-
-### 4. 🔹 Charge-Pump PLL (CP-PLL)
-
-#### 📋 Description:
-A specialized analog PLL where the phase detector output controls a current source (charge pump) that adjusts the VCO.
-
-#### 🧠 How It Works:
-- Uses a phase-frequency detector (PFD) to generate "up" or "down" signals.
-- These control a charge pump that sources or sinks current into a capacitor.
-- The voltage across the capacitor controls the VCO.
-- Provides better frequency stability and lock performance than simple analog PLLs.
-
-#### ✅ Applications:
-- Frequency synthesis in RF systems  
-- High-speed communication ICs  
-- Clock generation in CPUs and GPUs
-
-#### ⚖️ Pros and Cons:
-
-| ✅ Pros                         | ❌ Cons                             |
-|----------------------------------|-------------------------------------|
-| High accuracy and low jitter     | Sensitive to charge leakage         |
-| Good frequency resolution        | Requires careful PCB layout         |
-| Stable over wide frequency range| More complex design than basic PLLs |
 
 ---
 
@@ -131,7 +97,6 @@ A specialized analog PLL where the phase detector output controls a current sour
 | APLL       | Simple analog systems            | Low        | Low            | Discrete/IC |
 | DPLL       | Digital systems with timing needs| Medium     | Medium         | High        |
 | ADPLL      | FPGAs, SoCs, DSPs                | High       | High           | Very High   |
-| CP-PLL     | High-performance RF systems      | High       | Very High      | Medium      |
 
 ---
 
