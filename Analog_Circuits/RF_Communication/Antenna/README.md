@@ -1,4 +1,4 @@
-# 📡 Antenna Circuits 
+# 📡 Antenna Circuits
 
 ---
 
@@ -38,7 +38,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Easy to design and implement| Requires height for efficient performance |
 | Broad bandwidth              | Limited to half-wavelength design |
 
-**👉[More on Dipole Antenna](../Antenna_Matching_Network)**  
+**👉[More on Dipole Antenna](https://www.elprocus.com/dipole-antenna/)**  
 ---
 
 ### 2️⃣ **Monopole Antenna**
@@ -61,7 +61,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Omnidirectional radiation    | Limited efficiency at higher frequencies |
 | Compact design               | Radiation pattern affected by ground conditions |
 
-**👉[More on Monopole Antenna](../Antenna_Matching_Network)**  
+**👉[More on Monopole Antenna](https://www.elprocus.com/monopole-antenna/)**  
 ---
 
 ### 3️⃣ **Yagi-Uda Antenna**
@@ -84,7 +84,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Efficient at higher frequencies | Narrow bandwidth                |
 | Low cost and simple to build | Can be bulky and difficult to install |
 
-**👉[More on Yagi-Uda Antenna](../Antenna_Matching_Network)**  
+**👉[More on Yagi-Uda Antenna](https://www.tutorialspoint.com/antenna_theory/yagi_uda_antenna_theory.htm)**  
 ---
 
 ### 4️⃣ **Parabolic (Dish) Antenna**
@@ -107,15 +107,15 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Excellent directionality     | Requires precise alignment      |
 | Good for long-range links    | Expensive for large sizes       |
 
-**👉[More on Dish Antenna](../Antenna_Matching_Network)**  
+**👉[More on Dish Antenna](https://www.everythingrf.com/community/what-are-parabolic-antennas)**  
 ---
 
-### 5️⃣ **Patch Antenna (Microstrip Antenna)**
+### 5️⃣ **Microstrip Antenna**
 
 > A small, flat antenna that is typically used for wireless communication systems.
 
 - ⚙️ **How it works**:  
-  The patch antenna consists of a conducting patch on top of a grounded substrate, with a feed located near the edge of the patch. The size of the patch is typically a fraction of the wavelength of the signal it is designed to transmit or receive.
+  The microstrip antenna consists of a conducting patch on top of a grounded substrate, with a feed located near the edge of the patch. The size of the patch is typically a fraction of the wavelength of the signal it is designed to transmit or receive.
 
 - 📡 **Applications**:  
   - Mobile phones  
@@ -130,7 +130,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Easy to fabricate            | Low efficiency in some designs   |
 | Low profile                  | Sensitive to alignment           |
 
-**👉[More on Patch Antenna](../Antenna_Matching_Network)**  
+**👉[More on Microstrip Antenna](https://www.electronics-tutorials.ws/antennas/microstrip-antenna.html)**  
 ---
 
 ### 6️⃣ **Log-Periodic Antenna**
@@ -153,33 +153,10 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Consistent performance over frequency range | Requires complex construction |
 | Good gain and directionality | Heavier and bulkier compared to others |
 
-**👉[More on Log-Periodic Antenna](../Antenna_Matching_Network)**  
+**👉[More on Log-Periodic Antenna](https://www.electronics-notes.com/articles/antennas-propagation/log-periodic-antenna.php)**  
 ---
 
-### 7️⃣ **Helical Antenna**
-
-> A type of antenna where the radiating element is wound in a helical shape, offering circular polarization.
-
-- ⚙️ **How it works**:  
-  The helical antenna consists of a conducting wire wound into a helix shape, typically used for transmitting or receiving circularly polarized radio waves. It operates in two modes: axial mode (high gain and directional) and normal mode (low gain and omnidirectional).
-
-- 📡 **Applications**:  
-  - Satellite communications  
-  - GPS receivers  
-  - Radio telescopes
-
-- ⚖️ **Pros and Cons**:
-
-| ✅ Pros                     | ❌ Cons                          |
-|-----------------------------|----------------------------------|
-| Provides circular polarization | Requires a larger physical size |
-| Efficient for satellite communications | Can be bulky and heavy         |
-| High gain in axial mode     | Requires careful design for best performance |
-
-**👉[More on Helical Antenna](../Antenna_Matching_Network)**  
----
-
-### 8️⃣ **Aperture Antennas (Horn Antennas)**
+### 7️⃣ **Aperture Antennas (Horn Antennas)**
 
 > Antennas designed to work in a specific frequency range, shaped like a horn.
 
@@ -199,7 +176,53 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Low loss, wideband operation | Not suitable for small devices   |
 | Excellent for point-to-point communication | Expensive to produce            |
 
-**👉[More on Aperture Antenna](../Antenna_Matching_Network)**  
+**👉[More on Aperture Antenna](https://www.electronics-notes.com/articles/antennas-propagation/horn-antenna.php)**  
+---
+
+### 8️⃣ **PCB Antenna**
+
+> A compact antenna integrated directly onto the PCB (Printed Circuit Board), commonly used in wireless communication devices.
+
+- ⚙️ **How it works**:  
+  PCB antennas are small, low-profile antennas integrated into the circuit board itself. They can be designed to operate over a broad range of frequencies, making them suitable for a variety of applications like Bluetooth, Wi-Fi, and GPS.
+
+- 📡 **Applications**:  
+  - Wireless earphones  
+  - Bluetooth devices  
+  - Wearables
+
+- ⚖️ **Pros and Cons**:
+
+| ✅ Pros                     | ❌ Cons                          |
+|-----------------------------|----------------------------------|
+| Compact and integrated       | Lower gain compared to larger antennas |
+| Cost-effective               | Limited bandwidth in some cases |
+| Easy to design               | Sensitive to board layout and materials |
+
+**👉[More on PCB Antenna](https://www.sannytelecom.com/what-is-a-pcb-antenna/)**  
+---
+
+### 9️⃣ **Chip Antenna**
+
+> A small, compact antenna typically used in consumer electronics and IoT devices.
+
+- ⚙️ **How it works**:  
+  Chip antennas are tiny, surface-mount antennas integrated into the circuit design. These antennas are popular in modern communication devices due to their small size and ease of integration.
+
+- 📡 **Applications**:  
+  - Wireless earphones  
+  - IoT devices  
+  - Smart home devices
+
+- ⚖️ **Pros and Cons**:
+
+| ✅ Pros                     | ❌ Cons                          |
+|-----------------------------|----------------------------------|
+| Very compact                 | Lower efficiency compared to larger antennas |
+| Easy to integrate            | Limited bandwidth                |
+| Low-cost design              | Can be sensitive to surrounding components |
+
+**👉[More on Chip Antenna](https://www.raypcb.com/chip-antenna/)**  
 ---
 
 ## 🧠 Key Concepts
@@ -225,13 +248,11 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 
 ---
 
-
 ## 🔚 Conclusion
 
 Antenna systems are the backbone of wireless communication, enabling the transmission and reception of radio frequency signals. Understanding the different types of antennas and their applications is crucial in designing and optimizing communication systems.
 
 ---
-
 
 ## 🔹 NEXT  
 **👉[Antenna Matching Network](../Antenna_Matching_Network)**  
