@@ -255,4 +255,4 @@ Antenna systems are the backbone of wireless communication, enabling the transmi
 ---
 
 ## 🔹 NEXT  
-**👉[Antenna Matching Network](../Antenna_Matching_Network)**  
+**👉[Impedance Matching Network](../Impedance_Matching)**  
