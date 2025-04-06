@@ -212,3 +212,6 @@ Mixers are essential components in **RF (Radio Frequency)** and **communication 
 ## 🔚 Conclusion
 
 Mixer circuits are the **heart of frequency translation** in modern RF systems. Their diverse topologies and characteristics make them crucial for designing **robust, high-performance** communication architectures.
+
+## 🔹 NEXT  
+**👉 [PLL](../PLL)**  
