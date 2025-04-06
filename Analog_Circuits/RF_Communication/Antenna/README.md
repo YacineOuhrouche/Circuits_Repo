@@ -38,6 +38,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Easy to design and implement| Requires height for efficient performance |
 | Broad bandwidth              | Limited to half-wavelength design |
 
+**👉[More on Dipole Antenna](../Antenna_Matching_Network)**  
 ---
 
 ### 2️⃣ **Monopole Antenna**
@@ -60,6 +61,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Omnidirectional radiation    | Limited efficiency at higher frequencies |
 | Compact design               | Radiation pattern affected by ground conditions |
 
+**👉[More on Monopole Antenna](../Antenna_Matching_Network)**  
 ---
 
 ### 3️⃣ **Yagi-Uda Antenna**
@@ -82,6 +84,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Efficient at higher frequencies | Narrow bandwidth                |
 | Low cost and simple to build | Can be bulky and difficult to install |
 
+**👉[More on Yagi-Uda Antenna](../Antenna_Matching_Network)**  
 ---
 
 ### 4️⃣ **Parabolic (Dish) Antenna**
@@ -104,6 +107,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Excellent directionality     | Requires precise alignment      |
 | Good for long-range links    | Expensive for large sizes       |
 
+**👉[More on Dish Antenna](../Antenna_Matching_Network)**  
 ---
 
 ### 5️⃣ **Patch Antenna (Microstrip Antenna)**
@@ -126,6 +130,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Easy to fabricate            | Low efficiency in some designs   |
 | Low profile                  | Sensitive to alignment           |
 
+**👉[More on Patch Antenna](../Antenna_Matching_Network)**  
 ---
 
 ### 6️⃣ **Log-Periodic Antenna**
@@ -148,6 +153,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Consistent performance over frequency range | Requires complex construction |
 | Good gain and directionality | Heavier and bulkier compared to others |
 
+**👉[More on Log-Periodic Antenna](../Antenna_Matching_Network)**  
 ---
 
 ### 7️⃣ **Helical Antenna**
@@ -170,6 +176,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Efficient for satellite communications | Can be bulky and heavy         |
 | High gain in axial mode     | Requires careful design for best performance |
 
+**👉[More on Helical Antenna](../Antenna_Matching_Network)**  
 ---
 
 ### 8️⃣ **Aperture Antennas (Horn Antennas)**
@@ -192,6 +199,7 @@ An **antenna** is a device that converts electrical energy into electromagnetic 
 | Low loss, wideband operation | Not suitable for small devices   |
 | Excellent for point-to-point communication | Expensive to produce            |
 
+**👉[More on Aperture Antenna](../Antenna_Matching_Network)**  
 ---
 
 ## 🧠 Key Concepts
@@ -224,3 +232,6 @@ Antenna systems are the backbone of wireless communication, enabling the transmi
 
 ---
 
+
+## 🔹 NEXT  
+**👉[Antenna Matching Network](../Antenna_Matching_Network)**  
