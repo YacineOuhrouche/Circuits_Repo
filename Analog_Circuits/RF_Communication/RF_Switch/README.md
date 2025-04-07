@@ -133,6 +133,7 @@ The main role of an RF switch is to isolate, connect, or route signals efficient
 - ✅ **Signal Routing in Test Equipment**  
 - ✅ **Antenna Switching in SDRs and Mobile Devices**  
 
+**👉 [More on RF Switch](https://www.nisshinbo-microdevices.co.jp/en/products/rf-device/column/05.html)**
 ---
 
 ## 🔚 Conclusion
