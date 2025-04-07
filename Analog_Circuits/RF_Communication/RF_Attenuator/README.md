@@ -60,7 +60,7 @@
 | Adjustable attenuation       | More complex than fixed attenuators |
 | Suitable for dynamic environments | Higher cost and complexity |
 
-**👉 [More on Variable RF Attenuators](https://www.microwaves101.com/encyclopedias/variable-attenuators)**
+**👉 [More on Variable RF Attenuators](https://www.electronics-notes.com/articles/radio/rf-attenuators/what-is-an-rf-attenuator-types.php)**
 ---
 
 ### 3️⃣ **Step Attenuators**
@@ -82,7 +82,7 @@
 | Easy to use and adjust       | Limited precision compared to continuously variable attenuators |
 | Reliable signal reduction    | Not as flexible as continuous adjustments |
 
-**👉 [More on Step Attenuators](https://www.electronics-notes.com/articles/radio/rf-attenuators/what-is-an-rf-attenuator-types.php)**
+**👉 [More on Step Attenuators](https://www.connectortips.com/faq-what-are-attenuators/)**
 ---
 
 ### 4️⃣ **Programmable Attenuators**
@@ -104,7 +104,7 @@
 | High flexibility in control  | Expensive and complex to implement |
 | Suitable for automated systems | May require additional power or controllers |
 
-**👉 [More on Programmable Attenuators](https://www.electronics-notes.com/articles/radio/rf-attenuators/what-is-an-rf-attenuator-types.php)**
+**👉 [More on Programmable Attenuators](https://www.connectortips.com/faq-what-are-attenuators/)**
 ---
 
 ## 🧠 Key Concepts
