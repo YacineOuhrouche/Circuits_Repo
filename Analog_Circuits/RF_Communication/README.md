@@ -17,7 +17,7 @@ These circuits cover essential components in RF systems, including modulators, m
 | **📡 Impedance Matching**          | Matches impedance between circuit and antenna to maximize power transfer        | [View Folder](./Impedance_Matching)                 |
 | **📉 RF Attenuator**               | Reduces signal strength for testing or safe receiver input                      | [View Folder](./RF_Attenuator)                      |
 | **🔊 LNA (Low Noise Amplifier)**   | Amplifies weak signals with minimal noise addition, crucial for receiver front-ends | [View Folder](./LNA)                            |
-| **🔄 Automatic Gain Control (AGC)**| Stabilizes signal amplitude in receivers — helps prevent clipping or fading     | [View Folder](./AGC_Circuit)                        |
+| **🔄 Automatic Gain Control (AGC)**| Stabilizes signal amplitude in receivers — helps prevent clipping or fading     | [View Folder](./AGC)                        |
 | **📵 RF Switch**                   | Switches between multiple antennas or signal paths (e.g., for TX/RX switching)  | [View Folder](./RF_Switch)                          |
 | **🧭 Frequency Synthesizer**       | Generates precise RF frequencies from a reference signal using PLLs or DDS      | [View Folder](./Frequency_Synthesizer)              |
 
