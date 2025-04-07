@@ -59,4 +59,4 @@ The **H-Bridge Circuit** is a vital component in many electronics applications, 
 ---
 
 ## 🔹 NEXT  
-**👉[Mixers](../../RF_Communication/Mixer)**
+**👉[Antenna](../../RF_Communication/Antenna)**
