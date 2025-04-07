@@ -38,7 +38,7 @@ A **Low Noise Amplifier (LNA)** is an essential component in many RF systems, de
 | High gain and low noise figure | Higher power consumption         |
 | Suitable for high-frequency applications | Temperature sensitive            |
 
-**👉 [More on BJT-based LNAs](https://www.electronics-notes.com/articles/radio/rf-attenuators/what-is-an-rf-attenuator-types.php)**
+**👉 [More on BJT-based LNAs](https://www.analog.com/en/resources/design-notes/quickchip-design-example-2low-power-silicon-bjt-lna-for-19ghz.html)**
 ---
 
 ### 2️⃣ **Field-Effect Transistor (FET) LNA**
@@ -60,32 +60,10 @@ A **Low Noise Amplifier (LNA)** is an essential component in many RF systems, de
 | Low power consumption        | Can be more sensitive to temperature variations |
 | High input impedance         | Limited to lower gain compared to BJTs |
 
-**👉 [More on FET-based LNAs](https://www.electronics-tutorials.ws/amplifier/lna.html)**
+**👉 [More on FET-based LNAs](https://www.cambridge.org/us/files/8113/6698/2364/HFIC_chapter_7_low-noise_amplifier_design.pdf)**
 ---
 
-### 3️⃣ **Integrated Circuit (IC) LNA**
-
-> LNAs that are implemented in an integrated circuit, often combining multiple transistors and components.
-
-- ⚙️ **How it works**:  
-  Integrated circuit LNAs are highly compact, offering a complete LNA solution within a single chip. These ICs often include additional stages for impedance matching, filtering, and other signal conditioning, making them ideal for **compact communication systems**.
-
-- 📡 **Applications**:  
-  - Wireless communication devices  
-  - Satellite receivers  
-  - RF front-end modules
-
-- ⚖️ **Pros and Cons**:
-
-| ✅ Pros                     | ❌ Cons                          |
-|-----------------------------|----------------------------------|
-| Compact and easy to integrate | Limited customization of components |
-| Cost-effective for high-volume production | May have limited power handling capabilities |
-
-**👉 [More on IC-based LNAs](https://www.radiowaves.com/lna-integrated-circuits/)**
----
-
-### 4️⃣ **GaAs HEMT LNA (Gallium Arsenide High Electron Mobility Transistor)**
+### 3️⃣  **GaAs HEMT LNA (Gallium Arsenide High Electron Mobility Transistor)**
 
 > A specialized LNA using **GaAs HEMTs** for very low-noise operation, often used in high-performance applications.
 
@@ -104,7 +82,7 @@ A **Low Noise Amplifier (LNA)** is an essential component in many RF systems, de
 | Excellent noise figure       | Expensive compared to other technologies |
 | High-frequency performance  | More complex design requirements |
 
-**👉 [More on GaAs HEMT LNAs](https://www.microwavejournal.com/articles/12280)**
+**👉 [More on GaAs HEMT LNAs](https://ieeexplore.ieee.org/document/8472993)**
 ---
 
 ## 🧠 Key Concepts
