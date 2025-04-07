@@ -50,7 +50,7 @@ Each folder contains:
 | **📡 Impedance Matching**          | Matches impedance between circuit and antenna to maximize power transfer        | [View Folder](./RF_Communication/Impedance_Matching)                 |
 | **📉 RF Attenuator**               | Reduces signal strength for testing or safe receiver input                      | [View Folder](./RF_Communication/RF_Attenuator)                      |
 | **🔊 LNA (Low Noise Amplifier)**   | Amplifies weak signals with minimal noise addition, crucial for receiver front-ends | [View Folder](./RF_Communication/LNA)                            |
-| **🔄 Automatic Gain Control (AGC)**| Stabilizes signal amplitude in receivers — helps prevent clipping or fading     | [View Folder](./RF_Communication/AGC_Circuit)                        |
+| **🔄 Automatic Gain Control (AGC)**| Stabilizes signal amplitude in receivers — helps prevent clipping or fading     | [View Folder](./RF_Communication/AGC)                        |
 | **📵 RF Switch**                   | Switches between multiple antennas or signal paths (e.g., for TX/RX switching)  | [View Folder](./RF_Communication/RF_Switch)                          |
 | **🧭 Frequency Synthesizer**       | Generates precise RF frequencies from a reference signal using PLLs or DDS      | [View Folder](./RF_Communication/Frequency_Synthesizer)              |
 
