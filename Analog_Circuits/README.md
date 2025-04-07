@@ -42,21 +42,20 @@ Each folder contains:
 
 | ⚙️ Circuit                         | 📜 Description                                                                  | 🔗 Link                                              |
 |------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🔁 Mixer**                       | Combines two signals to shift frequency (used in up/down-conversion)            | [View Folder](./RF_Communication/Mixer)                              |
-| **⏱️ PLL Circuit**                 | Phase-Locked Loop for frequency synthesis, demodulation, and clock recovery     | [View Folder](./RF_Communication/PLL)                                |
-| **📤 Modulator**                   | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)       | [View Folder](./RF_Communication/Modulator)                          |
-| **📥 Demodulator**                 | Recovers the original message from a modulated carrier signal                   | [View Folder](./RF_Communication/Demodulator)                        |
 | **📡 Antenna**                     | Converts electrical signals into radio waves or vice versa                      | [View Folder](./RF_Communication/Antenna)                            |
 | **📡 Impedance Matching**          | Matches impedance between circuit and antenna to maximize power transfer        | [View Folder](./RF_Communication/Impedance_Matching)                 |
 | **📉 RF Attenuator**               | Reduces signal strength for testing or safe receiver input                      | [View Folder](./RF_Communication/RF_Attenuator)                      |
-| **🔊 LNA (Low Noise Amplifier)**   | Amplifies weak signals with minimal noise addition, crucial for receiver front-ends | [View Folder](./RF_Communication/LNA)                            |
-| **🔄 Automatic Gain Control (AGC)**| Stabilizes signal amplitude in receivers — helps prevent clipping or fading     | [View Folder](./RF_Communication/AGC)                        |
+| **🔊 LNA (Low Noise Amplifier)**   | Amplifies weak signals with minimal noise addition, crucial for receiver front-ends | [View Folder](./RF_Communication/LNA)                           |
+| **🔄 Automatic Gain Control (AGC)**| Stabilizes signal amplitude in receivers — helps prevent clipping or fading     | [View Folder](./RF_Communication/AGC)                                |
 | **📵 RF Switch**                   | Switches between multiple antennas or signal paths (e.g., for TX/RX switching)  | [View Folder](./RF_Communication/RF_Switch)                          |
+| **🔀 Signal Coupler**              | Taps a small portion of an RF signal for measurement or feedback                | [View Folder](./RF_Communication/Signal_Coupler)                     |
+| **🔂 Diplexer & Multiplexer**      | Splits (or combines) signals in different frequency bands or multiple inputs/outputs | [View Folder](./RF_Communication/Diplexer_Multiplexer)         |
+| **🔁 Mixer**                       | Combines two signals to shift frequency (used in up/down-conversion)            | [View Folder](./RF_Communication/Mixer)                              |
+| **⏱️ PLL Circuit**                 | Phase-Locked Loop for frequency synthesis, demodulation, and clock recovery     | [View Folder](./RF_Communication/PLL)                                |
 | **🧭 Frequency Synthesizer**       | Generates precise RF frequencies from a reference signal using PLLs or DDS      | [View Folder](./RF_Communication/Frequency_Synthesizer)              |
-
-
-
-
+| **📤 Modulator**                   | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)       | [View Folder](./RF_Communication/Modulator)                          |
+| **📥 Demodulator**                 | Recovers the original message from a modulated carrier signal                   | [View Folder](./RF_Communication/Demodulator)                        |
+        
 ---
 ### 🔹 **Current & Voltage Regulation/Protection**  
 
