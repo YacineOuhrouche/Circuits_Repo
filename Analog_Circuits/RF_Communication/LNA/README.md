@@ -129,16 +129,7 @@ In essence, **LNAs are a type of small signal amplifier**, but their focus is sp
 
 ---
 
-## 🔹 LNA and Power Amplifiers: Complementary Roles
 
-While **Low Noise Amplifiers (LNAs)** are designed to amplify weak signals with minimal noise at the front-end of an RF system, **Power Amplifiers (PAs)** serve the complementary role of amplifying the signal to a level suitable for transmission. Both types of amplifiers are essential in the signal chain:
-
-- **LNA**: Amplifies weak, low-level signals while ensuring that noise is minimized, enhancing system sensitivity.
-- **Power Amplifier**: Amplifies the signal after processing by the LNA to a power level suitable for transmission to the antenna or over the airwaves.
-
-Therefore, **LNAs and Power Amplifiers are complementary**, with LNAs ensuring clear signal reception and PAs ensuring strong signal transmission.
-
----
 
 ## 📌 Applications of Low Noise Amplifiers
 
@@ -151,6 +142,7 @@ Therefore, **LNAs and Power Amplifiers are complementary**, with LNAs ensuring c
 ---
 ## 🔹 Related Topics 
 **👉 [Power Amplifier](../../Analog_Basic/Power_Amplifier)**
+---
 
 ## 🔚 Conclusion
 
