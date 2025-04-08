@@ -2,9 +2,7 @@
 
 This collection demonstrates how to build **RF and Communication circuits** that focus on modulating, transmitting, receiving, and processing signals in the radio frequency domain. These circuits are fundamental to communication systems like AM/FM radios, cell phones, and wireless communication devices.
 
----
 
-## 🧭 LEARNING ORDER & FUNCTIONAL CATEGORIES
 
 ---
 
