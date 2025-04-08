@@ -124,7 +124,7 @@ The **Balun** is essential in managing signal types and impedance across RF and 
 
 Choosing the right type of Balun ensures high efficiency and performance in your RF design.
 
-**👉 [More on Balun](https://blog.minicircuits.com/demystifying-transformers-baluns-and-ununs/)**
+**👉 [More on Balun](https://www.electronics-notes.com/articles/antennas-propagation/balun-unun/what-is-rf-antenna-balun.php)**
 ---
 
 ## 🔹 Next
