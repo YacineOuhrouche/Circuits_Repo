@@ -41,11 +41,11 @@ Each folder contains:
 
 | ⚙️ Circuit                         | 📜 Description                                                                  | 🔗 Link                                              |
 |------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🔌 Signal Interface**            | Converts electrical signals or transforms them for different media or formats    | [View Folder](./RF_Communication/Antenna)                            |
-| **🔧 Signal Conditioning**         | Amplifies, filters, or modifies signals for optimal performance                 | [View Folder](./RF_Communication/LNA)                           |
-| **🔄 Signal Routing**              | Directs signals between components or paths                                    | [View Folder](./RF_Communication/RF_Switch)                          |
-| **🎚️ Frequency Generation**       | Generates precise frequencies for use in communication systems                 | [View Folder](./RF_Communication/Frequency_Synthesizer)              |
-| **📡 Modulation/Demodulation**    | Converts baseband signals to RF and recovers information from modulated carriers | [View Folder](./RF_Communication/Modulator)                          |
+| **🔌 Signal Interface**            | Converts electrical signals or transforms them for different media or formats    | [View Folder](./RF_Communication/Signal_Interface)                            |
+| **🔧 Signal Conditioning**         | Amplifies, filters, or modifies signals for optimal performance                 | [View Folder](./RF_Communication/Signal_Conditioning)                           |
+| **🔄 Signal Routing**              | Directs signals between components or paths                                    | [View Folder](./RF_Communication/Signal_Routing)                          |
+| **🎚️ Frequency Generation**       | Generates precise frequencies for use in communication systems                 | [View Folder](./RF_Communication/Frequency_Generation)              |
+| **📡 Modulation/Demodulation**    | Converts baseband signals to RF and recovers information from modulated carriers | [View Folder](./RF_Communication/Modulator_Demodulator)                          |
 
 ---
 ### 🔹 **Current & Voltage Regulation/Protection**  
