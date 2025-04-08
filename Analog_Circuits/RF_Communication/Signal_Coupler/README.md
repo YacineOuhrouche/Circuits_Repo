@@ -41,6 +41,7 @@ Couplers can be passive or active and often help prevent DC biasing issues, redu
 | Simple and low-cost         | Not suitable for very low-frequency signals |
 | Blocks unwanted DC bias     | Can introduce high-pass behavior |
 
+**👉 [More on Capacitive Coupling](https://www.sunpower-uk.com/glossary/what-is-capacitive-coupling/) 
 ---
 
 ### 2️⃣ **Transformer (Inductive) Coupling**
@@ -62,6 +63,7 @@ Couplers can be passive or active and often help prevent DC biasing issues, redu
 | Provides isolation and matching  | Bulky at low frequencies         |
 | Can step-up or step-down voltage | Limited bandwidth depending on core |
 
+**👉 [More on Inductive Coupling](https://www.coilcraft.com/en-us/edu/series/a-guide-to-coupled-inductors/?srsltid=AfmBOopySVYq4ZgSRBEYShfUIfrICg63FHqIaLFfaWtEG6hpK7EOCMzT)
 ---
 
 ### 3️⃣ **Optical Coupling (Optocoupler)**
@@ -83,6 +85,7 @@ Couplers can be passive or active and often help prevent DC biasing issues, redu
 | Complete electrical isolation | Slower speed compared to RF/analog couplers |
 | Noise immunity              | Requires power on both sides     |
 
+**👉 [More on Optocoupler](https://www.jameco.com/Jameco/workshop/Howitworks/what-is-an-optocoupler-and-how-it-works.html?srsltid=AfmBOopXbvB6yicCPF6C5r3tibkWS3r4LiySaLH4pnXSZHxk67sHEDyN)
 ---
 
 ## 🧠 Key Concepts
@@ -124,5 +127,5 @@ Signal Couplers are fundamental building blocks in communication, audio, power, 
 ---
 
 ## 🔹 Next
-**👉 [Diplexer & Multiplexer](../Diplexer**  
+**👉 [Diplexer & Multiplexer](../Diplexer** ) 
 
