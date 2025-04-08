@@ -37,6 +37,7 @@ The synthesizer converts a reference signal (often a crystal oscillator) into a 
 | High frequency resolution       | Can be power-hungry at high speeds |
 | Excellent phase noise performance | Requires fast and expensive DAC   |
 
+**👉 [More on DDS](https://www.ebsco.com/research-starters/communication-and-mass-media/direct-digital-synthesis-dds)**
 ---
 
 ### 2️⃣ **Phase-Locked Loop (PLL)**
@@ -55,6 +56,7 @@ The synthesizer converts a reference signal (often a crystal oscillator) into a 
 | Low phase noise                 | Can suffer from drift or instability at low frequencies |
 | Wide frequency range            | Requires external components (filter, divider) |
 
+**👉 [More on PLL](https://www.analog.com/en/resources/analog-dialogue/articles/phase-locked-loop-pll-fundamentals.html)**
 ---
 
 ### 3️⃣ **Harmonic Synthesis**
@@ -75,23 +77,7 @@ The synthesizer converts a reference signal (often a crystal oscillator) into a 
 
 ---
 
-### 4️⃣ **Voltage-Controlled Oscillator (VCO) Based Synthesizer**
 
-> Uses a voltage-controlled oscillator, where the output frequency is controlled by an input voltage.
-
-- ⚙️ **How it works**:  
-  The VCO produces an oscillating signal that is proportional to an applied voltage. By varying the control voltage, the output frequency can be changed.
-
-- 🧭 **Typical Use**:
-  - Frequency modulation (FM)
-  - Analog RF systems
-
-| ✅ Pros                         | ❌ Cons                          |
-|---------------------------------|----------------------------------|
-| Simple and analog               | Limited precision compared to digital methods |
-| Fast frequency tuning           | Temperature and voltage-dependent |
-
----
 
 ## 📊 Comparison Matrix
 
@@ -100,18 +86,10 @@ The synthesizer converts a reference signal (often a crystal oscillator) into a 
 | Direct Digital Synthesis (DDS)| Wide            | High       | Low         | Signal generators, high-accuracy applications |
 | Phase-Locked Loop (PLL)       | Medium–High     | Medium     | Low         | Communication systems, frequency multiplication |
 | Harmonic Synthesis            | High            | Low        | Medium      | RF signal generation, test equipment          |
-| VCO-Based Synthesizer         | Low–Medium      | Low        | High        | Analog RF systems, FM applications           |
+
 
 ---
 
-## 📌 Example Applications
-
-- 📡 **DDS**: Used in **signal generators** for precise waveform generation.
-- 📡 **PLL**: Stabilizing frequencies in **radio transmitters and receivers**.
-- 🌐 **Harmonic Synthesis**: Employed in **high-frequency RF systems** for creating higher-order harmonics.
-- 📻 **VCO-Based**: Used in **FM transmitters** and **analog communication systems**.
-
----
 
 ## 🔚 Conclusion
 
@@ -120,7 +98,6 @@ Frequency synthesizers are essential components in RF and communication systems,
 - **DDS** for high resolution and low phase noise.
 - **PLL** for stability and wide frequency range.
 - **Harmonic Synthesis** for high-frequency applications with simpler designs.
-- **VCO-Based** for analog systems requiring fast frequency tuning.
 
 By choosing the right type of synthesizer, you can optimize performance and ensure reliable signal generation for your RF system.
 
