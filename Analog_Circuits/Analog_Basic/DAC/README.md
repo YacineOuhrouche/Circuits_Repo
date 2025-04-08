@@ -1,9 +1,5 @@
 # 🔄 Digital-to-Analog Converter (DAC)
 
-Welcome to the **DAC (Digital-to-Analog Converter)** section! 🎉  
-This repository explains the fundamentals of **DAC**, a crucial component in modern electronics. A **DAC** converts a digital signal (discrete) into an analog signal (continuous), allowing digital systems to interface with real-world analog systems.
-
----
 
 ## ✨ Introduction
 
@@ -35,8 +31,7 @@ There are several types of DAC architectures, each offering different speed, res
 | Simple and easy to implement    | Requires precise resistor matching |
 | Low cost                        | Limited accuracy at higher bit resolutions |
 
-**👉 [More on Binary-Weighted DAC](https://www.electronics-tutorials.ws/blog/digital-to-analog-converter-dac/)**
-
+**👉 [More on Binary-Weighted DAC](https://www.electronics-tutorials.ws/combination/digital-to-analogue-converter.html)**
 ---
 
 ### 2️⃣ **R-2R Ladder DAC**
@@ -55,8 +50,7 @@ There are several types of DAC architectures, each offering different speed, res
 | Simple design                   | Requires precise resistors for accuracy |
 | Accurate and efficient          | Requires more components compared to binary-weighted DAC |
 
-**👉 [More on R-2R Ladder DAC](https://www.analog.com/en/analog-dialogue/articles/the-r-2r-ladder-dac.html)**
-
+**👉 [More on R-2R Ladder DAC](https://www.electronics-tutorials.ws/combination/r-2r-dac.html)**
 ---
 
 ### 3️⃣ **Delta-Sigma DAC (Σ-Δ DAC)**
@@ -75,29 +69,10 @@ There are several types of DAC architectures, each offering different speed, res
 | High resolution and accuracy    | Slow conversion speed             |
 | Low distortion and noise        | Requires more complex circuitry   |
 
-**👉 [More on Delta-Sigma DAC](https://www.tescaglobal.com/delta-sigma-dac-overview/)**
-
+**👉 [More on Delta-Sigma DAC](https://www.beis.de/Elektronik/DeltaSigma/DeltaSigma.html)**
 ---
 
-### 4️⃣ **PWM (Pulse Width Modulation) DAC**
 
-> A **PWM DAC** uses a pulse width modulation technique to generate an analog signal by adjusting the duty cycle of a square wave.
-
-- **How it works**:  
-  The duty cycle of a high-frequency square wave is adjusted according to the digital input. A low-pass filter then smooths the signal into a continuous analog voltage.
-
-- 🧭 **Typical Use**:
-  - Motor control systems.
-  - Audio amplification and signal processing.
-
-| ✅ Pros                         | ❌ Cons                           |
-|---------------------------------|-----------------------------------|
-| Simple to implement             | Low resolution compared to other DACs |
-| Cost-effective                  | Requires filtering for smooth output |
-
-**👉 [More on PWM DAC](https://www.electronics-tutorials.ws/system/pwm.html)**
-
----
 
 ## 📊 DAC Resolution
 
@@ -113,24 +88,6 @@ The **resolution** of a DAC determines how finely it can adjust its output. The 
 - 📡 **Signal Generation**: Used to generate analog waveforms, such as sine, square, or triangle waves, for various applications like audio, RF, and communication systems.
 - 🎶 **Audio Systems**: Converting digital audio data into analog signals for speakers or other audio devices.
 - ⚙️ **Control Systems**: Translating digital control signals into analog outputs for controlling devices like actuators and motors.
-
----
-
-## 🛠️ Example of a DAC Circuit
-
-Here’s a simple example of a **R-2R Ladder DAC** circuit:
-
-### Components:
-
-- **Digital input signal** (e.g., from a microcontroller)
-- **Resistors (R and 2R values)**
-- **Op-amp (for smoothing the output signal)**
-
-### How it Works:
-
-1. The digital signal is represented as a series of high and low voltage levels.
-2. The R-2R ladder network converts these levels into an output voltage that is proportional to the digital input.
-3. An op-amp is used to smooth the signal into a continuous analog voltage.
 
 ---
 
