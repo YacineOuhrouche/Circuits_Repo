@@ -39,6 +39,7 @@ A **Balun** (short for **Balanced-Unbalanced transformer**) is a critical passiv
 | Good for low-frequency use | Bulkier and core-dependent     |
 | Provides galvanic isolation | Limited bandwidth              |
 
+**👉 [More on Balun Transformers](https://ip-fiber.com/blogs/news/what-is-a-balun-transformer-and-how-does-it-work)**
 ---
 
 ### 2️⃣ **Transmission Line Balun**
