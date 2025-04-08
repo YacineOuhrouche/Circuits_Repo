@@ -37,25 +37,16 @@ Each folder contains:
 | **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./Power_Electronics/H_Bridge) |
 
 ---
-
 ### 📡 **RF & Communication Circuits**
 
 | ⚙️ Circuit                         | 📜 Description                                                                  | 🔗 Link                                              |
 |------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **📡 Antenna**                     | Converts electrical signals into radio waves or vice versa                      | [View Folder](./RF_Communication/Antenna)                            |
-| **📡 Impedance Matching**          | Matches impedance between circuit and antenna to maximize power transfer        | [View Folder](./RF_Communication/Impedance_Matching)                 |
-| **📉 RF Attenuator**               | Reduces signal strength for testing or safe receiver input                      | [View Folder](./RF_Communication/RF_Attenuator)                      |
-| **🔊 LNA (Low Noise Amplifier)**   | Amplifies weak signals with minimal noise addition, crucial for receiver front-ends | [View Folder](./RF_Communication/LNA)                           |
-| **🔄 Automatic Gain Control (AGC)**| Stabilizes signal amplitude in receivers — helps prevent clipping or fading     | [View Folder](./RF_Communication/AGC)                                |
-| **📵 RF Switch**                   | Switches between multiple antennas or signal paths (e.g., for TX/RX switching)  | [View Folder](./RF_Communication/RF_Switch)                          |
-| **🔀 Signal Coupler**              | Taps a small portion of an RF signal for measurement or feedback                | [View Folder](./RF_Communication/Signal_Coupler)                     |
-| **🔂 Diplexer & Multiplexer**      | Splits (or combines) signals in different frequency bands or multiple inputs/outputs | [View Folder](./RF_Communication/Diplexer)         |
-| **🔁 Mixer**                       | Combines two signals to shift frequency (used in up/down-conversion)            | [View Folder](./RF_Communication/Mixer)                              |
-| **⏱️ PLL Circuit**                 | Phase-Locked Loop for frequency synthesis, demodulation, and clock recovery     | [View Folder](./RF_Communication/PLL)                                |
-| **🧭 Frequency Synthesizer**       | Generates precise RF frequencies from a reference signal using PLLs or DDS      | [View Folder](./RF_Communication/Frequency_Synthesizer)              |
-| **📤 Modulator**                   | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)       | [View Folder](./RF_Communication/Modulator)                          |
-| **📥 Demodulator**                 | Recovers the original message from a modulated carrier signal                   | [View Folder](./RF_Communication/Demodulator)                        |
-        
+| **🔌 Signal Interface**            | Converts electrical signals or transforms them for different media or formats    | [View Folder](./RF_Communication/Antenna)                            |
+| **🔧 Signal Conditioning**         | Amplifies, filters, or modifies signals for optimal performance                 | [View Folder](./RF_Communication/LNA)                           |
+| **🔄 Signal Routing**              | Directs signals between components or paths                                    | [View Folder](./RF_Communication/RF_Switch)                          |
+| **🎚️ Frequency Generation**       | Generates precise frequencies for use in communication systems                 | [View Folder](./RF_Communication/Frequency_Synthesizer)              |
+| **📡 Modulation/Demodulation**    | Converts baseband signals to RF and recovers information from modulated carriers | [View Folder](./RF_Communication/Modulator)                          |
+
 ---
 ### 🔹 **Current & Voltage Regulation/Protection**  
 
