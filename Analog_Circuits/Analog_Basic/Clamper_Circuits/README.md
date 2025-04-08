@@ -94,7 +94,7 @@ Clamper circuits are essential in **signal processing** and **waveform adjustmen
 ---
 
 ## 🔹 NEXT  
-**👉[Buck Converter](../../Power_Electronics/DCDC_Converter/Buck_Converter)**
+**👉[ADC](../ADC)**
 
 
 
