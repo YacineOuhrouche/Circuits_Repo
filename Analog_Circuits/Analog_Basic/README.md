@@ -17,16 +17,16 @@ Each folder contains:
 
 | ⚙️ Circuit                         | 📜 Description                                                                  | 🔗 Link                                              |
 |------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **📢 Small Signal Amplifier**      | Amplifies weak signals using **BJTs**                                            | [View Folder](./Analog_Basic/Small_Signal_Amplifier) |
-| **🔊 Power Amplifier**             | Used to drive speakers and other high-power loads                               | [View Folder](./Analog_Basic/Power_Amplifier)       |
-| **🌀 Oscillator Circuit**          | Generates a continuous periodic waveform                                        | [View Folder](./Analog_Basic/Oscillator)            |
-| **🟢 Schmitt Trigger**             | Converts noisy or slowly changing input into a clean digital signal             | [View Folder](./Analog_Basic/Schmitt_trigger)        |
-| **📈 Peak Detector Circuit**       | Captures and holds the peak voltage level of an input signal                    | [View Folder](./Analog_Basic/Peak_Detector)          |
-| **🔎 Filters**                     | Pass or block specific frequencies                                              | [View Folder](./Analog_Basic/Filters/)               |
-| **✂️ Clipper Circuit**             | Clips portions of a signal without distorting the remaining waveform             | [View Folder](./Analog_Basic/Clipper_Circuit/)       |
-| **🔼 Clamper Circuit**             | Adds or subtracts a DC voltage to an AC signal                                  | [View Folder](./Analog_Basic/Clamper_Circuits/)      |
-| **🔄 ADC (Analog-to-Digital Converter)**  | Converts an analog signal into a digital signal                                   | [View Folder](./Analog_Basic/ADC)                    |
-| **🔁 DAC (Digital-to-Analog Converter)**  | Converts a digital signal into an analog signal                                  | [View Folder](./Analog_Basic/DAC)                    |
+| **📢 Small Signal Amplifier**      | Amplifies weak signals using **BJTs**                                            | [View Folder](./Small_Signal_Amplifier) |
+| **🔊 Power Amplifier**             | Used to drive speakers and other high-power loads                               | [View Folder](./Power_Amplifier)       |
+| **🌀 Oscillator Circuit**          | Generates a continuous periodic waveform                                        | [View Folder](./Oscillator)            |
+| **🟢 Schmitt Trigger**             | Converts noisy or slowly changing input into a clean digital signal             | [View Folder](./Schmitt_trigger)        |
+| **📈 Peak Detector Circuit**       | Captures and holds the peak voltage level of an input signal                    | [View Folder](./Peak_Detector)          |
+| **🔎 Filters**                     | Pass or block specific frequencies                                              | [View Folder](./Filters/)               |
+| **✂️ Clipper Circuit**             | Clips portions of a signal without distorting the remaining waveform             | [View Folder](./Clipper_Circuit/)       |
+| **🔼 Clamper Circuit**             | Adds or subtracts a DC voltage to an AC signal                                  | [View Folder](./Clamper_Circuits/)      |
+| **🔄 ADC (Analog-to-Digital Converter)**  | Converts an analog signal into a digital signal                                   | [View Folder](./ADC)                    |
+| **🔁 DAC (Digital-to-Analog Converter)**  | Converts a digital signal into an analog signal                                  | [View Folder](./DAC)                    |
 
 
 ## 🔹 NEXT  
