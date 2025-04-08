@@ -16,7 +16,7 @@ These circuits cover essential components in RF systems, including modulators, m
 | **🔄 Automatic Gain Control (AGC)**| Stabilizes signal amplitude in receivers — helps prevent clipping or fading     | [View Folder](./AGC)                                |
 | **📵 RF Switch**                   | Switches between multiple antennas or signal paths (e.g., for TX/RX switching)  | [View Folder](./RF_Switch)                          |
 | **🔀 Signal Coupler**              | Taps a small portion of an RF signal for measurement or feedback                | [View Folder](./Signal_Coupler)                     |
-| **🔂 Diplexer & Multiplexer**      | Splits (or combines) signals in different frequency bands or multiple inputs/outputs | [View Folder](./Diplexer_Multiplexer)         |
+| **🔂 Diplexer & Multiplexer**      | Splits (or combines) signals in different frequency bands or multiple inputs/outputs | [View Folder](./Diplexer)         |
 | **🔁 Mixer**                       | Combines two signals to shift frequency (used in up/down-conversion)            | [View Folder](./Mixer)                              |
 | **⏱️ PLL Circuit**                 | Phase-Locked Loop for frequency synthesis, demodulation, and clock recovery     | [View Folder](./PLL)                                |
 | **🧭 Frequency Synthesizer**       | Generates precise RF frequencies from a reference signal using PLLs or DDS      | [View Folder](./Frequency_Synthesizer)              |
