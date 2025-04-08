@@ -54,7 +54,7 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 ---
 
 ### 🔹 **Electronic Fundamentals**
-This section is focused on learning and understanding key electronic concepts, circuits, and their real-world applications.
+This section is my notes focused on understanding key electronic concepts, circuits, and their real-world applications.
 
 #### 🔗 1️⃣ **Analog Circuits**
  Analog circuits are used in a variety of fields, from signal processing to power control, and more.
@@ -69,7 +69,7 @@ This section is focused on learning and understanding key electronic concepts, c
 ---
 
 #### 🔗 2️⃣ **Digital Circuits**
-Learn the basics and advanced concepts of digital circuits, covering logic gates, combinational circuits, and sequential circuits.
+My notes about the basics and advanced concepts of digital circuits, covering logic gates, combinational circuits, and sequential circuits.
 
 | ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
 |-------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------|
