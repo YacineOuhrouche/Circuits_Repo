@@ -127,5 +127,5 @@ Signal Couplers are fundamental building blocks in communication, audio, power, 
 ---
 
 ## 🔹 Next
-**👉 [Mixer](../Frequency_Generation/Mixer** ) 
+**👉 [Mixer](../../Frequency_Generation/Mixer** ) 
 
