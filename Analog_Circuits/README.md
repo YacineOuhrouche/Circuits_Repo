@@ -13,7 +13,7 @@ Each folder contains:
 
 ## Quick Links to Each Circuit
 
-### 🔹 **Analog Circuits**  
+### 🔹 **General Analog Circuits**  
 
 | ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
 |---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
@@ -28,7 +28,7 @@ Each folder contains:
 
 
 ---
-### 🔹 **Power Electronics**  
+### 🔹 **Power Electronics Circuits**  
 | ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
 |---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
 | **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./Power_Electronics/DCDC_Converter/)     |
