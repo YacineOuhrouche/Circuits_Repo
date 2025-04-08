@@ -119,4 +119,4 @@ By choosing the appropriate ADC architecture (SAR, Delta-Sigma, Flash, or Pipeli
 
 ## 🔹 Next Steps
 
-**👉 [DAC (Digital-to-Analog Converter)](./DAC)**
+**👉 [DAC (Digital-to-Analog Converter)](../DAC)**
