@@ -104,5 +104,5 @@ Overcurrent protection circuits are **vital** in protecting electrical systems f
 
 ---
 ## 🔹 NEXT  
-**👉[Current Sensing Circuit](../Current_Sensing)**
+**👉[Soft Start Circuit](../Soft_Start)**
 
