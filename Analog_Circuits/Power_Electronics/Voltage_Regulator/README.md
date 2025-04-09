@@ -28,7 +28,7 @@ Voltage regulators typically use **feedback mechanisms** to adjust the output vo
 
 - **How they work**: Linear regulators adjust the output voltage by dissipating excess power as heat.
 - **Example**: **LM7805** (5V voltage regulator)
-  
+
 | ✅ Pros               | ❌ Cons                  |
 |----------------------|-------------------------|
 | Simple design        | Less efficient (waste heat) |
@@ -50,6 +50,29 @@ Voltage regulators typically use **feedback mechanisms** to adjust the output vo
 | High efficiency      | More complex design     |
 | Handles larger load currents | Generates switching noise |
 | Can step-up or step-down voltage | Requires more components |
+
+---
+
+### 3️⃣ **Low Dropout (LDO) Regulator**
+
+> A **Low Dropout Regulator (LDO)** is a type of linear voltage regulator that can regulate output voltage with a very small difference between the input and output voltage. This makes it ideal for situations where the input voltage is only slightly higher than the desired output voltage.
+
+- **How it works**: 
+  - LDOs are designed to work with a small difference (dropout voltage) between the input and output. The output voltage is maintained as long as the input is slightly higher than the desired output voltage.
+
+- 🧭 **Typical Use**:
+  - **Battery-powered devices**: To maximize battery life and power efficiency.
+  - **Low-power applications**: Used in applications like sensors, microcontrollers, and portable electronics.
+
+| ✅ Pros                          | ❌ Cons                            |
+|----------------------------------|-----------------------------------|
+| Very low dropout voltage        | Limited by input voltage difference |
+| Simple design                   | Less efficient than switching regulators |
+| Low noise, ideal for sensitive analog circuits | Heat dissipation in high current scenarios |
+
+#### Example LDO: **LM1117**
+
+The **LM1117** is a commonly used LDO that provides a regulated output voltage with a dropout voltage as low as 1.1V. It is widely used in applications that require a stable 3.3V or 5V output in battery-powered circuits.
 
 ---
 
@@ -95,4 +118,4 @@ A **Voltage Regulator Circuit** is a fundamental component in modern electronic 
 ---
 
 ## 🔹 NEXT  
-**👉 [Powe](../Power_Electronics)**
+**👉 [Power Electronics](../Power_Electronics)**
