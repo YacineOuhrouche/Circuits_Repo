@@ -19,11 +19,11 @@ Each folder contains:
 
 | ⚙️ Circuit | 🔗 Link |
 |---|---|
-| **🔵 AND Gate** | [AND Gate Folder](./Logic_Gates/AND_Gate/) |
-| **🔴 OR Gate** | [OR Gate Folder](./Logic_Gates/OR_Gate/) |
-| **⚪ NOT Gate** | [NOT Gate Folder](./Logic_Gates/NOT_Gate/) |
-| **🟢 NAND Gate** | [NAND Gate Folder](./Logic_Gates/NAND_Gate/) |
-| **🟠 NOR Gate** | [NOR Gate Folder](./Logic_Gates/NOR_Gate/) |
+| **🔵 AND Gate** | [View Folder](./Logic_Gates/AND_Gate/) |
+| **🔴 OR Gate** | [View Folder](./Logic_Gates/OR_Gate/) |
+| **⚪ NOT Gate** | [View Folder](./Logic_Gates/NOT_Gate/) |
+| **🟢 NAND Gate** | [View Folder](./Logic_Gates/NAND_Gate/) |
+| **🟠 NOR Gate** | [View Folder](./Logic_Gates/NOR_Gate/) |
 
  **🔲 Combinational Circuit**  
 | ⚙️ Circuit                      | 📜 Description                                                                     | 🔗 Link                                              |
