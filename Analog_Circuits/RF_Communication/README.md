@@ -2,8 +2,6 @@
 
 This collection demonstrates how to build **RF and Communication circuits** that focus on modulating, transmitting, receiving, and processing signals in the radio frequency domain. These circuits are fundamental to communication systems like AM/FM radios, cell phones, and wireless communication devices.
 
-
-
 ---
 
 ### 🛰️ **1. Signal Interface & Transformation**
@@ -50,8 +48,12 @@ This collection demonstrates how to build **RF and Communication circuits** that
 
 ---
 
+### 🌍 **6. Propagation Models**
+| ⚙️ Circuit               | 📜 Description                                                              | 🔗 Link                          |
+|--------------------------|------------------------------------------------------------------------------|-----------------------------------|
+| **📡 Propagation Models** | Describes various models predicting the behavior of radio waves in different environments, including free-space, urban, and fading models | [View Folder](./Propagation_Models)        |
 
-
+---
 
 ## 🔹 NEXT  
 **👉 [Circuit Protection](../../Circuit_Protection)**
