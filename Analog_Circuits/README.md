@@ -64,12 +64,13 @@ Each folder contains:
 ---
 ### 🔹 **Current & Voltage Regulation/Protection**  
 
-| ⚙️ Circuit                     | 📜 Description                                                                  | 🔗 Link                                              |
-|-------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🔄 Current Mirror**        | The current in one half of the circuit controls the current flow in the other half | [View Folder](./Circuit_Protection/Current_mirror/)      |
-| **⚠️ Overvoltage Protection Circuit** | Prevents excessive voltage from damaging components  | [View Folder](./Circuit_Protection/Overvoltage) |
-| **⚡ Overcurrent Protection Circuit** | Detects excessive current flow and prevents damage  | [View Folder](./Circuit_Protection/Overcurrent) |
-| **⚡ Current Sensing Circuit** | Measures current flow to monitor and protect systems from overcurrent damage | [View Folder](./Circuit_Protection/Current_Sensing)             |
+| ⚙️ Circuit                          | 📜 Description                                                                 | 🔗 Link                                              |
+|-------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------|
+| **⚡ Current Sensing Circuit**       | Measures current flow to monitor and protect systems from overcurrent damage   | [View Folder](./Circuit_Protection/Current_Sensing)                   |
+| **🔄 Current Mirror**               | The current in one half of the circuit controls the current in the other half  | [View Folder](./Circuit_Protection/Current_mirror/)                   |
+| **⚡ Overcurrent Protection Circuit**| Detects excessive current flow and prevents damage                             | [View Folder](./Circuit_Protection/Overcurrent)                       |
+| **⚠️ Overvoltage Protection Circuit**| Prevents excessive voltage from damaging components                            | [View Folder](./Circuit_Protection/Overvoltage)                       |
+| **🌅 Soft Start Circuit**           | Gradually ramps up voltage at startup to prevent inrush currents               | [View Folder](./Circuit_Protection/Soft_Start)                        |
 
 ## 🔹 NEXT  
 **👉[Digital Circuit](../Digital_Circuit)**
