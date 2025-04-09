@@ -50,6 +50,7 @@ Propagation models provide insight into:
 | Works well for low-frequency signals | Limited to short to medium distances |
 | Accurate for ground-based transmission | Not suitable for high-frequency signals|
 
+**👉 [More On Ground Wave Propagation](https://www.electronics-notes.com/articles/antennas-propagation/ground-wave/basics-tutorial.php)**
 ---
 
 ### 3️⃣ **Sky Wave Propagation**
@@ -65,7 +66,9 @@ Propagation models provide insight into:
 | Enables long-range communication | Dependent on ionospheric conditions |
 | Useful for over-the-horizon communication | Can cause signal distortion or fading |
 
+**👉 [More On Sky Wave Propagation](https://vu2nsb.com/radio-propagation/ionospheric-skywave-propagation/#google_vignette)**
 ---
+
 
 ### 4️⃣ **Okumura-Hata Model**
 
