@@ -125,4 +125,4 @@ Power Factor Correction is a **crucial technique** for building efficient, regul
 
 ## 🔹 Next Steps
 
-**👉 [PWM Generator](../PWM)**
+**👉 [H-Bridge](../H_Bridge)**
