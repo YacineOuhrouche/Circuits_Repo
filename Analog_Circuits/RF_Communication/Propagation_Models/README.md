@@ -84,6 +84,8 @@ Radio signals experience several phenomena that affect performance:
 | Works for varied real-world settings   | Based on measurements, not theory       |
 | Useful for planning base station placement | Limited frequency range (150–1500 MHz) |
 
+🔗 [More on Okumura-Hata Model](https://en.wikipedia.org/wiki/Okumura_model#:~:text=The%20Okumura%20model%20is%20a,base%20for%20the%20Hata%20model.)
+
 ---
 
 ### 5️⃣ Log-Distance Path Loss Model
@@ -97,8 +99,9 @@ Radio signals experience several phenomena that affect performance:
 | Easy to implement                   | Requires calibration for each environment |
 | Useful for mixed-use environments   | Less accurate in complex terrains        |
 
----
+🔗 [More on Log-Distance Path Loss Model](https://en.wikipedia.org/wiki/Log-distance_path_loss_model#:~:text=The%20log%2Ddistance%20path%20loss,populated%20areas%20over%20long%20distance.)
 
+---
 ### 6️⃣ Rayleigh Fading Model
 
 > Models multipath fading where no line-of-sight path exists. Common in dense urban environments.
@@ -109,6 +112,8 @@ Radio signals experience several phenomena that affect performance:
 |-----------------------------------|------------------------------------|
 | Accurately models fast fading     | Assumes no dominant direct signal  |
 | Suitable for mobile environments  | Ignores large-scale path loss      |
+
+🔗 [More on Log-Distance Path Loss Model](https://www.electronics-notes.com/articles/antennas-propagation/propagation-overview/rayleigh-fading.php)
 
 ---
 
