@@ -67,4 +67,4 @@ Here’s the actual breadboard setup showing the circuit built with diodes, capa
 
 
 ## 🔹 NEXT  
-**👉[H-Bridge](../../H_Bridge)**
+**👉[Buck Converter](../../DCDC_Converter/Buck_Converter)**
