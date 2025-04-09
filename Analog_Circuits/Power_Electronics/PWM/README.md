@@ -91,8 +91,7 @@ There are several types of PWM circuits based on how the signal is generated:
 | High efficiency and precision   | Requires careful design to handle high frequencies |
 | Suitable for power regulation   | Can generate high-frequency noise |
 
-**👉 [More on High-frequency PWM](https://www.ti.com/lit/an/slva773/slva773.pdf)**
-
+**👉 [More on High-frequency PWM](https://www.instructables.com/Simplest-High-Frequency-PWM-With-NE555/)**
 ---
 
 ## 🔹 PWM Control
