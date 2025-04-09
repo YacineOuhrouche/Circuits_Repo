@@ -45,7 +45,46 @@ Propagation models provide insight into:
 
 ---
 
-### 2️⃣ **Okumura-Hata Model**
+### 2️⃣ **Ground Wave Propagation**
+
+> This model is used when the signal travels along the surface of the Earth. It is significant for low-frequency signals that travel over short to medium distances, such as AM radio.
+
+- **Formula**:  
+  \[
+  PL(dB) = A + B\log_{10}(d)
+  \]
+  Where:
+  - \( d \) = distance between transmitter and receiver
+  - \( A, B \) = constants depending on the environment
+
+- 🧭 **Typical Use**:  
+  - AM radio broadcasting, short-range communication.
+
+| ✅ Pros                | ❌ Cons                          |
+|------------------------|----------------------------------|
+| Works well for low-frequency signals | Limited to short to medium distances |
+| Accurate for ground-based transmission | Not suitable for high-frequency signals|
+
+---
+
+### 3️⃣ **Sky Wave Propagation**
+
+> Sky wave propagation refers to radio signals that are reflected from the ionosphere, enabling them to travel long distances beyond the line of sight. This model is commonly used for HF (High Frequency) radio communications.
+
+- **Formula**:  
+  The sky wave model involves complex interactions with the ionosphere, so it's often represented using empirical formulas or approximations.
+
+- 🧭 **Typical Use**:  
+  - Long-range radio communication (e.g., international broadcasting, military communication).
+
+| ✅ Pros                | ❌ Cons                          |
+|------------------------|----------------------------------|
+| Enables long-range communication | Dependent on ionospheric conditions |
+| Useful for over-the-horizon communication | Can cause signal distortion or fading |
+
+---
+
+### 4️⃣ **Okumura-Hata Model**
 
 > A more practical model that considers the effects of the environment, including buildings, trees, and terrain. It’s widely used for urban, suburban, and rural environments.
 
@@ -63,7 +102,7 @@ Propagation models provide insight into:
 
 ---
 
-### 3️⃣ **Log-Distance Path Loss Model**
+### 5️⃣ **Log-Distance Path Loss Model**
 
 > This model uses a logarithmic relationship between distance and signal strength. It is commonly used in environments where a simple model is needed but a more realistic one than free-space path loss.
 
@@ -86,7 +125,7 @@ Propagation models provide insight into:
 
 ---
 
-### 4️⃣ **Rayleigh Fading Model**
+### 6️⃣ **Rayleigh Fading Model**
 
 > Used to model signal fading in environments with many obstacles causing multipath propagation. It assumes that the signal experiences random phase shifts as it travels through the environment.
 
@@ -109,7 +148,7 @@ Propagation models provide insight into:
 
 ---
 
-### 5️⃣ **Nakagami Fading Model**
+### 7️⃣ **Nakagami Fading Model**
 
 > A more flexible fading model that can represent different types of fading by adjusting a parameter. It can represent Rayleigh fading, Rician fading, and more.
 
