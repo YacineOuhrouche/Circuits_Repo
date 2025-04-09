@@ -26,15 +26,6 @@ Propagation models provide insight into:
 
 > This is the simplest model, which assumes that the radio signal travels through an empty space without any obstacles. It calculates the path loss based on the distance and the frequency of the signal.
 
-- **Formula**:  
-  \[
-  PL(dB) = 20\log_{10}(d) + 20\log_{10}(f) + 20\log_{10}(4\pi / c)
-  \]
-  Where:
-  - \( d \) = distance between the transmitter and receiver (in meters)
-  - \( f \) = frequency of the signal (in Hz)
-  - \( c \) = speed of light (in m/s)
-
 - 🧭 **Typical Use**:  
   - Line-of-sight communication in open areas.
 
@@ -43,19 +34,13 @@ Propagation models provide insight into:
 | Simple and easy to apply| Not realistic for complex environments|
 | Useful for ideal conditions| Ignores obstructions or terrain|
 
+**👉 [More On FSPL](https://www.electronics-notes.com/articles/antennas-propagation/propagation-overview/free-space-path-loss.php)**
 ---
 
 ### 2️⃣ **Ground Wave Propagation**
 
 > This model is used when the signal travels along the surface of the Earth. It is significant for low-frequency signals that travel over short to medium distances, such as AM radio.
 
-- **Formula**:  
-  \[
-  PL(dB) = A + B\log_{10}(d)
-  \]
-  Where:
-  - \( d \) = distance between transmitter and receiver
-  - \( A, B \) = constants depending on the environment
 
 - 🧭 **Typical Use**:  
   - AM radio broadcasting, short-range communication.
@@ -71,8 +56,6 @@ Propagation models provide insight into:
 
 > Sky wave propagation refers to radio signals that are reflected from the ionosphere, enabling them to travel long distances beyond the line of sight. This model is commonly used for HF (High Frequency) radio communications.
 
-- **Formula**:  
-  The sky wave model involves complex interactions with the ionosphere, so it's often represented using empirical formulas or approximations.
 
 - 🧭 **Typical Use**:  
   - Long-range radio communication (e.g., international broadcasting, military communication).
@@ -87,9 +70,6 @@ Propagation models provide insight into:
 ### 4️⃣ **Okumura-Hata Model**
 
 > A more practical model that considers the effects of the environment, including buildings, trees, and terrain. It’s widely used for urban, suburban, and rural environments.
-
-- **Formula**:  
-  The model provides empirical formulas for path loss in different environments based on frequency, distance, and urbanization type (urban, suburban, rural).
 
 - 🧭 **Typical Use**:  
   - Cellular network planning.
@@ -106,14 +86,6 @@ Propagation models provide insight into:
 
 > This model uses a logarithmic relationship between distance and signal strength. It is commonly used in environments where a simple model is needed but a more realistic one than free-space path loss.
 
-- **Formula**:  
-  \[
-  PL(dB) = PL(d_0) + 10n\log_{10}(d/d_0)
-  \]
-  Where:
-  - \( PL(d_0) \) = path loss at a reference distance \( d_0 \)
-  - \( n \) = path loss exponent (typically between 2 and 4)
-  - \( d \) = distance between the transmitter and receiver
 
 - 🧭 **Typical Use**:  
   - General indoor and outdoor environments where detailed models are not required.
@@ -129,14 +101,6 @@ Propagation models provide insight into:
 
 > Used to model signal fading in environments with many obstacles causing multipath propagation. It assumes that the signal experiences random phase shifts as it travels through the environment.
 
-- **Formula**:  
-  \[
-  P_R = \frac{1}{\sigma \sqrt{2 \pi}} e^{-\frac{r^2}{2\sigma^2}}
-  \]
-  Where:
-  - \( P_R \) = received power
-  - \( r \) = distance
-  - \( \sigma \) = standard deviation of the signal amplitude
 
 - 🧭 **Typical Use**:  
   - Environments with heavy multipath interference (e.g., urban canyons).
@@ -152,15 +116,7 @@ Propagation models provide insight into:
 
 > A more flexible fading model that can represent different types of fading by adjusting a parameter. It can represent Rayleigh fading, Rician fading, and more.
 
-- **Formula**:  
-  The model involves the Nakagami distribution, defined as:
-  \[
-  f(r) = \frac{2m^m}{\Gamma(m)} \left( \frac{r}{\Omega} \right)^{2m-1} e^{-\frac{m r^2}{\Omega}}
-  \]
-  Where:
-  - \( m \) = Nakagami factor
-  - \( r \) = received signal amplitude
-  - \( \Omega \) = signal power
+
 
 - 🧭 **Typical Use**:  
   - Adaptive communication systems with varying fading conditions.
