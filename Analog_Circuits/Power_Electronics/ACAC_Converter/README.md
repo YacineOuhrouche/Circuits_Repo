@@ -119,4 +119,4 @@ The **role of transformers** is also critical in voltage regulation and isolatio
 ---
 
 ## 🔹 NEXT  
-**👉[Buck Converter](../../Power_Electronics/DCDC_Converter/Buck_Converter)**
+**👉[Power Factor Correction Circuit](../PFC)**
