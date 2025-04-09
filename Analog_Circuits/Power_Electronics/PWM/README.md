@@ -73,8 +73,7 @@ There are several types of PWM circuits based on how the signal is generated:
 | Simple and cost-effective       | Limited flexibility in frequency control |
 | No need for a microcontroller   | Lower resolution for precise control |
 
-**👉 [More on 555 Timer PWM](https://www.electronicwings.com/555-timer/astable-mode-pwm)**
-
+**👉 [More on 555 Timer PWM](https://www.electronicshub.org/555-timer-pwm/)**
 ---
 
 ### 3️⃣ **High-frequency PWM**
@@ -135,34 +134,6 @@ There are several types of PWM circuits based on how the signal is generated:
 
 ---
 
-## 🔹 PWM Filtering
-
-PWM can be converted into an **analog voltage** using a **low-pass filter** (RC or LC), enabling its use in **PWM-based DACs**.
-
-> 🎚 Common in microcontroller applications for simulating analog outputs.
-
----
-
-## 🔹 PWM in Control Systems
-
-PWM is widely used within feedback control systems, often paired with:
-
-- ✅ **PID controllers**
-- ✅ **Current/voltage feedback sensors**
-- ✅ **Closed-loop motor speed regulation**
-
----
-
-## 🔹 Advanced PWM Applications
-
-| ⚙️ Application           | 🔍 Description                                                  |
-|--------------------------|-----------------------------------------------------------------|
-| **Class D Amplifiers**    | Use PWM to amplify audio signals efficiently                   |
-| **Space Vector PWM (SVPWM)** | Used in 3-phase motor control to optimize torque and reduce harmonics |
-| **IR Modulated PWM**      | Encodes data in IR remotes using PWM techniques                |
-| **PWM DAC**               | Simulates analog output using filtered PWM                     |
-
----
 
 ## 🔹 Limitations & Design Considerations
 
