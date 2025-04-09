@@ -38,38 +38,72 @@ PWM involves varying the **duty cycle** of a square wave signal, which represent
 
 ## 🔹 Types of PWM Circuits
 
-### 1️⃣ Microcontroller-based PWM
+There are several types of PWM circuits based on how the signal is generated:
 
-Uses internal timers and registers to generate PWM.
+### 1️⃣ **Microcontroller-based PWM**
 
-- ✅ Easy to implement
-- ✅ Can change duty cycle dynamically in software
+> A microcontroller (e.g., Arduino, STM32) generates the PWM signal by using built-in timers and counters to control the output.
 
-[👉 Arduino PWM Docs](https://www.arduino.cc/en/Reference/AnalogWrite)
+- **How it works**:  
+  The microcontroller’s timer is configured to produce a square wave signal with a variable duty cycle, which can be adjusted programmatically.
+
+- 🧭 **Typical Use**:
+  - Simple motor control, LED dimming, and small embedded systems.
+
+| ✅ Pros                         | ❌ Cons                           |
+|---------------------------------|-----------------------------------|
+| Easy to implement with microcontrollers | Limited frequency and resolution for high-speed applications |
+| Can be adjusted in real-time    | Requires software control for precise timing |
+
+**👉 [More on Microcontroller PWM](https://www.arduino.cc/en/Reference/AnalogWrite)**
+
+---
+
+### 2️⃣ **555 Timer-based PWM**
+
+> The 555 timer IC can be used to generate a PWM signal by configuring it in astable mode, where the output continuously switches between high and low states.
+
+- **How it works**:  
+  The 555 timer generates a pulse whose duty cycle is controlled by external resistors and capacitors.
+
+- 🧭 **Typical Use**:
+  - Basic motor control, simple LED dimming circuits.
+
+| ✅ Pros                         | ❌ Cons                           |
+|---------------------------------|-----------------------------------|
+| Simple and cost-effective       | Limited flexibility in frequency control |
+| No need for a microcontroller   | Lower resolution for precise control |
+
+**👉 [More on 555 Timer PWM](https://www.electronicwings.com/555-timer/astable-mode-pwm)**
 
 ---
 
-### 2️⃣ 555 Timer-based PWM
+### 3️⃣ **High-frequency PWM**
 
-Uses a 555 timer IC in astable mode with adjustable resistors and capacitors.
+> High-frequency PWM is used in applications requiring precise control over power, such as in **DC-DC converters** and **class D audio amplifiers**.
 
-- ✅ Simple hardware solution
-- ❌ Limited flexibility
+- **How it works**:  
+  PWM is generated at a very high frequency, often in the kHz range, to reduce audible noise and to improve the efficiency of power conversion.
 
-[👉 555 Timer PWM Guide](https://www.electronicwings.com/555-timer/astable-mode-pwm)
+- 🧭 **Typical Use**:
+  - DC-DC converters, audio amplifiers, power supplies.
+
+| ✅ Pros                         | ❌ Cons                           |
+|---------------------------------|-----------------------------------|
+| High efficiency and precision   | Requires careful design to handle high frequencies |
+| Suitable for power regulation   | Can generate high-frequency noise |
+
+**👉 [More on High-frequency PWM](https://www.ti.com/lit/an/slva773/slva773.pdf)**
+
+---
+
+## 🔹 PWM Control
+
+- **Duty Cycle**: Adjusting the duty cycle controls the power delivered to the load. A higher duty cycle results in more power being delivered, while a lower duty cycle reduces power.
+- **Frequency**: The frequency of the PWM signal determines how fast the signal switches between on and off states. Typically, PWM frequencies range from 1 kHz to several MHz, depending on the application.
 
 ---
 
-### 3️⃣ High-Frequency PWM
-
-Used in switching regulators and Class D amplifiers, operating in the tens or hundreds of kHz.
-
-- ✅ Precise power control
-- ✅ Lower filtering requirements
-
-[👉 High-Frequency PWM Design](https://www.ti.com/lit/an/slva773/slva773.pdf)
-
----
 
 ## 🔹 PWM Modes
 
