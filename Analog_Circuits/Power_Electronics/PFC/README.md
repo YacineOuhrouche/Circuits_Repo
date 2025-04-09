@@ -118,7 +118,6 @@ PF = p/s
 
 Power Factor Correction is a **crucial technique** for building efficient, regulation-compliant, and high-performance power systems. Active PFC, in particular, offers **superior efficiency**, **reduced harmonic distortion**, and is ideal for modern electronic designs.
 
-> **Fix your factor, power up efficiently! ⚡**
 
 ---
 
