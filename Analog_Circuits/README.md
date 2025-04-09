@@ -62,6 +62,7 @@ Each folder contains:
 | **🧭 Frequency Synthesizer** | Generates precise RF frequencies from a reference using PLL or DDS              | [View Folder](./RF_Communication/Frequency_Generation/Frequency_Synthesizer)      |
 | **📤 Modulator**         | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)   | [View Folder](./RF_Communication/Modulator_Demodulator/Modulator)        |
 | **📥 Demodulator**       | Recovers the original message from a modulated carrier signal               | [View Folder](./RF_Communication/Modulator_Demodulator/Demodulator)      |
+| **📡 Propagation Models** | Describes various models predicting the behavior of radio waves in different environments | [View Folder](./RF_Communication/Propagation_Models)        |
 
 
 ---
