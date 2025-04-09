@@ -167,5 +167,5 @@ Understanding different types of PWM circuits, modes, and applications empowers 
 
 ## 🔹 Next Steps
 
-**👉 [H-Bridge Motor Driver](../H_Bridge)**  
+**👉 [Voltage Regulator](../Voltage_Regulator)**  
 
