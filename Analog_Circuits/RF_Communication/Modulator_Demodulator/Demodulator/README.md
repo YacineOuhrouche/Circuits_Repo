@@ -301,5 +301,5 @@ Demodulation techniques are foundational in **analog and digital communication s
 ---
 
 ## 🔹 NEXT  
-**👉 [Current Mirror](../../../Circuit_Protection/Current_mirror)**  
+**👉 [Current Sensing](../../../Circuit_Protection/Current_Sensing)**  
 
