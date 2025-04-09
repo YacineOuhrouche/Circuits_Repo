@@ -25,9 +25,6 @@ The main role of an RF switch is to isolate, connect, or route signals efficient
 
 > A basic switch with one input and one output, used to connect or disconnect the signal path.
 
-- ⚙️ **How it works**:  
-  The SPST switch either allows or blocks the signal flow between the input and output, functioning as an **ON/OFF switch**.
-
 - 📡 **Applications**:  
   - Simple signal path control  
   - Antenna switching in basic systems
@@ -44,9 +41,6 @@ The main role of an RF switch is to isolate, connect, or route signals efficient
 ### 2️⃣ **SPDT (Single-Pole, Double-Throw)**
 
 > Allows a single input to be routed to one of two outputs, offering basic path selection.
-
-- ⚙️ **How it works**:  
-  The SPDT switch has one input and two outputs, allowing the signal to be switched between two paths.
 
 - 📡 **Applications**:  
   - Antenna selection in wireless devices  
@@ -65,8 +59,6 @@ The main role of an RF switch is to isolate, connect, or route signals efficient
 
 > A more advanced switch that routes two input signals to one of two outputs.
 
-- ⚙️ **How it works**:  
-  The DPDT switch allows for the switching of two independent signal paths simultaneously, which is useful for more complex systems.
 
 - 📡 **Applications**:  
   - Transceiver circuits  
