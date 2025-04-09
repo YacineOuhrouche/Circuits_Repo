@@ -101,5 +101,5 @@ Whether you're using analog filters, logic gates, or software-based solutions, m
 ---
 
 ## 🔹 Next Steps
-**👉 [Schmitt Trigger Circuit](../General_Analog_Circuits/Schmitt_Trigger)**  
+**👉 [Peak Detector Circuit](../Peak_Detector)**  
 
