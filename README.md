@@ -61,9 +61,9 @@ This section is my notes focused on understanding key electronic concepts, circu
 
 | ⚙️ Circuit                  | 📜 Description                                                                         | 🔗 Link                                              |
 |----------------------------|--------------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🔌 Analog Basic Circuits** | Basic circuits dealing with continuous signals and common signal processing techniques | [View Folder](./Analog_Circuits/Analog_Basic)               |
+| **🔌General Analog Circuits** | Basic circuits dealing with continuous signals and common signal processing techniques | [View Folder](./Analog_Circuits/Analog_Basic)               |
 | **⚡ Power Electronics**     | Circuits for power conversion such as rectifiers, inverters, and DC-DC converters      | [View Folder](./Analog_Circuits/Power_Electronics)                  |
-| **📡 RF & Communication**   | Circuits used in signal modulation, transmission, and reception in communication systems | [View Folder](./Analog_Circuits/RF_Communication)               |
+| **📡 RF & Communication**    | Circuits used in signal modulation, transmission, and reception in communication systems | [View Folder](./Analog_Circuits/RF_Communication)               |
 | **🔒 Circuit Protection**    | Protection circuits designed to safeguard against overloads, surges, and faults        | [View Folder](./Analog_Circuits/Circuit_Protection)                 |
 
 ---
