@@ -21,6 +21,7 @@ Each folder contains:
 | **🔊 Power Amplifier**             | Used to drive speakers and other high-power loads                               | [View Folder](./Analog_Basic/Power_Amplifier)       |
 | **🌀 Oscillator Circuit**          | Generates a continuous periodic waveform                                        | [View Folder](./Analog_Basic/Oscillator)            |
 | **🟢 Schmitt Trigger**             | Converts noisy or slowly changing input into a clean digital signal             | [View Folder](./Analog_Basic/Schmitt_trigger)        |
+| **🔄 Debouncing Circuit**          | Removes noisy transitions from mechanical switches                              | [View Folder](./Analog_Basic/Debouncing)      |
 | **📈 Peak Detector Circuit**       | Captures and holds the peak voltage level of an input signal                    | [View Folder](./Analog_Basic/Peak_Detector)          |
 | **🔎 Filters**                     | Pass or block specific frequencies                                              | [View Folder](./Analog_Basic/Filters/)               |
 | **✂️ Clipper Circuit**             | Clips portions of a signal without distorting the remaining waveform             | [View Folder](./Analog_Basic/Clipper_Circuit/)       |
