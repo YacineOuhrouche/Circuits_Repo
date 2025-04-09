@@ -42,13 +42,23 @@ Each folder contains:
 ---
 ### 📡 **RF & Communication Circuits**
 
-| ⚙️ Circuit                         | 📜 Description                                                                  | 🔗 Link                                              |
-|------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🔌 Signal Interface**            | Converts electrical signals or transforms them for different media or formats    | [View Folder](./RF_Communication/Signal_Interface)                            |
-| **🔧 Signal Conditioning**         | Amplifies, filters, or modifies signals for optimal performance                 | [View Folder](./RF_Communication/Signal_Conditioning)                           |
-| **🔄 Signal Routing**              | Directs signals between components or paths                                    | [View Folder](./RF_Communication/Signal_Routing)                          |
-| **🎚️ Frequency Generation**       | Generates precise frequencies for use in communication systems                 | [View Folder](./RF_Communication/Frequency_Generation)              |
-| **📡 Modulation/Demodulation**    | Converts baseband signals to RF and recovers information from modulated carriers | [View Folder](./RF_Communication/Modulator_Demodulator)                          |
+| ⚙️ Circuit              | 📜 Description                                                                  | 🔗 Link                                      |
+|------------------------|----------------------------------------------------------------------------------|---------------------------------------------|
+| **📡 Antenna**         | Converts electrical signals into radio waves or vice versa                      | [View Folder](.RF_Communication//Signal_Interface/Antenna)                    |
+| **📡 Impedance Matching** | Matches impedance between circuit and antenna to maximize power transfer        | [View Folder](./RF_Communication/Signal_Interface/Impedance_Matching)         |
+| **🌀 Balun**            | Converts between balanced and unbalanced signals, often used at RF front-ends   | [View Folder](./RF_Communication/Signal_Interface/Balun)                      |
+| **📉 RF Attenuator**               | Reduces signal strength for testing or safe receiver input                      | [View Folder](./RF_Communication/Signal_Conditioning/RF_Attenuator)         |
+| **🔊 LNA (Low Noise Amplifier)**   | Amplifies weak signals with minimal noise addition                              | [View Folder](./RF_Communication/Signal_Conditioning/LNA)                   |
+| **🔄 Automatic Gain Control (AGC)**| Stabilizes signal amplitude in receivers                                        | [View Folder](./RF_Communication/Signal_Conditioning/AGC)                   |
+| **📵 RF Switch**              | Selects between multiple antennas or circuits (e.g., TX/RX paths)             | [View Folder](./RF_Communication/Signal_Routing/RF_Switch)            |
+| **🔂 Diplexer & Multiplexer** | Splits or combines signals in different frequency bands or channels           | [View Folder](./RF_Communication/Signal_Routing/Diplexer)             |
+| **🔀 Signal Coupler**         | Taps a portion of RF signal for feedback, measurement, or splitting           | [View Folder](./RF_Communication/Signal_Routing/Signal_Coupler)       |
+| **🔁 Mixer**                 | Combines two signals to shift frequency (up/down-conversion)                    | [View Folder](./RF_Communication/Frequency_Generation/Mixer)                      |
+| **⏱️ PLL Circuit**           | Phase-Locked Loop for frequency synthesis, clock recovery, and demodulation     | [View Folder](./RF_Communication/Frequency_Generation/PLL)                        |
+| **🧭 Frequency Synthesizer** | Generates precise RF frequencies from a reference using PLL or DDS              | [View Folder](./RF_Communication/Frequency_Generation/Frequency_Synthesizer)      |
+| **📤 Modulator**         | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)   | [View Folder](./RF_Communication/Modulator_Demodulator/Modulator)        |
+| **📥 Demodulator**       | Recovers the original message from a modulated carrier signal               | [View Folder](./RF_Communication/Modulator_Demodulator/Demodulator)      |
+
 
 ---
 ### 🔹 **Current & Voltage Regulation/Protection**  
