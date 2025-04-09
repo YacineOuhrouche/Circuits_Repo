@@ -106,7 +106,7 @@ Whether you use a simple RC-MOSFET circuit or an integrated solution, implementi
 
 ---
 
-## 🔹 Next Steps
 
-**👉 [P](../PFC)**  
+## 🔹 NEXT  
+**👉[Logic Gates](../../../Digital_Circuit/Logic_Gates)**
 
