@@ -27,9 +27,6 @@ Without debouncing:
 
 > Uses a resistor and capacitor to smooth the bounce, followed by a Schmitt trigger to restore sharp logic levels.
 
-- **How it works**:  
-  The capacitor filters out fast transitions. The Schmitt trigger ensures clean digital switching.
-
 - 🧭 **Typical Use**:
   - Microcontroller inputs, logic circuits.
 
@@ -56,7 +53,7 @@ Without debouncing:
 | Fast and stable   | Needs multiple gates |
 | Works with logic families | Slightly more complex to wire |
 
-
+**👉 [More on This](https://www.eeweb.com/spdt-switch-debouncing-with-an-sr-latch/)**  
 ---
 
 ### 3️⃣ **Software Debouncing**
@@ -74,8 +71,9 @@ Without debouncing:
 | No extra components    | Requires processor time |
 | Easily adjustable      | Delay adds to responsiveness |
 
-
+**👉 [More on This](https://digilent.com/reference/learn/microprocessor/tutorials/debouncing-via-software/start?srsltid=AfmBOoo2aa53MIdHati2Botw5wSjDanLiIlwILLHjgtZtEG9oj6AX96y)**  
 ---
+
 
 ## 🔹 Timing Calculation
 
