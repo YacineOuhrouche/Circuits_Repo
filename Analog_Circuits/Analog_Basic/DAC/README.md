@@ -101,4 +101,4 @@ By choosing the appropriate DAC architecture (Binary-Weighted, R-2R Ladder, Delt
 
 ## 🔹 Next Steps
 
-**👉 [Buck Converter](../../Power_Electronics/DCDC_Converter/Buck_Converter)**
+**👉 [Rectifier](../../Power_Electronics/Rectifier/Half_Wave_Rectifier)**
