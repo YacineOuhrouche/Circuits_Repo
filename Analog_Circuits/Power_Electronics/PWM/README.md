@@ -55,8 +55,7 @@ There are several types of PWM circuits based on how the signal is generated:
 | Easy to implement with microcontrollers | Limited frequency and resolution for high-speed applications |
 | Can be adjusted in real-time    | Requires software control for precise timing |
 
-**👉 [More on Microcontroller PWM](https://www.arduino.cc/en/Reference/AnalogWrite)**
-
+**👉 [More on Microcontroller PWM](https://labs.dese.iisc.ac.in/embeddedlab/generating-pwm-with-microcontroller-using-timer-counter/#:~:text=The%20basic%20idea%20to%20generate,is%20compared%20with%20CMP%20value.)**
 ---
 
 ### 2️⃣ **555 Timer-based PWM**
