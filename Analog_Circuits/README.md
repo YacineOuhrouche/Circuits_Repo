@@ -30,12 +30,14 @@ Each folder contains:
 
 ---
 ### 🔹 **Power Electronics Circuits**  
-| ⚙️ Circuit                 | 📜 Description                                                                  | 🔗 Link                                              |
-|---------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
-| **⚡ DC-DC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./Power_Electronics/DCDC_Converter/)     |
-| **⚡ AC_AC Converter**       | Converts DC voltage from one level to another                               | [View Folder](./Power_Electronics/ACAC_Converter/)     |
-| **⚡ AC-DC Converter**       | AC-to-DC conversion circuit                                                 | [View Folder](./Power_Electronics/Rectifier/)          |
-| **⚙️ H-Bridge Circuit** | Controls the direction of **DC motors** | [View Folder](./Power_Electronics/H_Bridge) |
+| ⚙️ Circuit                    | 📜 Description                                                              | 🔗 Link                                              |
+|------------------------------|------------------------------------------------------------------------------|-----------------------------------------------------|
+| **⚡ AC-DC Converter**        | Converts AC input into regulated DC output                                  | [View Folder](./Power_Electronics/Rectifier/)                         |
+| **⚡ DC-DC Converter**        | Converts DC voltage from one level to another                               | [View Folder](./Power_Electronics/DCDC_Converter/)                    |
+| **⚡ AC-AC Converter**        | Converts AC voltage or frequency from one form to another                   | [View Folder](./Power_Electronics/ACAC_Converter/)                    |
+| **⚡ Power Factor Correction**| Improves power factor to reduce losses and increase efficiency              | [View Folder](./Power_Electronics/PFC/)           |
+| **🔄 PWM Generator**          | Generates Pulse Width Modulated signals for motor or power control          | [View Folder](./Power_Electronics/PWM/)                     |
+| **⚙️ H-Bridge Circuit**       | Controls the direction and speed of DC motors                               | [View Folder](./Power_Electronics/H_Bridge/)                          |
 
 ---
 ### 📡 **RF & Communication Circuits**
