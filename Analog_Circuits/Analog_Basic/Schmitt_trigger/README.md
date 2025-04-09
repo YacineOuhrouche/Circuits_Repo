@@ -70,4 +70,4 @@ By adjusting resistors **R1 and R2**, we can **change the hysteresis range**.
 ---
 
 ## 🔹 NEXT  
-**👉[Peak Detector Circuit](../Peak_Detector)**
+**👉[Debouncing Circuit](../Debouncing)**
