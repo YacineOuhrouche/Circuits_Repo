@@ -17,10 +17,8 @@ There are several types of ADC architectures, each with its own unique character
 
 ### 1️⃣ **Successive Approximation ADC (SAR ADC)**
 
-> A SAR ADC converts an analog input signal to a digital value by iteratively approximating the value with a series of comparisons.
+>  The input voltage is compared to a reference voltage using a digital-to-analog converter (DAC), and the process is repeated until the desired resolution is achieved.
 
-- **How it works**:  
-  The input voltage is compared to a reference voltage using a digital-to-analog converter (DAC), and the process is repeated until the desired resolution is achieved.
 
 - 🧭 **Typical Use**:
   - High-speed applications with medium to high resolution.
@@ -36,11 +34,9 @@ There are several types of ADC architectures, each with its own unique character
 
 ### 2️⃣ **Delta-Sigma ADC (Σ-Δ ADC)**
 
-> Delta-Sigma ADCs use a high-speed **1-bit DAC** to oversample the input signal and use a low-pass filter to extract the digital value.
+>  The input signal is sampled at a much higher frequency than the Nyquist rate, then a low-pass filter and decimation process is used to reduce the sample rate and extract the digital value.
 
-- **How it works**:  
-  The input signal is sampled at a much higher frequency than the Nyquist rate, then a low-pass filter and decimation process is used to reduce the sample rate and extract the digital value.
-
+ 
 - 🧭 **Typical Use**:
   - High-resolution, low-speed applications.
   - Audio, instrumentation, and precise measurement systems.
@@ -55,10 +51,9 @@ There are several types of ADC architectures, each with its own unique character
 
 ### 3️⃣ **Flash ADC**
 
-> Flash ADCs are the fastest type of ADC and work by comparing the input signal to a series of reference voltages simultaneously.
+>  A set of **comparator circuits** simultaneously compares the input signal to reference voltages, producing a digital output in a single step. This results in the highest conversion speed but requires many comparators.
 
-- **How it works**:  
-  A set of **comparator circuits** simultaneously compares the input signal to reference voltages, producing a digital output in a single step. This results in the highest conversion speed but requires many comparators.
+
 
 - 🧭 **Typical Use**:
   - Ultra-high-speed applications.
