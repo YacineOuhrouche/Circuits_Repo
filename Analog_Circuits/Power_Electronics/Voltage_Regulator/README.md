@@ -71,7 +71,7 @@ Voltage regulators typically use **feedback mechanisms** to adjust the output vo
 
 #### Example LDO: **LM1117**
 
-**👉[More On Switching Regulators](https://www.wellpcb.com/blog/pcb-projects/ldo-circuit/)**
+**👉[More On LDO](https://www.wellpcb.com/blog/pcb-projects/ldo-circuit/)**
 ---
 
 
