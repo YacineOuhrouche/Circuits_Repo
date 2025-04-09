@@ -114,6 +114,8 @@ PF = p/s
 
 ---
 
+**👉 [More ON PFC](https://www.monolithicpower.com/en/learning/resources/power-factor-correction?srsltid=AfmBOornogPbFxz-Pcy2NmfrmGhDsEcV3VIR-_RlpL1mSKO-xZEILROr)**
+---
 ## 📌 Conclusion
 
 Power Factor Correction is a **crucial technique** for building efficient, regulation-compliant, and high-performance power systems. Active PFC, in particular, offers **superior efficiency**, **reduced harmonic distortion**, and is ideal for modern electronic designs.
