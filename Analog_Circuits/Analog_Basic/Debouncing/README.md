@@ -38,7 +38,7 @@ Without debouncing:
 | Simple, low-cost         | Delay based on RC time constant |
 | No software needed       | Slower response if RC too large |
 
-
+**👉 [More on This](https://www.eejournal.com/article/ultimate-guide-to-switch-debounce-part-4/)**  
 ---
 
 ### 2️⃣ **SR Latch-based Debouncer (Logic)**
