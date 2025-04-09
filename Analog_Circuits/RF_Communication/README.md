@@ -51,7 +51,7 @@ This collection demonstrates how to build **RF and Communication circuits** that
 ### 🌍 **6. Propagation Models**
 | ⚙️ Circuit               | 📜 Description                                                              | 🔗 Link                          |
 |--------------------------|------------------------------------------------------------------------------|-----------------------------------|
-| **📡 Propagation Models** | Describes various models predicting the behavior of radio waves in different environments, including free-space, urban, and fading models | [View Folder](./Propagation_Models)        |
+| **📡 Propagation Models** | Describes various models predicting the behavior of radio waves in different environments | [View Folder](./Propagation_Models)        |
 
 ---
 
