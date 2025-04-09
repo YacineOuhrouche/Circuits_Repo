@@ -83,5 +83,5 @@ There are several types of current sensing circuits, each suited to different ap
 Current sensing circuits are essential for monitoring and controlling current flow in a wide range of applications. Whether you're using shunt resistors, Hall effect sensors, or current transformers, choosing the right current sensing method is key to achieving accurate and reliable results in your designs.
 
 ## 🔹 NEXT  
-**👉[Logic Gates](../../../Digital_Circuit/Logic_Gates)**
+**👉[Current Mirror](../Current_mirror)**
 
