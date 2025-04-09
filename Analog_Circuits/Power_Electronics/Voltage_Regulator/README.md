@@ -26,7 +26,7 @@ Voltage regulators typically use **feedback mechanisms** to adjust the output vo
 
 ### 1️⃣ **Linear Regulators**
 
-- **How they work**: Linear regulators adjust the output voltage by dissipating excess power as heat.
+> Linear regulators adjust the output voltage by dissipating excess power as heat.
 - **Example**: **LM7805** (5V voltage regulator)
 
 | ✅ Pros               | ❌ Cons                  |
@@ -35,11 +35,12 @@ Voltage regulators typically use **feedback mechanisms** to adjust the output vo
 | Low noise            | Requires heat dissipation |
 | Low cost             | Limited output current  |
 
+**👉[More On Linear Regulators](https://www.ablic.com/en/semicon/products/power-management-ic/voltage-regulator-ldo/intro-2/)**
 ---
 
 ### 2️⃣ **Switching Regulators (Buck, Boost, Buck-Boost)**
 
-- **How they work**: Switching regulators use inductors and capacitors to store and transfer energy, providing better efficiency compared to linear regulators.
+> Switching regulators use inductors and capacitors to store and transfer energy, providing better efficiency compared to linear regulators.
 - **Types**:
   - **Buck (Step-Down)**: Converts a higher input voltage to a lower output voltage.
   - **Boost (Step-Up)**: Converts a lower input voltage to a higher output voltage.
@@ -51,14 +52,12 @@ Voltage regulators typically use **feedback mechanisms** to adjust the output vo
 | Handles larger load currents | Generates switching noise |
 | Can step-up or step-down voltage | Requires more components |
 
+**👉[More On Switching Regulators](https://www.ablic.com/en/semicon/products/power-management-ic/switching-regulator/intro-2/#:~:text=A%20switching%20regulator%20can%20convert,voltages%20required%20by%20subsequent%20systems.)**
 ---
 
 ### 3️⃣ **Low Dropout (LDO) Regulator**
 
 > A **Low Dropout Regulator (LDO)** is a type of linear voltage regulator that can regulate output voltage with a very small difference between the input and output voltage. This makes it ideal for situations where the input voltage is only slightly higher than the desired output voltage.
-
-- **How it works**: 
-  - LDOs are designed to work with a small difference (dropout voltage) between the input and output. The output voltage is maintained as long as the input is slightly higher than the desired output voltage.
 
 - 🧭 **Typical Use**:
   - **Battery-powered devices**: To maximize battery life and power efficiency.
@@ -72,23 +71,10 @@ Voltage regulators typically use **feedback mechanisms** to adjust the output vo
 
 #### Example LDO: **LM1117**
 
-The **LM1117** is a commonly used LDO that provides a regulated output voltage with a dropout voltage as low as 1.1V. It is widely used in applications that require a stable 3.3V or 5V output in battery-powered circuits.
-
+**👉[More On Switching Regulators](https://www.wellpcb.com/blog/pcb-projects/ldo-circuit/)**
 ---
 
-## 🔹 Types of Voltage Regulators
 
-### 1️⃣ **Fixed Voltage Regulators**
-
-- **Example**: LM7805 (5V), LM7812 (12V), etc.
-- **How it works**: Provides a fixed output voltage regardless of input changes.
-
-### 2️⃣ **Adjustable Voltage Regulators**
-
-- **Example**: LM317
-- **How it works**: Allows the user to adjust the output voltage within a specified range by varying external resistors.
-
----
 
 ## 🔹 Applications
 
