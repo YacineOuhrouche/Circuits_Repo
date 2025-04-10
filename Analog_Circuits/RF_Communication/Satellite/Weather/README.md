@@ -49,22 +49,26 @@ Although satellites orbit above the weather, **Earth’s atmospheric conditions*
 
 - **Impact**: Can cause shortwave radio blackouts and disturb satellite electronics.
 - **Affected Systems**: Communication satellites, GPS timing, power grids.
+**👉 [More on it](https://www.britannica.com/video/overview-solar-flares/-200655#:~:text=And%20so%20some%20of%20the,at%20the%20time%20as%20well.)**
 
 ### 2️⃣ **Coronal Mass Ejections (CMEs)**
 > Massive bursts of solar wind and magnetic fields released into space.
 
 - **Impact**: Geomagnetic storms, charging of satellite surfaces, navigation errors.
 - **Effects on Orbit**: Increases atmospheric drag on LEO satellites, altering their paths.
+**👉 [More on it](https://www.swpc.noaa.gov/phenomena/coronal-mass-ejections)**
 
 ### 3️⃣ **Geomagnetic Storms**
 > Disturbances in Earth's magnetic field due to solar activity.
 
 - **Impact**: Disruptions in GPS accuracy, data loss, satellite memory damage.
+**👉 [More on it](https://www.swpc.noaa.gov/phenomena/geomagnetic-storms)**
 
 ### 4️⃣ **Ionospheric Disturbances**
 > Solar activity affects ionized layers of Earth’s atmosphere.
 
 - **Impact**: Signal delay, fading, phase errors in GNSS and radar systems.
+**👉 [More on it](https://en.wikipedia.org/wiki/Sudden_ionospheric_disturbance)**
 
 ---
 
