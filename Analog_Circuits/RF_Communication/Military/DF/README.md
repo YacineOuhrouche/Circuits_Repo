@@ -30,6 +30,7 @@ This technique is widely used in radar, navigation, and monitoring systems for l
 
 **📌 Common in**: Aviation, maritime, and military applications.
 
+**👉[More on RDF](https://www.everythingrf.com/community/what-is-direction-finding)**
 ---
 
 ### 2️⃣ **Phase Interferometry**
@@ -52,18 +53,10 @@ This technique is widely used in radar, navigation, and monitoring systems for l
 
 **📌 Common in**: Fixed-location DF systems, radio monitoring, and civilian applications.
 
+**👉[More on This](https://www.emsopedia.org/entries/passive-direction-finding-df-techniques-amplitude-comparison/)**
 ---
 
-### 4️⃣ **Array Processing Techniques**
 
-> Involves using multiple antennas and sophisticated algorithms to process the received signals and estimate the direction of arrival with high precision.
-
-- 🧠 **Advanced Signal Processing**: Uses techniques like beamforming and spatial filtering.
-- 🎯 **High Resolution**: Can resolve signals from multiple sources.
-
-**📌 Common in**: High-end military systems, radar, and satellite communication systems.
-
----
 
 ## 📊 Applications of Direction Finding
 
