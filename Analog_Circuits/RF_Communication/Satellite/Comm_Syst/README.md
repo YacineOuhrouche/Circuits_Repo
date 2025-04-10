@@ -35,7 +35,7 @@ Communication systems in satellite technology are responsible for enabling the t
 | High power and data capability      | Requires clear line-of-sight       |
 | Integration with terrestrial networks | Susceptible to environmental factors |
 
-**👉 [More on Ground Stations](https://en.wikipedia.org/wiki/Earth_station)**
+**👉 [More on Ground Stations](https://www.inmarsat.com/en/insights/corporate/2023/space-explained-satellite-ground-station.html)**
 ---
 
 ### 2️⃣ **Transponders**
@@ -55,7 +55,7 @@ Communication systems in satellite technology are responsible for enabling the t
 | Supports frequency translation     | Susceptible to signal interference |
 | Operates continuously in orbit     | Cannot be physically repaired easily|
 
-**👉 [More on Transponders](https://www.tutorialspoint.com/satellite_communication/satellite_communication_transponders.htm)**
+**👉 [More on Transponders](https://www.satnow.com/community/what-are-satellite-transponders)**
 ---
 
 ### 3️⃣ **Uplink & Downlink Signals**
@@ -75,26 +75,10 @@ Communication systems in satellite technology are responsible for enabling the t
 | Enables full-duplex communication | Uplink typically requires more power |
 | Supports multiple services in parallel | Prone to atmospheric attenuation    |
 
-**👉 [More on Uplink & Downlink](https://www.geeksforgeeks.org/satellite-communication-uplink-and-downlink/)**
+**👉 [More on Uplink & Downlink](https://brightascension.com/satellite-uplink-and-downlink-how-does-it-work/)**
 ---
 
-## 🚀 Signal Flow in a Satellite Communication Link
 
-1. **Uplink**:  
-   - Ground station → Satellite  
-   - Involves high-frequency transmission and directional antennas  
-2. **Transponder Operation**:  
-   - Receives uplink signal  
-   - Amplifies and shifts frequency  
-   - Prepares for retransmission  
-3. **Downlink**:  
-   - Satellite → Ground station/user terminal  
-   - Signal is demodulated and decoded on reception
-
-> 📶 **Example**:  
-> A news channel sends a live broadcast feed to a satellite (uplink), which is then rebroadcast to homes and cable providers (downlink).
-
----
 
 ## 🧠 Key Concepts
 
