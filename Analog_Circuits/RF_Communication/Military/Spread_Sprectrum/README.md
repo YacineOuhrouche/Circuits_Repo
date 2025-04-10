@@ -89,7 +89,7 @@
 | Excellent for long-range communication | Requires specialized hardware for chirp modulation |
 | Resilient to Doppler effects and multipath interference | Limited bandwidth compared to other techniques |
 
-**👉[More on CSS](https://tektelic.com/what-it-is/chirp-spread-spectrum/#:~:text=Basically%2C%20Chirp%20Spread%20Spectrum%20(CSS,sensing%20the%20location%20of%20devices.)**
+**👉[More on CSS](https://en.wikipedia.org/wiki/Chirp_spread_spectrum)**
 ---
 
 ### 4️⃣ **Time-Hopping Spread Spectrum (THSS)**
