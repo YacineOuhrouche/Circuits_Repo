@@ -55,5 +55,20 @@ This collection demonstrates how to build **RF and Communication circuits** that
 
 ---
 
+### 🚀 **Military Communication Systems**
+
+| 📡 Technology                             | 📜 Description                                                                 | 🔗 Link                                      |
+|------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------|
+| **🔒 Secure Communication (AES, RSA)**    | Ensures encrypted communication channels for military operations.            | [View Folder](./Military/Secure_Comm)                 |
+| **📡 Frequency Hopping**                 | Rapidly changes frequencies to avoid jamming and interception.               | [View Folder](./Military/Frequency_hopping)           |
+| **🌐 Spread Spectrum**                   | Makes communication harder to intercept through bandwidth spreading.         | [View Folder](./Military/Spread_Sprectrum)            |
+| **⚠️ Jamming**                          | Disrupts communication using noise or interference.                          | [View Folder](./Military/Jamming)                     |
+| **🎭 Spoofing**                          | Deceives a system by pretending to be a legitimate signal source.            | [View Folder](./Military/Spoofing)                    |
+| **📡 Direction Finding (DF)**            | Locates the source of transmitted signals, useful for hostile transmissions. | [View Folder](./Military/DF)                         |
+| **⚡ Low Probability of Intercept (LPI)** | Communication methods that are difficult to detect or intercept.             | [View Folder](./Military/LPI)                        |
+| **📡 MIMO (Multiple Input, Multiple Output)** | Uses multiple antennas to transmit and receive more data simultaneously. | [View Folder](./Military/MIMO)                      |
+
+---
+
 ## 🔹 NEXT  
 **👉 [Circuit Protection](../../Circuit_Protection)**
