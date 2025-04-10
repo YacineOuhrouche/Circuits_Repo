@@ -205,4 +205,4 @@ Secure communication systems are essential for protecting sensitive data from un
 ---
 
 ## 🔹 NEXT  
-**👉[Explore Cryptographic Algorithms](../Cryptographic_Algorithms)**
+**👉[Frequency Hopping](../Frequency_hopping)**
