@@ -41,7 +41,7 @@
 
 **📌 Used in:** Military radios, GSM systems (some modes)
 
-**👉[More on SFH)](https://www.globalspec.com/reference/66239/203279/slow-frequency-hopping)**  
+**👉[More on SFH](https://www.globalspec.com/reference/66239/203279/slow-frequency-hopping)**  
 ---
 
 ### 2️⃣ **Fast Frequency Hopping (FFH)**
@@ -53,7 +53,7 @@
 
 **📌 Used in:** High-security systems, radar communication
 
-**👉[More on FFH)](https://www.ti.com/document-viewer/lit/html/SSZT524)**  
+**👉[More on FFH](https://www.ti.com/document-viewer/lit/html/SSZT524)**  
 ---
 
 ## 📦 Applications
@@ -101,4 +101,4 @@ Frequency hopping plays a vital role in modern wireless systems, offering robust
 ---
 
 ## 🔹 NEXT  
-**👉[Spread Sprectrum)](../Spread_Spectrum)**  
+**👉[Spread Sprectrum)](../Spread_Sprectrum)**  
