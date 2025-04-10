@@ -40,6 +40,4 @@ These technologies are crucial for ensuring the reliability, security, and resil
 
 ---
 
-## 📚 Next Steps
 
-**👉 [Explore Military Communication Technologies](../Military_Communication_Technologies)**
