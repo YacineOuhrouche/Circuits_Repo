@@ -30,6 +30,7 @@ MIMO is widely used in modern communication systems like Wi-Fi, LTE, and 5G to a
 
 **📌 Common in**: 4G LTE, Wi-Fi 802.11n/ac/ax, 5G networks.
 
+**👉[More On SM](https://www.electronics-notes.com/articles/antennas-propagation/mimo/spatial-multiplexing.php)**
 ---
 
 ### 2️⃣ **Diversity MIMO**
@@ -41,20 +42,10 @@ MIMO is widely used in modern communication systems like Wi-Fi, LTE, and 5G to a
 
 **📌 Common in**: Wireless communications with a focus on reliability, mobile networks, satellite communications.
 
----
-
-### 3️⃣ **Beamforming**
-
-> Beamforming is a technique where an array of antennas is used to focus the transmission or reception of a signal in a specific direction. By steering the beam towards the intended receiver, beamforming improves signal strength and reduces interference.
-
-- 🔊 **Increased Signal Strength**: Directs the signal towards the receiver, improving signal quality.
-- 🔒 **Reduced Interference**: Minimizes interference from other users and noise sources.
-
-**📌 Common in**: 5G, Wi-Fi 802.11ac/ax, radar systems, military communication.
 
 ---
 
-### 4️⃣ **Cooperative MIMO**
+### 3️⃣  **Cooperative MIMO**
 
 > In cooperative MIMO, multiple users or devices work together to share antennas and transmit signals. This technique can be used to create a virtual MIMO array, improving communication efficiency over longer distances.
 
