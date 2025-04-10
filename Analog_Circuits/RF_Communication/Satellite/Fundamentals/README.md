@@ -36,7 +36,6 @@ Satellite communication is an essential technology that enables communication ov
 | Stable, predictable signals  | Limited capacity for data transfer|
 
 **👉 [More on GEO Satellites](https://en.wikipedia.org/wiki/Geostationary_orbit)**
-
 ---
 
 ### 2️⃣ **Low Earth Orbit (LEO) Satellites**
@@ -56,8 +55,7 @@ Satellite communication is an essential technology that enables communication ov
 | Easier to launch and maintain  | Frequent orbital changes required |
 | Lower cost compared to GEO   | Requires multiple satellites for global coverage|
 
-**👉 [More on LEO Satellites](https://en.wikipedia.org/wiki/Low-Earth_orbit)**
-
+**👉 [More on LEO Satellites](https://dragonflyaerospace.com/what-are-some-applications-of-a-leo-satellite/)**
 ---
 
 ### 3️⃣ **Medium Earth Orbit (MEO) Satellites**
@@ -76,8 +74,7 @@ Satellite communication is an essential technology that enables communication ov
 | Balance between coverage and latency | Higher latency than LEO satellites|
 | Fewer satellites needed for global coverage | Not suitable for real-time communication |
 
-**👉 [More on MEO Satellites](https://en.wikipedia.org/wiki/Medium-Earth_orbit)**
-
+**👉 [More on MEO Satellites](https://www.ses.com/power-medium-earth-orbit-meo-satellites))**
 ---
 
 ## 🚀 Satellite Orbits
@@ -102,7 +99,9 @@ The position of satellites in orbit plays a crucial role in their application an
 - **Advantages**: Suitable for navigation systems like GPS.
 - **Disadvantages**: Higher latency than LEO, limited application scope.
 
+**👉 [More on Orbits](https://aerospace.csis.org/aerospace101/earth-orbit-101/)**
 ---
+
 
 ## 🧠 Key Concepts
 
@@ -133,4 +132,4 @@ Satellite communication is a critical component of global connectivity, enabling
 ---
 
 ## 🔹 NEXT  
-**👉 [Learn about Satellite Antennas and Transponders](../Satellite_Antennas_Transponders)**
+**👉 [Satellite Communication System](../Comm_Syst)**
