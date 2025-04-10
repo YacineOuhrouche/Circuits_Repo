@@ -42,7 +42,7 @@ Secure communication is critical in protecting sensitive data during transmissio
 | Strong encryption with shorter keys | Symmetric key exchange vulnerabilities |
 | Widely adopted standard        | Sensitive to key compromise     |
 
-**👉[More on AES](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)**  
+**👉[More on AES](https://www.splashtop.com/blog/aes-encryption?srsltid=AfmBOookjuRmWng_ZXbvBaJVw_WykR5GiRHqmLrp7QGIjV8vWmpU2BQ-)**  
 ---
 
 ### 2️⃣ **Asymmetric Encryption (RSA)**
@@ -68,7 +68,7 @@ Secure communication is critical in protecting sensitive data during transmissio
 | Widely used for digital signatures | Key generation is computationally expensive |
 | Scalable for large networks     | Larger keys required for higher security |
 
-**👉[More on RSA](https://en.wikipedia.org/wiki/RSA_(cryptosystem))**  
+**👉[More on RSA](https://www.encryptionconsulting.com/education-center/what-is-rsa/)**  
 ---
 
 ### 3️⃣ **TLS/SSL Protocols**
@@ -94,7 +94,7 @@ Secure communication is critical in protecting sensitive data during transmissio
 | Ensures data integrity and authentication | Potential vulnerabilities in outdated versions of SSL |
 | Widely deployed and trusted     | Requires proper certificate management |
 
-**👉[More on TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security)**  
+**👉[More on TLS](https://www.digicert.com/what-is-ssl-tls-and-https)**  
 ---
 
 ### 4️⃣ **Quantum Key Distribution (QKD)**
@@ -120,7 +120,7 @@ Secure communication is critical in protecting sensitive data during transmissio
 | Detects any eavesdropping       | Requires special infrastructure |
 | Immune to computational attacks | Limited to short-range transmissions |
 
-**👉[More on QKD](https://en.wikipedia.org/wiki/Quantum_key_distribution)**  
+**👉[More on QKD](https://www.nsa.gov/Cybersecurity/Quantum-Key-Distribution-QKD-and-Quantum-Cryptography-QC/)**  
 ---
 
 ### 5️⃣ **Virtual Private Networks (VPNs)**
@@ -146,34 +146,10 @@ Secure communication is critical in protecting sensitive data during transmissio
 | Bypasses geographical restrictions | VPN provider can monitor traffic |
 | Easy to set up for users        | Not immune to all cyber threats |
 
-**👉[More on VPNs](https://en.wikipedia.org/wiki/Virtual_private_network)**  
+**👉[More on VPNs](https://www.paloaltonetworks.ca/cyberpedia/what-is-a-vpn)**  
 ---
 
-### 6️⃣ **Digital Signatures**
 
-> **Digital Signatures** use asymmetric encryption to verify the authenticity of a message or document.
-
-> **Transmission**:  
-  A sender creates a digital signature by encrypting a hash of the message with their private key, providing proof of origin.
-
-> **Reception**:  
-  The receiver verifies the signature using the sender's public key to ensure the message has not been altered.
-
-- 📡 **Applications**:  
-  - Secure emails
-  - Software distribution
-  - Legal document verification
-
-- ⚖️ **Pros and Cons**:
-
-| ✅ Pros                        | ❌ Cons                          |
-|---------------------------------|----------------------------------|
-| Guarantees message authenticity | Computationally expensive       |
-| Ensures non-repudiation         | Relies on the trust of the certificate authority |
-| Provides data integrity         | Complex to implement for small systems |
-
-**👉[More on Digital Signatures](https://en.wikipedia.org/wiki/Digital_signature)**  
----
 
 ## 🧠 Key Concepts
 
