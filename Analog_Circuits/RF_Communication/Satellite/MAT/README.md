@@ -37,8 +37,7 @@ Multiple access techniques are essential in satellite communication for enabling
 | Minimal latency                   | Poor spectral efficiency          |
 | Continuous transmission           | Requires filtering and guard bands|
 
-**👉 [More on FDMA](https://en.wikipedia.org/wiki/Frequency-division_multiple_access)**
-
+**👉 [More on FDMA](https://novotech.com/pages/frequency-division-multiple-access-fdma)**
 ---
 
 ### 2️⃣ **TDMA (Time Division Multiple Access)**
@@ -58,8 +57,7 @@ Multiple access techniques are essential in satellite communication for enabling
 | Dynamic allocation of resources   | Idle slots waste bandwidth        |
 | Easier power control              | Switching delays in real-time apps|
 
-**👉 [More on TDMA](https://en.wikipedia.org/wiki/Time-division_multiple_access)**
-
+**👉 [More on TDMA](https://www.tualcom.com/exploring-the-role-of-tdma-in-modern-data-link-systems/)**
 ---
 
 ### 3️⃣ **CDMA (Code Division Multiple Access)**
@@ -79,8 +77,7 @@ Multiple access techniques are essential in satellite communication for enabling
 | Good for secure communications   | Code management required           |
 | Supports many users simultaneously| High power consumption             |
 
-**👉 [More on CDMA](https://en.wikipedia.org/wiki/Code-division_multiple_access)**
-
+**👉 [More on CDMA](https://www.flyeye.io/drone-acronym-cdma/)**
 ---
 
 ### 4️⃣ **SDMA (Space Division Multiple Access)**
@@ -99,8 +96,7 @@ Multiple access techniques are essential in satellite communication for enabling
 | High capacity per region          | Higher antenna system complexity   |
 | Less inter-user interference      | Limited to satellite beam footprint|
 
-**👉 [More on SDMA](https://en.wikipedia.org/wiki/Space-division_multiple_access)**
-
+**👉 [More on SDMA](https://solveforce.com/spatial-division-multiple-access-sdma-optimizing-wireless-communication/)**
 ---
 
 ## 🧠 Summary Table
