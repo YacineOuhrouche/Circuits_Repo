@@ -39,9 +39,8 @@
 - 🔄 Frequency changes prevent long-term interference.
 - 🔐 Resistant to jamming and interception.
 
-**📌 Used in:** Bluetooth, military radios, early Wi-Fi (802.11 FH)
+**📌 Used in:** Bluetooth, military radios
 
-**👉[More on FHSS](../Frequency_Hopping)**
 
 **⚖️ Pros and Cons:**
 
@@ -51,6 +50,7 @@
 | Efficient use of spectrum              | Limited by hopping sequence length    |
 | Robust against narrowband interference | More power consumption due to frequency switching |
 
+**👉[More on FHSS](https://en.wikipedia.org/wiki/Frequency-hopping_spread_spectrum)**
 ---
 
 ### 2️⃣ **Direct Sequence Spread Spectrum (DSSS)**
@@ -70,6 +70,7 @@
 | Enables secure communication           | Requires complex receiver and processing |
 | Continuous spectrum usage              | Vulnerable to multipath interference |
 
+**👉[More on DSSS](https://www.everythingrf.com/community/what-is-direct-sequence-spread-spectrum)**
 ---
 
 ### 3️⃣ **Chirp Spread Spectrum (CSS)**
@@ -105,9 +106,6 @@
 | Highly secure                          | Requires precise timing synchronization |
 
 ---
-
-
-
 
 
 ## 📚 Key Concepts
