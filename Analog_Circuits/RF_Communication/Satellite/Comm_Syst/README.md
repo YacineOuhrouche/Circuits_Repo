@@ -109,4 +109,4 @@ Communication systems are the heart of satellite infrastructure. By integrating 
 ---
 
 ## 🔹 NEXT  
-**👉 [TCP/IP over Satellite](../TCP_IP)**
+**👉 [Multiple Access techniques](../MAT)**
