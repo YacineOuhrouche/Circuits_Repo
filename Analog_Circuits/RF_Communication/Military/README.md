@@ -17,11 +17,11 @@ Each folder contains:
 
 | 📡 Technology                     | 📜 Description                                                      | 🔗 Link                                                   |
 |------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------|
-| **🔒 Secure Communication (AES, RSA)** | Ensures encrypted communication channels for military operations using AES and RSA encryption methods. | [View Folder](./Secure_Comm) |
+| **🔒 Secure Communication (AES, RSA)** | Ensures encrypted communication channels for military operations. | [View Folder](./Secure_Comm) |
 | **📡 Frequency Hopping**           | Communication systems that rapidly change frequencies to avoid jamming and interception. |[View Folder](./Secure_Comm) |
-| **🌐 Spread Spectrum**             | Spread spectrum techniques (e.g., DSSS, FHSS) are used to make communication harder to intercept. |[View Folder](./Secure_Comm)|
-| **⚠️ Jamming**                    | Disrupts or blocks communication signals using noise or interference, commonly used in electronic warfare. | [View Folder](./Secure_Comm) |
-| **🛡️ Anti-Jamming**               | Countermeasures to protect communication systems from jamming attempts, including frequency hopping and error correction. | [View Folder](./Secure_Comm) |
+| **🌐 Spread Spectrum**             | Spread spectrum techniques  are used to make communication harder to intercept. |[View Folder](./Secure_Comm)|
+| **⚠️ Jamming**                    | Disrupts or blocks communication signals using noise or interference. | [View Folder](./Secure_Comm) |
+| **🛡️ Anti-Jamming**               | Countermeasures to protect communication systems from jamming attempts. | [View Folder](./Secure_Comm) |
 | **🎭 Spoofing**                    | The act of deceiving a system by pretending to be a legitimate signal source, often in GPS or radar systems. | [View Folder](./Secure_Comm)|
 | **🕵️‍♂️ Anti-Spoofing**            | Techniques that authenticate signals to prevent spoofing, ensuring only legitimate sources are accepted. | [View Folder](./Secure_Comm) |
 | **🕵️‍♂️ Signal Intelligence (SIGINT)** | Intercepting and analyzing communication signals for intelligence purposes, including COMINT and ELINT. |[View Folder](./Secure_Comm) |
