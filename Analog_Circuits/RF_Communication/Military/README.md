@@ -4,27 +4,28 @@ Welcome to the **Military Communication Systems** repository! 🎖️
 This collection showcases key circuits, systems, and technologies used in military communications. These systems ensure **secure**, **reliable**, and **resilient communication** in combat zones, remote areas, and other high-risk environments.
 
 
+## Quick Links to Each System
 
 ## 🚀 Military Communication Protocols & Technologies
 
-| 📡 Technology                               | 📜 Description                                                                                       | 🔗 Link                          |
-|--------------------------------------------|------------------------------------------------------------------------------------------------------|----------------------------------|
-| **🔒 Secure Communication (AES, RSA)**      | Ensures encrypted communication channels for military operations.                                   | [View Folder](./Secure_Comm)    |
-| **🌐 Spread Spectrum**                      | Distributes the signal over a wider bandwidth, making interception and jamming more difficult.       | [View Folder](./Spread_Sprectrum)|
-| **📡 Frequency Hopping**                    | Rapidly changes communication frequencies to avoid jamming and interception.                         | [View Folder](./Frequency_hopping) |
-| **⚡ Low Probability of Intercept (LPI)**    | Communication methods that minimize the chance of detection and interception.                        | [View Folder](./LPI)            |
-| **📡 MIMO (Multiple Input, Multiple Output)**| Uses multiple antennas to send and receive more data simultaneously for increased reliability.        | [View Folder](./MIMO)           |
-| **📡 Direction Finding (DF)**               | Techniques for locating the source of transmitted signals, useful for tracking threats.              | [View Folder](./DF)             |
-| **🌩️ Electromagnetic Interference (EMI)**   | Unintentional disruption of signal transmission caused by external electromagnetic sources.          | [View Folder](./EMI)            |
-| **⚠️ Jamming**                              | Actively disrupts communication by injecting interference or noise into the channel.                 | [View Folder](./Jamming)        |
-| **🎭 Spoofing**                              | Fakes or mimics legitimate signals (e.g., GPS) to mislead receivers.                                 | [View Folder](./Spoofing)       |
-| **🕵️ Deception**                            | Broader strategies to mislead enemy systems using fake signals, decoys, or false data.               | [View Folder](./Deception)      |
-| **⛔ Signal Blanking**                      | Temporarily disables or masks signals to prevent interception or tracking.                           | [View Folder](./Signal_Blanking)|
+| 📡 Technology                     | 📜 Description                                                      | 🔗 Link                                                   |
+|------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------|
+| **🔒 Secure Communication (AES, RSA)** | Ensures encrypted communication channels for military operations. | [View Folder](./Secure_Comm) |
+| **📡 Frequency Hopping**           | Communication systems that rapidly change frequencies to avoid jamming and interception. |[View Folder](./Frequency_hopping) |
+| **🌐 Spread Spectrum**             | Spread spectrum techniques  are used to make communication harder to intercept. |[View Folder](./Spread_Sprectrum)|
+| **⚠️ Jamming**                    | Disrupts or blocks communication signals using noise or interference. | [View Folder](./Jamming) |
+| **🎭 Spoofing**                    | The act of deceiving a system by pretending to be a legitimate signal source, often in GPS or radar systems. | [View Folder](./Spoofing)|
+| **📡 Direction Finding (DF)** | Techniques for locating the source of transmitted signals, useful for locating hostile or unauthorized transmissions. |[View Folder](./DF)|
+| **⚡ Low Probability of Intercept (LPI)** | Communication methods that are difficult to detect or intercept, important for covert operations. |[View Folder](./LPI) |
+| **📡 MIMO (Multiple Input, Multiple Output)** | Technology that uses multiple antennas to send and receive more data simultaneously | [View Folder](./MIMO) |
+
 
 ---
 
 ## 🛡️ Conclusion
 
-These technologies are crucial for ensuring the **reliability**, **security**, and **resilience** of military communication systems. From encryption and stealth techniques to active countermeasures against jamming, spoofing, and deception, these tools are essential in protecting mission-critical communications in adversarial environments.
+These technologies are crucial for ensuring the reliability, security, and resilience of military communication systems. From encryption to jamming countermeasures, the ability to secure and maintain communication in hostile environments is critical for mission success.
 
 ---
+
+
