@@ -32,6 +32,7 @@ This section explores the key **challenges** of running TCP/IP over satellite ne
 - **Reduces handshake delay**
 - Often used in satellite modems and ground terminals
 
+**👉 [ More on Spoofing](https://www.highspeedsat.com/tcp-ip-over-satellite-acceleration.htm)**
 ---
 
 ### 2️⃣ **Performance Enhancing Proxies (PEPs)**
@@ -43,6 +44,7 @@ This section explores the key **challenges** of running TCP/IP over satellite ne
 | Boosts TCP efficiency over long links| Breaks end-to-end security (e.g., TLS/SSL) |
 | Can apply compression and caching    | Requires specialized equipment       |
 
+**👉 [ More on Peps](https://en.wikipedia.org/wiki/Performance-enhancing_proxy)**
 ---
 
 ### 3️⃣ **Window Scaling & SACK**
@@ -52,7 +54,9 @@ This section explores the key **challenges** of running TCP/IP over satellite ne
 - **Window Scaling** allows TCP to use large windows (>64 KB) to keep more data "in flight"
 - **SACK** allows retransmission of only the missing packets rather than whole sequences
 
+**👉 [ More on This](../MAT)**
 ---
+
 
 ### 4️⃣ **UDP-Based Protocols for Real-Time Apps**
 
@@ -61,15 +65,8 @@ This section explores the key **challenges** of running TCP/IP over satellite ne
 - No retransmission delays
 - Suitable for low-latency audio/video
 
+**👉 [ More on This](../MAT)**
 ---
-
-## 📦 Common Satellite TCP Enhancements
-
-| 🧪 Enhancement             | 💬 Description                                               |
-|----------------------------|-------------------------------------------------------------|
-| **SCPS-TP** (Space Comm. Protocol Standard - Transport Protocol) | NASA's extension to TCP optimized for space links           |
-| **Turbo-Start TCP**        | Starts TCP with larger initial window sizes                 |
-| **TCP Hybla / TCP CUBIC**  | Congestion control algorithms better suited for high BDP links |
 
 ---
 
