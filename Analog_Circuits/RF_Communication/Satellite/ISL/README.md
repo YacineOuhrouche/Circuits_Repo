@@ -47,6 +47,7 @@ ISLs use high-frequency communication signals (typically in the **Ka-band**, **X
 
 **Applications**: **SpaceX Starlink** is exploring optical links to reduce latency and improve bandwidth.
 
+**👉 [More on Those ](https://telecomworld101.com/inter-satellite-links/)**
 ---
 
 ## 📦 ISLs in Satellite Constellations
@@ -97,4 +98,4 @@ Inter-Satellite Links (ISLs) are revolutionizing satellite communication by enab
 ---
 
 ## 🔹 NEXT  
-**👉 [Learn about Satellite Link Budget](../Satellite_Link_Budget)**
+**👉 [Weather ](../Weather)**
