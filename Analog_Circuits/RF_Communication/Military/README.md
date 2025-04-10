@@ -19,7 +19,7 @@ Each folder contains:
 |------------------------------------|---------------------------------------------------------------------|----------------------------------------------------------|
 | **🔒 Secure Communication (AES, RSA)** | Ensures encrypted communication channels for military operations. | [View Folder](./Secure_Comm) |
 | **📡 Frequency Hopping**           | Communication systems that rapidly change frequencies to avoid jamming and interception. |[View Folder](./Frequency_hopping) |
-| **🌐 Spread Spectrum**             | Spread spectrum techniques  are used to make communication harder to intercept. |[View Folder](./Spread_Spectrum)|
+| **🌐 Spread Spectrum**             | Spread spectrum techniques  are used to make communication harder to intercept. |[View Folder](./Spread_Sprectrum)|
 | **⚠️ Jamming**                    | Disrupts or blocks communication signals using noise or interference. | [View Folder](./Jamming) |
 | **🎭 Spoofing**                    | The act of deceiving a system by pretending to be a legitimate signal source, often in GPS or radar systems. | [View Folder](./Secure_Comm)|
 | **🕵️‍♂️ Anti-Spoofing**            | Techniques that authenticate signals to prevent spoofing, ensuring only legitimate sources are accepted. | [View Folder](./Secure_Comm) |
