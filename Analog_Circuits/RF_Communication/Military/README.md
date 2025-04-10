@@ -22,7 +22,6 @@ Each folder contains:
 | **🌐 Spread Spectrum**             | Spread spectrum techniques  are used to make communication harder to intercept. |[View Folder](./Spread_Sprectrum)|
 | **⚠️ Jamming**                    | Disrupts or blocks communication signals using noise or interference. | [View Folder](./Jamming) |
 | **🎭 Spoofing**                    | The act of deceiving a system by pretending to be a legitimate signal source, often in GPS or radar systems. | [View Folder](./Spoofing)|
-| **🕵️‍♂️ Signal Intelligence (SIGINT)** | Intercepting and analyzing communication signals for intelligence purposes, including COMINT and ELINT. | |
 | **📡 Direction Finding (DF)** | Techniques for locating the source of transmitted signals, useful for locating hostile or unauthorized transmissions. ||
 | **🕶️ Covert Communications** | Methods designed to transmit messages without detection, ensuring stealth during sensitive operations. ||
 | **⚡ Low Probability of Intercept (LPI)** | Communication methods that are difficult to detect or intercept, important for covert operations. | |
