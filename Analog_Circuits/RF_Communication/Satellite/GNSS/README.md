@@ -21,8 +21,7 @@ GNSS operates by receiving signals from a constellation of satellites and calcul
 - **Applications**: Civil, commercial, military, navigation, and aviation  
 - **Frequency Bands**: L1 (1575.42 MHz), L2, L5
 
-🔗 [Learn more about GPS](https://www.gps.gov/)
-
+🔗 [Learn more about GPS](https://novatel.com/support/knowledge-and-learning/what-is-gps-gnss)
 ---
 
 ### 📍 2️⃣ **GLONASS (Global Navigation Satellite System)** – *Russia*
@@ -34,8 +33,7 @@ GNSS operates by receiving signals from a constellation of satellites and calcul
 - **Unique Feature**: Uses FDMA (unlike GPS’s CDMA)  
 - **Applications**: Navigation, military, commercial
 
-🔗 [Learn more about GLONASS](https://www.glonass-iac.ru/en/)
-
+🔗 [Learn more about GLONASS](https://novatel.com/an-introduction-to-gnss/gnss-constellations/glonass)
 ---
 
 ### 📍 3️⃣ **Galileo** – *European Union*
@@ -46,8 +44,7 @@ GNSS operates by receiving signals from a constellation of satellites and calcul
 - **Orbits**: MEO (~23,222 km)  
 - **Applications**: High-precision navigation, emergency services, timing applications
 
-🔗 [Learn more about Galileo](https://www.gsc-europa.eu/)
-
+🔗 [Learn more about Galileo](https://www.esa.int/Applications/Satellite_navigation/Galileo/What_is_Galileo)
 ---
 
 ### 📍 4️⃣ **BeiDou** – *China*
@@ -58,8 +55,7 @@ GNSS operates by receiving signals from a constellation of satellites and calcul
 - **Applications**: Navigation, logistics, mobile communication, disaster relief  
 - **Features**: Two-way messaging and high-precision timing
 
-🔗 [Learn more about BeiDou](http://en.beidou.gov.cn/)
-
+🔗 [Learn more about BeiDou](https://novatel.com/an-introduction-to-gnss/gnss-constellations/beidou)
 ---
 
 ## 🧭 How GNSS Works
@@ -68,7 +64,6 @@ GNSS operates by receiving signals from a constellation of satellites and calcul
 2. **Time Delay Measurement**: A GNSS receiver calculates the delay of received signals from multiple satellites.
 3. **Triangulation**: Based on at least four satellites, the receiver determines the user’s position (latitude, longitude, altitude) and time.
 
-![GNSS Working](https://upload.wikimedia.org/wikipedia/commons/3/30/GNSS_principle.png)
 
 ---
 
@@ -112,4 +107,4 @@ GNSS is the backbone of modern positioning and navigation systems, enabling prec
 ---
 
 ## 🔹 NEXT  
-**👉 [Explore Inter-Satellite Links](../Inter_Satellite_Links)**
+**👉 [ Inter-Satellite Links](../ISL)**
