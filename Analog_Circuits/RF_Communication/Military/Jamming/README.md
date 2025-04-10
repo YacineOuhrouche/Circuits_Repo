@@ -33,7 +33,7 @@
 
 **📌 Common in**: Military communication disruption, satellite communication.
 
-**👉[Spoofing](../Spoofing)**  
+**👉[More on it](https://www.emsopedia.org/entries/noise-jamming-radar/)**  
 ---
 
 ### 2️⃣ **Random Noise Jamming**
@@ -45,6 +45,7 @@
 
 **📌 Common in**: Cellular networks, Wi-Fi interference.
 
+**👉[More on it](https://www.emsopedia.org/entries/noise-jamming-radar/)**  
 ---
 
 ### 3️⃣ **Barrage Jamming**
@@ -56,6 +57,7 @@
 
 **📌 Common in**: Military operations, preventing enemy communications.
 
+**👉[More on it](https://www.emsopedia.org/entries/barrage-noise/)**  
 ---
 
 ### 4️⃣ **Spot Jamming**
@@ -67,6 +69,7 @@
 
 **📌 Common in**: GPS signal disruption, targeted satellite communication interference.
 
+**👉[More on it](https://www.emsopedia.org/entries/spot-noise/)**  
 ---
 
 ## ⚙️ Jamming Effects on Communication Systems
