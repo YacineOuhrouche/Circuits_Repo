@@ -3,11 +3,6 @@
 Welcome to the **Signal Conditioning** repository! 🎉  
 This collection demonstrates how to build **signal conditioning circuits** used to optimize and modify analog signals, particularly for RF and communication applications. These circuits help in adjusting signal levels, minimizing noise, and maintaining consistent signal amplitude.
 
-Each folder contains:
-
-✅ A brief explanation of the circuit's functionality  
-✅ A schematic image  
-✅ The circuit simulation or breadboard setup  
 
 ---
 
