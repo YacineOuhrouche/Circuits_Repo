@@ -159,4 +159,4 @@ RF shielding is essential in modern electronic systems to protect against interf
 ---
 
 ## 🔹 NEXT  
-**👉 [EMI Filter Circuits](../EMI_Filters)**
+**👉 [Soft Start Protection Circuit](../Soft_Start)**
