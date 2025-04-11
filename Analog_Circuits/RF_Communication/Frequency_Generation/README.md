@@ -3,11 +3,6 @@
 Welcome to the **Frequency Generation** repository! 🎉  
 This collection demonstrates how to build **frequency generation circuits** that produce stable and precise frequencies, essential for RF and communication systems, clock generation, and signal synthesis.
 
-Each folder contains:
-
-✅ A brief explanation of the circuit's functionality  
-✅ A schematic image  
-✅ The circuit simulation or breadboard setup  
 
 ---
 
