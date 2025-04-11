@@ -3,11 +3,6 @@
 Welcome to the **Propagation Models & Communication Techniques** repository! 🎉  
 This collection highlights key concepts that describe how signals travel through various environments and the methods used to optimize communication in wireless systems.
 
-Each folder contains:
-
-✅ A brief explanation of the concept  
-✅ Relevant diagrams and models  
-✅ Practical applications and examples  
 
 ---
 
