@@ -127,4 +127,4 @@ Multiple access techniques play a vital role in maximizing the efficiency and sc
 ---
 
 ## 🔹 NEXT  
-**👉 [Fundamentals of Satellites](../../Sattelite/Fundamentals)**
+**👉 [Fundamentals of Satellites](../../Satellite/Fundamentals)**
