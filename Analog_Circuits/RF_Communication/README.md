@@ -49,17 +49,19 @@ This collection demonstrates how to build **RF and Communication circuits** that
 ---
 
 ### 🌍 **6. Propagation Models**
-| ⚙️ Circuit               | 📜 Description                                                              | 🔗 Link                          |
-|--------------------------|------------------------------------------------------------------------------|-----------------------------------|
-| **📡 Propagation Models** | Describes various models predicting the behavior of radio waves in different environments | [View Folder](./Propagation_Models)        |
+| ⚙️ Technique                         | 📜 Description                                                                 | 🔗 Link                                      |
+|--------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|
+| **📡 Propagation Models**            | Describes various models predicting the behavior of radio waves in different environments. | [View Folder](.//Propagation_Models)        |
+| **📡 MIMO (Multiple Input, Multiple Output)** | Uses multiple antennas at both the transmitter and receiver to improve performance. | [View Folder](./MIMO)                     |
+| **📡 Multiple Access Techniques**    | Explains different methods  used to allow multiple users to share the same communication channel. | [View Folder](./MAT)                      |
 
 ---
+
 ## 🚀 **7 Satellite**
 | ⚙️ Topic                             | 📜 Description                                                                                                          | 🔗 Link                                               |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
 | **🌍 Fundamentals of Satellite Communication** | An overview of satellite communication, covering satellite types that form the foundation of satellite systems. | [View Folder](./Fundamentals)        |
 | **🛰️ Communication Systems**        | A detailed explanation of the components involved in satellite communication signals. | [View Folder](./Comm_Syst)                       |
-| **📡 Multiple Access Techniques**    | Explains various multiple access methods used in satellite systems. | [View Folder](./MAT)          |
 | **🌍 GNSS (Global Navigation Satellite System)** | Provides an overview of GNSS systems, which enable precise positioning and navigation. | [View Folder](./GNSS)                       |
 | **🔗 Inter-Satellite Links (ISLs)** | Explores how satellites in constellations communicate with each other directly. | [View Folder](./ISL)               |
 | **🌌 Space Weather and Satellite Impact** | Investigates the effects of space weather phenomena on satellite systems. | [View Folder](./Weather)         |
@@ -78,7 +80,6 @@ This collection demonstrates how to build **RF and Communication circuits** that
 | **🎭 Spoofing**                          | Deceives a system by pretending to be a legitimate signal source.            | [View Folder](./Military/Spoofing)                    |
 | **📡 Direction Finding (DF)**            | Locates the source of transmitted signals, useful for hostile transmissions. | [View Folder](./Military/DF)                         |
 | **⚡ Low Probability of Intercept (LPI)** | Communication methods that are difficult to detect or intercept.             | [View Folder](./Military/LPI)                        |
-| **📡 MIMO (Multiple Input, Multiple Output)** | Uses multiple antennas to transmit and receive more data simultaneously. | [View Folder](./Military/MIMO)                      |
 
 ---
 
