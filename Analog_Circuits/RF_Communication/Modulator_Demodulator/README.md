@@ -23,4 +23,4 @@ Each folder contains:
 ---
 
 ## 🔹 NEXT  
-**👉[Current Mirror](../../Current_mirror)**
+**👉[Propagation models](../Propagation_Models)**
