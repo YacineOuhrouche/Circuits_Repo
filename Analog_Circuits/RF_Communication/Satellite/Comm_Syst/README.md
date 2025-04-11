@@ -109,4 +109,4 @@ Communication systems are the heart of satellite infrastructure. By integrating 
 ---
 
 ## 🔹 NEXT  
-**👉 [Multiple Access techniques](../MAT)**
+**👉 [GNSS](../GNSS)**
