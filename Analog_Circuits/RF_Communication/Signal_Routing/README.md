@@ -3,11 +3,6 @@
 Welcome to the **Signal Routing** repository! 🎉  
 This collection demonstrates how to build **signal routing circuits** that manage and direct signals through various paths, ensuring efficient communication and control in complex systems.
 
-Each folder contains:
-
-✅ A brief explanation of the circuit's functionality  
-✅ A schematic image  
-✅ The circuit simulation or breadboard setup  
 
 ---
 
