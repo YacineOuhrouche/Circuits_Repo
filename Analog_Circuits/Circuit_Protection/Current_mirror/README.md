@@ -1,9 +1,6 @@
 # 🔄 BJT Current Mirror
 
-Welcome to the **BJT Current Mirror** project repository! 🎉  
-This project explores the **design, function, and applications** of a **Current Mirror** using **Bipolar Junction Transistors (BJTs).**  
 
----
 
 ## 📌 What is a Current Mirror?  
 A **Current Mirror** is an essential analog circuit that **copies (mirrors) a reference current** to another part of the circuit. It is widely used in:  
