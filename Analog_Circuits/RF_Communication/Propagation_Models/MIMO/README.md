@@ -103,4 +103,4 @@ The use of MIMO continues to evolve, with ongoing developments in beamforming, c
 ---
 
 ## 🔹 NEXT  
-**👉[](../Wireless_Communications)**
+**👉[Multiple Access Techniques](../MAT)**
