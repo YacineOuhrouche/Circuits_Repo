@@ -4,16 +4,18 @@ This collection demonstrates how to build **Circuit Protection circuits** that a
 
 ---
 
-### 🔹 **Current & Voltage Regulation/Protection**  
+### 🔹 **Current/Voltage/EMI Regulation/Protection**  
 These circuits focus on regulating voltage and current, as well as protecting components from damage.
 
 | ⚙️ Circuit                          | 📜 Description                                                                 | 🔗 Link                                              |
 |-------------------------------------|--------------------------------------------------------------------------------|-----------------------------------------------------|
 | **⚡ Current Sensing Circuit**       | Measures current flow to monitor and protect systems from overcurrent damage   | [View Folder](./Current_Sensing)                   |
 | **🔄 Current Mirror**               | The current in one half of the circuit controls the current in the other half  | [View Folder](./Current_mirror/)                   |
-| **⚡ Overcurrent Protection Circuit**| Detects excessive current flow and prevents damage                             | [View Folder](./Overcurrent)                       |
+ |**⚡ Overcurrent Protection Circuit**| Detects excessive current flow and prevents damage                             | [View Folder](./Overcurrent)                       |
 | **⚠️ Overvoltage Protection Circuit**| Prevents excessive voltage from damaging components                            | [View Folder](./Overvoltage)                       |
+| **🛡️ RF Shielding**     | Blocks or attenuates RF interference using conductive enclosures and materials  | [View Folder](./RF_Shielding)               |
 | **🌅 Soft Start Circuit**           | Gradually ramps up voltage at startup to prevent inrush currents               | [View Folder](./Soft_Start)                        |
+
 
 ---
 
