@@ -301,5 +301,5 @@ Demodulation techniques are foundational in **analog and digital communication s
 ---
 
 ## 🔹 NEXT  
-**👉 [Propagation Models](../../Propagation_Models)**  
+**👉 [Propagation Models](../../Propagation_Models/Propagation_Models)**  
 
