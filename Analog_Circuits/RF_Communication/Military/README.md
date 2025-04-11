@@ -17,7 +17,6 @@ This collection showcases key circuits, systems, and technologies used in milita
 | **🎭 Spoofing**                    | The act of deceiving a system by pretending to be a legitimate signal source, often in GPS or radar systems. | [View Folder](./Spoofing)|
 | **📡 Direction Finding (DF)** | Techniques for locating the source of transmitted signals, useful for locating hostile or unauthorized transmissions. |[View Folder](./DF)|
 | **⚡ Low Probability of Intercept (LPI)** | Communication methods that are difficult to detect or intercept, important for covert operations. |[View Folder](./LPI) |
-| **📡 MIMO (Multiple Input, Multiple Output)** | Technology that uses multiple antennas to send and receive more data simultaneously | [View Folder](./MIMO) |
 
 
 ---
