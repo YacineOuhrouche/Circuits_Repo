@@ -3,13 +3,6 @@
 Welcome to the **Analog Circuits** repository! 🎉  
 This collection demonstrates how to build **basic analog circuits** using components like **diodes, resistors, capacitors, and transistors**. Analog circuits process real-world signals, such as sound, light, and temperature, making them essential in many electronic applications.
 
-Each folder contains:
-
-✅ A brief explanation of the circuit's functionality  
-✅ A schematic image  
-✅ The circuit simulation or breadboard setup  
-
----
 
 ## Quick Links to Each Circuit
 
@@ -63,6 +56,11 @@ Each folder contains:
 | **📤 Modulator**         | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)   | [View Folder](./RF_Communication/Modulator_Demodulator/Modulator)        |
 | **📥 Demodulator**       | Recovers the original message from a modulated carrier signal               | [View Folder](./RF_Communication/Modulator_Demodulator/Demodulator)      |
 | **📡 Propagation Models** | Describes various models predicting the behavior of radio waves in different environments | [View Folder](./RF_Communication/Propagation_Models)        |
+| **📡Satellite Comms** | How satellite works | [View Folder](./RF_Communication/Satellite)        |
+| **📡 Military Comms** |How Military communication works| [View Folder](./RF_Communication/Military)        |
+
+
+
 
 
 ---
