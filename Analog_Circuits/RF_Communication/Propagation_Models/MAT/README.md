@@ -127,4 +127,4 @@ Multiple access techniques play a vital role in maximizing the efficiency and sc
 ---
 
 ## 🔹 NEXT  
-**👉 [GNSS](../GNSS)**
+**👉 [Fundamentals of Satellites](../../Sattelite/Fundamentals)**
