@@ -1,158 +1,25 @@
-# 📡 Propagation Models
+# 🌐 **Propagation Models & Communication Techniques**
 
-## ✨ Introduction
+Welcome to the **Propagation Models & Communication Techniques** repository! 🎉  
+This collection highlights key concepts that describe how signals travel through various environments and the methods used to optimize communication in wireless systems.
 
-In **wireless communication systems**, **propagation models** are used to estimate how radio waves behave as they travel through space and interact with different environments. These models help predict:
+Each folder contains:
 
-- 📶 Signal strength
-- 🌐 Network coverage
-- 🚧 Obstacle interference
-
-They're essential for designing reliable systems such as **cellular networks**, **Wi-Fi**, and **satellite communications**.
-
----
-
-## 🔍 Why Are Propagation Models Important?
-
-Radio signals experience several phenomena that affect performance:
-
-| 🔎 Phenomenon       | 📋 Description                                                                 |
-|---------------------|---------------------------------------------------------------------------------|
-| 📉 **Path Loss**     | Reduction in signal power over distance.                                        |
-| 🔀 **Multipath**      | Signals take multiple paths due to reflection, diffraction, and scattering.    |
-| 🎢 **Fading**         | Rapid fluctuations in signal strength due to time or position changes.         |
-
-➡️ These effects must be modeled to **optimize design**, **reduce interference**, and **improve coverage**.
+✅ A brief explanation of the concept  
+✅ Relevant diagrams and models  
+✅ Practical applications and examples  
 
 ---
 
-## 🧭 Types of Propagation Models
+### Quick Links to Each Concept
 
-### 1️⃣ Free-Space Path Loss (FSPL)
-
-> Assumes ideal conditions with no obstacles. Useful for basic line-of-sight calculations.
-
-- 📌 **Use Case**: Satellite links, outdoor point-to-point communication.
-
-| ✅ Pros                      | ❌ Cons                                 |
-|------------------------------|------------------------------------------|
-| Simple to use                | Ignores obstacles and terrain            |
-| Good for initial estimation  | Not suitable for real-world environments |
-
-🔗 [More on FSPL](https://www.electronics-notes.com/articles/antennas-propagation/propagation-overview/free-space-path-loss.php)
+| ⚙️ Technique                         | 📜 Description                                                                  | 🔗 Link                                      |
+|--------------------------------------|----------------------------------------------------------------------------------|---------------------------------------------|
+| **📡 Propagation Models**            | Describes various models predicting the behavior of radio waves in different environments. | [View Folder](./Propagation_Models)        |
+| **📡 MIMO (Multiple Input, Multiple Output)** | Uses multiple antennas at both the transmitter and receiver to improve performance. | [View Folder](./MIMO)                     |
+| **📡 Multiple Access Techniques**    | Explains different methods used to allow multiple users to share the same communication channel. | [View Folder](./MAT)                      |
 
 ---
 
-### 2️⃣ Ground Wave Propagation
-
-> Used for low-frequency signals that travel along the Earth's surface.
-
-- 📌 **Use Case**: AM radio, maritime communication.
-
-| ✅ Pros                              | ❌ Cons                                      |
-|--------------------------------------|----------------------------------------------|
-| Effective for long-wave signals      | Limited to low frequencies and short ranges  |
-| Useful over water or flat terrain    | Attenuation increases with distance          |
-
-🔗 [More on Ground Wave](https://www.electronics-notes.com/articles/antennas-propagation/ground-wave/basics-tutorial.php)
-
----
-
-### 3️⃣ Sky Wave Propagation
-
-> Utilizes the ionosphere to reflect high-frequency signals back to Earth for long-distance transmission.
-
-- 📌 **Use Case**: Shortwave radio, military HF comms.
-
-| ✅ Pros                               | ❌ Cons                                 |
-|---------------------------------------|------------------------------------------|
-| Enables long-distance comms           | Dependent on ionospheric conditions      |
-| Over-the-horizon communication        | Subject to signal fading and distortion  |
-
-🔗 [More on Sky Wave](https://vu2nsb.com/radio-propagation/ionospheric-skywave-propagation)
-
----
-
-### 4️⃣ Okumura-Hata Model
-
-> Empirical model accounting for urban, suburban, and rural environments. Widely used in cellular planning.
-
-- 📌 **Use Case**: Mobile networks, city-wide coverage.
-
-| ✅ Pros                                | ❌ Cons                                |
-|----------------------------------------|-----------------------------------------|
-| Works for varied real-world settings   | Based on measurements, not theory       |
-| Useful for planning base station placement | Limited frequency range (150–1500 MHz) |
-
-🔗 [More on Okumura-Hata Model](https://en.wikipedia.org/wiki/Okumura_model#:~:text=The%20Okumura%20model%20is%20a,base%20for%20the%20Hata%20model.)
-
----
-
-### 5️⃣ Log-Distance Path Loss Model
-
-> A general-purpose model using a logarithmic decay of signal strength over distance.
-
-- 📌 **Use Case**: Indoor/outdoor planning where precise data isn't available.
-
-| ✅ Pros                             | ❌ Cons                                  |
-|-------------------------------------|------------------------------------------|
-| Easy to implement                   | Requires calibration for each environment |
-| Useful for mixed-use environments   | Less accurate in complex terrains        |
-
-🔗 [More on Log-Distance Path Loss Model](https://en.wikipedia.org/wiki/Log-distance_path_loss_model#:~:text=The%20log%2Ddistance%20path%20loss,populated%20areas%20over%20long%20distance.)
-
----
-### 6️⃣ Rayleigh Fading Model
-
-> Models multipath fading where no line-of-sight path exists. Common in dense urban environments.
-
-- 📌 **Use Case**: Urban areas, indoor wireless, NLOS (non-line-of-sight) channels.
-
-| ✅ Pros                           | ❌ Cons                            |
-|-----------------------------------|------------------------------------|
-| Accurately models fast fading     | Assumes no dominant direct signal  |
-| Suitable for mobile environments  | Ignores large-scale path loss      |
-
-🔗 [More on Log-Distance Path Loss Model](https://www.electronics-notes.com/articles/antennas-propagation/propagation-overview/rayleigh-fading.php)
-
----
-
-### 7️⃣ Nakagami Fading Model
-
-> A flexible model that generalizes Rayleigh and Rician fading based on a shape parameter.
-
-- 📌 **Use Case**: Adaptive systems, rural/urban transition zones.
-
-| ✅ Pros                                | ❌ Cons                             |
-|----------------------------------------|-------------------------------------|
-| Models a wide range of fading scenarios| More complex, needs parameter tuning |
-| Generalized fading behavior            | Requires detailed environment data  |
-
----
-
-## 🛠️ Applications of Propagation Models
-
-| 📡 Application              | 🌍 Description                                          |
-|----------------------------|---------------------------------------------------------|
-| 📱 Cellular Network Design  | Coverage prediction, base station placement             |
-| 💻 Wi-Fi Planning           | Access point optimization, indoor layout modeling       |
-| 🛰️ Satellite Communication   | Link budgeting, elevation angle estimation              |
-| 🚗 Vehicle Networks          | Dynamic modeling for V2V and V2I systems                |
-
----
-
-## 📈 Conclusion
-
-Propagation models help engineers:
-
-- 🎯 **Estimate signal coverage**
-- 📊 **Design efficient communication systems**
-- 🚀 **Adapt to real-world environments**
-
-By choosing the right model, we can **optimize system performance**, **reduce dead zones**, and **enhance reliability** across wireless technologies.
-
----
-
-## 📚 Next Steps
-
-**👉 [Explore Wireless Communication Systems](../Wireless_Communication_Systems)**
+## 🔹 NEXT  
+**👉 [Satellite Comms](../Satellite)**
