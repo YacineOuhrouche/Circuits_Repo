@@ -155,4 +155,4 @@ By choosing the right model, we can **optimize system performance**, **reduce de
 
 ## 📚 Next Steps
 
-**👉 [Explore Wireless Communication Systems](../Wireless_Communication_Systems)**
+**👉 [MIMO](../MIMO)**
