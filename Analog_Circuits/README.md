@@ -56,12 +56,10 @@ This collection demonstrates how to build **basic analog circuits** using compon
 | **📤 Modulator**         | Converts a baseband signal into a modulated RF signal (AM, FM, ASK, etc.)   | [View Folder](./RF_Communication/Modulator_Demodulator/Modulator)        |
 | **📥 Demodulator**       | Recovers the original message from a modulated carrier signal               | [View Folder](./RF_Communication/Modulator_Demodulator/Demodulator)      |
 | **📡 Propagation Models** | Describes various models predicting the behavior of radio waves in different environments | [View Folder](./RF_Communication/Propagation_Models)        |
+| **📡 MIMO (Multiple Input, Multiple Output)** | Uses multiple antennas at both the transmitter and receiver. | [View Folder](./RF_Communication/MIMO)                     |
+| **📡 Multiple Access Techniques**    | Explains different methods  used to allow multiple users to share the same communication channel. | [View Folder](./RF_Communication/MAT)                      |
 | **📡Satellite Comms** | How satellite works | [View Folder](./RF_Communication/Satellite)        |
 | **📡 Military Comms** |How Military communication works| [View Folder](./RF_Communication/Military)        |
-
-
-
-
 
 ---
 ### 🔹 **Current & Voltage Regulation/Protection**  
