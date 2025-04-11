@@ -74,4 +74,4 @@ The satellite link budget is a crucial component in the design and optimization 
 ---
 
 ## 🔹 NEXT   
-**👉 [](../Inter_Satellite_Links)**  
+**👉 [Secure Communications](../../Military/Secure_Comm)**  
