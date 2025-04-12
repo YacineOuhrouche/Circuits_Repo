@@ -9,8 +9,8 @@ This collection explores various types of **electric generators** used to conver
 
 | ⚙️ Generator Type          | 📜 Description                                                    | 🔗 Link                                   |
 |----------------------------|-------------------------------------------------------------------|------------------------------------------|
-| **🔋 DC Generator**         | Converts mechanical energy into direct current (DC)               | [View Folder](./DC_Generator/)           |
-| **⚡ AC Generator**         | Produces alternating current (AC) using a rotating magnetic field | [View Folder](./AC_Generator/)           |
+| **🔋 DC Generator**         | Converts mechanical energy into direct current (DC)               | [View Folder](./DC_Generators/)           |
+| **⚡ AC Generator**         | Produces alternating current (AC) using a rotating magnetic field | [View Folder](./AC_Generators/)           |
 
 ---
 
