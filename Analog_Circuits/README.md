@@ -58,7 +58,8 @@ This collection demonstrates how to build **basic analog circuits** using compon
 | **📡 Propagation Models** | Describes various models predicting the behavior of radio waves in different environments | [View Folder](./RF_Communication/Propagation_Models)        |
 | **📡 MIMO (Multiple Input, Multiple Output)** | Uses multiple antennas at both the transmitter and receiver. | [View Folder](./RF_Communication/MIMO)                     |
 | **📡 Multiple Access Techniques**    | Explains different methods  used to allow multiple users to share the same communication channel. | [View Folder](./RF_Communication/MAT)                      |
-| **📡Satellite Comms** | How satellite works | [View Folder](./RF_Communication/Satellite)        |
+| **📡 Radar System** | How radars works | [View Folder](./RF_Communication/radar)        |
+| **📡Satellite System** | How satellites works | [View Folder](./RF_Communication/Satellite)        |
 | **📡 Military Comms** |How Military communication works| [View Folder](./RF_Communication/Military)        |
 
 ---
