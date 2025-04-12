@@ -86,8 +86,7 @@ DC motors can be classified into several types, each with distinct characteristi
 | No feedback system required | Can produce noise and vibrations during operation |
 | Simple to control with digital pulses | Requires a driver circuit for operation |
 
-👉 [More on Stepper Motors](https://www.electronics-tutorials.ws/io/stepper-motor.html)
-
+👉 [More on Stepper Motors](https://www.monolithicpower.com/learning/resources/stepper-motors-basics-types-uses?srsltid=AfmBOorsDU_jSlh2NJ0D4rHGiJsUlETKyDC-9AWVLLXpr-aww2PM26Kp)
 ---
 
 ### 4️⃣ **Servo Motor**
@@ -110,8 +109,7 @@ DC motors can be classified into several types, each with distinct characteristi
 | Ideal for high-precision applications | More expensive than other types of motors |
 | High accuracy and reliability | May require specialized control circuitry |
 
-👉 [More on Servo Motors](https://www.electronics-tutorials.ws/io/servo-motor.html)
-
+👉 [More on Servo Motors](https://circuitdigest.com/article/servo-motor-working-and-basics)
 ---
 
 ## 🧠 Key Concepts
