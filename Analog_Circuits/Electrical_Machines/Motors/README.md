@@ -3,12 +3,6 @@
 Welcome to the **Electrical Motors** repository! 🎉  
 This collection showcases various types of **electric motors** used in electromechanical energy conversion. Motors convert electrical energy into mechanical motion and are used in countless applications such as robotics, fans, pumps, electric vehicles, industrial machines, and more.
 
-Each folder contains:
-
-✅ A brief explanation of the motor’s working principle  
-✅ A schematic or wiring diagram  
-✅ Motor control methods or simulation/breadboard setup  
-
 ---
 
 ## ⚙️ Quick Links to Motor Types
