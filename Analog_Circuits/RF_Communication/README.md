@@ -51,25 +51,37 @@ This collection demonstrates how to build **RF and Communication circuits** that
 ### 🌍 **6. Propagation Models**
 | ⚙️ Technique                         | 📜 Description                                                                 | 🔗 Link                                      |
 |--------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------|
-| **📡 Propagation Models**            | Describes various models predicting the behavior of radio waves in different environments. | [View Folder](.//Propagation_Models)        |
-| **📡 MIMO (Multiple Input, Multiple Output)** | Uses multiple antennas at both the transmitter and receiver to improve performance. | [View Folder](./MIMO)                     |
-| **📡 Multiple Access Techniques**    | Explains different methods  used to allow multiple users to share the same communication channel. | [View Folder](./MAT)                      |
+| **📡 Propagation Models**            | Describes various models predicting the behavior of radio waves in different environments. | [View Folder](./Propagation_Models/Propagation_Models)        |
+| **📡 MIMO (Multiple Input, Multiple Output)** | Uses multiple antennas at both the transmitter and receiver to improve performance. | [View Folder](./Propagation_Models/MIMO)                     |
+| **📡 Multiple Access Techniques**    | Explains different methods  used to allow multiple users to share the same communication channel. | [View Folder](./Propagation_Models/MAT)                      |
 
 ---
+## 📡 **7. Radar System**
+| ⚙️ Topic                               | 📜 Description                                                                                                     | 🔗 Link                                         |
+|----------------------------------------|---------------------------------------------------------------------------------------------------------------------|------------------------------------------------|
+| **📘 Fundamentals of Radar**           | Covers the basic principles of radar operation.                                                                    | [View Folder](./radar/Fundamentals)                  |
+| **📶 Radar Types**                     | Explains different radar types.                                                                                     | [View Folder](./radar/Radar_Types)                   |
+| **🧠 Radar Architectures & Topologies**| Examines monostatic, bistatic, multistatic, and phased array radar configurations.                                 | [View Folder](./radar/Architecture)                 |
+| **🎛️ Radar Signal Processing**         | Techniques such as FFT, pulse compression, clutter suppression, and MTI used to interpret radar returns.           | [View Folder](./radar/Signal_Processing)             |
+| **📍 Target Detection & Ranging**      | Algorithms and methods for detecting objects, measuring distance, speed, and angle of arrival.                     | [View Folder](./radar/Detection)                     |
+| **📊 Radar Performance Metrics**       | Includes radar cross section (RCS), SNR, detection probability, false alarms, and range resolution.                | [View Folder](./radar/Performance)                   |
+| **🛰️ Airborne, Ground & Naval Radar** | Highlights differences in radar design and operation for air, land, and sea-based platforms.                       | [View Folder](./radar/Platforms)                     |
 
-## 🚀 **7 Satellite**
+---
+## 🚀 **8. Satellite System**
 | ⚙️ Topic                             | 📜 Description                                                                                                          | 🔗 Link                                               |
 |--------------------------------------|--------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| **🌍 Fundamentals of Satellite Communication** | An overview of satellite communication, covering satellite types that form the foundation of satellite systems. | [View Folder](./Fundamentals)        |
-| **🛰️ Communication Systems**        | A detailed explanation of the components involved in satellite communication signals. | [View Folder](./Comm_Syst)                       |
-| **🌍 GNSS (Global Navigation Satellite System)** | Provides an overview of GNSS systems, which enable precise positioning and navigation. | [View Folder](./GNSS)                       |
-| **🔗 Inter-Satellite Links (ISLs)** | Explores how satellites in constellations communicate with each other directly. | [View Folder](./ISL)               |
-| **🌌 Space Weather and Satellite Impact** | Investigates the effects of space weather phenomena on satellite systems. | [View Folder](./Weather)         |
-| **📡 Satellite Frequency Bands**     | A comprehensive guide to the different frequency bands used in satellite communications.| [View Folder](./Frequency_Bands)                     |
-| **🌐 Global Internet Access via Satellite** | How satellites provide internet connectivity to remote or underserved areas.| [View Folder](./Internet_Access)              |
-| **📡 Satellite Link Budget**         | Describes how satellite link budgets are calculated, accounting for gains and losses in power.| [View Folder](./Link_Budget)    |
+| **🌍 Fundamentals of Satellite Communication** | An overview of satellite communication, covering satellite types that form the foundation of satellite systems. | [View Folder](./Satellite/Fundamentals)        |
+| **🛰️ Communication Systems**        | A detailed explanation of the components involved in satellite communication signals. | [View Folder](./Satellite/Comm_Syst)                       |
+| **🌍 GNSS (Global Navigation Satellite System)** | Provides an overview of GNSS systems, which enable precise positioning and navigation. | [View Folder](./Satellite/GNSS)                       |
+| **🔗 Inter-Satellite Links (ISLs)** | Explores how satellites in constellations communicate with each other directly. | [View Folder](./Satellite/ISL)               |
+| **🌌 Space Weather and Satellite Impact** | Investigates the effects of space weather phenomena on satellite systems. | [View Folder](./Satellite/Weather)         |
+| **📡 Satellite Frequency Bands**     | A comprehensive guide to the different frequency bands used in satellite communications.| [View Folder](./Satellite/Frequency_Bands)                     |
+| **🌐 Global Internet Access via Satellite** | How satellites provide internet connectivity to remote or underserved areas.| [View Folder](./Satellite/Internet_Access)              |
+| **📡 Satellite Link Budget**         | Describes how satellite link budgets are calculated, accounting for gains and losses in power.| [View Folder](./Satellite/Link_Budget)    |
+
 ---
-### 🚀 **8 Military Communication Systems**
+### 🚀 **9. Military Communication Systems**
 
 | 📡 Technology                             | 📜 Description                                                                 | 🔗 Link                                      |
 |------------------------------------------|-------------------------------------------------------------------------------|----------------------------------------------|
