@@ -104,4 +104,4 @@ A **Voltage Regulator Circuit** is a fundamental component in modern electronic 
 ---
 
 ## 🔹 NEXT  
-**👉[Antenna](../../RF_Communication/Signal_Interface/Antenna)**
+**👉[DC Motor](../../Electrical_Machines/Motors/DC_Motors)**
