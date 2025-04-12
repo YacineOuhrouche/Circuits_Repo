@@ -122,4 +122,4 @@ Radar performance metrics like RCS, SNR, Pd, Pfa, and range resolution are funda
 ---
 
 ## 🔹 NEXT  
-**👉 [Radar Platforms](./Platforms)**
+**👉 [Radar Platforms](../Platforms)**
