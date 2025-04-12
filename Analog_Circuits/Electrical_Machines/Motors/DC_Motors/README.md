@@ -152,4 +152,4 @@ DC motors are integral to many systems requiring precise motion control. Whether
 ---
 
 ## 🔹 Next  
-👉 [AC Motors](../AC_Motor)
+👉 [AC Motors](../AC_Motors)
