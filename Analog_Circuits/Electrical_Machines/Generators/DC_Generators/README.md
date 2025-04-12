@@ -161,4 +161,4 @@ DC Generators play a crucial role in converting mechanical energy into direct cu
 ---
 
 ## 🔹 NEXT  
-**👉 [AC Generators](../Generators/AC_Generators)**  
+**👉 [AC Generators](../AC_Generators)**  
