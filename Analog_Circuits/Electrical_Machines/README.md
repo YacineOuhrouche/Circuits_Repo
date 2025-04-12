@@ -16,4 +16,4 @@ This collection demonstrates various **electrical machines**, including motors, 
 ---
 
 ## 🔹 NEXT  
-**👉 [Power Electronics Circuits](../Power_Electronics)**
+**👉 [RF And Communication Circuits](../RF_Communication)**
