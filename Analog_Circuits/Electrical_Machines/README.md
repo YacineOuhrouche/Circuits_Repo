@@ -3,12 +3,6 @@
 Welcome to the **Electrical Machines** repository! 🎉  
 This collection demonstrates various **electrical machines**, including motors, generators, transformers, and more. These machines are fundamental in energy conversion processes—such as mechanical to electrical energy and vice versa—and are critical in both industrial and consumer applications.
 
-Each folder contains:
-
-✅ A brief explanation of the machine's functionality  
-✅ A schematic image  
-✅ The machine setup and/or working principles  
-
 ---
 
 ## ⚡ Quick Links to Each Machine
