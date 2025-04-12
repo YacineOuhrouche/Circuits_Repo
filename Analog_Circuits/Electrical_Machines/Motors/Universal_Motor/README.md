@@ -96,7 +96,7 @@ Because of the series connection and commutator design, these motors can reach v
 - ✅ **Hair Dryers**
 - ✅ **Small Machine Tools**
 
-👉 [More on Universal Motor](https://www.johnsonelectric.com/en/resources-for-engineers/universal-motors/universal-motors-basics)
+👉 [More on Universal Motor](https://en.wikipedia.org/wiki/Universal_motor)
 ---
 
 ## 🔚 Conclusion
