@@ -26,8 +26,7 @@ Understanding and optimizing these metrics is crucial in applications like defen
 | Useful in radar signature analysis | Does not account for stealth materials |
 | Basis for detection calculations | Can be misleading for complex shapes  |
 
-**👉 [More on RCS](https://en.wikipedia.org/wiki/Radar_cross-section)**
-
+**👉 [More on RCS](https://en.wikipedia.org/wiki/Radar_cross_section)**
 ---
 
 ### 2️⃣ **Signal-to-Noise Ratio (SNR)**
@@ -44,8 +43,7 @@ Understanding and optimizing these metrics is crucial in applications like defen
 | Key to evaluating radar range | Needs precise calibration             |
 | Basis for probability calculations | Drops with distance or obstructions  |
 
-**👉 [More on SNR](https://en.wikipedia.org/wiki/Signal-to-noise_ratio)**
-
+**👉 [More on SNR](https://en.wikipedia.org/wiki/Signal-to-noise_ratio#:~:text=Signal%2Dto%2Dnoise%20ratio%20(,power%2C%20often%20expressed%20in%20decibels.)**
 ---
 
 ### 3️⃣ **Probability of Detection (Pd)**
@@ -62,6 +60,7 @@ Understanding and optimizing these metrics is crucial in applications like defen
 | Important in safety-critical systems | Must be balanced with false alarms |
 | Improves with integration techniques | Cannot be maximized without trade-offs |
 
+**👉 [More on Pd](https://www.radartutorial.eu/01.basics/Probability%20of%20Detection.en.html)**
 ---
 
 ### 4️⃣ **Probability of False Alarm (Pfa)**
@@ -85,12 +84,6 @@ Understanding and optimizing these metrics is crucial in applications like defen
 > Ability to distinguish two targets that are close in distance.
 
 - 📌 **Purpose**: Determines minimum separation between targets in range.
-- 📏 **Formula**:  
-  \[
-  \Delta R = \frac{c}{2B}
-  \]  
-  Where `c` = speed of light, `B` = bandwidth.
-
 - 📊 **Improved by**: Increasing bandwidth or using pulse compression.
 
 | ✅ Pros                          | ❌ Cons                             |
@@ -99,8 +92,7 @@ Understanding and optimizing these metrics is crucial in applications like defen
 | Improves target discrimination   | Affected by pulse shaping and sidelobes |
 | Critical for high-resolution radar | May need complex hardware filtering |
 
-**👉 [More on Range Resolution](https://www.radartutorial.eu/01.basics/Range%20Resolution.en.html)**
-
+**👉 [More on Range Resolution](https://www.radartutorial.eu/01.basics/Range%20Resolution.en.html)****
 ---
 
 ## 🛠️ Additional Considerations
