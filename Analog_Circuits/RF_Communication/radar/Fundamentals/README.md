@@ -126,4 +126,4 @@ Understanding these fundamental radar concepts is key to grasping how modern rad
 ---
 
 ## 🔹 NEXT  
-**👉 [Radar Types and Architectures](../Radar_Types)**
+**👉 [Radar Types ](../Radar_Types)**
