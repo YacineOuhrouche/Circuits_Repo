@@ -40,8 +40,7 @@ DC motors can be classified into several types, each with distinct characteristi
 | Simple speed and direction control | Higher friction reduces efficiency |
 | Widely available and easy to maintain | Generates electrical noise |
 
-👉 [More on Brushed DC Motors](https://www.electronics-tutorials.ws/io/dc-motor.html)
-
+👉 [More on Brushed DC Motors](https://anaheimautomation.com/blog/post/brush-dc-motor-guide?srsltid=AfmBOoqFFK_EZtwqpdf_MlpEVPxxOO78ccq1ty4Bs23K1X1m7mnD0WmM)
 ---
 
 ### 2️⃣ **Brushless DC Motor (BLDC)**
