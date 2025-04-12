@@ -34,7 +34,7 @@
 | Good for weak signals         | Not effective for unknown waveforms |
 | Enhances detection range      | Sensitive to Doppler shift       |
 
-**👉 [More on Matched Filters](../Tracking)**
+**👉 [More on Matched Filters](https://www.elprocus.com/matched-filter/)**
 ---
 
 ### 2️⃣ **Constant False Alarm Rate (CFAR)**
@@ -51,7 +51,7 @@
 | Reduces false alarms          | Computationally intensive         |
 | Works in non-stationary noise | Window size impacts performance   |
 
-**👉 [More on CFAR](../Tracking)**
+**👉 [More on CFAR](https://en.wikipedia.org/wiki/Constant_false_alarm_rate#:~:text=Constant%20false%20alarm%20rate%20(CFAR,of%20noise%2C%20clutter%20and%20interference.))**
 ---
 
 
@@ -69,7 +69,7 @@
 | Highly accurate with fast ADCs | Can be affected by multipath     |
 | Used in ranging sensors    | Limited resolution at long ranges|
 
-**👉 [More on Range Measurement](../Tracking)**
+**👉 [More on Range Measurement](https://www.radartutorial.eu/01.basics/Distance-determination.en.html)**
 ---
 
 ### 4️⃣ **Doppler Processing**
