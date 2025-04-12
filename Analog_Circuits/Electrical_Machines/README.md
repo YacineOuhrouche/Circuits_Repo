@@ -11,7 +11,7 @@ This collection demonstrates various **electrical machines**, including motors, 
 |--------------------|------------------------------------------------------------------------|----------------------------------|
 | ⚙️ **Motors**       | Converts electrical energy into mechanical energy                      | [View Folder](./Motors/)         |
 | 🔋 **Generators**   | Converts mechanical energy into electrical energy                      | [View Folder](./Generators/)     |
-| 🔌 **Transformers** | Transfers electrical energy between circuits via electromagnetic induction | [View Folder](./Transformers/)   |
+
 
 ---
 
