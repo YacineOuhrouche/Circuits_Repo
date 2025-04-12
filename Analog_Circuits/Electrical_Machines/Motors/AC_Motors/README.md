@@ -39,6 +39,7 @@
 | Low cost and maintenance      | Poor speed control without VFD     |
 | Efficient at full load        | Harder to control torque/speed     |
 
+👉 [More on Induction Motor](https://en.wikipedia.org/wiki/Induction_motor#:~:text=An%20induction%20motor%20or%20asynchronous,electrical%20connections%20to%20the%20rotor.)
 ---
 
 ### 2️⃣ **Synchronous Motor**
@@ -61,6 +62,7 @@
 | High efficiency at steady state  | Requires excitation (PM or DC)    |
 | Excellent power factor control   | Not self-starting in some cases   |
 
+👉 [More on Synchronous Motor](https://mechtex.com/blog/the-significance-of-synchronous-motors-in-industry#:~:text=A%20synchronous%20motor%20is%20a,compressors%2C%20wind%20turbines%2C%20etc.)
 ---
 
 ### 3️⃣ **BLDC Motor (Brushless DC, but AC-powered)**
@@ -127,4 +129,4 @@ AC Motors are the **workhorses** of modern electromechanical systems. From simpl
 ---
 
 ## 🔹 Next
-👉 [Universal DC Motors](../DC_Motors/README.md)
+👉 [Universal Motors](../Universal_Motor)
