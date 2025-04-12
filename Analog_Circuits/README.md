@@ -39,8 +39,9 @@ This collection demonstrates how to build **basic analog circuits** using compon
 
 | ⚙️ Circuit                    | 📜 Description                                                              | 🔗 Link                                              |
 |--------------------|------------------------------------------------------------------------|----------------------------------|
-| ⚙️ **Motors**       | Converts electrical energy into mechanical energy                      | [View Folder](./Motors/)         |
-| 🔋 **Generators**   | Converts mechanical energy into electrical energy                      | [View Folder](./Generators/)     |
+| ⚙️ **Motors**       | Converts electrical energy into mechanical energy                      | [View Folder](./Electrical_Machines/Motors/)         |
+| 🔋 **Generators**   | Converts mechanical energy into electrical energy                      | [View Folder](./Electrical_Machines/Generators/)     |
+
 ---
 ### 📡 **RF & Communication Circuits**
 
