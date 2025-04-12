@@ -106,4 +106,4 @@ Because of the series connection and commutator design, these motors can reach v
 ---
 
 ## 🔹 Next
-👉 [DC Generator](../Generators/DC_Generators)
+👉 [DC Generator](../../Generators/DC_Generators)
