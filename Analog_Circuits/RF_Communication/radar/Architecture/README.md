@@ -25,7 +25,7 @@ Understanding these architectures is essential for designing systems tailored to
 | Easy signal synchronization        | Clutter near antenna complicates processing |
 | Compact and cost-effective         | Limited in stealth detection         |
 
-**👉 [More on Monostatic Radar](https://en.wikipedia.org/wiki/Monostatic_radar)**
+**👉 [More on Monostatic Radar](https://electronicslovers.com/2017/05/difference-between-monostatic-radar.html)**
 
 ---
 
@@ -42,7 +42,7 @@ Understanding these architectures is essential for designing systems tailored to
 | Enhanced angular coverage          | Complex geometry and tracking math      |
 | Increased survivability            | Difficult to calibrate and align        |
 
-**👉 [More on Bistatic Radar](https://en.wikipedia.org/wiki/Bistatic_radar)**
+**👉 [More on Bistatic Radar](https://www.radartutorial.eu/05.bistatic/bs04.en.html)**
 
 ---
 
@@ -59,7 +59,7 @@ Understanding these architectures is essential for designing systems tailored to
 | Robust to jamming and evasion      | Synchronization challenges across nodes   |
 | Enables wide-area coverage         | High cost and system integration effort   |
 
-**👉 [More on Multistatic Radar](https://ieeexplore.ieee.org/document/7810995)**
+**👉 [More on Multistatic Radar](https://en.wikipedia.org/wiki/Multistatic_radar#:~:text=A%20multistatic%20radar%20system%20contains,take%20place%20between%20component%20parts.)**
 
 ---
 
@@ -76,7 +76,7 @@ Understanding these architectures is essential for designing systems tailored to
 | Multiple target tracking            | Complex calibration and thermal control  |
 | High reliability (no moving parts)  | Requires advanced control electronics    |
 
-**👉 [More on Phased Arrays](https://en.wikipedia.org/wiki/Phased_array)**
+**👉 [More on Phased Arrays](https://www.radartutorial.eu/06.antennas/Phased%20Array%20Antenna.en.html)**
 
 ---
 
