@@ -35,7 +35,12 @@ This collection demonstrates how to build **basic analog circuits** using compon
 | **🔄 PWM Generator**          | Generates Pulse Width Modulated signals for motor or power control          | [View Folder](./Power_Electronics/PWM/)                               |
 | **⚡ Voltage Regulator**      | Regulates voltage to ensure a steady output regardless of input fluctuations | [View Folder](./Power_Electronics/Voltage_Regulator/)                 |
 
+# ⚡ **Electrical Machines**
 
+| ⚙️ Circuit                    | 📜 Description                                                              | 🔗 Link                                              |
+|--------------------|------------------------------------------------------------------------|----------------------------------|
+| ⚙️ **Motors**       | Converts electrical energy into mechanical energy                      | [View Folder](./Motors/)         |
+| 🔋 **Generators**   | Converts mechanical energy into electrical energy                      | [View Folder](./Generators/)     |
 ---
 ### 📡 **RF & Communication Circuits**
 
