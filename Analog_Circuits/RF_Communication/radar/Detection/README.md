@@ -60,7 +60,6 @@
 > Calculates distance to target using time delay of return signal.
 
 - 📌 **Purpose**: Determine target location in radial dimension.
-- ⚙️ **Operation**: \( R = \frac{c \cdot \Delta t}{2} \), where \( \Delta t \) is time delay.
 - 📊 **Used In**: All radar types (CW, FMCW, pulsed).
 
 | ✅ Pros                    | ❌ Cons                          |
@@ -77,7 +76,6 @@
 > Uses frequency shift to estimate target speed.
 
 - 📌 **Purpose**: Detect moving objects and determine velocity.
-- ⚙️ **Operation**: \( f_D = \frac{2v}{\lambda} \), then use FFT to analyze Doppler.
 - 📊 **Used In**: MTI radar, FMCW radar, velocity tracking.
 
 | ✅ Pros                        | ❌ Cons                       |
@@ -86,7 +84,6 @@
 | Enables velocity discrimination | Doppler ambiguity for fast targets |
 | Supports MTI and tracking     | Requires coherent radar system   |
 
-**👉 [More on Doppler Processing](../Tracking)**
 ---
 
 ### 5️⃣ **Angle of Arrival (AoA) Estimation**
@@ -103,7 +100,7 @@
 | High angular resolution         | Sensitive to calibration errors    |
 | Enables beam steering           | High computational requirements    |
 
-**👉 [More on AoA](../Tracking)**
+**👉 [More on AoA](https://en.wikipedia.org/wiki/Angle_of_arrival)**
 ---
 
 
