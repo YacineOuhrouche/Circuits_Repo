@@ -63,8 +63,7 @@ DC motors can be classified into several types, each with distinct characteristi
 | Higher efficiency and quieter operation | More expensive than brushed motors |
 | Less maintenance and wear | May generate electromagnetic interference (EMI) |
 
-👉 [More on Brushless DC Motors](https://www.electronics-tutorials.ws/io/brushed-vs-brushless-dc-motors.html)
-
+👉 [More on Brushless DC Motors](https://www.renesas.com/en/support/engineer-school/brushless-dc-motor-01-overview?srsltid=AfmBOoobqQPPSqGuqksdNEiJ0AnRY0EHTaEGqCtJtjoqA46EEz1R-Vtt)
 ---
 
 ### 3️⃣ **Stepper Motor**
