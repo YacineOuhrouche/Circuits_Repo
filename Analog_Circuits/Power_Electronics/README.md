@@ -28,4 +28,4 @@ Each folder contains:
 ---
 
 ## 🔹 NEXT  
-**👉 [RF And Communication Circuits](../RF_Communication)**
+**👉 [Electrical Machines](../Electrical_Machines)**
