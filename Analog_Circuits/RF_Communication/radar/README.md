@@ -16,7 +16,6 @@ This collection explores the core technologies, components, circuits, and design
 | **🧠 Radar Tracking Systems**          | Explains target tracking techniques .           | [View Folder](./Tracking)                      |
 | **🛰️ Airborne, Ground & Naval Radar** | Highlights differences in radar design and operation for air, land, and sea-based platforms.                       | [View Folder](./Platforms)                     |
 | **📊 Radar Performance Metrics**       | Includes radar cross section (RCS), SNR, detection probability, false alarms, and range resolution.                | [View Folder](./Performance_Metrics)           |
-| **🔧 Radar Circuit Designs**           | Essential transmitter, receiver, signal processing, antenna, and jamming circuits involved in radar operation.     | [View Folder](./Radar_Circuits)                |
 
 ---
 
