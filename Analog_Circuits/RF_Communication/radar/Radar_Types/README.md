@@ -30,6 +30,7 @@ Radar (Radio Detection and Ranging) is a system that uses electromagnetic waves 
 | High range detection         | Limited resolution               |
 | Effective in long-range detection | Susceptible to interference    |
 
+**👉 [More On It](https://www.radartutorial.eu/02.basics/Pulse%20Radar.en.html)**  
 ---
 
 ### 2️⃣ **Continuous Wave (CW) Radar**
@@ -51,6 +52,7 @@ Radar (Radio Detection and Ranging) is a system that uses electromagnetic waves 
 | Can measure velocity         | Cannot measure range directly    |
 | Simple and cost-effective    | Limited in detection of stationary targets |
 
+**👉 [More On It](https://www.radartutorial.eu/02.basics/Continuous%20Wave%20Radar.en.html)**  
 ---
 
 ### 3️⃣ **Frequency Modulated Continuous Wave (FMCW) Radar**
@@ -72,6 +74,7 @@ Radar (Radio Detection and Ranging) is a system that uses electromagnetic waves 
 | Provides both range and velocity information | More complex signal processing required |
 | Higher accuracy in range measurement | Sensitive to multipath interference |
 
+**👉 [More On It](https://www.radartutorial.eu/02.basics/Frequency%20Modulated%20Continuous%20Wave%20Radar.en.html)**  
 ---
 
 ### 4️⃣ **Doppler Radar**
@@ -81,15 +84,6 @@ Radar (Radio Detection and Ranging) is a system that uses electromagnetic waves 
 > **Working Principle**:  
   Doppler radar detects frequency shifts in the reflected signal caused by motion. Moving objects cause a change in the frequency of the returned signal (Doppler shift).
 
-- 📐 **Doppler Shift Equation**:  
-  $$
-  f_d = \frac{2v \cos(\theta)}{\lambda}
-  $$  
-  - \( f_d \): Doppler frequency  
-  - \( v \): Target velocity  
-  - \( \theta \): Angle between radar beam and target motion  
-  - \( \lambda \): Wavelength
-  
 - 📡 **Applications**:  
   - Weather monitoring  
   - Aircraft speed measurement  
@@ -102,6 +96,7 @@ Radar (Radio Detection and Ranging) is a system that uses electromagnetic waves 
 | Accurate velocity detection  | Cannot measure range without additional methods |
 | Distinguishes moving vs. stationary targets | Affected by noise and clutter |
 
+**👉 [More On It](https://en.wikipedia.org/wiki/Doppler_radar)**  
 ---
 
 ### 5️⃣ **Synthetic Aperture Radar (SAR)**
@@ -123,6 +118,7 @@ Radar (Radio Detection and Ranging) is a system that uses electromagnetic waves 
 | High-resolution imaging      | Requires complex signal processing |
 | Can operate in all weather conditions | Expensive and computationally intensive |
 
+**👉 [More On It](https://www.earthdata.nasa.gov/learn/earth-observation-data-basics/sar)**  
 ---
 
 ## 🧠 Key Concepts
