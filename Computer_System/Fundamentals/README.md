@@ -56,7 +56,7 @@ This architecture is typically used in general-purpose computing systems.
 
 **📌 Common in**: General-purpose computers like desktops, laptops, and servers.
 
-**👉[More On Von Neumann](https://en.wikipedia.org/wiki/Von_Neumann_architecture)**
+**👉[More On Von Neumann](https://www.echosciences-grenoble.fr/articles/recherche-informatique-industrie-comprendre-l-architecture-von-neumann-6-12-annee-2021)**
 
 ---
 
@@ -76,23 +76,12 @@ This architecture is typically used in general-purpose computing systems.
 
 This architecture is commonly used in specialized systems that require high performance, such as digital signal processors (DSPs) and embedded systems.
 
-**📌 Common in**: Specialized systems like DSPs (Digital Signal Processors) and embedded systems.
 
-**👉[More On Harvard Architecture](https://en.wikipedia.org/wiki/Harvard_architecture)**
-
----
-
-## 📊 Applications of Computer Systems
-
-| 🛠️ Technology              | 📋 Application Domain                          |
-|----------------------------|-----------------------------------------------|
-| **General-Purpose CPUs**    | Used in desktops, laptops, and servers.        |
-| **Embedded Systems**        | Used in devices like microcontrollers, IoT, and robotics. |
-| **Real-Time Systems (RTOS)**| Critical for applications needing timely responses. |
-| **Supercomputers**          | Used in scientific simulations, data analysis, and research. |
-| **Mobile Systems**          | Found in smartphones and portable devices. |
+**👉[More On Harvard Architecture](https://www.spiceworks.com/tech/tech-general/articles/von-neumann-architecture-vs-harvard-architecture/)**
 
 ---
+
+
 
 
 ## 🔚 Conclusion
