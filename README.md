@@ -96,7 +96,9 @@ This section covers the essential components and concepts related to computer sy
 | **📈 Performance Optimization Techniques** | Includes pipelining, branch prediction, out-of-order execution, and superscalar execution for system efficiency. | [View Folder](./Computer_System/Performance)  |
 | **🧩 Multicore and Parallel Architectures** | Overview of multicore CPUs, SIMD, MIMD architectures, parallel processing, and GPU architecture. | [View Folder](./Computer_System/Multicore_Parallel) |
 | **🔍 Advanced System Architectures** | Focuses on modern computing models like System-on-Chip (SoC), embedded systems, RTOS, and special-purpose computing. | [View Folder](./Computer_System/Advanced_Architectures) |
-| **🔲 VLSI Design**                  | Covers the design and fabrication of integrated circuits with millions of transistors, key to modern computing systems, including digital, analog, and mixed-signal ICs. | [View Folder](./Computer_System/VLSI)        |
+| **🔲 VLSI Design**                  | Covers the design and fabrication of integrated circuits with millions of transistors, key to modern computing systems, including digital, analog, and mixed-signal ICs. | [View Folder](./Computer_System/VLSI) 
+| **🧩 Chip Design, Manufacturing & Packaging** | Covers the process of chip design, semiconductor manufacturing, and packaging techniques | [View Folder](./Computer_System/Chip_Design) |
+|
 
 
 ## 🌐 Why This Repository Exists  
