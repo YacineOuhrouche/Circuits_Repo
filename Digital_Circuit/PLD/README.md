@@ -149,4 +149,4 @@ PLDs enable engineers to build **custom, reconfigurable hardware** for countless
 ---
 
 ## 🔹 NEXT  
-**👉 [Digital Communication Protocols](../Comm_Prot)**  
+**👉 [Digital Communication Protocols](../Comm_Protocol)**  
