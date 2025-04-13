@@ -99,7 +99,7 @@ Below are some of the most widely used and influential ISAs in modern computer a
 
 **📌 Used in**: SiFive, academic projects, Linux-capable embedded devices.
 
-**👉 [More on RISC-V](https://en.wikipedia.org/wiki/RISC-V)**
+**👉 [More on RISC-V](https://www.synopsys.com/glossary/what-is-risc-v.html)**
 
 ---
 
@@ -113,7 +113,7 @@ Below are some of the most widely used and influential ISAs in modern computer a
 
 **📌 Used in**: Smartphones, Raspberry Pi, Apple Silicon (M1/M2), microcontrollers.
 
-**👉 [More on ARM](https://en.wikipedia.org/wiki/ARM_architecture)**
+**👉 [More on ARM](https://en.wikipedia.org/wiki/ARM_architecture_family)**
 
 ---
 
@@ -127,7 +127,7 @@ Below are some of the most widely used and influential ISAs in modern computer a
 
 **📌 Used in**: Intel and AMD desktop CPUs, enterprise servers, gaming PCs.
 
-**👉 [More on x86](https://en.wikipedia.org/wiki/X86)**
+**👉 [More on x86](https://www.lenovo.com/gb/en/glossary/x86/?srsltid=AfmBOorGn0QXTgfOPzV8tNNuO_TVbfYMu0wwr8cVxRxhp_sWZf88Zoy-)**
 
 ---
 
@@ -141,7 +141,7 @@ Below are some of the most widely used and influential ISAs in modern computer a
 
 **📌 Used in**: Networking equipment, older PlayStations, academic simulators.
 
-**👉 [More on MIPS](https://en.wikipedia.org/wiki/MIPS_architecture)**
+**👉 [More on MIPS](https://www.lenovo.com/us/en/glossary/mips/?srsltid=AfmBOoqU7eDjXA6UEQpc6ZARTkYvSP7nbACG_vLsS0mV5eBZ0mj0hou8)**
 
 ---
 
@@ -155,7 +155,7 @@ Below are some of the most widely used and influential ISAs in modern computer a
 
 **📌 Used in**: IBM servers, aerospace systems, legacy game consoles.
 
-**👉 [More on Power ISA](https://en.wikipedia.org/wiki/Power_Instruction_Set_Architecture)**
+**👉 [More on Power ISA](https://en.wikipedia.org/wiki/Power_ISA)**
 
 ---
 
