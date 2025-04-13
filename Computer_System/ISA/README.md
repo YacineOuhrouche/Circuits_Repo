@@ -78,19 +78,8 @@ The **Instruction Set Architecture (ISA)** defines the interface between hardwar
 - Complex operations in one instruction
 - Optimized for memory usage
 - Hardware handles complex logic
-
----
-
-## 📊 Comparison Table: RISC vs. CISC
-
-| Feature                    | RISC                        | CISC                        |
-|----------------------------|-----------------------------|-----------------------------|
-| Instruction Complexity     | Simple                      | Complex                     |
-| Instruction Length         | Fixed                       | Variable                    |
-| Execution Time             | Typically faster            | Can be slower               |
-| Compiler Dependency        | Higher                      | Lower                       |
-| Hardware Complexity        | Lower                       | Higher                      |
-
+**👉 [More on RISC](https://www.arm.com/glossary/risc)**
+**👉 [More on CISC](https://how.dev/answers/what-is-cisc-architecture)**
 ---
 
 
