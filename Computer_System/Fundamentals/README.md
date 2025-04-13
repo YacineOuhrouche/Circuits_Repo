@@ -6,15 +6,6 @@
 
 The **Fundamentals of Computer Systems** section provides an overview of the basic concepts that define how computers work. From the hardware components that make up a system to the foundational architectures that drive their operation, this section is essential for understanding the basic principles of computing.
 
-You’ll learn about how **Von Neumann** and **Harvard** architectures compare, the role of the CPU, memory, and other core system components in processing data, and how these systems function together to run programs and applications.
-
----
-
-## 🎯 Purpose of Computer Systems
-
-- **Understanding System Components**: Gain knowledge of key hardware components such as the CPU, memory, and I/O devices.
-- **Von Neumann vs. Harvard Architectures**: Understand the two most fundamental computer architectures and how they differ in design and functionality.
-- **Building a Foundation**: The fundamental knowledge in this section is necessary for more advanced topics in computer science and systems design, such as CPU design, memory management, and network communication.
 
 ---
 
@@ -29,7 +20,7 @@ You’ll learn about how **Von Neumann** and **Harvard** architectures compare, 
 
 **📌 Common in**: All general-purpose computers, embedded systems.
 
-**👉[More On CPU](https://en.wikipedia.org/wiki/Central_processing_unit)**
+**👉[More On CPU](https://www.lenovo.com/ca/en/glossary/what-is-cpu/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoovghSzs3RdiY6QbQm93VEY4kO9wFNHD5SE9ws9k_2_x4ZwL2lo)**
 
 ---
 
@@ -43,7 +34,7 @@ You’ll learn about how **Von Neumann** and **Harvard** architectures compare, 
 
 **📌 Common in**: Every computer system, from desktops to embedded systems.
 
-**👉[More On Memory](https://en.wikipedia.org/wiki/Computer_memory)**
+**👉[More On Memory](../../Digital_Circuit/Memory_Circuit)**
 
 ---
 
