@@ -105,4 +105,4 @@ AC Generators are essential for modern power generation, converting mechanical e
 ---
 
 ## 🔹 NEXT  
-**👉 [Antenna](../../RF_Communication/Signal_Interface/Antenna)**  
+**👉 [Antenna](../../../RF_Communication/Signal_Interface/Antenna)**  
