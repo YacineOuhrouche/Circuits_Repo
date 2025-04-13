@@ -79,7 +79,7 @@ My notes about the basics and advanced concepts of digital circuits, covering lo
 | **🔁 Sequential Circuit**        | Circuit whose output depends on both present inputs and past states              | [View Folder](./Digital_Circuit/Sequential_Circuit) |
 | **🧠 Memory Circuit**            | Circuit designed to store data, typically using flip-flops or registers          | [View Folder](./Digital_Circuit/Memory_Circuit)     |
 | **🧩 Programmable Logic Devices**| Includes PAL, GAL, CPLD, and FPGA – used for customizable logic design          | [View Folder](./Digital_Circuit/PLD)                |
-| **🔗 Communication System**      | Digital communication protocols like UART, SPI, I²C, and CAN                     | [View Folder](./Digital_Circuit/Communication_System) |
+| **🔗 Communication System**      | Digital communication protocols like UART, SPI, I²C, and CAN                     | [View Folder](./Digital_Circuit/Comm_Protocol) |
 
 ## 🌐 Why This Repository Exists  
 This repository serves as:  
