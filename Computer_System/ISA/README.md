@@ -93,27 +93,6 @@ The **Instruction Set Architecture (ISA)** defines the interface between hardwar
 
 ---
 
-## ⚖️ Pros and Cons of ISA Designs
-
-| ✅ Advantages                                         | ❌ Limitations                                             |
-|------------------------------------------------------|------------------------------------------------------------|
-| Defines precise system behavior for software         | Complex ISAs may reduce performance                        |
-| Enables optimization for different architectures     | Rigid ISA can limit architectural flexibility              |
-| Supports portability and compatibility across systems| RISC may require more instructions for complex operations  |
-
----
-
-## 📚 Key Concepts
-
-| 🔑 Term             | 📖 Description                                                     |
-|---------------------|--------------------------------------------------------------------|
-| **ISA**              | Set of machine instructions supported by the processor            |
-| **Opcode**           | Operation code indicating what action to perform                  |
-| **Operand**          | Data item used by the instruction (register, memory, etc.)        |
-| **Addressing Mode**  | Method for locating operands                                      |
-| **RISC/CISC**        | Architectural design philosophies for instruction complexity      |
-
----
 
 ## 🏛️ Important Instruction Set Architectures (ISAs)
 
@@ -191,17 +170,6 @@ Below are some of the most widely used and influential ISAs in modern computer a
 
 ---
 
-## 📊 ISA Usage Summary
-
-| 🏷️ ISA     | 🌍 Common Use Cases                       | 🧠 Architecture Type | 
-|------------|--------------------------------------------|----------------------|
-| RISC-V     | IoT, SoCs, research, FPGAs                 | RISC                 | 
-| ARM        | Mobile, embedded, microcontrollers         | RISC                 |
-| x86        | Desktops, servers, laptops                 | CISC                 | 
-| MIPS       | Networking, education, embedded systems    | RISC                 | 
-| PowerPC    | High-performance, aerospace, legacy gaming | RISC                 | 
-
----
 
 ## 🔚 Conclusion
 
