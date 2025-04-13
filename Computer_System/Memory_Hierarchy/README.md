@@ -46,7 +46,8 @@
 | **L2**      | On CPU Chip      | 128KB to 12MB   | Fast    | Low          |
 | **L3**      | Shared Across Cores | 2MB to 64MB  | Slowest | Higher Latency|
 
-**👉 [More On Cache Memory](../Bus)**
+**👉 [More On Cache Memory](https://www.lenovo.com/ca/en/glossary/what-is-cache-memory/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoqibEv2bbbikXHSv-phU2oPOTAyzuKhQ6D62tIBSyIrSXOhon_-)**
+
 ---
 
 ### 2️⃣ **Paging**
@@ -66,7 +67,7 @@
 | 4KB           | Fine granularity, better memory use | Increased page table overhead              |
 | 8KB           | Reduced overhead, fewer pages      | Coarser granularity, less efficient memory use|
 
-**👉 [More on Paging](../Bus)**
+**👉 [More on Paging](https://www.lenovo.com/ca/en/glossary/paging/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoogtdmY1Flwkr-ukT7OBdSnjJmV_v0yf5PzZXGHQGeCWqaSTWHy)**
 
 ---
 
@@ -89,7 +90,7 @@
 | **Data**         | Stores program variables and constants              | Initialized data      |
 | **Stack**        | Stores runtime data like function calls and locals  | Stack memory          |
 
-**👉 [More on Segmentation](../Bus)**
+**👉 [More on Segmentation](https://www.lenovo.com/us/en/glossary/what-is-segment/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOopQ_MBGYJtICNSde2p3KhVT3ji5kq9rRdgGsA-sQHFHInM2DFX_)**
 
 ---
 
@@ -112,7 +113,7 @@
 | **Paging**                 | Efficient memory usage, no fragmentation             | Overhead for managing page tables and swapping data      |
 | **Swapping**               | Allows larger programs to run than available RAM     | Slow performance due to disk I/O delays                   |
 
-**👉 [More on Virtual Memory](../Bus)**
+**👉 [More on Virtual Memory](https://www.lenovo.com/ca/en/glossary/virtual-memory/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOop7ehGbrLITCVMtOveyzzqCTy4gM5gXrREYwFXTuIxdTbS3mZ43)**
 
 ---
 
@@ -133,7 +134,7 @@
 | **File Mapping**        | Access large files, databases, or shared memory areas | Faster file access and processing  |
 | **Device Mapping**      | Interfacing with hardware devices                     | Low-latency device interactions    |
 
-**👉 [More on Memory Mapping](../Bus)**
+**👉 [More on Memory Mapping](https://en.wikipedia.org/wiki/Memory-mapped_file)**
 
 ---
 
