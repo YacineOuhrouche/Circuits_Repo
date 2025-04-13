@@ -32,8 +32,7 @@ Communication protocols like **UART**, **SPI**, **I²C**, and **CAN** define how
 | Simple and cost-effective     | No multi-master capability       |
 | Asynchronous (no clock line)  | Slower compared to SPI/I²C       |
 
-**👉 [More on UART](https://learn.sparkfun.com/tutorials/serial-communication/all)**
-
+**👉 [More on UART](https://www.circuitbasics.com/basics-uart-communication/)**
 ---
 
 ### 2️⃣ **SPI (Serial Peripheral Interface)**
@@ -56,8 +55,7 @@ Communication protocols like **UART**, **SPI**, **I²C**, and **CAN** define how
 | Very fast data transfer         | Uses more pins (4 per device)    |
 | Full duplex communication       | No formal acknowledgment system  |
 
-**👉 [More on SPI](https://www.analog.com/en/analog-dialogue/articles/introduction-to-spi-interface.html)**
-
+**👉 [More on SPI](https://www.analog.com/en/resources/analog-dialogue/articles/introduction-to-spi-interface.html#:~:text=SPI%20is%20a%20full%2Dduplex,is%20sampled%20or%20read%20in).)**
 ---
 
 ### 3️⃣ **I²C (Inter-Integrated Circuit)**
@@ -80,8 +78,7 @@ Communication protocols like **UART**, **SPI**, **I²C**, and **CAN** define how
 | Two-wire design saves space     | Slower than SPI                   |
 | Supports multiple devices       | Limited cable length and capacitance |
 
-**👉 [More on I²C](https://learn.sparkfun.com/tutorials/i2c/all)**
-
+**👉 [More on I²C](https://www.circuitbasics.com/basics-of-the-i2c-communication-protocol/)**
 ---
 
 ### 4️⃣ **CAN (Controller Area Network)**
@@ -104,8 +101,7 @@ Communication protocols like **UART**, **SPI**, **I²C**, and **CAN** define how
 | Reliable in noisy environments     | Complex hardware implementation    |
 | Collision-free communication       | Lower data rates compared to SPI   |
 
-**👉 [More on CAN](https://www.ni.com/en-us/innovations/can-protocol.html)**
-
+**👉 [More on CAN](https://www.ni.com/en/shop/seamlessly-connect-to-third-party-devices-and-supervisory-system/controller-area-network--can--overview.html#:~:text=For%20example%2C%20the%20CAN%20protocol,communicate%20with%20a%20CAN%20network.)**
 ---
 
 ## 🧠 Key Concepts
