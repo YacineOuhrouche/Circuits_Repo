@@ -46,6 +46,7 @@
 | **L2**      | On CPU Chip      | 128KB to 12MB   | Fast    | Low          |
 | **L3**      | Shared Across Cores | 2MB to 64MB  | Slowest | Higher Latency|
 
+**👉 [More On Cache Memory](../Bus)**
 ---
 
 ### 2️⃣ **Paging**
@@ -64,6 +65,8 @@
 |---------------|-------------------------------------|--------------------------------------------|
 | 4KB           | Fine granularity, better memory use | Increased page table overhead              |
 | 8KB           | Reduced overhead, fewer pages      | Coarser granularity, less efficient memory use|
+
+**👉 [More on Paging](../Bus)**
 
 ---
 
@@ -86,6 +89,8 @@
 | **Data**         | Stores program variables and constants              | Initialized data      |
 | **Stack**        | Stores runtime data like function calls and locals  | Stack memory          |
 
+**👉 [More on Segmentation](../Bus)**
+
 ---
 
 ### 4️⃣ **Virtual Memory**
@@ -107,6 +112,8 @@
 | **Paging**                 | Efficient memory usage, no fragmentation             | Overhead for managing page tables and swapping data      |
 | **Swapping**               | Allows larger programs to run than available RAM     | Slow performance due to disk I/O delays                   |
 
+**👉 [More on Virtual Memory](../Bus)**
+
 ---
 
 ### 5️⃣ **Memory Mapping**
@@ -125,6 +132,8 @@
 |-------------------------|--------------------------------------------------------|-------------------------------------|
 | **File Mapping**        | Access large files, databases, or shared memory areas | Faster file access and processing  |
 | **Device Mapping**      | Interfacing with hardware devices                     | Low-latency device interactions    |
+
+**👉 [More on Memory Mapping](../Bus)**
 
 ---
 
@@ -151,4 +160,4 @@ The **Memory Hierarchy** and **Cache Systems** form the backbone of efficient sy
 ---
 
 ## 🔹 NEXT  
-**👉 [Bus Architecture](../Instruction_Set_Architecture)**
+**👉 [Bus Architecture](../Bus)**
