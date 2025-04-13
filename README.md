@@ -81,6 +81,7 @@ My notes about the basics and advanced concepts of digital circuits, covering lo
 | **🧩 Programmable Logic Devices**| Includes PAL, GAL, CPLD, and FPGA – used for customizable logic design          | [View Folder](./Digital_Circuit/PLD)                |
 | **🔗 Communication System**      | Digital communication protocols like UART, SPI, I²C, and CAN                     | [View Folder](./Digital_Circuit/Comm_Protocol) |
 
+---
 #### 🔗 3️⃣ **Computer Systems**
 This section covers the essential components and concepts related to computer systems, from hardware to software, and how they interact in various computing environments.
 
