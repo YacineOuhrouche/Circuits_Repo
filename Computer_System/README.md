@@ -15,7 +15,7 @@ Each folder contains:
 
 | ⚙️ Project/Concept                      | 📜 Description                                                                  | 🔗 Link                                              |
 |-----------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **🖥️ Fundamentals of Computer Systems**  | Introduction to basic computing concepts, system components, and architecture  | [View Folder](.//Fundamentals)       |
+| **🖥️ Fundamentals of Computer Systems**  | Introduction to basic computing concepts, system components, and architecture  | [View Folder](./Fundamentals)       |
 | **🧠 Processor Design & Datapath**       | Detailed explanation of CPU components such as ALU, control units, and registers | [View Folder](./Processor)   |
 | **🧮 Instruction Set Architecture (ISA)**| Explanation of instruction formats, addressing modes, and RISC vs. CISC          | [View Folder](./ISA)                |
 | **💾 Memory Hierarchy & Cache Systems**  | Covers cache memory (L1/L2/L3), paging, segmentation, and virtual memory        | [View Folder](./Memory_Hierarchy)   |
