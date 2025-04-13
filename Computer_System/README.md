@@ -24,7 +24,6 @@ Each folder contains:
 | **📈 Performance Optimization**          | Pipelining, branch prediction, and techniques for optimizing system performance  | [View Folder](./Performance)  |
 | **🧩 Multicore and Parallel Architectures**| Overview of multicore CPUs, SIMD, MIMD architectures, and GPU architecture      | [View Folder](./Multicore_Parallel) |
 | **🔍 Advanced System Architectures**     | Focus on modern computing models like SoC, embedded systems, and special-purpose computing | [View Folder](./Advanced_Architectures) |
-| **🔮 Future & Emerging Trends**          | Explores neuromorphic computing, AI accelerators, and quantum computing         | [View Folder](./Future_Trends)      |
 | **🔲 VLSI Design**                       | Design and fabrication of integrated circuits, including digital and analog ICs | [View Folder](./VLSI)        |
 
 ---
