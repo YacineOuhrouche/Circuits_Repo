@@ -76,3 +76,6 @@ Each folder contains:
 | **🌐 CAN (Controller Area Network)**                       | Robust vehicle-bus standard designed for automotive systems      | [View Folder](./Comm_Protocol)    |
 
 ---
+
+## 🔹 NEXT  
+**👉[Computer System](../Computer_System)**
