@@ -1,16 +1,31 @@
-#### 🔗 3️⃣ **Computer Systems**
-This section covers the essential components and concepts related to computer systems, from hardware to software, and how they interact in various computing environments.
+# 💻 Computer Systems
 
-| ⚙️ Topic                            | 📜 Description                                                                 | 🔗 Link                                              |
-|-------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------|
-| **📚 Fundamentals of Computer Systems** | Introduction to basic computing concepts, system components, and the Von Neumann vs. Harvard architectures. | [View Folder](./Fundamentals)       |
-| **🧮 Processor Design & Datapath**  | Covers CPU internal components such as ALU, control units, registers, and how instructions are fetched and executed. | [View Folder](./Processor)   |
-| **🧠 Instruction Set Architecture (ISA)** | Explains instruction formats, types, addressing modes, and RISC vs. CISC instruction philosophies. | [View Folder](./ISA)                |
-| **💾 Memory Hierarchy & Cache Systems** | Details cache memory (L1/L2/L3), paging, segmentation, virtual memory, and memory mapping techniques. | [View Folder](./Memory_Hierarchy)   |
-| **🧰 Bus Architecture & Data Transfers** | Explores data, address, and control buses, along with DMA, bus arbitration, and throughput concepts. | [View Folder](./Bus)   |
-| **🖧 Input/Output (I/O) and Interrupts** | Discusses how computers handle external inputs and outputs, interrupt handling, polling, and context switching. | [View Folder](./IO)      |
-| **📈 Performance Optimization Techniques** | Includes pipelining, branch prediction, out-of-order execution, and superscalar execution for system efficiency. | [View Folder](./Performance)  |
-| **🧩 Multicore and Parallel Architectures** | Overview of multicore CPUs, SIMD, MIMD architectures, parallel processing, and GPU architecture. | [View Folder](./Multicore_Parallel) |
-| **🔍 Advanced System Architectures** | Focuses on modern computing models like System-on-Chip (SoC), embedded systems, RTOS, and special-purpose computing. | [View Folder](./Advanced_Architectures) |
-| **🔮 Future & Emerging Trends**     | Examines neuromorphic computing, AI accelerators, and quantum computing as the future of architecture. | [View Folder](./Future_Trends)      |
-| **🔲 VLSI Design**                  | Covers the design and fabrication of integrated circuits with millions of transistors, key to modern computing systems, including digital, analog, and mixed-signal ICs. | [View Folder](./VLSI)        |
+Welcome to the **Computer Systems** repository! 🎉  
+This collection demonstrates various concepts and projects related to **Computer Systems**, including **processor design**, **memory systems**, **instruction set architectures (ISA)**, and more. The aim is to help understand the fundamental components that make up modern computing systems.
+
+Each folder contains:
+
+✅ A brief explanation of the concept or circuit  
+✅ Diagrams and illustrations  
+✅ Simulation or practical implementation (where applicable)  
+
+---
+
+## ⚡ Quick Links to Each Project
+
+| ⚙️ Project/Concept                      | 📜 Description                                                                  | 🔗 Link                                              |
+|-----------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
+| **🖥️ Fundamentals of Computer Systems**  | Introduction to basic computing concepts, system components, and architecture  | [View Folder](.//Fundamentals)       |
+| **🧠 Processor Design & Datapath**       | Detailed explanation of CPU components such as ALU, control units, and registers | [View Folder](./Processor)   |
+| **🧮 Instruction Set Architecture (ISA)**| Explanation of instruction formats, addressing modes, and RISC vs. CISC          | [View Folder](./ISA)                |
+| **💾 Memory Hierarchy & Cache Systems**  | Covers cache memory (L1/L2/L3), paging, segmentation, and virtual memory        | [View Folder](./Memory_Hierarchy)   |
+| **🧰 Bus Architecture & Data Transfers** | Explores data, address, and control buses, along with DMA and bus arbitration    | [View Folder](.//Bus)   |
+| **🖧 Input/Output (I/O) and Interrupts** | How computers handle external inputs and outputs, interrupt handling, and polling| [View Folder](./IO)      |
+| **📈 Performance Optimization**          | Pipelining, branch prediction, and techniques for optimizing system performance  | [View Folder](./Performance)  |
+| **🧩 Multicore and Parallel Architectures**| Overview of multicore CPUs, SIMD, MIMD architectures, and GPU architecture      | [View Folder](./Multicore_Parallel) |
+| **🔍 Advanced System Architectures**     | Focus on modern computing models like SoC, embedded systems, and special-purpose computing | [View Folder](./Advanced_Architectures) |
+| **🔮 Future & Emerging Trends**          | Explores neuromorphic computing, AI accelerators, and quantum computing         | [View Folder](./Future_Trends)      |
+| **🔲 VLSI Design**                       | Design and fabrication of integrated circuits, including digital and analog ICs | [View Folder](./VLSI)        |
+
+---
+
