@@ -97,6 +97,7 @@ This section covers the essential components and concepts related to computer sy
 | **🧩 Multicore and Parallel Architectures** | Overview of multicore CPUs, SIMD, MIMD architectures, parallel processing, and GPU architecture. | [View Folder](./Computer_Systems/Multicore_Parallel) |
 | **🔍 Advanced System Architectures** | Focuses on modern computing models like System-on-Chip (SoC), embedded systems, RTOS, and special-purpose computing. | [View Folder](./Computer_Systems/Advanced_Architectures) |
 | **🔮 Future & Emerging Trends**     | Examines neuromorphic computing, AI accelerators, and quantum computing as the future of architecture. | [View Folder](./Computer_Systems/Future_Trends)      |
+| **🔲 VLSI Design**                  | Covers the design and fabrication of integrated circuits with millions of transistors, key to modern computing systems, including digital, analog, and mixed-signal ICs. | [View Folder](./Computer_Systems/VLSI_Design)        |
 
 
 ## 🌐 Why This Repository Exists  
