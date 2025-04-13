@@ -31,7 +31,7 @@ PLDs are essential in **hardware prototyping**, **glue logic**, **state machine 
 | Easy to understand and program | Limited complexity and scalability |
 | Fast and reliable for small designs | One-time programmable (usually) |
 
-**👉 [More On PAL](../Comm_Prot)**  
+**👉 [More On PAL](https://www.tutorialspoint.com/digital-electronics/programmable-logic-array.htm)**  
 ---
 
 ### 2️⃣ **GAL (Generic Array Logic)**
@@ -53,7 +53,7 @@ PLDs are essential in **hardware prototyping**, **glue logic**, **state machine 
 | Electrically erasable and reusable | Still limited in design complexity |
 | Compatible with PAL designs    | Less common today than CPLDs/FPGAs |
 
-**👉 [More On GAL](../Comm_Prot)**  
+**👉 [More On GAL](https://circuitreset.com/what-is-a-gal-device/)**  
 ---
 
 
@@ -77,7 +77,7 @@ PLDs are essential in **hardware prototyping**, **glue logic**, **state machine 
 | Non-volatile (instant-on)       | Less flexible than FPGAs       |
 | Deterministic timing            | Moderate complexity designs only |
 
-**👉 [More On CPLD](../Comm_Prot)**  
+**👉 [More On CPLD](https://www.electricaleasy.com/2023/09/complex-programmable-logic-device-cpld.html)**  
 ---
 
 
@@ -103,7 +103,7 @@ PLDs are essential in **hardware prototyping**, **glue logic**, **state machine 
 | Parallelism for speed-up        | Volatile – needs external configuration |
 | Supports softcore processors    | Higher power consumption        |
 
-**👉 [More On FPGA](../Comm_Prot)**  
+**👉 [More On FPGA](https://orthogone.com/fr/ressources/introduction-a-la-conception-fpga-architecture-programmation-et-outils/)**  
 ---
 
 ## 🧠 Key Concepts
