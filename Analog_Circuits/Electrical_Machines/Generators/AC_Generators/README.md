@@ -39,7 +39,7 @@ AC generators are used in power plants, renewable energy systems, and backup pow
 | Stable frequency output          | Requires synchronization with the grid |
 | High efficiency at large scales  | Requires complex control systems |
 
-👉 [More on Synchronous AC Generator](https://www.electronics-tutorials.ws/generator/ac-generator.html)
+👉 [More on Synchronous AC Generator](https://us.baritam.click/sweeps20/)
 
 ---
 
@@ -62,32 +62,10 @@ AC generators are used in power plants, renewable energy systems, and backup pow
 | Simple construction              | Less stable voltage output      |
 | Can operate at varying speeds    | Requires reactive power from the grid |
 
-👉 [More on Asynchronous AC Generator](https://www.electronics-tutorials.ws/generator/ac-generator.html)
+👉 [More on Asynchronous AC Generator](https://www.electricaleasy.com/2014/12/induction-generator-working.html)
 
 ---
 
-### 3️⃣ **Portable AC Generators**
-
-> Compact, self-contained generators designed for temporary or emergency use, providing electricity for a limited set of appliances.
-
-- ⚙️ **How it works**:  
-  Typically powered by small engines, portable AC generators use a rotating armature to generate electrical power, which is then used to power various tools or household appliances.
-
-- 📡 **Applications**:  
-  - Construction sites  
-  - Backup power for homes  
-  - Outdoor events and camping
-
-- ⚖️ **Pros and Cons**:
-
-| ✅ Pros                           | ❌ Cons                          |
-|----------------------------------|----------------------------------|
-| Easy to transport and set up    | Limited power output            |
-| Ideal for emergency situations  | Can be noisy and inefficient at higher loads |
-
-👉 [More on Portable AC Generator](https://www.electronics-tutorials.ws/generator/ac-generator.html)
-
----
 
 ## 🧠 Key Concepts
 
@@ -106,7 +84,7 @@ AC generators are used in power plants, renewable energy systems, and backup pow
 |-----------------------------|-----------------------|------------------------|------------------------|
 | Synchronous AC Generator    | High                  | High                   | Very high              |
 | Asynchronous AC Generator   | Variable              | Unstable under varying loads | Moderate              |
-| Portable AC Generator       | Stable under load     | Moderate               | Low to moderate        |
+
 
 ---
 
