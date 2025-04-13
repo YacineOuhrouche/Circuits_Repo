@@ -94,28 +94,6 @@ This architecture is commonly used in specialized systems that require high perf
 
 ---
 
-## ⚖️ Pros and Cons of Computer Systems
-
-| ✅ Advantages                                 | ❌ Limitations                                      |
-|---------------------------------------------|----------------------------------------------------|
-| Wide applicability across different fields   | Can be complex and costly in design                |
-| Support for high-performance computation     | Limited by the Von Neumann bottleneck (shared memory) |
-| Flexibility in programming and development   | Memory hierarchy issues can lead to slower processing speeds |
-| Scalability and expansion in modern systems  | May require large amounts of power and cooling in high-performance systems |
-
----
-
-## 📚 Key Concepts
-
-| 🔑 Term                         | 📖 Description                                                          |
-|----------------------------------|-------------------------------------------------------------------------|
-| **CPU**                          | Central unit that performs instructions and manages system operations.  |
-| **Von Neumann Architecture**     | A single memory architecture for data and instructions.                 |
-| **Harvard Architecture**         | Architecture with separate memory for instructions and data.            |
-| **Memory Hierarchy**             | Layered approach to memory management, from fast but small (cache) to large but slower (HDD/SSD). |
-| **I/O Systems**                  | Systems that manage communication between the computer and external devices. |
-
----
 
 ## 🔚 Conclusion
 
@@ -126,4 +104,4 @@ This foundational knowledge is essential for diving deeper into more advanced to
 ---
 
 ## 🔹 NEXT  
-**👉[Processor Design & Datapath](../Processor)**
+**👉[Processor Design](../Processor)**
