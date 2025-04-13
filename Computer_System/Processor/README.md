@@ -20,6 +20,8 @@ This foundational understanding is essential for mastering computer architecture
 - 🏁 **General-Purpose Registers**: Temporarily store data for processing.
 - 🚩 **Status Register / Flags**: Hold condition codes (zero, carry, overflow, etc.).
 
+**👉 [More on Registers](https://www.totalphase.com/blog/2023/05/what-is-register-in-cpu-how-does-it-work/#:~:text=Registers%20are%20a%20type%20of,bit%20sequence%20or%20individual%20characters).)**
+
 ---
 
 ### ➕ **Arithmetic Logic Unit (ALU)**
@@ -28,6 +30,8 @@ This foundational understanding is essential for mastering computer architecture
 - ➗ **Arithmetic Operations**: Addition, subtraction, multiplication, division.
 - 🔣 **Logic Operations**: AND, OR, NOT, XOR.
 - 🔁 **Shifts & Comparisons**: Bitwise shifts, magnitude comparisons.
+  
+**👉 [More on ALU](https://www.spiceworks.com/tech/hardware/articles/what-is-alu/)**
 
 ---
 
@@ -37,6 +41,8 @@ This foundational understanding is essential for mastering computer architecture
 - 🧾 **Fetches instructions** from memory.
 - 🧠 **Decodes** instructions to determine operations.
 - 🎯 **Controls** ALU, registers, and memory access.
+  
+**👉 [More on CU](https://byjus.com/gate/control-unit-notes/#:~:text=A%20control%20unit%2C%20or%20CU,respond%20to%20the%20program's%20instructions.)**
 
 ---
 
@@ -48,7 +54,7 @@ This foundational understanding is essential for mastering computer architecture
 - 📶 **Transfers** data during each clock cycle.
 - ⛓️ **Can be single-cycle, multi-cycle, or pipelined**.
 
----
+
 
 ## 🔄 Instruction Execution Cycle
 
@@ -69,6 +75,8 @@ This foundational understanding is essential for mastering computer architecture
 | **Single-Cycle**     | Each instruction is completed in one clock cycle. Simple but inefficient.     |
 | **Multi-Cycle**      | Breaks instructions into multiple steps, reducing hardware duplication.       |
 | **Pipelined**        | Overlaps execution of multiple instructions for improved performance.         |
+
+**👉 [More on Datapath](https://www.jaroeducation.com/blog/data-path-design-in-computer-architecture/)**
 
 ---
 
