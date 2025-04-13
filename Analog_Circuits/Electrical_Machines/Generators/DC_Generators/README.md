@@ -38,7 +38,6 @@ DC generators are used in a variety of applications, such as battery charging, p
 | Stable and adjustable output voltage | Requires external power for excitation |
 | High efficiency in controlled applications | More complex than self-excited types |
 
-👉 [More on Separately Excited DC Generator](https://www.electronics-tutorials.ws/generator/dc-generator.html)
 
 ---
 
@@ -60,8 +59,6 @@ DC generators are used in a variety of applications, such as battery charging, p
 | Simple design and construction  | Less voltage control compared to separately excited generators |
 | Self-excited, no external power needed | Voltage can fluctuate with load changes |
 
-👉 [More on Self-Excited DC Generator](https://www.electronics-tutorials.ws/generator/dc-generator.html)
-
 ---
 
 ### 3️⃣ **Shunt-Wound DC Generator**
@@ -82,7 +79,6 @@ DC generators are used in a variety of applications, such as battery charging, p
 | Provides stable voltage under load | Sensitive to load variations    |
 | Simple construction and low cost | Less efficient at high loads    |
 
-👉 [More on Shunt-Wound DC Generator](https://www.electronics-tutorials.ws/generator/dc-generator.html)
 
 ---
 
@@ -103,8 +99,6 @@ DC generators are used in a variety of applications, such as battery charging, p
 |----------------------------------|----------------------------------|
 | High voltage at low loads       | Voltage can fluctuate greatly under load changes |
 | Simple design                   | Less stable for constant voltage applications |
-
-👉 [More on Series-Wound DC Generator](https://www.electronics-tutorials.ws/generator/dc-generator.html)
 
 ---
 
@@ -127,7 +121,6 @@ DC generators are used in a variety of applications, such as battery charging, p
 | Stable voltage across a wide range of loads | More complex and expensive to manufacture |
 | Combines the advantages of series and shunt types | May require more maintenance |
 
-👉 [More on Compound-Wound DC Generator](https://www.electronics-tutorials.ws/generator/dc-generator.html)
 
 ---
 
