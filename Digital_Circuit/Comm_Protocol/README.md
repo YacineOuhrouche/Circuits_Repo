@@ -143,4 +143,6 @@ Communication protocols like **UART**, **SPI**, **I²C**, and **CAN** define how
 
 Digital communication protocols are essential for interfacing microcontrollers with external peripherals. Whether you need **simplicity (UART)**, **speed (SPI)**, **multi-device capability (I²C)**, or **robustness (CAN)**, there is a protocol designed for your system’s needs. Mastery of these protocols is crucial in embedded systems and digital electronics.
 
+## 🔹 NEXT  
+**👉[Fundentals of Computer System](../../Computer_System/Fundamentals)**
 
