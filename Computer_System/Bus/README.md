@@ -62,6 +62,8 @@
 | **Burst Mode**   | Transfers large blocks of data without interruption |
 | **Cycle Stealing**| CPU is momentarily paused to allow DMA access      |
 
+**👉 [More on DMA](https://www.spiceworks.com/tech/hardware/articles/direct-memory-access/)**
+
 ---
 
 ## ⚖️ Bus Arbitration Techniques
@@ -98,17 +100,6 @@
 | **Bus Speed**      | Higher clock speed = faster data transfer                |
 | **Transaction Overlap** | Pipelining enables multiple operations concurrently |
 | **Contention**     | Too many devices requesting access can cause bottlenecks|
-
----
-
-## 🧪 Example Applications
-
-| Application                     | Relevance of Bus Architecture                     |
-|----------------------------------|--------------------------------------------------|
-| **Hard Disk Controllers**       | Use DMA to transfer large data blocks            |
-| **Graphics Cards (GPUs)**       | Require high-bandwidth buses for real-time rendering |
-| **Microcontrollers (MCUs)**     | Utilize shared bus systems to interface with sensors |
-| **Embedded Systems**            | Bus efficiency impacts power and performance     |
 
 ---
 
