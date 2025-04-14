@@ -25,6 +25,6 @@ Each folder contains:
 | **🧩 Multicore and Parallel Architectures**| Overview of multicore CPUs, SIMD, MIMD architectures, and GPU architecture      | [View Folder](./Multicore_Parallel) |
 | **🔍 Advanced System Architectures**      | Focus on modern computing models like SoC, embedded systems, and special-purpose computing | [View Folder](./Advanced_Architectures) |
 | **🔲 VLSI Design**                        | Design and fabrication of integrated circuits, including digital and analog ICs | [View Folder](./VLSI)        |
-| **🧩 Chip Design, Manufacturing & Packaging** | Covers the process of chip design, semiconductor manufacturing, and packaging techniques | [View Folder](./Chip_Design) |
+
 
 ---
