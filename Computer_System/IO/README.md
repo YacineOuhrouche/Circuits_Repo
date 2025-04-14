@@ -31,6 +31,8 @@
 - ❌ Wastes CPU cycles when waiting.
 - ✅ Simple to implement.
 
+**👉 [More on Polling](https://en.wikipedia.org/wiki/Programmed_input%E2%80%93output)**
+
 #### **Interrupt-Driven I/O**
 
 > Devices notify the CPU when they are ready, allowing asynchronous operations.
@@ -39,6 +41,7 @@
 - ✅ More efficient CPU usage.
 - ✅ Better for multitasking systems.
 
+**👉 [More on it](https://inputoutput5822.weebly.com/interrupt-driven-io.html)**
 #### **Direct Memory Access (DMA)**
 
 > A DMA controller transfers data directly between memory and I/O devices without CPU intervention.
@@ -75,6 +78,8 @@
 |---------------------|--------------------------|-----------------------------------|
 | **Hardware**         | External device signal   | Keyboard key press, timer signal |
 | **Software**         | System call or trap      | Division by zero, syscall         |
+
+**👉 [More on Interrupts](https://en.wikipedia.org/wiki/Interrupt)**
 
 ---
 
