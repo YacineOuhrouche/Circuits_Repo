@@ -26,6 +26,8 @@ As computing systems evolve, advanced architectures like **System-on-Chip (SoC)*
 | I/O Interfaces | UART, SPI, I2C, USB, GPIO, etc.            |
 | Peripherals    | Camera, audio, wireless, timers, etc.      |
 
+**👉 [More on SoC](../Computer_Security_Virtualization)**
+
 ---
 
 ### 2️⃣ **Embedded Systems**
@@ -43,6 +45,9 @@ As computing systems evolve, advanced architectures like **System-on-Chip (SoC)*
 | Networked             | Smart thermostats, IoT sensors       |
 | Mobile Embedded       | Smartphones, tablets                 |
 
+**👉 [More on Embedded System](https://en.wikipedia.org/wiki/Embedded_system)**
+
+
 ---
 
 ### 3️⃣ **Real-Time Operating System (RTOS)**
@@ -59,6 +64,9 @@ As computing systems evolve, advanced architectures like **System-on-Chip (SoC)*
 | **Determinism**     | Predictable response times                 |
 | **Low Latency**     | Fast interrupt handling and task switching |
 | **Task Management** | Multitasking with priorities               |
+
+**👉 [More on Embedded System](https://www.lenovo.com/ca/en/glossary/real-time-operating-system/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoobk1pOgjdQddyoExUmJ0G0DbWFWrTHWDzOTg_lzU4NrZ6ApyAn)**
+
 
 ---
 
@@ -98,4 +106,4 @@ Advanced system architectures focus on **integration, specialization, and respon
 ---
 
 ## 🔹 NEXT  
-**👉 [VLSI Design](../Computer_Security_Virtualization)**
+**👉 [VLSI Design Fundamentals](../VLSI/Fundamentals)**
