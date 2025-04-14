@@ -40,6 +40,8 @@ Modern processors use several **performance optimization techniques** to increas
 | Increased instruction throughput | Pipeline hazards (data, control) |
 | Efficient resource usage     | Requires complex control logic |
 
+**👉 [More on Pipelining](https://www.elprocus.com/pipelining-architecture-hazards-advantages-disadvantages/)**
+
 ---
 
 ### 2️⃣ **Branch Prediction**
@@ -59,6 +61,8 @@ Modern processors use several **performance optimization techniques** to increas
 | Static           | Hardcoded assumptions      | Low      | Low        |
 | Dynamic          | Uses branch history tables | High     | High       |
 
+**👉 [More on Branch Prediction](https://en.wikipedia.org/wiki/Branch_predictor)**
+
 ---
 
 ### 3️⃣ **Out-of-Order Execution**
@@ -73,6 +77,8 @@ Modern processors use several **performance optimization techniques** to increas
 | Improves parallelism and utilization     | Complex instruction scheduling     |
 | Reduces execution stalls                 | Requires register renaming and reorder buffer |
 
+**👉 [More on Out-of-Order Execution](https://60sec.site/terms/what-is-oooe-in-computing-out-of-order-execution)**
+
 ---
 
 ### 4️⃣ **Superscalar Execution**
@@ -82,10 +88,12 @@ Modern processors use several **performance optimization techniques** to increas
 - 📊 Parallel execution of independent instructions.
 - 🎯 Must identify instruction-level parallelism (ILP).
 
-| Architecture Type   | Description                               | Example CPU Families       |
-|---------------------|-------------------------------------------|----------------------------|
-| Scalar              | One instruction per cycle                 | Early RISC processors      |
-| Superscalar         | Multiple instructions per cycle           | Intel Core, AMD Ryzen      |
+| Architecture Type   | Description                               |
+|---------------------|-------------------------------------------|
+| Scalar              | One instruction per cycle                 | 
+| Superscalar         | Multiple instructions per cycle           | 
+
+**👉 [More on Superscalar](https://www.elprocus.com/superscalar-processor/)**
 
 ---
 
@@ -96,6 +104,7 @@ Modern processors use several **performance optimization techniques** to increas
 | **Data Hazard**     | Instruction depends on result of previous | Forwarding, stalling       |
 | **Control Hazard**  | Caused by branch/jump instructions        | Branch prediction           |
 | **Structural Hazard** | Conflict in hardware resource usage     | Resource duplication        |
+
 
 ---
 
