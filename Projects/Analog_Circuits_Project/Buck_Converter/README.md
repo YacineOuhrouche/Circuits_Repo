@@ -11,7 +11,7 @@ The design uses key components such as an **inductor**, **diode**, **capacitor**
 Before building this circuit, it’s helpful to have a basic understanding of:
 - **Inductors & Capacitors**
 - **555 timer**
-- **[DC-DC Converter](../../Analog_Circuits/Power_Electronics/DCDC_Converter)**
+- **[DC-DC Converter](../../../Notes/Analog_Circuits/Power_Electronics/DCDC_Converter)**
 
 ---
 
