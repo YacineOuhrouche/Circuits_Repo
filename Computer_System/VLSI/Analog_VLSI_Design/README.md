@@ -10,31 +10,6 @@ Analog VLSI design is crucial in various applications including **sensor interfa
 
 ---
 
-## 🔧 Key Components of Analog VLSI Design
-
-### 1️⃣ **Operational Amplifiers (Op-Amps)**
-
-> Op-Amps are the foundational building blocks in analog VLSI. They are used in a variety of circuits such as amplifiers, filters, and comparators.
-
-**👉 [More on Op-Amps](https://www.electronics-tutorials.ws/amplifier/op-amp.html)**
-
----
-
-### 2️⃣ **Filters**
-
-> Filters are used to modify or remove unwanted frequency components from a signal. Common types include **low-pass**, **high-pass**, **band-pass**, and **band-stop filters**.
-
-**👉 [More on Filters](https://www.electronics-tutorials.ws/filter/filter.html)**
-
----
-
-### 3️⃣ **Oscillators**
-
-> Oscillators are circuits that generate periodic waveforms, often used in timing and frequency generation applications.
-
-**👉 [More on Oscillators](https://www.electronics-tutorials.ws/oscillator/oscillator.html)**
-
----
 
 ## ⚙️ Key Design Considerations
 
