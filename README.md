@@ -85,21 +85,18 @@ My notes about the basics and advanced concepts of digital circuits, covering lo
 #### 🔗 3️⃣ **Computer Systems**
 This section covers the essential components and concepts related to computer systems, from hardware to software, and how they interact in various computing environments.
 
-| ⚙️ Topic                            | 📜 Description                                                                 | 🔗 Link                                              |
-|-------------------------------------|-----------------------------------------------------------------------------|-----------------------------------------------------|
-| **📚 Fundamentals of Computer Systems** | Introduction to basic computing concepts, system components, and the Von Neumann vs. Harvard architectures. | [View Folder](./Computer_System/Fundamentals)       |
-| **🧮 Processor Design & Datapath**  | Covers CPU internal components such as ALU, control units, registers, and how instructions are fetched and executed. | [View Folder](./Computer_System/Processor)   |
-| **🧠 Instruction Set Architecture (ISA)** | Explains instruction formats, types, addressing modes, and RISC vs. CISC instruction philosophies. | [View Folder](./Computer_System/ISA)                |
-| **💾 Memory Hierarchy & Cache Systems** | Details cache memory (L1/L2/L3), paging, segmentation, virtual memory, and memory mapping techniques. | [View Folder](./Computer_System/Memory_Hierarchy)   |
-| **🧰 Bus Architecture & Data Transfers** | Explores data, address, and control buses, along with DMA, bus arbitration, and throughput concepts. | [View Folder](./Computer_System/Bus)   |
-| **🖧 Input/Output (I/O) and Interrupts** | Discusses how computers handle external inputs and outputs, interrupt handling, polling, and context switching. | [View Folder](./Computer_System/IO)      |
-| **📈 Performance Optimization Techniques** | Includes pipelining, branch prediction, out-of-order execution, and superscalar execution for system efficiency. | [View Folder](./Computer_System/Performance)  |
-| **🧩 Multicore and Parallel Architectures** | Overview of multicore CPUs, SIMD, MIMD architectures, parallel processing, and GPU architecture. | [View Folder](./Computer_System/Multicore_Parallel) |
-| **🔍 Advanced System Architectures** | Focuses on modern computing models like System-on-Chip (SoC), embedded systems, RTOS, and special-purpose computing. | [View Folder](./Computer_System/Advanced_Architectures) |
-| **🔲 VLSI Design**                  | Covers the design and fabrication of integrated circuits with millions of transistors, key to modern computing systems, including digital, analog, and mixed-signal ICs. | [View Folder](./Computer_System/VLSI) 
-| **🧩 Chip Design, Manufacturing & Packaging** | Covers the process of chip design, semiconductor manufacturing, and packaging techniques | [View Folder](./Computer_System/Chip_Design) |
-|
-
+| ⚙️ Concept                        | 📜 Description                                                                  | 🔗 Link                                              |
+|-------------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
+| **🖥️ Fundamentals of Computer Systems**   | Introduction to basic computing concepts, system components, and architecture  | [View Folder](./Computer_System/Fundamentals)       |
+| **🧠 Processor Design & Datapath**        | Detailed explanation of CPU components such as ALU, control units, and registers | [View Folder](./Computer_System/Processor)   |
+| **🧮 Instruction Set Architecture (ISA)** | Explanation of instruction formats, addressing modes, and RISC vs. CISC          | [View Folder](./Computer_System/ISA)                |
+| **💾 Memory Hierarchy & Cache Systems**   | Covers cache memory (L1/L2/L3), paging, segmentation, and virtual memory        | [View Folder](./Computer_System/Memory_Hierarchy)   |
+| **🧰 Bus Architecture & Data Transfers**  | Explores data, address, and control buses, along with DMA and bus arbitration    | [View Folder](./Computer_System/Bus)   |
+| **🖧 Input/Output (I/O) and Interrupts**  | How computers handle external inputs and outputs, interrupt handling, and polling| [View Folder](./Computer_System/IO)      |
+| **📈 Performance Optimization**           | Pipelining, branch prediction, and techniques for optimizing system performance  | [View Folder](./Computer_System/Performance)  |
+| **🧩 Multicore and Parallel Architectures**| Overview of multicore CPUs, SIMD, MIMD architectures, and GPU architecture      | [View Folder](./Computer_System/Multicore_Parallel) |
+| **🔍 Advanced System Architectures**      | Focus on modern computing models like SoC, embedded systems, and special-purpose computing | [View Folder](./Computer_System/Advanced_Architectures) |
+| **🔲 VLSI Design**                        | Design and fabrication of integrated circuits, including digital and analog ICs | [View Folder](./Computer_System/VLSI)        |
 
 ## 🌐 Why This Repository Exists  
 This repository serves as:  
