@@ -74,12 +74,12 @@ My notes about the basics and advanced concepts of digital circuits, covering lo
 
 | ⚙️ Circuit / Concept             | 📜 Description                                                                   | 🔗 Link                                              |
 |----------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------|
-| **💡 Logic Gate**                | Performs logical operations on binary inputs                                     | [View Folder](./Digital_Circuit/Logic_Gates)        |
-| **🔲 Combinational Circuit**     | Circuit whose output depends only on the present input                           | [View Folder](./Digital_Circuit/Combinational_Circuit) |
-| **🔁 Sequential Circuit**        | Circuit whose output depends on both present inputs and past states              | [View Folder](./Digital_Circuit/Sequential_Circuit) |
-| **🧠 Memory Circuit**            | Circuit designed to store data, typically using flip-flops or registers          | [View Folder](./Digital_Circuit/Memory_Circuit)     |
-| **🧩 Programmable Logic Devices**| Includes PAL, GAL, CPLD, and FPGA – used for customizable logic design          | [View Folder](./Digital_Circuit/PLD)                |
-| **🔗 Communication System**      | Digital communication protocols like UART, SPI, I²C, and CAN                     | [View Folder](./Digital_Circuit/Comm_Protocol) |
+| **💡 Logic Gate**                | Performs logical operations on binary inputs                                     | [View Folder](./Notes/Digital_Circuit/Logic_Gates)        |
+| **🔲 Combinational Circuit**     | Circuit whose output depends only on the present input                           | [View Folder](./Notes/Digital_Circuit/Combinational_Circuit) |
+| **🔁 Sequential Circuit**        | Circuit whose output depends on both present inputs and past states              | [View Folder](./Notes/Digital_Circuit/Sequential_Circuit) |
+| **🧠 Memory Circuit**            | Circuit designed to store data, typically using flip-flops or registers          | [View Folder](./Notes/Digital_Circuit/Memory_Circuit)     |
+| **🧩 Programmable Logic Devices**| Includes PAL, GAL, CPLD, and FPGA – used for customizable logic design          | [View Folder](./Notes/Digital_Circuit/PLD)                |
+| **🔗 Communication System**      | Digital communication protocols like UART, SPI, I²C, and CAN                     | [View Folder](./Notes/Digital_Circuit/Comm_Protocol) |
 
 ---
 #### 🔗 3️⃣ **Computer Systems**
