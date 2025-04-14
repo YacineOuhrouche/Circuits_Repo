@@ -50,43 +50,8 @@ Digital VLSI powers the core of modern electronics, from **microprocessors**, **
 
 ---
 
-## 🧱 Core Digital Building Blocks
 
-### 1️⃣ Combinational Logic
 
-> Circuits whose outputs depend only on current inputs.
-
-- Logic gates: AND, OR, XOR, NAND...
-- Adders, multiplexers, encoders, decoders
-
-**👉 [Digital Logic Fundamentals](https://www.electronics-tutorials.ws/logic/combination.html)**
-
----
-
-### 2️⃣ Sequential Logic
-
-> Circuits whose outputs depend on current inputs **and** previous states.
-
-- Flip-Flops (D, T, JK), Registers, Counters
-- Finite State Machines (FSMs)
-
-**📌 Used In**: Controllers, timers, memory elements  
-**👉 [Sequential Logic Basics](https://www.tutorialspoint.com/digital_circuits/digital_circuits_sequential_circuits.htm)**
-
----
-
-### 3️⃣ Arithmetic Units
-
-> Perform mathematical operations in datapaths.
-
-- Adders: Ripple carry, carry-lookahead, CLA
-- Multipliers: Booth, Wallace Tree
-- ALUs (Arithmetic Logic Units)
-
-**📌 Used In**: CPUs, DSPs, GPUs  
-**👉 [Digital Arithmetic Design](https://www.digikey.com/en/articles/arithmetic-circuits-in-digital-logic)**
-
----
 
 ## 🧠 Design Methodologies
 
