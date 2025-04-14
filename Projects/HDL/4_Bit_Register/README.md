@@ -72,4 +72,4 @@ module register_4bit (
 endmodule
 ```
 ## 🔹 NEXT  
-**👉[Small Signal Amplifier](../../Analog_Circuits/Analog_Basic/Small_Signal_Amplifier)**
+**👉[Small Signal Amplifier](../../../Notes/Analog_Circuits/Analog_Basic/Small_Signal_Amplifier)**
