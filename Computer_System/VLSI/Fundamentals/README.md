@@ -17,7 +17,7 @@ This section introduces the **foundational concepts**, design methodologies, and
 - 🧬 Introduced in the **1970s**, enabling the development of **microprocessors**, **memory chips**, and **digital signal processors**.
 - 🧠 Led to the creation of compact, fast, and efficient electronic devices such as smartphones, laptops, and embedded systems.
 
-**👉 [More on VLSI](https://www.geeksforgeeks.org/introduction-to-vlsi/)**
+**👉 [More on VLSI](https://www.maven-silicon.com/blog/what-is-vlsi/)**
 
 ---
 
@@ -38,6 +38,8 @@ This section introduces the **foundational concepts**, design methodologies, and
 - ⚡ **Sub-threshold leakage**
 - 🧬 **Quantum effects at nanoscale**
 
+**👉 [More on Moore's Law](https://en.wikipedia.org/wiki/Moore%27s_law)**
+
 ---
 
 ## 🧱 Types of ICs in VLSI
@@ -51,9 +53,6 @@ This section introduces the **foundational concepts**, design methodologies, and
 | **Power ICs**    | Manage power regulation and conversion (PFC, buck, LDOs).      |
 
 ---
-## 🏁 Overview of IC Design
-
-The integrated circuit (IC) design process involves both **logic** and **physical** design. It transforms high-level specifications into functional silicon chips.
 
 ### 🧭 IC Design Flow:
 
@@ -65,6 +64,7 @@ The integrated circuit (IC) design process involves both **logic** and **physica
 6. 🔬 **Timing, Power, and Signal Integrity Analysis**  
 7. 🧪 **Fabrication and Testing**
 
+**👉 [More on  it](https://www.synopsys.com/glossary/what-is-ic-design.html)**
 ---
 
 
@@ -79,18 +79,6 @@ Designing chips involves moving across **layers of abstraction** — from logic 
 | **Gate Level**          | Netlist of logic gates produced after synthesis.            |
 | **Transistor Level**    | CMOS gates composed of PMOS/NMOS transistors.               |
 | **Layout/Physical Level** | Actual geometric placement of transistors and wires.     |
-
----
-
-## 🧮 Key Design Domains
-
-### 🧠 **Digital Design**
-> Creation of logic using flip-flops, gates, FSMs, datapaths, and HDL-based modeling.
-
-- ✅ Synchronous vs Asynchronous Design
-- ✅ Combinational & Sequential Logic
-- ✅ Finite State Machines (FSMs)
-- ✅ RTL Modeling using Verilog/VHDL
 
 ---
 
