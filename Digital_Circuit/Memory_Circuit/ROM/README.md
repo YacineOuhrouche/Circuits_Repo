@@ -94,3 +94,5 @@ Each type has unique features, uses, and benefits, as detailed below.
 **ROM** circuits are crucial for **non-volatile data storage**, providing permanent or semi-permanent storage solutions for firmware and other data in modern digital systems. Whether it's **PROM**, **EPROM**, **EEPROM**, or **Flash Memory**, each type of **ROM** serves a unique role in ensuring data retention, easy updates, and efficient storage. Understanding **ROM circuits** is essential for designing devices that require **firmware storage**, **boot processes**, and **data retention**.
 
 
+## 🔹 NEXT  
+**👉[Programmable Logic Devices](../../PLD)**
