@@ -8,9 +8,9 @@ An **Up/Down Counter** can increment (count up) or decrement (count down) its va
 ## 📌 Prerequisites
 
 Before building this circuit, you should be familiar with:
-- **[Logic Gates](../../Digital_Circuit/Logic_Gates)**
-- **[Flip-Flops](../../Digital_Circuit/Sequential_Circuit/FlipFlop)**
-- **[Binary Counters](../../Digital_Circuit/Sequential_Circuit/Counter)**
+- **[Logic Gates](../../../Notes/Digital_Circuit/Logic_Gates)**
+- **[Flip-Flops](../../../Notes/Digital_Circuit/Sequential_Circuit/FlipFlop)**
+- **[Binary Counters](../../../Notes/Digital_Circuit/Sequential_Circuit/Counter)**
 
 
 
