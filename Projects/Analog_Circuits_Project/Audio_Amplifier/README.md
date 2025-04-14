@@ -9,8 +9,8 @@ This design consists of **two cascaded common-emitter (CE) amplifier stages** to
 
 Before building this circuit, you should be familiar with:
 
-- **[Small Signal Amplifier](../../BJT_Circuits/Small_Signal_Amplifier)**
-- **[Power Amplifier](../../BJT_Circuits/Power_Amplifier)**
+- **[Small Signal Amplifier](../../../Notes/Analog_Circuits/Analog_Basic/Small_Signal_Amplifier)**
+- **[Power Amplifier](../../../Notes/Analog_Circuits/Analog_Basic/Small_Signal_Amplifier)**
 
 ## How the Signal is Amplified ⚡
 In a **two-stage common-emitter amplifier**, the signal undergoes two amplification stages:
