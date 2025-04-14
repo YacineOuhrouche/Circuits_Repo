@@ -82,6 +82,8 @@ Understanding fabrication is crucial in **VLSI**, **CMOS technology**, and **IC 
 - **Vias** connect different metal layers vertically.
 - Uses damascene or dual-damascene processes.
 
+**👉 [More on Wafer Fabrication](https://intech-technologies.com/what-are-the-processes-involved-in-wafer-fabrication/)**
+
 ---
 
 ### 9️⃣ 🧳 Packaging
