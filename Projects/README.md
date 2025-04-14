@@ -6,9 +6,9 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 | ⚙️ Circuit            | 📜 Description                                                                  | 🔗 Link                                              |
 |--------------------|------------------------------------------------------------------------------|---------------------------------------------------|
 | **🔋 Buck Converter**  | A **12V to 5V switching voltage regulator** circuit | [View Folder](./Analog_Circuits_Project/Buck_Converter) |
-| **🔌 Linear Regulator**    | A **5V linear voltage regulator** using a 7805 IC         | [View Folder](./Circuits_Projects/Voltage_Regulator)  |
-| **🎵 Audio Amplifier** | Two-Stage Class A Audio Amplifier | [View Folder](./Circuits_Projects/Audio_Amplifier) |
-| **💡 LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation | [View Folder](./Circuits_Projects/LED_Flasher/)       |
+| **🔌 Linear Regulator**    | A **5V linear voltage regulator** using a 7805 IC         | [View Folder](./Analog_Circuits_Project/Voltage_Regulator)  |
+| **🎵 Audio Amplifier** | Two-Stage Class A Audio Amplifier | [View Folder](./Analog_Circuits_Project/Audio_Amplifier) |
+| **💡 LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation | [View Folder](./Analog_Circuits_Project/LED_Flasher/)       |
 
 #### 🔗 2️⃣ Digital Circuit Projects 
 | ⚙️ Circuit                     | 📜 Description                                                                   | 🔗 Link                                              |
@@ -34,4 +34,7 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 | **🧮 4-Bit ALU** | Capable of performing arithmetic and logic | [View Circuit](./HDL/4_Bit_ALU/) |
 | **🗄 4-Bit Register** | Storing a 4-bit binary value | [View Circuit](./HDL/4_bit_register/) |
 
+---
+## 🔹 NEXT  
+**👉[Notes](../Notes)**
 ---
