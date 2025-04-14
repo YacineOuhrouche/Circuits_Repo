@@ -3,11 +3,6 @@
 Welcome to the **Computer Systems** repository! 🎉  
 This collection demonstrates various concepts and projects related to **Computer Systems**, including **processor design**, **memory systems**, **instruction set architectures (ISA)**, and more. The aim is to help understand the fundamental components that make up modern computing systems.
 
-Each folder contains:
-
-✅ A brief explanation of the concept or circuit  
-✅ Diagrams and illustrations  
-✅ Simulation or practical implementation (where applicable)  
 
 ---
 
