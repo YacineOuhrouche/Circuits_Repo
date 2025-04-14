@@ -8,9 +8,9 @@ The circuit allows you to send data serially, one bit at a time, and retrieve it
 ## 📌 Prerequisites
 
 Before building this circuit, you should be familiar with:
-- **[Logic Gates](../../Digital_Circuit/Logic_Gates)**
-- **[Flip-Flops](../../Digital_Circuit/Sequential_Circuit/FlipFlop)**
-- **[Shift Registers](../../Digital_Circuit/Sequential_Circuit/Register)**
+- **[Logic Gates](../../../Notes/Digital_Circuit/Logic_Gates)**
+- **[Flip-Flops](../../../Notes/Digital_Circuit/Sequential_Circuit/FlipFlop)**
+- **[Shift Registers](../../../Notes/Digital_Circuit/Sequential_Circuit/Register)**
 
 
 
