@@ -9,9 +9,9 @@ In this project, we will use **four full adders** connected in series, known as 
 
 ## 📌 Prerequisites
 Before building this circuit, it’s helpful to have a basic understanding of:
-- **[Logic Gates](../../Digital_Circuit/Logic_Gates)**
+- **[Logic Gates](../../../Notes/Digital_Circuit/Logic_Gates)**
 - **Binary Arithmetic**
-- **[Full Adders](../../Digital_Circuit/Combinational_Circuit/+_-)**
+- **[Full Adders](../../../Notes/Digital_Circuit/Combinational_Circuit/+_-)**
 
 
 
@@ -73,4 +73,4 @@ The **4-bit binary adder** is a foundational circuit that demonstrates the core 
 - 📉 Add support for **signed numbers**.
 
 ## 🔹 NEXT  
-**👉 [CMOS SRAM Cell](../../CMOS_Circuits/SRAM)**
+**👉 [CMOS SRAM Cell](../CMOS_Circuits/SRAM)**
