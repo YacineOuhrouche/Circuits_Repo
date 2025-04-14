@@ -5,7 +5,7 @@ These are the circuits I have designed, simulated, and worked on as part of my p
 #### 🔗 1️⃣ Analog Circuit Projects  
 | ⚙️ Circuit            | 📜 Description                                                                  | 🔗 Link                                              |
 |--------------------|------------------------------------------------------------------------------|---------------------------------------------------|
-| **🔋 Buck Converter**  | A **12V to 5V switching voltage regulator** circuit | [View Folder](./Circuits_Projects/Buck_Converter) |
+| **🔋 Buck Converter**  | A **12V to 5V switching voltage regulator** circuit | [View Folder](./Analog_Circuits_Project/Buck_Converter) |
 | **🔌 Linear Regulator**    | A **5V linear voltage regulator** using a 7805 IC         | [View Folder](./Circuits_Projects/Voltage_Regulator)  |
 | **🎵 Audio Amplifier** | Two-Stage Class A Audio Amplifier | [View Folder](./Circuits_Projects/Audio_Amplifier) |
 | **💡 LED Flasher**     | Alternating flashing LEDs using **BJTs** for timing and oscillation | [View Folder](./Circuits_Projects/LED_Flasher/)       |
