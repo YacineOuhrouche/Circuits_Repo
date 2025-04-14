@@ -37,6 +37,8 @@ This section covers key parallel paradigms like **multicore CPUs**, **SIMD/MIMD*
 | 6–16 cores | High-end desktops, servers     | Parallel workload performance |
 | 32+ cores  | Workstations, cloud servers    | High concurrency              |
 
+**👉 [ More on Multicore](https://www.lenovo.com/ca/en/glossary/multicore-processor/?orgRef=https%253A%252F%252Fwww.google.com%252F&srsltid=AfmBOoqYx2oQ31lY6T3zxSNI9jtIlnRyiU9bbyN3Qhj_BU-CgsgGG-WM)**
+
 ---
 
 ### 2️⃣ **SIMD (Single Instruction, Multiple Data)**
@@ -52,6 +54,8 @@ This section covers key parallel paradigms like **multicore CPUs**, **SIMD/MIMD*
 | **Data Streams**  | Multiple parallel data values                  |
 | **Use Cases**     | Multimedia, signal processing, graphics        |
 
+**👉 [More on SIMD](https://celerdata.com/glossary/single-instruction-multiple-data-simd)**
+
 ---
 
 ### 3️⃣ **MIMD (Multiple Instruction, Multiple Data)**
@@ -66,6 +70,8 @@ This section covers key parallel paradigms like **multicore CPUs**, **SIMD/MIMD*
 | **Instruction**   | Independent per processing unit                 |
 | **Data Streams**  | Independent datasets                           |
 | **Use Cases**     | Servers, supercomputers, general-purpose CPUs  |
+
+**👉 [More on MIMD](https://en.wikipedia.org/wiki/Multiple_instruction,_multiple_data)**
 
 ---
 
@@ -92,6 +98,8 @@ This section covers key parallel paradigms like **multicore CPUs**, **SIMD/MIMD*
 | Core Count           | Few high-performance cores     | Many low-power parallel cores |
 | Task Type            | General-purpose tasks          | Parallel/data-intensive tasks |
 | Instruction Model    | MIMD                          | SIMD/VLIW                     |
+
+**👉 [More on GPU Architecture](https://thechipletter.substack.com/p/demystifying-gpu-compute-architectures)**
 
 ---
 
