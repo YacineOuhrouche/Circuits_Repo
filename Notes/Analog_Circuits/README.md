@@ -47,7 +47,7 @@ This collection demonstrates how to build **basic analog circuits** using compon
 
 | ⚙️ Circuit              | 📜 Description                                                                  | 🔗 Link                                      |
 |------------------------|----------------------------------------------------------------------------------|---------------------------------------------|
-| **📡 Antenna**         | Converts electrical signals into radio waves or vice versa                      | [View Folder](.RF_Communication//Signal_Interface/Antenna)                    |
+| **📡 Antenna**         | Converts electrical signals into radio waves or vice versa                      | [View Folder](./RF_Communication//Signal_Interface/Antenna)                    |
 | **📡 Impedance Matching** | Matches impedance between circuit and antenna to maximize power transfer        | [View Folder](./RF_Communication/Signal_Interface/Impedance_Matching)         |
 | **🌀 Balun**            | Converts between balanced and unbalanced signals, often used at RF front-ends   | [View Folder](./RF_Communication/Signal_Interface/Balun)                      |
 | **📉 RF Attenuator**               | Reduces signal strength for testing or safe receiver input                      | [View Folder](./RF_Communication/Signal_Conditioning/RF_Attenuator)         |
