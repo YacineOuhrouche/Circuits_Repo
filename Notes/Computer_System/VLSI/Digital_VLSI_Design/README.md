@@ -140,4 +140,4 @@ Digital VLSI powers the core of modern electronics, from **microprocessors**, **
 ---
 
 ## 🔹 NEXT  
-**👉 [TIming and Power Analysis](../Analog_VLSI_Design)**
+**👉 [TIming and Power Analysis](../Timing_Power_Analysis)**
