@@ -19,10 +19,6 @@ The main benefits of **3D ICs** include higher **interconnect density**, **short
 - **High-Speed Communication**: Vertical connections enable high-bandwidth data transfer between stacked layers.
 - **Reduced Latency**: Signals travel through shorter distances, improving overall speed.
 - **Heterogeneous Integration**: Integrating different components like memory and logic on the same chip leads to optimized performance.
-
-**📌 Used In**: High-performance computing, AI accelerators, mobile devices.  
-**👉 [3D ICs and Performance](https://www.eetimes.com/3d-ics-the-promise-and-the-challenges/)**
-
 ---
 
 ### 2️⃣ **Lower Power Consumption**
@@ -33,9 +29,6 @@ The main benefits of **3D ICs** include higher **interconnect density**, **short
 - **Improved Thermal Management**: Thermal dissipation can be better managed with the right design, reducing power-related losses.
 - **Active Power Gating**: Parts of the stack can be turned off when not in use to save power.
 
-**📌 Used In**: Mobile devices, wearable technology, energy-efficient computing.  
-**👉 [Power Efficiency in 3D ICs](https://www.nature.com/articles/s41586-019-0970-6)**
-
 ---
 
 ### 3️⃣ **Smaller Form Factor**
@@ -44,10 +37,6 @@ The main benefits of **3D ICs** include higher **interconnect density**, **short
 
 - **Increased Functionality**: Multiple logic and memory layers stacked together enable more functionality in less space.
 - **Compact Chip Designs**: Smaller and lighter devices with better performance.
-
-**📌 Used In**: Smartphones, tablets, wearables, portable electronics.  
-**👉 [Advantages of 3D ICs in Mobile Devices](https://www.3dincites.com/2021/07/why-3d-ics-are-the-future-of-mobile-devices/)**
-
 ---
 
 ## ⚙️ Key Techniques in 3D IC Design
@@ -195,4 +184,4 @@ While challenges such as **thermal management** and **manufacturing complexity**
 ---
 
 ## 🔹 NEXT  
-**👉 [Explore 3D IC Design Challenges](../Design_Challenges)**
+**👉 [Explore Analog VLSI Design](../Analog_VLSI_Design)**
