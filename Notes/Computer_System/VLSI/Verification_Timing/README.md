@@ -23,14 +23,6 @@
   - **Simulation-Based Verification**: Involves running simulations with testbenches written in hardware description languages (HDLs) like **Verilog** or **VHDL**.
   - **Assertion-Based Verification**: Uses assertions (formal properties) embedded in the design to check for specific conditions during simulation.
 
-- **Popular Tools**:
-  - **Cadence Incisive**: Used for simulation-based and formal verification.
-  - **Mentor Graphics Questa**: A tool for advanced simulation and verification tasks.
-  - **Synopsys VCS**: A high-performance simulation tool for functional verification.
-
-**📌 Used In**: Functional correctness, logic verification, error detection.  
-**👉 [Functional Verification Overview](https://www.synopsys.com/verification/fv.html)**
-
 ---
 
 ### 2️⃣ **Timing Analysis**
@@ -47,14 +39,6 @@
   - **Hold Time**: The time after the clock edge during which the input signal must remain stable.
   - **Clock Skew**: The difference in arrival times of the clock signal at different parts of the circuit.
 
-- **Popular Tools**:
-  - **Synopsys PrimeTime**: A comprehensive tool for performing static timing analysis.
-  - **Cadence Tempus**: Used for timing sign-off and optimization in advanced designs.
-  - **Mentor Graphics Tessent**: Focuses on timing analysis, including test insertion and power analysis.
-
-**📌 Used In**: Timing verification, clock design, delay analysis.  
-**👉 [Static Timing Analysis Explained](https://www.synopsys.com/implementation-and-signoff/signoff/static-timing-analysis.html)**
-
 ---
 
 ## 🧠 Advanced Verification & Timing Topics
@@ -68,13 +52,6 @@
   - **Model Checking**: Verifies that certain properties (e.g., no deadlocks or unsafe states) hold for all possible inputs.
   - **Safety and Liveness Checks**: Ensures that the design does not enter a deadlock state and that certain critical operations are guaranteed to eventually occur.
 
-- **Popular Tools**:
-  - **Cadence JasperGold**: Offers advanced formal verification techniques for logic verification.
-  - **Synopsys VC Formal**: Provides tools for verifying complex designs through formal methods.
-
-**📌 Used In**: Proving correctness, detecting bugs early, logic equivalence checking.  
-**👉 [Formal Verification Overview](https://www.cadence.com/en_US/home/tools/system-design-and-verification/formal-verification.html)**
-
 ---
 
 ### 2️⃣ **Clock Domain Crossing (CDC) Verification**
@@ -85,15 +62,6 @@
   - **Identifying Async Signals**: Detecting signals that cross between different clock domains.
   - **Synchronizers**: Verifying that proper synchronizers are used to prevent timing violations.
   - **FIFO Validation**: Ensuring that FIFO buffers used in clock domain crossings are correctly implemented.
-
-- **Popular Tools**:
-  - **Synopsys Design Compiler**: Includes CDC analysis features during synthesis.
-  - **Cadence SimVision**: Supports CDC verification during simulation.
-  - **Mentor Graphics Questa CDC**: Provides a complete CDC verification solution.
-
-**📌 Used In**: Multi-clock designs, synchronous systems, clock crossing issues.  
-**👉 [CDC Verification Overview](https://www.cadence.com/en_US/home/tools/system-design-and-verification/cdc-verification.html)**
-
 ---
 
 ## 🔧 Optimization Techniques
@@ -107,8 +75,6 @@
   - **Path Balancing**: Ensuring that timing paths are balanced to meet setup and hold times.
   - **Pacing & Skew Control**: Optimizing clock distribution to reduce skew and achieve better performance.
 
-**📌 Used In**: High-performance designs, clock optimization, timing sign-off.  
-**👉 [Timing Closure Techniques](https://www.synopsys.com/implementation-and-signoff/timing-closure.html)**
 
 ---
 
@@ -121,9 +87,6 @@
   - **Clock Gating**: Disabling unnecessary clocks to reduce power consumption during idle periods.
   - **Dynamic Voltage and Frequency Scaling (DVFS)**: Adjusting the power supply and clock frequency to balance power and performance.
 
-**📌 Used In**: Low-power designs, mobile and battery-operated devices.  
-**👉 [Power Optimization Overview](https://www.synopsys.com/designware-ip/power-optimization.html)**
-
 ---
 
 ## 🔚 Conclusion
@@ -135,4 +98,4 @@ By using tools like **PrimeTime**, **VCS**, and **SimVision**, engineers can ide
 ---
 
 ## 🔹 NEXT  
-**👉 [Explore EDA Tools](../EDA_Tools)**
+**👉 [Explore Design For Testibility](../DFT)**
