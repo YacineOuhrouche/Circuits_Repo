@@ -11,7 +11,6 @@ This collection explores the foundational principles and real-world applications
 
 | 🧠 Concept Category              | 📜 Description                                                                                                        | 🔗 Link                                       |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| **📘 Fundamental Concepts**      | Introduction to signals, systems, energy vs power, time & frequency domains, and LTI system behavior.                | [View Folder](./Fundamentals)                |
 | **🎵 Types of Signals**          | Covers analog vs digital, periodic vs aperiodic, deterministic vs random signals and their characteristics.           | [View Folder](./Signals)                     |
 | **🔧 Types of Systems**          | Describes continuous vs discrete systems, FIR vs IIR filters, and system properties like causality and stability.     | [View Folder](./Systems)                     |
 | **🔄 Transform Techniques**      | Explains Fourier series & transform, Laplace, Z-transform, DFT & FFT for signal analysis.                             | [View Folder](./Transforms)                  |
