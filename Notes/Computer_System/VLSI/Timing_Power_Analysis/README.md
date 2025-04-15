@@ -18,8 +18,6 @@
 - **Hold Time**: The minimum time after the clock edge that data must remain stable.
 - **Critical Path**: The longest delay path in the circuit, determining the maximum achievable clock frequency.
 
-**📌 Used In**: High-speed circuits, microprocessors, memory controllers.  
-**👉 [Timing Analysis Guide](https://www.synopsys.com/designware-timing-analysis.html)**
 
 ---
 
@@ -30,8 +28,6 @@
 - **Tools**: Synopsys **PrimeTime**, Cadence **Tempus**
 - **Checks**: Setup/hold time violations, clock skew, signal integrity
 
-**📌 Used In**: All performance-critical chips, including SoCs and FPGA designs.  
-**👉 [STA Overview](https://www.synopsys.com/designware-timing-analysis.html)**
 
 ---
 
@@ -57,8 +53,6 @@
   - \( I_{leak} \): Leakage current
   - \( V \): Supply voltage
 
-**📌 Used In**: Mobile devices, energy-efficient chips, embedded systems.  
-**👉 [Power Optimization Guide](https://www.synopsys.com/designware-power-analysis.html)**
 
 ---
 
@@ -71,9 +65,6 @@
 - Techniques: **Balanced tree structure**, **clock gating**, **buffer insertion**
 - Tools: Synopsys **PrimeTime**, Cadence **Innovus**
 
-**📌 Used In**: High-performance chips with multi-core processors, GPUs.  
-**👉 [CTS Techniques](https://www.synopsys.com/designware-timing-analysis.html)**
-
 ---
 
 ### 2️⃣ **Power Gating**
@@ -83,9 +74,7 @@
 - Techniques: **Sleep transistors**, **multi-threshold CMOS** (Multi-Vt)
 - Tools: Synopsys **PrimeTime PX**, Cadence **Voltus**
 
-**📌 Used In**: Power-sensitive designs like wearables, mobile devices.  
-**👉 [Power Gating Explained](https://www.analog.com/en/technical-articles/power-gating-for-low-power-ic-design.html)**
-
+ 
 ---
 
 ### 3️⃣ **Dynamic Voltage and Frequency Scaling (DVFS)**
@@ -95,8 +84,6 @@
 - Techniques: **Adaptive voltage scaling**, **clock frequency scaling**
 - **Uses**: Energy-efficient operation in mobile devices, laptops, and servers.
 
-**📌 Used In**: Energy-efficient systems, mobile applications, IoT chips.  
-**👉 [DVFS Techniques](https://www.eetimes.com/dynamic-voltage-and-frequency-scaling-dvfs-in-power-optimization/)**
 
 ---
 
