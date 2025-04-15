@@ -20,9 +20,6 @@ Unlike digital circuits, analog designs are sensitive to **noise**, **parasitics
 - 🌡️ **Sub-threshold operation** for ultra-low power.
 - ⚡ **Low-voltage design** with reliable headroom.
 
-**📌 Used In**: Medical devices, wearables, low-power sensors.  
-**👉 [Low Power Analog Design](https://www.edn.com/low-power-design-steps-for-analog-circuits/)**
-
 ---
 
 ### 2️⃣ Noise & Distortion
@@ -34,23 +31,6 @@ Unlike digital circuits, analog designs are sensitive to **noise**, **parasitics
 - 🔄 **Differential design** to reject common-mode noise.
 
 **📌 Used In**: Audio systems, precision ADCs, RF receivers.  
-**👉 [Op-Amp Noise Explained](https://www.analog.com/en/technical-articles/understanding-op-amp-noise.html)**
-
----
-
-### 3️⃣ CMOS vs Bipolar
-
-> Technology choice impacts **gain**, **speed**, and **power**.
-
-| Feature         | CMOS                             | Bipolar                          |
-|-----------------|----------------------------------|----------------------------------|
-| Power           | Very low                         | Moderate to high                 |
-| Gain            | Moderate                         | High                             |
-| Speed           | Good for low-mid freq            | Excellent for high-speed apps    |
-| Integration     | High (mixed-signal friendly)     | Limited (mostly analog)          |
-
-**📌 CMOS** is dominant in modern analog VLSI.  
-**👉 [CMOS vs BJT](https://www.electronics-tutorials.ws/transistor/bjt-vs-cmos.html)**
 
 ---
 
@@ -66,7 +46,6 @@ Unlike digital circuits, analog designs are sensitive to **noise**, **parasitics
 - Requires careful **noise isolation** and **layout partitioning**.
 
 **📌 Used In**: Smartphones, audio codecs, sensor ICs.  
-**👉 [Mixed-Signal Design Overview](https://www.eetimes.com/mixed-signal-circuit-design/)**
 
 ---
 
@@ -79,19 +58,6 @@ Unlike digital circuits, analog designs are sensitive to **noise**, **parasitics
 - 📐 **Common centroid layouts** for differential pairs.
 
 **📌 Used In**: Precision analog, high-speed RF.  
-**👉 [Analog Layout Tips](https://www.analog.com/en/technical-articles/layout-tips-for-analog-and-mixed-signal-designs.html)**
-
----
-
-## 📦 Packaging & Parasitics
-
-> Packaging influences performance due to **parasitic capacitance, inductance**, and **thermal resistance**.
-
-- Use of **QFN**, **BGA**, or **flip-chip** for high-speed and analog-digital integration.
-- Package modeling is essential during simulation.
-
-**📌 Important For**: RF ICs, high-speed analog, mixed-signal SoCs.  
-**👉 [IC Packaging for Analog Circuits](https://www.analog.com/en/analog-dialogue/articles/ic-package-effects-on-high-speed-analog-designs.html)**
 
 ---
 
