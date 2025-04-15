@@ -95,4 +95,4 @@ EDA tools are essential for modern **VLSI design** and **chip development**. The
 ---
 
 ## 🔹 NEXT  
-**👉 [Explore Verification and Timing Analysis](../Verification_Timing)**
+**👉 [Explore Timing and Power Analysis](../Timing_Power_Analysis)**
