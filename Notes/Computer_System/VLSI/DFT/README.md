@@ -19,7 +19,6 @@
 - **Boundary Scan**: Involves testing the pins of the device by providing access to the signals at the device’s I/O boundary.
 - **JTAG (Joint Test Action Group)**: A standard for testing digital devices, often used in boundary scan to test connections and internal signals.
 - **Automated Test Pattern Generation (ATPG)**: Ensures efficient test coverage by automatically generating test vectors.
-- **Memory Built-In Self-Test (MBIST)**: A specialized form of BIST for embedded memory testing.
 
 ---
 
@@ -38,8 +37,6 @@
 - **Boundary Scan (JTAG)**:
   - Allows external testing of the chip’s boundary pins and is useful for detecting issues like open or shorted connections in the PCB.
 
-**📌 Used In**: Manufacturing testing, fault detection, diagnostic tools.  
-**👉 [DFT Overview and Techniques](https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/tools/ic-package-design-and-analysis/design-for-testability-dft.pdf)**
 
 ---
 
@@ -57,9 +54,6 @@
   - **Fault Coverage**: Measures how many types of faults the test patterns can detect.
   - **Path Delay Coverage**: Ensures that critical timing paths are tested for delay faults.
 
-**📌 Used In**: Ensuring high test quality, fault detection, reliability.  
-**👉 [Understanding Fault Models](https://www.analog.com/en/technical-articles/design-for-testability-dft.html)**
-
 ---
 
 ## 🧠 **Advanced DFT Topics**
@@ -73,12 +67,7 @@
   - **Scan Enable**: A control signal used to switch between normal operation and scan mode.
   - **Shift Registers**: Enable the shifting of test patterns into and out of the scan chains.
 
-- **Tools**:
-  - **Synopsys Design Compiler**: Used for scan insertion and optimization.
-  - **Cadence Genus**: Tool for scan chain implementation and testability analysis.
-
-**📌 Used In**: Full-chip testing, logic verification.  
-**👉 [Scan Insertion in DFT](https://www.synopsys.com/design-implementation/dft.html)**
+**👉 [Scan Insertion in DFT](https://vlsiuniverse.blogspot.com/2013/07/scan-chains-backbone-of-dft.html)**
 
 ---
 
@@ -95,8 +84,7 @@
   - Can be used in-field for diagnostic purposes.
   - Useful for chips with embedded memory or complex logic.
 
-**📌 Used In**: Autonomous testing, memory testing, embedded systems.  
-**👉 [BIST Overview](https://www.mentor.com/products/fv/formal-verification/built-in-self-test-bist)**
+**👉 [BIST Overview](https://chipedge.com/built-in-self-test-in-vlsi-ensuring-quality/#:~:text=Built%2Din%20self%2Dtest%20is,complex%20procedures%20to%20identify%20issues.)**
 
 ---
 
@@ -112,38 +100,11 @@
   - **In-System Testing**: Ensures that the chip works in the context of the system.
   - **PCB Testing**: Verifies that the board is correctly assembled and that the connections are intact.
 
-**📌 Used In**: PCB testing, interconnection verification, fault isolation.  
-**👉 [JTAG and Boundary Scan](https://www.xilinx.com/products/technology/jtag.html)**
+  
+**👉 [JTAG and Boundary Scan](https://en.wikipedia.org/wiki/Boundary_scan)**
 
 ---
 
-## 🔧 **DFT Optimization Techniques**
-
-### 1️⃣ **Test Pattern Generation Optimization**
-
-> Optimizing the test patterns helps reduce the testing time while maintaining high fault coverage.
-
-- **Techniques**:
-  - **Automatic Test Pattern Generation (ATPG)**: Algorithms used to generate test vectors that maximize fault detection.
-  - **Compression**: Reduces the amount of test data needed by compressing test patterns.
-
-**📌 Used In**: Test pattern generation, test data compression.  
-**👉 [Test Pattern Optimization](https://www.synopsys.com/designware-ip/test-pattern-generation.html)**
-
----
-
-### 2️⃣ **Design for Low Power Testability**
-
-> Ensuring that testability does not negatively impact the power consumption of the chip.
-
-- **Techniques**:
-  - **Power-Aware Scan Insertion**: Optimizing scan chain design for low power consumption.
-  - **Test Power Minimization**: Using power gating and clock gating techniques during testing.
-
-**📌 Used In**: Low-power designs, mobile devices, IoT applications.  
-**👉 [Low Power Testability Techniques](https://www.cadence.com/en_US/home/tools/system-design-and-verification/low-power-design.html)**
-
----
 
 
 ## 🔚 **Conclusion**
