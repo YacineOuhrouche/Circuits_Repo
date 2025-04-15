@@ -28,6 +28,7 @@
 - **Tools**: Synopsys **PrimeTime**, Cadence **Tempus**
 - **Checks**: Setup/hold time violations, clock skew, signal integrity
 
+**👉 [More on STA](https://www.synopsys.com/glossary/what-is-static-timing-analysis.html#:~:text=Definition,possible%20paths%20for%20timing%20violations.)**
 
 ---
 
@@ -53,51 +54,10 @@
   - \( I_{leak} \): Leakage current
   - \( V \): Supply voltage
 
+**👉 [More on Power Analysis](https://mantravlsi.blogspot.com/2014/07/power-analysis-in-vlsi-chip-dynamic.html#google_vignette)**
 
 ---
 
-## 🧠 **Analysis Methodologies**
-
-### 1️⃣ **Clock Tree Synthesis (CTS)**
-
-> Optimizing the clock network to minimize clock skew and balance timing across the chip.
-
-- Techniques: **Balanced tree structure**, **clock gating**, **buffer insertion**
-- Tools: Synopsys **PrimeTime**, Cadence **Innovus**
-
----
-
-### 2️⃣ **Power Gating**
-
-> Power gating allows parts of the chip to be turned off when not in use to save power.
-
-- Techniques: **Sleep transistors**, **multi-threshold CMOS** (Multi-Vt)
-- Tools: Synopsys **PrimeTime PX**, Cadence **Voltus**
-
- 
----
-
-### 3️⃣ **Dynamic Voltage and Frequency Scaling (DVFS)**
-
-> Adjusting the operating voltage and frequency based on workload to reduce power consumption.
-
-- Techniques: **Adaptive voltage scaling**, **clock frequency scaling**
-- **Uses**: Energy-efficient operation in mobile devices, laptops, and servers.
-
-
----
-
-## 🧰 **Tools for Timing and Power Analysis**
-
-| Stage                  | Tool Examples                                  |
-|------------------------|------------------------------------------------|
-| **Timing Analysis**     | Synopsys PrimeTime, Cadence Tempus             |
-| **Power Analysis**      | Synopsys Power Compiler, Cadence Voltus        |
-| **Clock Tree Synthesis**| Synopsys IC Compiler, Cadence Innovus          |
-| **Power Gating**        | Synopsys PrimeTime PX, Cadence Voltus          |
-| **DVFS**                | ARM **Big.LITTLE**, Intel **SpeedStep**        |
-
----
 
 ## 🔚 **Conclusion**
 
