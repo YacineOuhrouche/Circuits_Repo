@@ -145,19 +145,6 @@
 
 ---
 
-### 3️⃣ **DFT for FPGA and ASIC Designs**
-
-> DFT techniques are used to improve the testability of both FPGA and ASIC designs.
-
-- **FPGA DFT**:
-  - Incorporates specialized DFT techniques to ensure efficient testing and debugging of FPGA-based designs.
-  
-- **ASIC DFT**:
-  - Tailored for complex ASIC designs, ensuring that embedded testability features can be accessed during the manufacturing process.
-
-**📌 Used In**: FPGA design, ASIC testing, system-on-chip (SoC) testing.
-
----
 
 ## 🔚 **Conclusion**
 
