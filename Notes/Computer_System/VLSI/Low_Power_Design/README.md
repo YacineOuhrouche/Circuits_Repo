@@ -114,4 +114,4 @@ Low power design techniques are vital for meeting the energy demands of modern e
 ---
 
 ## 🔹 NEXT  
-**👉 [Explore EDA Tools](../EDA_Tools)**
+**👉 [Explore Verification and Timing Analysis](../Verification_Timing)**
