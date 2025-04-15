@@ -22,8 +22,7 @@ This section explores key strategies such as **dynamic voltage scaling (DVS)**, 
   - **Multi-threshold CMOS (MTCMOS)** for fine-grained control.
 - **Advantages**: Significant reduction in power consumption without a large performance penalty.
   
-**📌 Used In**: Smartphones, laptops, energy-efficient processors.  
-**👉 [Dynamic Voltage Scaling Overview](https://www.tescaglobal.com/dynamic-voltage-scaling/)**
+**👉 [Dynamic Voltage Scaling Overview](https://resources.system-analysis.cadence.com/blog/msa2021-how-dynamic-voltage-and-frequency-scaling-affects-power-consumption)**
 
 ---
 
@@ -36,9 +35,8 @@ This section explores key strategies such as **dynamic voltage scaling (DVS)**, 
   - **Pre-clock gating**: Insert control logic to turn off the clock to unused registers.
   - **Post-clock gating**: Disable the clock after signal propagation.
 - **Advantages**: Reduces dynamic power consumption by eliminating unnecessary toggles.
-
-**📌 Used In**: Microprocessors, FPGA design, embedded systems.  
-**👉 [Clock Gating Techniques](https://www.analog.com/en/technical-articles/clock-gating-for-power-management-in-cmos-logic.html)**
+ 
+**👉 [Clock Gating Techniques](https://anysilicon.com/the-ultimate-guide-to-clock-gating/)**
 
 ---
 
@@ -52,8 +50,7 @@ This section explores key strategies such as **dynamic voltage scaling (DVS)**, 
   - Implement **multi-power domain** designs where each block has an independent power domain.
 - **Advantages**: Drastically reduces static power consumption, especially during idle periods.
 
-**📌 Used In**: Low-power processors, mobile devices, and IoT systems.  
-**👉 [Power Gating Overview](https://www.synopsys.com/designware-ip/low-power/power-gating.html)**
+**👉 [Power Gating Overview](https://anysilicon.com/power-gating/)**
 
 ---
 
@@ -67,8 +64,7 @@ This section explores key strategies such as **dynamic voltage scaling (DVS)**, 
   - **Dual-Vth design** to achieve a balance between speed and power.
 - **Advantages**: Optimizes power consumption while maintaining required performance.
 
-**📌 Used In**: High-performance processors, custom ASICs.  
-**👉 [MTCMOS Power Optimization](https://www.eetimes.com/multithreshold-cmos-the-key-to-low-power-design/)**
+**👉 [MTCMOS Power Optimization](https://asic-soc.blogspot.com/2008/04/multiple-threshold-cmos-mtcmos-circuits.html)**
 
 ---
 
@@ -82,8 +78,8 @@ This section explores key strategies such as **dynamic voltage scaling (DVS)**, 
   - **Dynamic tuning** of body bias to optimize performance and power.
 - **Advantages**: Enables fine-grained control over the trade-off between speed and power consumption.
 
-**📌 Used In**: High-performance processors, custom ASICs, mobile devices.  
-**👉 [Adaptive Body Biasing Explained](https://www.analog.com/en/technical-articles/adaptive-body-biasing-for-low-power-design.html)**
+
+**👉 [Adaptive Body Biasing Explained](https://semiengineering.com/the-value-of-adaptive-body-biasing/)**
 
 ---
 
@@ -98,9 +94,6 @@ This section explores key strategies such as **dynamic voltage scaling (DVS)**, 
   - **Core sleep modes** to turn off inactive cores.
 - **Advantages**: Efficient power management by balancing workload and selectively turning off unused cores.
 
-**📌 Used In**: Mobile processors, server processors, and high-performance computing systems.  
-**👉 [Power Management in Multi-Core Systems](https://www.eetimes.com/power-management-in-multi-core-processors/)**
-
 ---
 
 ### 2️⃣ **Low Power Design with FPGAs**
@@ -112,9 +105,6 @@ This section explores key strategies such as **dynamic voltage scaling (DVS)**, 
   - **Optimized logic synthesis** for power-efficient FPGA mapping.
 - **Advantages**: Customizable power management at the hardware level, ideal for low-power applications like wearables and IoT.
 
-**📌 Used In**: Embedded systems, IoT devices, sensor networks.  
-**👉 [Low Power FPGA Design](https://www.xilinx.com/applications/low-power-design.html)**
-
 ---
 
 ## 🔚 Conclusion
@@ -124,4 +114,4 @@ Low power design techniques are vital for meeting the energy demands of modern e
 ---
 
 ## 🔹 NEXT  
-**👉 [Explore Power and Timing Analysis](../Power_Timing_Analysis)**
+**👉 [Explore EDA Tools](../EDA_Tools)**
