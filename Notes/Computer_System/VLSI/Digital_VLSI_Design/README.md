@@ -21,7 +21,6 @@ Digital VLSI powers the core of modern electronics, from **microprocessors**, **
 - 🧠 **Critical path** analysis for frequency optimization
 
 **📌 Used In**: CPUs, DSPs, accelerators  
-**👉 [Timing Analysis Explained](https://anysilicon.com/asic-design-flow-static-timing-analysis/)**
 
 ---
 
@@ -34,7 +33,6 @@ Digital VLSI powers the core of modern electronics, from **microprocessors**, **
 - ⚙️ Techniques: **Clock gating**, **multi-Vt cells**, **power gating**
 
 **📌 Used In**: Smartphones, embedded systems, ASICs  
-**👉 [Low-Power Digital Design](https://www.eetimes.com/strategies-for-low-power-digital-design/)**
 
 ---
 
@@ -63,7 +61,6 @@ Digital VLSI powers the core of modern electronics, from **microprocessors**, **
 - Synthesized into gate-level netlists
 
 **📌 Used In**: FPGA, ASIC design flows  
-**👉 [RTL Design Guide](https://www.chipverify.com/rtl/rtl-design)**
 
 ---
 
@@ -74,7 +71,6 @@ Digital VLSI powers the core of modern electronics, from **microprocessors**, **
 - Tools: Synopsys Design Compiler, Cadence Genus
 - Optimization for **area**, **timing**, and **power**
 
-**👉 [Logic Synthesis Basics](https://www.ics.uci.edu/~jmoorkan/vlsi/documents/synthesis_intro.pdf)**
 
 ---
 
@@ -97,7 +93,6 @@ Digital VLSI powers the core of modern electronics, from **microprocessors**, **
 - Includes: **Floorplanning**, **Placement**, **Clock Tree Synthesis (CTS)**, **Routing**
 - Must consider **congestion**, **IR drop**, **EM violations**
 
-**👉 [PnR Flow Explained](https://www.vlsisystemdesign.com/vlsi-physical-design-flow/)**
 
 ---
 
@@ -111,7 +106,6 @@ Digital VLSI powers the core of modern electronics, from **microprocessors**, **
 - Testbenches, assertions, code coverage
 
 **📌 Used In**: All VLSI projects  
-**👉 [Verification Techniques](https://www.eetimes.com/verification-of-vlsi-designs/)**
 
 ---
 
@@ -123,7 +117,6 @@ Digital VLSI powers the core of modern electronics, from **microprocessors**, **
 - Fault models: Stuck-at, transition, bridging faults
 
 **📌 Used In**: Mass production, yield analysis  
-**👉 [Design for Test Overview](https://www.testandverification.com/dft-design-for-testability/)**
 
 ---
 
@@ -147,4 +140,4 @@ Digital VLSI powers the core of modern electronics, from **microprocessors**, **
 ---
 
 ## 🔹 NEXT  
-**👉 [Explore Analog VLSI Design](../Analog_VLSI_Design)**
+**👉 [TIming and Power Analysis](../Analog_VLSI_Design)**
