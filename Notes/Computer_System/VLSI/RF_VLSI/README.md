@@ -37,6 +37,16 @@ RF VLSI design plays a crucial role in ensuring high-performance, low-power, and
 - **Techniques**: **Dynamic voltage scaling (DVS)**, **power gating**, **low-power transistors**.
 - **Optimizations**: Reducing power consumption without compromising performance.
 
+###  **RF Layout Techniques**  
+> Layout impacts circuit performance at high frequencies.
+
+| Technique        | Purpose                          |
+|------------------|----------------------------------|
+| Symmetry         | Minimizes phase mismatch         |
+| Guard Rings      | Reduces digital noise coupling   |
+| Substrate Shielding | Suppresses cross-talk         |
+🔗 [RFIC Layout Guidelines](https://resources.pcb.cadence.com/blog/2023-rf-cmos-layout-guidelines)
+
 ---
 
 ## 🧠 Advanced RF Design Topics
