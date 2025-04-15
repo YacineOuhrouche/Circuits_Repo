@@ -7,10 +7,14 @@
 In signal processing and control, **systems** transform input signals into outputs based on defined mathematical rules or physical processes. Understanding system types is fundamental to analyzing behavior, designing filters, and ensuring stability in real-world applications.
 
 This section covers system classifications such as:
-- **Continuous-Time vs Discrete-Time**
-- **FIR vs IIR Filters**
-- **System Properties** (Causality, Linearity, Stability, etc.)
-- **System Classification Summary**
+1. **Continuous-Time vs Discrete-Time**
+2. **FIR vs IIR Filters**
+3. **System Properties** (Causality, Linearity, Stability, etc.)
+4. **LTI Systems**
+5. **System Order**
+6. **Frequency Response**
+7. **Impulse/Step/Ramp Response**
+8. **System Classification Summary**
 
 ---
 
@@ -53,20 +57,63 @@ This section covers system classifications such as:
 
 ---
 
-## 🧮 System Classification Summary
+### 3️⃣ Linear Time-Invariant (LTI) Systems
 
-| Category          | System Types                                  |
-|-------------------|-----------------------------------------------|
-| Signal Domain     | Continuous-Time / Discrete-Time               |
-| Impulse Response  | FIR (Finite) / IIR (Infinite)                 |
-| Linearity         | Linear / Non-Linear                           |
-| Time Dependence   | Time-Invariant / Time-Variant                 |
-| Memory            | Memoryless / With Memory                      |
-| Causality         | Causal / Non-Causal                           |
-| Stability         | Stable / Unstable                             |
-| Invertibility     | Invertible / Non-Invertible                   |
+LTI systems are the backbone of signal processing and control analysis due to their simplicity and predictability.
+
+| Feature             | Description                                                                 |
+|---------------------|-----------------------------------------------------------------------------|
+| **Linearity**       | Superposition holds: `T(ax₁ + bx₂) = aT(x₁) + bT(x₂)`                      |
+| **Time Invariance** | Output doesn't change if input is delayed: `x(t - t₀) → y(t - t₀)`          |
+| **Why Important?**  | LTI systems support convolution, Laplace, Fourier, and Z-transform analysis |
+
+> 🔍 LTI systems make analysis tractable by transforming complex differential/difference equations into algebraic equations.
 
 ---
+
+### 4️⃣ System Order
+
+The **order** of a system refers to the highest derivative (for continuous-time) or delay (for discrete-time) in its defining equation.
+
+| Order            | Description                                | Example              |
+|------------------|--------------------------------------------|----------------------|
+| First Order      | One energy storage element                 | RC circuit           |
+| Second Order     | Two energy storage elements                | RLC circuit          |
+| Nth Order        | Higher-order dynamic systems               | Multi-stage filters  |
+
+> 📉 Higher-order systems exhibit more complex dynamic behavior.
+
+---
+
+### 5️⃣ Frequency Response Classification
+
+Systems may also be categorized by how they respond to different frequency components.
+
+| Type           | Description                            | Application Example         |
+|----------------|----------------------------------------|-----------------------------|
+| Low-pass       | Passes low frequencies, attenuates high | Audio tone control          |
+| High-pass      | Passes high frequencies                | Edge detection in images    |
+| Band-pass      | Passes a certain frequency range        | RF communication            |
+| Band-stop      | Attenuates a specific band              | Notch filter for interference|
+
+> 🧠 Frequency response is critical in filter design and system stability analysis.
+
+---
+
+### 6️⃣ Time-Domain Input Responses
+
+Understanding how systems react to standard inputs provides insight into behavior and control performance.
+
+| Input Type    | Description                    | System Analysis Usage       |
+|---------------|--------------------------------|-----------------------------|
+| **Impulse**   | Sudden spike (δ(t))            | Impulse response analysis   |
+| **Step**      | Sudden jump (u(t))             | Stability and settling time |
+| **Ramp**      | Linearly increasing input      | Tracking and lag analysis   |
+
+> 🎯 Common in simulations and control design (e.g., PID tuning).
+
+---
+
 
 ## 📦 System Examples
 
@@ -78,8 +125,11 @@ This section covers system classifications such as:
 | Non-Linear System | Diode-based rectifier                  | Power electronics             |
 | Causal System     | Digital equalizer                      | Audio processing              |
 | Stable System     | Passive filter network                 | Communication systems         |
+| Low-Pass Filter   | RC low-pass                            | Signal smoothing              |
+| Ramp Response     | Integrating amplifier                  | Motion controllers            |
 
 ---
+
 
 ## 🔚 Conclusion
 
