@@ -1,14 +1,14 @@
-# 🧩 Design for Testability (DFT)
+# 🧩 **Design for Testability (DFT)**
 
 ---
 
-## ✨ Introduction
+## ✨ **Introduction**
 
 **Design for Testability (DFT)** is a crucial methodology in VLSI design that ensures the design is easily testable after fabrication. The goal of DFT is to make it easier to detect and debug faults, ensuring that the manufactured chip operates correctly. By incorporating testability features into the design, engineers can improve the testing process, reduce the cost of manufacturing, and increase the overall reliability of the product.
 
 ---
 
-## ⚙️ Key Concepts
+## ⚙️ **Key Concepts**
 
 ### 1️⃣ **Testability Features**
 
@@ -18,6 +18,8 @@
 - **Built-In Self-Test (BIST)**: A technique that allows the chip to test itself using built-in test circuitry without external equipment.
 - **Boundary Scan**: Involves testing the pins of the device by providing access to the signals at the device’s I/O boundary.
 - **JTAG (Joint Test Action Group)**: A standard for testing digital devices, often used in boundary scan to test connections and internal signals.
+- **Automated Test Pattern Generation (ATPG)**: Ensures efficient test coverage by automatically generating test vectors.
+- **Memory Built-In Self-Test (MBIST)**: A specialized form of BIST for embedded memory testing.
 
 ---
 
@@ -60,7 +62,7 @@
 
 ---
 
-## 🧠 Advanced DFT Topics
+## 🧠 **Advanced DFT Topics**
 
 ### 1️⃣ **Scan Insertion**
 
@@ -115,7 +117,7 @@
 
 ---
 
-## 🔧 DFT Optimization Techniques
+## 🔧 **DFT Optimization Techniques**
 
 ### 1️⃣ **Test Pattern Generation Optimization**
 
@@ -143,7 +145,21 @@
 
 ---
 
-## 🔚 Conclusion
+### 3️⃣ **DFT for FPGA and ASIC Designs**
+
+> DFT techniques are used to improve the testability of both FPGA and ASIC designs.
+
+- **FPGA DFT**:
+  - Incorporates specialized DFT techniques to ensure efficient testing and debugging of FPGA-based designs.
+  
+- **ASIC DFT**:
+  - Tailored for complex ASIC designs, ensuring that embedded testability features can be accessed during the manufacturing process.
+
+**📌 Used In**: FPGA design, ASIC testing, system-on-chip (SoC) testing.
+
+---
+
+## 🔚 **Conclusion**
 
 **Design for Testability (DFT)** ensures that VLSI designs are testable, enabling easier debugging, fault detection, and validation during the manufacturing process. Incorporating testability features like **scan chains**, **BIST**, and **boundary scan** into the design improves the efficiency and reliability of the testing process, reducing manufacturing costs and enhancing product quality.
 
@@ -151,5 +167,5 @@ By leveraging DFT techniques and tools such as **Synopsys Design Compiler**, **C
 
 ---
 
-## 🔹 NEXT  
-**👉 [Explore Verification and Timing](../Verification_and_Timing)**
+## 🔹 **NEXT**  
+**👉 [Explore Physical Design](../Physical_Design)**
