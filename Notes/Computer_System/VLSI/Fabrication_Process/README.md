@@ -124,4 +124,4 @@ The **semiconductor fabrication and packaging process** is a cornerstone of the 
 ---
 
 ## 🔹 NEXT  
-**👉 [Analog VLSI Design](../Analog_VLSI_Design)**
+**👉 [EDA Tools](../EDA_Tools)**
