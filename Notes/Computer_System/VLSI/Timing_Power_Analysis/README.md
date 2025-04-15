@@ -106,4 +106,4 @@
 ---
 
 ## 🔹 **NEXT**  
-**👉 [Explore VLSI Design Methodologies](../VLSI_Design_Methodologies)**
+**👉 [Explore Low Power Design](../VLSI_Design_Methodologies)**
