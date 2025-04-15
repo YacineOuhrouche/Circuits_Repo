@@ -111,4 +111,4 @@ Understanding the **fundamentals of VLSI design** provides the foundation for cr
 ---
 
 ## 🔹 NEXT  
-**👉 [CMOS Technology](../CMOS_Technology)**
+**👉 [VLSI Design Layers](../Design_Layers)**
