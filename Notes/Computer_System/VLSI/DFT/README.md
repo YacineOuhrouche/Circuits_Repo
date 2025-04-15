@@ -19,9 +19,6 @@
 - **Boundary Scan**: Involves testing the pins of the device by providing access to the signals at the device’s I/O boundary.
 - **JTAG (Joint Test Action Group)**: A standard for testing digital devices, often used in boundary scan to test connections and internal signals.
 
-**📌 Used In**: Fault detection, debugging, manufacturing tests.  
-**👉 [Learn More About DFT](https://www.eetimes.com/design-for-test-dft-techniques-for-vlsi/)**
-
 ---
 
 ### 2️⃣ **Types of DFT Techniques**
