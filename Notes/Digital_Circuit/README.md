@@ -70,10 +70,10 @@ Each folder contains:
 #### 📡 Communication Protocols  
 | 📶 Protocol Type            | 📜 Description                                                             | 🔗 Link                                |
 |----------------------------|----------------------------------------------------------------------------|----------------------------------------|
-| **🔌 UART (Universal Asynchronous Receiver/Transmitter)** | Serial communication protocol for asynchronous transmission     | [View Folder](./Comm_Protocol)   |
-| **🔌 SPI (Serial Peripheral Interface)**                   | Synchronous protocol for short-distance communication           | [View Folder](./Comm_Protocol)    |
-| **🔌 I2C (Inter-Integrated Circuit)**                      | Synchronous, multi-device protocol using two wires               | [View Folder](./Comm_Protocol)    |
-| **🌐 CAN (Controller Area Network)**                       | Robust vehicle-bus standard designed for automotive systems      | [View Folder](./Comm_Protocol)    |
+| **🔌 UART (Universal Asynchronous Receiver/Transmitter)** | Serial communication protocol for asynchronous transmission     | [View Folder](./Communication_Protocol)   |
+| **🔌 SPI (Serial Peripheral Interface)**                   | Synchronous protocol for short-distance communication           | [View Folder](./Communication_Protocol)    |
+| **🔌 I2C (Inter-Integrated Circuit)**                      | Synchronous, multi-device protocol using two wires               | [View Folder](./Communication_Protocol)    |
+| **🌐 CAN (Controller Area Network)**                       | Robust vehicle-bus standard designed for automotive systems      | [View Folder](./Communication_Protocol)    |
 
 ---
 
