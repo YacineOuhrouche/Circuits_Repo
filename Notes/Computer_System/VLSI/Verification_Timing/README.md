@@ -64,30 +64,7 @@
   - **FIFO Validation**: Ensuring that FIFO buffers used in clock domain crossings are correctly implemented.
 ---
 
-## 🔧 Optimization Techniques
 
-### 1️⃣ **Timing Closure**
-
-> **Timing closure** refers to the process of optimizing the design to meet the required timing constraints after synthesis.
-
-- **Key Techniques**:
-  - **Gate-Level Optimization**: Adjusting gate sizes and logic for better timing performance.
-  - **Path Balancing**: Ensuring that timing paths are balanced to meet setup and hold times.
-  - **Pacing & Skew Control**: Optimizing clock distribution to reduce skew and achieve better performance.
-
-
----
-
-### 2️⃣ **Power Optimization During Verification**
-
-> **Power analysis** and **optimization** are often part of the verification process to ensure the chip operates efficiently under power constraints.
-
-- **Key Tasks**:
-  - **Power Estimation**: Estimating power consumption during simulation and verification.
-  - **Clock Gating**: Disabling unnecessary clocks to reduce power consumption during idle periods.
-  - **Dynamic Voltage and Frequency Scaling (DVFS)**: Adjusting the power supply and clock frequency to balance power and performance.
-
----
 
 ## 🔚 Conclusion
 
