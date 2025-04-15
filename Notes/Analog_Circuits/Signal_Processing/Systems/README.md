@@ -143,4 +143,4 @@ A clear understanding of system types is foundational in both theoretical design
 ---
 
 ## 🔹 NEXT  
-**👉 [Explore Signal Transformations](../Transformations)**
+**👉 [Explore Signal Transformations](../Transforms)**
