@@ -22,9 +22,6 @@ This section covers the key EDA tools used in VLSI design, categorized into diff
   - **Cadence Genus**: Provides advanced optimization and synthesis capabilities.
   - **Mentor Graphics Precision Synthesis**: Focuses on FPGA and ASIC synthesis.
 
-**📌 Used In**: ASIC design, FPGA design, RTL to gate-level transformation.  
-**👉 [Synthesis Overview](https://www.synopsys.com/designware-ip/synthesis-tools.html)**
-
 ---
 
 ### 2️⃣ **Simulation Tools**
@@ -37,9 +34,6 @@ This section covers the key EDA tools used in VLSI design, categorized into diff
   - **Cadence Xcelium**: Supports simulation for complex digital designs with high performance.
   - **Mentor Graphics Questa**: Offers advanced simulation capabilities for both functional and timing verification.
 
-**📌 Used In**: Functional verification, timing analysis, signal integrity.  
-**👉 [Simulation Overview](https://www.mentor.com/products/fv/questa)**
-
 ---
 
 ### 3️⃣ **Verification Tools**
@@ -51,9 +45,6 @@ This section covers the key EDA tools used in VLSI design, categorized into diff
   - **Cadence JasperGold**: Formal verification tool for logical equivalence checking.
   - **Synopsys VC Formal**: Provides formal verification capabilities for complex designs.
   - **Mentor Graphics Calibre**: Offers comprehensive DRC and LVS checking.
-  
-**📌 Used In**: Error detection, rule checking, logic verification.  
-**👉 [Verification Tools Overview](https://www.cadence.com/en_US/home/tools/ic-package-design-and-analysis/verification.html)**
 
 ---
 
@@ -67,9 +58,6 @@ This section covers the key EDA tools used in VLSI design, categorized into diff
   - **Synopsys IC Compiler**: Known for high-performance place and route for large designs.
   - **Mentor Graphics Olympus-SoC**: Comprehensive tool for RTL to GDSII flow with integrated place and route.
 
-**📌 Used In**: Physical design, chip layout, area optimization.  
-**👉 [Place and Route Overview](https://www.synopsys.com/designware-ip/place-and-route.html)**
-
 ---
 
 ### 5️⃣ **Layout Tools**
@@ -82,8 +70,6 @@ This section covers the key EDA tools used in VLSI design, categorized into diff
   - **Mentor Graphics Calibre**: Includes tools for both layout verification and physical verification.
   - **Synopsys IC Validator**: Provides full-chip physical verification.
 
-**📌 Used In**: Chip layout, mask design, physical verification.  
-**👉 [Layout Tools Overview](https://www.cadence.com/en_US/home/tools/ic-package-design-and-analysis/virtuoso.html)**
 
 ---
 
@@ -97,40 +83,10 @@ This section covers the key EDA tools used in VLSI design, categorized into diff
   - **Cadence Tempus**: Provides robust static timing and power analysis.
   - **Mentor Graphics PowerPro**: Power analysis and optimization for low power designs.
 
-**📌 Used In**: Timing closure, power optimization, signal integrity.  
-**👉 [Power and Timing Analysis Overview](https://www.synopsys.com/designware-ip/power-and-timing-analysis.html)**
-
 ---
 
-## 🧠 Advanced EDA Techniques
 
-### 1️⃣ **Machine Learning in EDA**
 
-> Machine learning algorithms are increasingly being integrated into EDA tools to improve design efficiency, automate time-consuming tasks, and predict design outcomes.
-
-- **Applications**:
-  - **Automated floorplanning** using ML-based algorithms.
-  - **Predictive timing analysis** using ML models.
-  - **Defect prediction and fault detection** using AI-driven tools.
-
-**📌 Used In**: Complex designs, optimization problems, predictive modeling.  
-**👉 [Machine Learning in EDA](https://www.synopsys.com/eda/ml-driven-design.html)**
-
----
-
-### 2️⃣ **Cloud-Based EDA Tools**
-
-> Cloud-based EDA tools allow for scalable computing resources and collaboration across teams. These tools are becoming increasingly popular in modern chip design workflows.
-
-- **Benefits**:
-  - **Scalability**: Handle large-scale designs with minimal local hardware.
-  - **Collaboration**: Enable global teams to work on the same project.
-  - **Cost-Effective**: Pay for only the resources you need.
-
-**📌 Used In**: Global design teams, large-scale projects.  
-**👉 [Cloud EDA Tools](https://www.synopsys.com/eda/cloud.html)**
-
----
 
 ## 🔚 Conclusion
 
@@ -139,4 +95,4 @@ EDA tools are essential for modern **VLSI design** and **chip development**. The
 ---
 
 ## 🔹 NEXT  
-**👉 [Explore Low Power Design Techniques](../Low_Power_Design_Techniques)**
+**👉 [Explore Verification and Timing Analysis](../Verification_Timing)**
