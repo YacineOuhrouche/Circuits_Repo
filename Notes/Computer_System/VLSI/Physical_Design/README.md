@@ -17,9 +17,8 @@
 - **Block Partitioning**: Dividing the design into functional blocks based on logical and electrical considerations.
 - **Aspect Ratio**: Determining the optimal dimensions for the chip or block to minimize area and wire lengths.
 - **Pin Placement**: Positioning the I/O pads and block pins for optimal routing and performance.
-
-**📌 Used In**: Optimizing space, initial placement planning, performance evaluation.  
-**👉 [Learn More About Floorplanning](https://www.synopsys.com/designware-ip/floorplanning.html)**
+ 
+**👉 [ More About Floorplanning](https://medium.com/@vlsipd4/floorplanning-in-physical-design-052e4fe2bb66#:~:text=The%20floorplanning%20aims%20to%20create,physical%20constraints%20and%20logical%20requirements.)**
 
 ---
 
@@ -31,8 +30,8 @@
 - **Wire Length Optimization**: Ensure short, direct connections between components to improve signal speed and reduce power consumption.
 - **Aspect Ratio and Density**: Balance the chip’s layout to avoid excessive area or density, which could lead to inefficiencies.
 
-**📌 Used In**: Timing optimization, area reduction, power consumption management.  
-**👉 [Placement Techniques in VLSI](https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/tools/ic-package-design-and-analysis/placement-strategies.pdf)**
+
+**👉 [Placement Techniques in VLSI](https://www.physicaldesign4u.com/2020/02/placement.html)**
 
 ---
 
@@ -45,8 +44,7 @@
 - **Wire Congestion**: Managing congestion to prevent excessive signal delay and interference.
 - **Signal Integrity**: Ensuring that the routed signals are strong and free from noise or crosstalk.
 
-**📌 Used In**: Interconnect design, signal integrity, performance improvement.  
-**👉 [Routing in VLSI](https://www.mentor.com/products/ic-packaging/routing-in-vlsi)**
+**👉 [Routing in VLSI](https://chipedge.com/what-is-routing-in-vlsi-physical-design/#:~:text=Routing%20in%20the%20VLSI%20design,%2C%20and%20I%2FO%20pins.)**
 
 ---
 
@@ -57,9 +55,6 @@
 - **Timing Optimization**: Ensuring that signals propagate through the chip within the required time constraints.
 - **Power Optimization**: Minimizing dynamic and static power dissipation through techniques such as clock gating, power gating, and voltage scaling.
 - **Area Optimization**: Reducing chip area by improving placement and routing, while minimizing resource consumption.
-
-**📌 Used In**: Power management, performance tuning, area reduction.  
-**👉 [Optimization Techniques in VLSI](https://www.synopsys.com/designware-ip/physical-design-optimization.html)**
 
 ---
 
@@ -73,8 +68,8 @@
 - **Buffer Insertion**: Add buffers to maintain clock signal integrity and reduce skew.
 - **Power-Delay Trade-off**: Balancing clock distribution efficiency with power consumption.
 
-**📌 Used In**: Timing optimization, reducing clock skew, ensuring synchronous operation.  
-**👉 [Clock Tree Synthesis Overview](https://www.cadence.com/content/dam/cadence-www/global/en_US/documents/tools/ic-package-design-and-analysis/clock-tree-synthesis-guide.pdf)**
+
+**👉 [Clock Tree Synthesis Overview](https://chipedge.com/what-is-clock-tree-synthesis/#:~:text=Clock%20Tree%20Synthesis%20is%20a,clock%20tree%20limitations%20as%20input.)**
 
 ---
 
@@ -86,8 +81,8 @@
 - **Power/Ground Noise**: Minimizing noise on the power and ground planes to ensure clean signals.
 - **Shielding**: Implementing techniques such as guard rings and shielding to protect sensitive signals from noise and interference.
 
-**📌 Used In**: High-speed designs, low-noise analog circuits, mixed-signal ICs.  
-**👉 [Signal Integrity in VLSI](https://www.mentor.com/products/ic-packaging/signal-integrity-in-vlsi)**
+
+**👉 [Signal Integrity in VLSI](https://teamvlsi.com/2020/06/signal-integrity-and-crosstalk-in-vlsi.html)**
 
 ---
 
@@ -99,40 +94,10 @@
 - **Width Rules**: Ensuring that metal traces and vias are wide enough to carry the required current without failure.
 - **Layer Constraints**: Ensuring that the layers used for routing and placement meet the requirements of the manufacturing process.
 
-**📌 Used In**: Ensuring manufacturability, preventing design errors.  
-**👉 [DRC in VLSI](https://www.cadence.com/en_US/home/tools/ic-package-design-and-analysis/design-rule-checking.html)**
 
 ---
 
-## 🔧 Physical Design Tools
 
-### 1️⃣ **Cadence Innovus**
-
-> **Cadence Innovus** is a leading physical design tool that enables comprehensive solutions for placement, routing, optimization, and verification.
-
-- **Features**:
-  - Full-chip optimization for timing, area, and power.
-  - Advanced placement and routing algorithms.
-  - Integrated with other tools like **Cadence Genus** for RTL synthesis and **Virtuoso** for custom design.
-
-**📌 Used In**: Full-chip physical design, optimization.  
-**👉 [Cadence Innovus](https://www.cadence.com/content/cadence-www/global/en_US/home/tools/ic-package-design-and-analysis/innovus-advanced-physical-design.html)**
-
----
-
-### 2️⃣ **Synopsys IC Compiler**
-
-> **Synopsys IC Compiler** is another widely used tool for physical design, providing advanced capabilities for placement, routing, and design rule checking.
-
-- **Features**:
-  - Automated place-and-route flow.
-  - Power, timing, and area optimizations.
-  - Support for 7nm and 5nm process nodes.
-
-**📌 Used In**: Automated physical design, high-performance chips.  
-**👉 [Synopsys IC Compiler](https://www.synopsys.com/designware-ip/physical-design-tools/ic-compiler.html)**
-
----
 
 ## 🔚 Conclusion
 
@@ -143,4 +108,4 @@ By focusing on aspects like **clock tree synthesis**, **signal integrity**, and 
 ---
 
 ## 🔹 NEXT  
-**👉 [Explore Verification and Timing](../Verification_and_Timing)**
+**👉 [Explore 3D ICs](../3D_ICs)**
