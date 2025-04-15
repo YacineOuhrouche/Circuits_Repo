@@ -27,6 +27,8 @@ This section provides a detailed classification of signals based on various dime
 
 > 🧠 Continuous-time signals are used in analog systems, while discrete-time signals are often the result of sampling.
 
+**👉 [Explore This](https://www.fiberoptics4sale.com/blogs/wave-optics/continuous-time-and-discrete-time-signals?srsltid=AfmBOooiMjSG6G4KLH-XeeiEhabwYctCusd4ELz0qvlbj9WracebbOow)**
+
 ---
 
 ### 2️⃣ Analog vs Digital Signals
@@ -37,6 +39,8 @@ This section provides a detailed classification of signals based on various dime
 | Digital      | Discrete amplitude values (usually binary)        | 0s and 1s, pulse trains      |
 
 > 🎛️ Digital signals are easier to store, process, and transmit in modern systems.
+
+**👉 [Explore it](https://www.monolithicpower.com/en/learning/resources/analog-vs-digital-signal#:~:text=Analog%20signals%20use%20less%20bandwidth,in%20terms%20of%20electrical%20tolerance.)**
 
 ---
 
@@ -49,6 +53,9 @@ This section provides a detailed classification of signals based on various dime
 
 > 🔁 Sinusoids are classic periodic signals, while decaying exponentials are often aperiodic.
 
+**👉 [Explore it](https://www.rfwireless-world.com/terminology/data-communication/periodic-vs-aperiodic-signals)**
+
+
 ---
 
 ### 4️⃣ Deterministic vs Random Signals
@@ -59,6 +66,9 @@ This section provides a detailed classification of signals based on various dime
 | Random        | Cannot be predicted precisely                 | Noise, voice signals            |
 
 > 🎲 Random signals require probabilistic tools like power spectral density (PSD) for analysis.
+
+**👉 [Explore it](https://electronicsprojects.in/signals_and_systems/deterministic-signal-and-random-signal-difference-diagram-and-information/)**
+
 
 ---
 
@@ -81,6 +91,8 @@ This section provides a detailed classification of signals based on various dime
 | Power Signal | Infinite energy but finite average power            | `P = lim(T→∞) (1/2T) ∫ |x(t)|² dt < ∞`        |
 
 > ⚙️ Energy signals include decaying pulses, while power signals include sinusoids and noise.
+
+**👉 [Explore it](https://www.gradplus.pro/what-is-the-difference-between-energy-and-power-signals/#:~:text=A%20periodic%20signal%20is%20a,not%20follow%20the%20particular%20pattern.)**
 
 ---
 
