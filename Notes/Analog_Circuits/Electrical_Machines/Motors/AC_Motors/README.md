@@ -129,4 +129,4 @@ AC Motors are the **workhorses** of modern electromechanical systems. From simpl
 ---
 
 ## 🔹 Next
-👉 [Universal Motors](../Universal_Motor)
+👉 [Universal Motors](../Universal_Motors)
