@@ -93,6 +93,32 @@
 - **Spacing Rules**: Ensuring that components and interconnects are spaced far enough apart to prevent shorts and manufacturing defects.
 - **Width Rules**: Ensuring that metal traces and vias are wide enough to carry the required current without failure.
 - **Layer Constraints**: Ensuring that the layers used for routing and placement meet the requirements of the manufacturing process.
+---
+### 4️⃣ **Power Planning and Power Grid Design**
+
+> Efficient power distribution is crucial for ensuring reliable performance and long-term durability of the chip.
+
+- **Power Grid Synthesis**: Constructing a robust network of power (VDD) and ground (VSS) lines across all chip layers.
+- **IR Drop Analysis**: Minimizing voltage drop across the power grid to avoid timing violations and functional errors.
+- **Electromigration (EM) Analysis**: Ensuring that current densities in metal traces do not cause degradation over time.
+- **Decoupling Capacitors**: Strategically placing capacitors to suppress voltage fluctuations and improve transient response.
+- **Power Planning Early Stage**: Incorporating power grid design early in floorplanning to avoid costly rework in later stages.
+
+
+---
+
+### 5️⃣ 🛰️ **Antenna Effect**
+
+> The **Antenna Effect** is a manufacturing issue in VLSI where long metal wires collect charge during fabrication, potentially damaging gate oxides in transistors.
+
+- **Plasma Charging**: During etching or deposition, isolated interconnects may accumulate static charge, leading to gate oxide breakdown.
+- **Antenna Ratio**: Ratio of the metal area to the gate area. If too large, it increases risk of damage.
+- **Fixing Techniques**:
+  - **Antenna Diodes**: Add diodes that safely discharge excess charge during fabrication.
+  - **Jumper Insertion**: Break large wires into smaller segments to reduce charge accumulation.
+  - **Layer Jumping**: Connect to higher metal layers earlier to reduce exposed metal length.
+- **DRC Check**: Foundries provide antenna rules that must be checked and fixed before tapeout.
+
 
 
 ---
