@@ -2,7 +2,6 @@
 
 ---
 
-## 📊 Everything You Need to Know About VLSI Design
 
 | **Aspect**                             | **Description**                                                                                                                                                                                                                                                                                        | **Link**                                                                 |
 |----------------|-----------------------------|-----------------------------|
