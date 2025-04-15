@@ -61,4 +61,4 @@ This section breaks down the **abstraction layers** in VLSI design — each play
 ---
 
 ## 🔹 NEXT  
-**👉 [VLSI Design FLow(../Design_Flow)**
+**👉 [VLSI Design FLow](../Design_Flow)**
