@@ -16,3 +16,6 @@ This collection explores the foundational principles and real-world applications
 | **🔄 Transform Techniques**      | Explains Fourier series & transform, Laplace, Z-transform, DFT & FFT for signal analysis.                             | [View Folder](./Transforms)                  |
 | **📏 Sampling**                  | Sampling theorem, aliasing, quantization, encoding, and signal reconstruction principles.                             | [View Folder](./Sampling)                    |
 | **🛠️ Signal Processing Techniques** | Real-world techniques including filtering, convolution, modulation, noise reduction, and spectral analysis.            | [View Folder](./Techniques)                  |
+| **🔊 Audio Processing**          | Techniques for processing audio signals, such as compression, equalization, noise reduction, and sound synthesis.      | [View Folder](./AudioProcessing)             |
+| **📸 Image Processing**          | Discusses image filtering, compression, feature extraction, and enhancement techniques.                               | [View Folder](./ImageProcessing)             |
+| **🛠️ Advanced Signal Processing** | Includes adaptive filters, wavelet transforms, and other advanced techniques for processing complex signals.          | [View Folder](./AdvancedTechniques)          |
