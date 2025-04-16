@@ -1,8 +1,12 @@
 # 🧰 Branch Prediction Techniques
 
+Branch prediction techniques help the processor decide in advance which path to take for a branch instruction, minimizing the performance penalties caused by control hazards.
+
+---
+
 ## 📋 Overview of Branch Prediction
 
-Branch prediction techniques help the processor decide in advance which path to take for a branch instruction, minimizing the performance penalties caused by control hazards.
+Branch prediction techniques are critical for ensuring high throughput in pipelined processors. By predicting the outcome of branch instructions, processors can continue fetching instructions without waiting for the decision to be fully made, reducing stalls and improving overall performance.
 
 ---
 
@@ -49,6 +53,13 @@ Branch prediction techniques help the processor decide in advance which path to 
 Many modern processors combine static and dynamic prediction techniques to achieve better accuracy:
 - **Hybrid Predictors**: Some processors use a combination of static and dynamic predictors to improve performance, such as using static prediction for simple branches and dynamic prediction for more complex ones.
 - **Two-Level Predictors**: These use both global and local history to predict branches more accurately, combining the advantages of different techniques.
+
+---
+
+## 📈 Accuracy and Performance
+
+- **Prediction Accuracy**: The effectiveness of branch prediction is often measured by its accuracy, which is the percentage of correct predictions made. Higher accuracy leads to fewer pipeline flushes and better performance.
+- **Impact on Performance**: A mispredicted branch can lead to a significant performance penalty, as the pipeline must be flushed, and instructions fetched from the incorrect path must be discarded. More accurate predictions minimize these penalties.
 
 ---
 
