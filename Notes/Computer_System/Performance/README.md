@@ -137,4 +137,4 @@ Performance optimization techniques like **pipelining**, **branch prediction**, 
 ---
 
 ## 🔹 NEXT  
-**👉 [Multiprocessing & Multithreading](../Multicore_Parallel)**
+**👉 [Hazard Detection](../Hazard)**
