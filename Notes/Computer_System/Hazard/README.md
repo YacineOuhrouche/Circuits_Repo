@@ -29,12 +29,14 @@ We’ll also discuss how to mitigate these hazards using techniques like **forwa
 ## 🚧 2️⃣ Structural Hazards
 
 - **Definition**: Structural hazards occur when there aren’t enough functional units or resources to execute an instruction in a given clock cycle.
+- **How it Works**: Structural hazards are often resolved by adding more functional units or creating more resource allocation mechanisms.
 
 ---
 
 ## 🚧 3️⃣ Control Hazards
 
 - **Definition**: Control hazards occur when the pipeline makes wrong decisions based on the prediction of branch instructions. This happens because the decision to branch (i.e., which instruction to execute next) is not known until the branch instruction is decoded.
+- **Mitigation**: Control hazards can be mitigated using **branch prediction** techniques like **static** and **dynamic** prediction and **branch target buffers (BTB)**.
 
 ---
 
@@ -56,17 +58,18 @@ We’ll also discuss how to mitigate these hazards using techniques like **forwa
 
 - **Forwarding**: Data is forwarded from the output of a pipeline stage to an earlier stage to prevent delays.
 - **Pipeline Stalls**: Bubbles are inserted into the pipeline to prevent data hazards from causing incorrect results.
-- **Branch Prediction**: Control hazards can be reduced using prediction techniques to guess the outcome of branch instructions.
+- **Branch Prediction**: Control hazards can be reduced using prediction techniques to guess the outcome of branch instructions. Techniques include **static** vs. **dynamic prediction**, **branch target buffers**, and **speculative execution**.
 - **Out-of-Order Execution**: Instructions are executed in an order that avoids hazards, when possible.
 
 ---
 
 ## 🔄 Conclusion
 
-Hazard detection and resolution are critical for ensuring that the performance of a pipelined processor is not hindered by data, structural, or control hazards. By using techniques like **forwarding**, **pipeline stalls**, and **branch prediction**, we can improve CPU performance and efficiency.
+Hazard detection and resolution are critical for ensuring that the performance of a pipelined processor is not hindered by data, structural, or control hazards. By using techniques like **forwarding**, **pipeline stalls**, **branch prediction**, and **out-of-order execution**, we can improve CPU performance and efficiency.
 
 ---
 
 ## 🔹 Next Steps
 
 **👉 [Explore Branch Prediction](../Branch_Prediction)**
+
