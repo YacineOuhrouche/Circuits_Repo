@@ -95,4 +95,4 @@ These techniques are used across a variety of domains, from audio engineering to
 ---
 
 ## 🔹 NEXT  
-**👉 [Explore Sampling](../Sampling)**
+**👉 [Explore Audio Processing](../AudioProcessing)**
