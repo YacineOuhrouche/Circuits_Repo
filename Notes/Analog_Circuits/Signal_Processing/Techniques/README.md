@@ -36,6 +36,7 @@ Convolution is a mathematical operation used to apply a filter or system to an i
 
 > 🧠 Convolution can be performed in both continuous and discrete time, and it is central to the design of filters.
 
+**👉 [Convolution](https://en.wikipedia.org/wiki/Convolution)**
 ---
 
 ## 📡 Modulation
