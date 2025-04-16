@@ -145,5 +145,5 @@ Understanding both the **mathematical foundations** and **hardware implementatio
 
 ## 🔹 Next Steps
 
-**👉 [Explore Advanced Techniques](../ComputerVision)**  
+**👉 [Explore Advanced Techniques](../AdvancedTechniques)**  
 
