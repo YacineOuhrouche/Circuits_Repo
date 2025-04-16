@@ -16,6 +16,12 @@
 - If the signal exceeds a set **threshold**, it reduces the gain by a certain **ratio** (e.g., 4:1).
 - **Attack** and **release** controls define how fast the compressor responds to changes.
 
+### ⚙️ Internal Components
+
+- **Envelope Follower**: Tracks the amplitude of the signal.
+- **Gain Control Element**: VCA (Voltage-Controlled Amplifier) or digital gain module adjusts the signal level.
+- **Detector Circuit**: Compares signal to threshold and triggers gain reduction.
+
 ### 🧭 Typical Uses
 
 - Broadcasting (to prevent clipping)
@@ -39,6 +45,13 @@
 
 - An audio signal is passed through **filters** that isolate frequency bands (bass, mid, treble).
 - Gain is adjusted per band to shape the sound profile.
+### ⚙️ Internal Components
+
+- **Band-Pass/Notch Filters**: Used to isolate frequency ranges.
+- **Gain Stage**: Amplifies or attenuates selected bands.
+- **Op-Amps** (Analog EQ) or DSPs (Digital EQ) implement filter curves.
+
+
 
 
 ### 🧭 Typical Uses
@@ -66,6 +79,12 @@
 - **Adaptive filtering**: Filters learn and cancel predictable noise (e.g., hum).
 - **Gating**: Cuts audio below a certain amplitude threshold.
 
+### ⚙️ Internal Components
+
+- **Noise Profiler**: Analyzes noise during silence periods.
+- **Subtraction Logic**: Removes estimated noise in frequency/time domain.
+- **Wiener/Kalman Filters**: For adaptive reduction in real-time systems.
+
 ### 🧭 Typical Uses
 
 - Speech enhancement in VoIP
@@ -90,6 +109,12 @@
 - **FM synthesis**: Modulates one signal with another to create complex tones.
 - **Sample-based**: Plays back recorded audio at different pitches.
 
+### ⚙️ Internal Components
+
+- **Oscillators (VCOs)**: Generate waveforms (sine, square, sawtooth).
+- **Envelopes (ADSR)**: Shape amplitude over time.
+- **Filters**: Modify tone and harmonics.
+- **LFOs**: Modulate parameters like pitch or volume for effects.
 
 ### 🧭 Typical Uses
 
