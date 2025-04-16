@@ -16,4 +16,4 @@ This collection demonstrates various **electrical machines**, including motors, 
 ---
 
 ## 🔹 NEXT  
-**👉 [RF And Communication Circuits](../RF_Communication)**
+**👉 [Signal Processing](../Signal_Processing)**
