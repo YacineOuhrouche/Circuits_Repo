@@ -86,4 +86,4 @@ Superscalar architectures are a crucial advancement in processor design, allowin
 
 ## 🔹 Next Steps
 
-**👉 [Explore Multicore](./Multicore_Parallel)**
+**👉 [Explore Multicore](../Multicore_Parallel)**
