@@ -62,4 +62,4 @@ Understanding CPU performance metrics is crucial for optimizing processor design
 
 ## 🔹 Next Steps
 
-**👉 [Explore Performance ](./Performance)**
+**👉 [Explore Performance ](../Performance)**
