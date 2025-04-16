@@ -1,12 +1,17 @@
 # 🔄 Superscalar Architectures
 
-Welcome to the **Superscalar Architectures** section! Superscalar architectures are designed to improve the throughput of processors by allowing them to execute multiple instructions in parallel. This is achieved through advanced techniques like **out-of-order execution**, **register renaming**, and **Tomasulo's algorithm**, which help handle hazards and increase instruction-level parallelism (ILP).
 
----
 
 ## 📋 Overview of Superscalar Architectures
 
 In superscalar processors, multiple instructions are executed during each clock cycle by multiple execution units. To maximize instruction throughput, several advanced techniques are used to overcome data hazards, control hazards, and resource contention.
+
+---
+
+## 🧩 Instruction-Level Parallelism (ILP)
+
+- **Definition**: Instruction-level parallelism (ILP) refers to the ability to execute multiple instructions concurrently in a pipeline.
+- **Relevance**: Superscalar processors aim to exploit ILP by executing independent instructions simultaneously across different execution units, significantly improving throughput.
 
 ---
 
@@ -45,12 +50,31 @@ In superscalar processors, multiple instructions are executed during each clock 
 
 ---
 
+## 🛠️ Pipeline Stages in Superscalar Processors
+
+- **Multiple Pipelines**: Superscalar processors often contain several pipelines dedicated to different types of instructions (integer, floating point, etc.). These pipelines execute in parallel, allowing for more efficient use of processor resources.
+
+---
+
 ## 🧩 Combining Techniques for Increased Performance
 
 Superscalar architectures can combine out-of-order execution, register renaming, and Tomasulo's algorithm to create a highly efficient pipeline:
 - **Out-of-Order Execution**: Allows execution units to be utilized more efficiently by executing independent instructions while others are waiting.
 - **Register Renaming**: Avoids false dependencies, enabling more parallelism.
 - **Tomasulo’s Algorithm**: Resolves data hazards dynamically and allows for speculative execution, enabling maximum throughput.
+
+---
+
+## 📈 Performance Considerations
+
+- **Instruction Throughput (IPC)**: The effectiveness of a superscalar processor is often measured by the number of instructions it can execute per cycle (IPC). Higher IPC indicates better performance.
+- **Limitations**: Although superscalar processors improve throughput, they are limited by factors like data hazards, control hazards, and the complexity of managing out-of-order execution.
+
+---
+
+## 🖥️ Real-World Examples
+
+Modern processors, such as Intel's Core i9 series and AMD's Ryzen processors, implement superscalar architectures. These processors employ out-of-order execution, register renaming, and other advanced techniques to achieve high instruction throughput and efficient parallelism.
 
 ---
 
@@ -63,4 +87,3 @@ Superscalar architectures are a crucial advancement in processor design, allowin
 ## 🔹 Next Steps
 
 **👉 [Explore Multicore](./Multicore_Parallel)**
-
