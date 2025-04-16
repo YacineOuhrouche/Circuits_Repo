@@ -6,13 +6,6 @@
 
 Signal processing techniques are essential tools for manipulating, analyzing, and enhancing signals in various applications, from communications to audio processing. These techniques allow us to extract useful information, reduce noise, and improve the overall quality of the signal.
 
-This section covers:
-- **Filtering**
-- **Convolution**
-- **Modulation**
-- **Noise Reduction**
-- **Spectral Analysis**
-
 ---
 
 ## 🎛️ Filtering
