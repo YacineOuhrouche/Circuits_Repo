@@ -6,12 +6,6 @@
 
 **Sampling** is the process of converting a continuous-time signal into a discrete-time signal by measuring its amplitude at regular intervals. It is a foundational concept in digital signal processing (DSP), enabling the conversion of analog signals into digital for processing, storage, and transmission.
 
-This section covers:
-- **Sampling Theorem (Nyquist-Shannon)**
-- **Aliasing and its prevention**
-- **Quantization and quantization error**
-- **Encoding**
-- **Signal Reconstruction**
 
 ---
 
