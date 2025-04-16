@@ -42,16 +42,18 @@ This collection demonstrates how to build **basic analog circuits** using compon
 | ⚙️ **Motors**       | Converts electrical energy into mechanical energy                      | [View Folder](./Electrical_Machines/Motors/)         |
 | 🔋 **Generators**   | Converts mechanical energy into electrical energy                      | [View Folder](./Electrical_Machines/Generators/)     |
 
-## 🎛️**Signal Processing**
+## 🎛️ Signal Processing Overview
 
-| 🧠 Concept Category              | 📜 Description                                                                                                        | 🔗 Link                                       |
+| 🧠 Concept               | 📜 Description                                                                                                        | 🔗 Link                                       |
 |----------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------------------|
-| **🎵 Types of Signals**          | Covers analog vs digital, periodic vs aperiodic, deterministic vs random signals and their characteristics.           | [View Folder](./Signal_Processing/Signals)                     |
-| **🔧 Types of Systems**          | Describes continuous vs discrete systems, FIR vs IIR filters, and system properties like causality and stability.     | [View Folder](./Signal_Processing/Systems)                     |
-| **🔄 Transform Techniques**      | Explains Fourier series & transform, Laplace, Z-transform, DFT & FFT for signal analysis.                             | [View Folder](./Signal_Processing/Transforms)                  |
-| **📏 Sampling**                  | Sampling theorem, aliasing, quantization, encoding, and signal reconstruction principles.                             | [View Folder](./Signal_Processing/Sampling)                    |
-| **🛠️ Signal Processing Techniques** | Real-world techniques including filtering, convolution, modulation, noise reduction, and spectral analysis.            | [View Folder](./Signal_Processing/Techniques)                  |
-
+| **🎵 Types of Signals**          | Covers analog vs digital, periodic vs aperiodic, deterministic vs random signals and their characteristics.           | [View Folder](./Signal_Processing/Signals)   |
+| **🔧 Types of Systems**          | Describes continuous vs discrete systems, FIR vs IIR filters, and system properties like causality and stability.     | [View Folder](.//Signal_Processing/Systems)           |
+| **🔄 Transform Techniques**      | Explains Fourier series & transform, Laplace, Z-transform, DFT & FFT for signal analysis.                             | [View Folder](.//Signal_Processing/Transforms)        |
+| **📏 Sampling**                  | Sampling theorem, aliasing, quantization, encoding, and signal reconstruction principles.                             | [View Folder](.//Signal_Processing/Sampling)          |
+| **🛠️ Signal Processing Techniques** | Real-world techniques including filtering, convolution, modulation, noise reduction, and spectral analysis.            | [View Folder](.//Signal_Processing/Techniques)    |
+| **🔊 Audio Processing**          | Techniques for processing audio signals, such as compression, equalization, noise reduction, and sound synthesis.      | [View Folder](.//Signal_Processing/AudioProcessing) |
+| **📸 Image Processing**          | Discusses image filtering, compression, feature extraction, and enhancement techniques.                               | [View Folder](.//Signal_Processing/ImageProcessing)|
+| **🛠️ Advanced Signal Processing** | Includes adaptive filters, wavelet transforms, and other advanced techniques for processing complex signals.          | [View Folder](./Signal_Processing/AdvancedTechniques) |
 
 ---
 ### 📡 **RF & Communication Circuits**
