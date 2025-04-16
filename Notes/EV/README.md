@@ -11,25 +11,12 @@ This collection demonstrates the essential circuits and concepts involved in the
 
 | ⚙️ Circuit                         | 📜 Description                                                                  | 🔗 Link                                              |
 |------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **⚡ DC-DC Converter**              | Converts DC voltage from one level to another, essential for motor control      | [View Folder](./Power_Electronics/DC_DC_Converter)   |
-| **⚡ AC-DC Converter**              | Converts AC from the grid to DC for battery charging                            | [View Folder](./Power_Electronics/AC_DC_Converter)   |
-| **⚡ Inverter Circuit**             | Converts DC from battery to AC for driving AC motors                           | [View Folder](./Power_Electronics/Inverter)          |
 | **⚡ Bidirectional Converter**      | Allows for charging and discharging of the battery (e.g., regenerative braking) | [View Folder](./Power_Electronics/Bidirectional_Converter) |
 | **⚡ Battery Management System (BMS)**| Manages charging, discharging, and health monitoring of the battery pack       | [View Folder](./Power_Electronics/BMS)              |
 | **⚡ Regenerative Braking Circuit** | Recovers energy during braking to recharge the battery                         | [View Folder](./Power_Electronics/Regenerative_Braking) |
 
 ---
 
-### 🔹 **Motor Control for EVs**  
-
-| ⚙️ Circuit                         | 📜 Description                                                                  | 🔗 Link                                              |
-|------------------------------------|---------------------------------------------------------------------------------|-----------------------------------------------------|
-| **⚙️ DC Motor Control**            | Controls the speed and direction of DC motors                                  | [View Folder](./Motor_Control/DC_Motor_Control)      |
-| **⚙️ AC Motor Control**            | Controls speed and torque of AC motors using inverters and controllers          | [View Folder](./Motor_Control/AC_Motor_Control)      |
-| **⚙️ BLDC Motor Control**          | Controls brushless DC motors with high efficiency and smooth operation         | [View Folder](./Motor_Control/BLDC_Motor_Control)    |
-| **⚙️ Stepper Motor Control**       | Controls precise step movement of stepper motors                               | [View Folder](./Motor_Control/Stepper_Motor_Control) |
-
----
 
 ### 🔹 **Battery and Charging Systems for EVs**  
 
@@ -83,13 +70,11 @@ This collection demonstrates the essential circuits and concepts involved in the
 | **🔋 Solid-State Batteries**        | Next-generation batteries offering higher energy densities and faster charging | [View Folder](./Emerging_Technologies/Solid_State_Batteries) |
 | **🔋 Battery Thermal Management Systems** | Techniques and circuits for maintaining optimal temperatures in EV batteries | [View Folder](./Emerging_Technologies/Battery_Thermal_Management) |
 | **🔋 Wireless Battery Management Systems (BMS)** | Using wireless communication for advanced battery management in EV systems | [View Folder](./Emerging_Technologies/Wireless_BMS) |
-| **🌍 Carbon Footprint of EV Manufacturing** | Environmental impact of manufacturing electric vehicles, including emissions | [View Folder](./Emerging_Technologies/EV_Manufacturing_Footprint) |
 | **🔋 EV Energy Storage for Renewable Integration** | Using EV batteries as storage for renewable energy sources like solar and wind | [View Folder](./Emerging_Technologies/EV_Energy_Storage) |
 | **🚗 Advanced Driver Assistance Systems (ADAS)** | Integrating systems such as lane-keeping and collision avoidance in EVs | [View Folder](./Emerging_Technologies/ADAS) |
 | **🔋 EV Battery Pack Layout Design** | Designing the battery pack structure for optimal space and heat dissipation | [View Folder](./Emerging_Technologies/Battery_Pack_Layout) |
 | **⚡ EV Supply Equipment (EVSE) Standards and Protocols** | Charging standards like CHAdeMO, CCS, and Tesla's Supercharger system | [View Folder](./Emerging_Technologies/EVSE_Standards) |
-| **🛠️ EV Simulation and Testing Tools** | Tools used for simulating and testing EV systems before production | [View Folder](./Emerging_Technologies/EV_Simulation_Tools) |
-| **🖥️ Human-Machine Interface (HMI) for EVs** | Interface systems for driver interaction, settings, and navigation | [View Folder](./Emerging_Technologies/HMI) |
+|
 
 ---
 
