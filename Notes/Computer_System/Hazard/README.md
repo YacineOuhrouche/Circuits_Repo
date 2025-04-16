@@ -69,4 +69,4 @@ Hazard detection and resolution are critical for ensuring that the performance o
 
 ## 🔹 Next Steps
 
-**👉 [Explore Branch Prediction](./Branch_Predictcion)**
+**👉 [Explore Branch Prediction](../Branch_Predictcion)**
