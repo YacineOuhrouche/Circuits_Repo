@@ -6,17 +6,6 @@
 
 In signal processing and control, **systems** transform input signals into outputs based on defined mathematical rules or physical processes. Understanding system types is fundamental to analyzing behavior, designing filters, and ensuring stability in real-world applications.
 
-This section covers system classifications such as:
-1. **Continuous-Time vs Discrete-Time**
-2. **FIR vs IIR Filters**
-3. **System Properties** (Causality, Linearity, Stability, etc.)
-4. **LTI Systems**
-5. **System Order**
-6. **Frequency Response**
-7. **Impulse/Step/Ramp Response**
-8. **System Classification Summary**
-
----
 
 ## 📊 System Classifications
 
@@ -28,6 +17,9 @@ This section covers system classifications such as:
 | Discrete-Time    | Operates on signals defined at intervals `n`    | Digital signal processors (DSP)|
 
 > ⏱️ Discrete-time systems are typically implemented using digital computers or microcontrollers.
+**👉 [Explore CT](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Signal_Processing_and_Modeling/Signals_and_Systems_(Baraniuk_et_al.)/03%3A_Time_Domain_Analysis_of_Continuous_Time_Systems/3.01%3A_Continuous_Time_Systems)**
+
+**👉 [Explore DT](https://eng.libretexts.org/Bookshelves/Electrical_Engineering/Signal_Processing_and_Modeling/Signals_and_Systems_(Baraniuk_et_al.)/04%3A_Time_Domain_Analysis_of_Discrete_Time_Systems/4.01%3A_Discrete_Time_Systems)**
 
 ---
 
@@ -113,22 +105,19 @@ Understanding how systems react to standard inputs provides insight into behavio
 > 🎯 Common in simulations and control design (e.g., PID tuning).
 
 ---
-
-
-## 📦 System Examples
-
-| System Type       | Real-World Example                    | Application Area              |
-|-------------------|----------------------------------------|-------------------------------|
-| FIR Filter        | Moving average filter                  | Audio denoising               |
-| IIR Filter        | Butterworth low-pass filter            | Biomedical signal processing  |
-| Linear System     | RC circuit                             | Analog electronics            |
-| Non-Linear System | Diode-based rectifier                  | Power electronics             |
-| Causal System     | Digital equalizer                      | Audio processing              |
-| Stable System     | Passive filter network                 | Communication systems         |
-| Low-Pass Filter   | RC low-pass                            | Signal smoothing              |
-| Ramp Response     | Integrating amplifier                  | Motion controllers            |
-
 ---
+
+### 7️⃣ Additional System Classifications
+
+In more advanced modeling, systems are also categorized by realizability and temporal behavior.
+
+| Classification              | Description                                                                 | Application Example                          |
+|-----------------------------|-----------------------------------------------------------------------------|-----------------------------------------------|
+| **Static vs Dynamic**       | - **Static**: Output depends only on current input.<br> - **Dynamic**: Depends on past (or future) inputs. | Static: y(t) = 3x(t)<br>Dynamic: RLC circuits |
+| **Realizable vs Non-Realizable** | - **Realizable**: Can be implemented physically.<br> - **Non-Realizable**: Requires future inputs or ideal responses. | FIR filters (realizable), Ideal LPFs (non-realizable) |
+
+> 🧠 These properties are especially important in **physical modeling**, **digital filter design**, and **causality enforcement**.
+
 
 
 ## 🔚 Conclusion
