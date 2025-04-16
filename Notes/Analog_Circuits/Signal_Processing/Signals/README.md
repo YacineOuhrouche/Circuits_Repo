@@ -6,14 +6,6 @@
 
 Signal processing begins with the **classification and understanding of signals**. Signals represent information and can be categorized based on their characteristics in time, amplitude, predictability, and structure.
 
-This section provides a detailed classification of signals based on various dimensions such as:
-- **Continuous vs Discrete**
-- **Analog vs Digital**
-- **Deterministic vs Random**
-- **Periodic vs Aperiodic**
-- **Even vs Odd**
-- **Energy vs Power**
-
 ---
 
 ## 📊 Signal Classifications
